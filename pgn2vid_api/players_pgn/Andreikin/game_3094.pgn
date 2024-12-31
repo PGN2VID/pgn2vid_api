@@ -1,0 +1,22 @@
+[Event "Chess.com RCC Wk12 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.04.30"]
+[Round "7"]
+[White "Andreikin,D"]
+[Black "Vidit,S"]
+[Result "0-1"]
+[WhiteElo "2729"]
+[BlackElo "2723"]
+[ECO "E10"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 a5 6.Bg2 O-O 7.Qc2 c5 8.dxc5 d4
+9.O-O Bxc5 10.Ne5 Bd6 11.Nd3 e5 12.c5 Bc7 13.Bg5 h6 14.Bxf6 Qxf6 15.Nd2 Nc6
+16.a3 a4 17.Rfc1 Bf5 18.Qc4 Qg6 19.Nb4 Ra5 20.Qd5 Rb8 21.Nc4 Ne7 22.Nxa5 Nxd5
+23.Nxd5 Bd8 24.c6 bxc6 25.Nxc6 Qd6 26.Nxb8 Qxb8 27.Nb4 Bf6 28.Rc5 Kh7 29.Rac1 Bg6
+30.h4 h5 31.Bf3 Qd8 32.Rd5 Qe8 33.Rc7 Qe6 34.Rc6 Qe8 35.Rc7 e4 36.Bxh5 d3
+37.Bxg6+ fxg6 38.e3 Bxb2 39.Nc6 Bf6 40.Rdd7 Qe6 41.Kg2 Qg4 42.Ne7 Bxe7 43.Rxe7 Qf3+
+44.Kh3 Qf6 45.Red7 g5 46.hxg5 Qxg5 47.Kg2 Qf6 48.Rd4 Qxd4 49.exd4 d2 50.Re7 d1=Q
+51.Rxe4 Qd3 52.Re3 Qxd4 53.Kg1 Kg6 54.Kg2 Kf6 55.Rf3+ Kg5 56.Re3 Qd1 57.Kh2 g6
+58.Kg2 Kf6 59.Rf3+ Ke5 60.Re3+ Kd4 61.Rf3 Kc4 62.Re3 Qd2 63.Rf3 Qd5 64.g4 Qe4
+65.Kg3 g5 66.Re3 Qf4+ 67.Kg2 Qxg4+ 68.Rg3 Qf4 69.Re3 Kd4 70.Rg3 g4 71.f3 Qd2+
+72.Kg1 Qe1+ 73.Kh2 Qf2+ 74.Rg2 Qh4+ 75.Kg1 gxf3 76.Rd2+ Ke3  0-1

@@ -1,0 +1,20 @@
+[Event "New York sim"]
+[Site "New York"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Alekhine, Alexander"]
+[Black "Pinkus, Albert Sidney"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 d6 7.c3 O-O 8.d4 Bg4
+9.Rd1 Qc8 10.h3 Bh5 11.Bc2 Re8 12.Be3 Bf8 13.Nbd2 d5 14.dxe5 Nxe5 15.exd5 Nxd5
+16.Kf1 Nxe3+ 17.fxe3 Bc5 18.g4 Bxg4 19.hxg4 Nxg4 20.Nc4 b5 21.Rd5 Rxe3 22.Bxh7+ Kf8
+23.Nce5 Rxe2 24.Kxe2 Nxe5 25.Nxe5 Bd6 26.Be4 Qe6 27.Rh1 Re8 28.Rh8+ Ke7 29.Nc6+ Kd7
+30.Rxe8 Qxe8 31.Kd3 g6 32.a4 f5 33.Bf3 Qe1 34.axb5 axb5 35.Nb8+ Ke6 36.Rxb5 Qf1+
+37.Be2 Qb1+ 38.Ke3 Qe4+ 39.Kf2 Qf4+ 40.Ke1 Qe3 41.Nc6 Bg3+ 42.Kd1 Bf4 43.Nd4+ Kf6
+44.Nb3 Qe4 45.Nd2 Qa4+ 46.Nb3 Qe4 47.Nd2 Qh1+ 48.Nf1 c6 49.Rb4 g5 50.Rd4 c5
+51.Rd8 Qe4 52.Bd3 Qa4+ 53.b3 Qxb3+ 54.Bc2 Qxc3 55.Rf8+ Ke6 56.Rxf5 Qxc2+
+57.Kxc2 Kxf5  0-1

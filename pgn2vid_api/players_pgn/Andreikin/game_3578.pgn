@@ -1,0 +1,20 @@
+[Event "Chess.com RCC Losers"]
+[Site "chess.com INT"]
+[Date "2022.08.19"]
+[Round "2.2"]
+[White "Xiong,Jeffery"]
+[Black "Andreikin,D"]
+[Result "1-0"]
+[WhiteElo "2690"]
+[BlackElo "2729"]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 c5 4.e3 Nc6 5.Nbd2 Bg4 6.c3 a6 7.Qb3 Na5 8.Qc2 cxd4
+9.exd4 Nc6 10.h3 Bh5 11.Bd3 e6 12.O-O Bd6 13.Bxd6 Qxd6 14.Rae1 Bg6 15.Bxg6 hxg6
+16.Ne5 Rc8 17.Qd3 O-O 18.Qg3 b5 19.a3 a5 20.b4 axb4 21.axb4 Qc7 22.Nd3 Qxg3
+23.fxg3 Ne7 24.Nc5 Nf5 25.g4 Nd6 26.Rf3 Ra8 27.g5 Ra2 28.Rf2 Nh7 29.Nf3 Rfa8
+30.h4 Rxf2 31.Kxf2 Ra3 32.Ne5 Nf8 33.Rc1 Nf5 34.g4 Nd6 35.Ke3 f6 36.Nc6 Ra2
+37.Rf1 Nc4+ 38.Kf4 Rc2 39.gxf6 gxf6 40.g5 Kg7 41.gxf6+ Kxf6 42.Rf3 Rg2 43.Ne5 Kg7
+44.Nxc4 dxc4 45.Ke5 Re2+ 46.Kd6 Re1 47.Ke7 Nh7 48.Nxe6+ Kh6 49.d5 g5 50.hxg5+ Nxg5
+51.Rf6+ Kh7 52.d6 Ne4 53.Rf7+ Kg6 54.d7 Rd1 55.Rf4 Nxc3 56.Rd4 Rxd4 57.Nxd4 Nd5+
+58.Kd6 Nxb4 59.d8=Q  1-0

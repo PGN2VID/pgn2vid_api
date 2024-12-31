@@ -1,0 +1,17 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.1"]
+[White "Duda,J"]
+[Black "Niemann,Hans Moke"]
+[Result "1-0"]
+[WhiteElo "2726"]
+[BlackElo "2667"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qa4 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Ra7 11.Rd1 Nbd7 12.Ba5 Qa8 13.Qxc7 Rc8 14.Qf4 Rc2 15.Re1 b4
+16.b3 Ne4 17.a3 g5 18.Qe3 g4 19.Nfd2 Nxd2 20.Bxb7 Rxb7 21.Nxd2 bxa3 22.Qe4 Qc8
+23.Qxg4+ Kf8 24.Qe4 Nf6 25.Qd3 Qc6 26.d5 exd5 27.Nc4 Rxc4 28.bxc4 dxc4 29.Qd4 Bc5
+30.Qd8+ Kg7 31.Bc3 Rb3 32.Rec1 a5 33.Qxa5 Kg6 34.Bxf6 Kxf6 35.Qd8+ Kg6 36.Qg8+ Kf6
+37.Qxh7 c3 38.Qh6+  1-0

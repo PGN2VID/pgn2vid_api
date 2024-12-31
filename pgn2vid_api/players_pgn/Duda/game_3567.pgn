@@ -1,0 +1,23 @@
+[Event "Chess.com Classic Div 1 L"]
+[Site "chess.com INT"]
+[Date "2024.05.12"]
+[Round "2.3"]
+[White "Duda,J"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteElo "2734"]
+[BlackElo "2770"]
+[ECO "C24"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 c6 4.Nf3 d5 5.Bb3 a5 6.a4 Bb4+ 7.c3 Bd6 8.exd5 cxd5
+9.Bg5 Be6 10.Na3 Nbd7 11.Nb5 Bb8 12.Bh4 h6 13.h3 Ra6 14.Qe2 O-O 15.d4 e4
+16.Nd2 Bf4 17.Nf1 Qb8 18.g3 Bd6 19.Bxf6 Nxf6 20.Ne3 Rd8 21.O-O-O Bf8 22.Kb1 Ne8
+23.h4 Nc7 24.g4 Nxb5 25.axb5 Rb6 26.g5 Qf4 27.gxh6 g6 28.h5 g5 29.Rdf1 Qf3
+30.Qxf3 exf3 31.Rfg1 Bxh6 32.Bc2 Rxb5 33.Rg3 Rc8 34.Ka2 a4 35.Nf5 Bxf5 36.Bxf5 Rc7
+37.Rxf3 Re7 38.Bd3 Ra5 39.Rf6 Re6 40.Rf5 Kg7 41.Rg1 Rf6 42.f4 Rxf5 43.Bxf5 Kf6
+44.fxg5+ Bxg5 45.Rf1 Kg7 46.Bc8 b6 47.Bb7 f6 48.Bc6 Kh6 49.Be8 Ra8 50.Re1 a3
+51.Re6 axb2+ 52.Kxb2 b5 53.Kb3 Ra1 54.Bg6 Rc1 55.Re2 Bf4 56.Rf2 Bg5 57.Kb4 Kg7
+58.Be8 Rb1+ 59.Kc5 Rc1 60.Kxd5 Rxc3 61.Bxb5 Kh6 62.Be8 Rc8 63.Re2 Rd8+ 64.Kc4 f5
+65.Re6+ Kh7 66.Bg6+ Kg7 67.Bxf5 Bf6 68.d5 Rc8+ 69.Kb5 Rb8+ 70.Kc6 Rc8+ 71.Kb7 Rc5
+72.Rd6 Be5 73.h6+ Kf7 74.h7 Rb5+ 75.Kc6 Rb8 76.Rg6 Rd8 77.d6 Bxd6 78.Rg8 Bf8
+79.h8=Q Rd6+ 80.Kb7 Rh6  1-0

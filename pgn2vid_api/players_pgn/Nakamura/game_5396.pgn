@@ -1,0 +1,21 @@
+[Event "Chess.com RCC Wk20 KO"]
+[Site "chess.com INT"]
+[Date "2022.07.10"]
+[Round "2.2"]
+[White "Nakamura,Hi"]
+[Black "Fedoseev,Vl3"]
+[Result "1-0"]
+[WhiteElo "2760"]
+[BlackElo "2686"]
+[ECO "A06"]
+
+1.Nf3 d5 2.b3 c5 3.e3 a6 4.Bb2 Nc6 5.d4 Nf6 6.dxc5 e6 7.c4 Bxc5 8.cxd5 exd5
+9.Be2 O-O 10.O-O Re8 11.Na3 Ne4 12.Nc2 Re6 13.Ncd4 Rg6 14.Ne1 Bd6 15.f4 Bc5
+16.Bf3 Qb6 17.Nec2 Bd7 18.Bxe4 dxe4 19.Nxc6 Bxc6 20.Bd4 Bb5 21.Rf2 Rd8 22.Qh5 Bxd4
+23.Nxd4 Rgd6 24.Rc1 Rd5 25.Qg4 h5 26.Qd1 Bd3 27.h3 Rxd4 28.exd4 Qxd4 29.Qe1 e3
+30.Rf3 e2+ 31.Kh2 a5 32.Qd2 Ba6 33.Qxd4 Rxd4 34.Rc8+ Kh7 35.Re8 Rd2 36.a4 h4
+37.Rfe3 Rd1 38.f5 Rf1 39.R3e4 Rxf5 40.Rxh4+ Kg6 41.Rhe4 Rf1 42.g4 Rb1 43.Re3 Kg5
+44.R8e5+ Kg6 45.Kg3 f6 46.Re7 Rg1+ 47.Kh2 Rf1 48.h4 Kh6 49.Kg3 Rg1+ 50.Kf3 Rf1+
+51.Kg2 Kg6 52.R3e6 Rf4 53.Kg3 Rf1 54.g5 Kf5 55.gxf6 gxf6 56.Re3 Rg1+ 57.Kf2 Rf1+
+58.Kg2 Rb1 59.h5 Kg5 60.Rg3+ Kh6 61.Rg6+ Kxh5 62.Rg3 Kh6 63.Re8 Kh7 64.Re4 e1=Q
+65.Rh4+  1-0

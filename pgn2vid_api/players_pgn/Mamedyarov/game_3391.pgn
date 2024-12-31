@@ -1,0 +1,15 @@
+[Event "Titled Arena Apr 3rd 2021"]
+[Site "lichess.org INT"]
+[Date "2021.04.03"]
+[Round "?"]
+[White "Dubov,Daniil"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteElo "2710"]
+[BlackElo "2770"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.c3 Nf6 5.e5 Nd5 6.cxd4 b6 7.Nc3 Nxc3 8.bxc3 Qc7
+9.Bd2 Bb7 10.Bd3 d6 11.O-O Nd7 12.exd6 Bxd6 13.Re1 O-O 14.h4 Rae8 15.c4 e5
+16.dxe5 Nxe5 17.Nxe5 Bxe5 18.Rc1 Bh2+ 19.Kh1 Bf4 20.Qc2 g6 21.Rxe8 Rxe8 22.Re1 Rxe1+
+23.Bxe1 Qe7  0-1

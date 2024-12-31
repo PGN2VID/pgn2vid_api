@@ -1,0 +1,14 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "24"]
+[White "Mason, James"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A84"]
+
+1.d4 d5 2.c4 c6 3.e3 e6 4.Nf3 Bd6 5.Nc3 f5 6.Bd2 Nd7 7.cxd5 exd5 8.Bd3 Nh6
+9.g3 Qe7 10.Qe2 Nf6 11.Ng5 Ne4 12.Qh5+ g6 13.Qxh6 Nxg5 14.Be2 f4 15.gxf4 Nf7
+16.Qg7 Qd8  0-1

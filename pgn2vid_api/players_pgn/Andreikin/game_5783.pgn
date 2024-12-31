@@ -1,0 +1,18 @@
+[Event "Chess.com Speed KO Lose"]
+[Site "chess.com INT"]
+[Date "2024.06.28"]
+[Round "3.2"]
+[White "Andreikin,D"]
+[Black "Kuzubov,Y"]
+[Result "0-1"]
+[WhiteElo "2729"]
+[BlackElo "2606"]
+[ECO "B06"]
+
+1.d4 g6 2.e4 Bg7 3.Nf3 d6 4.Bc4 e6 5.O-O a6 6.Bb3 Ne7 7.c3 Nd7 8.Re1 b5 9.Nbd2 Bb7
+10.Nf1 Nb6 11.Ng3 c5 12.Bf4 cxd4 13.cxd4 Rc8 14.Rc1 O-O 15.Rxc8 Nexc8 16.h4 Qc7
+17.h5 e5 18.Bc1 Nc4 19.hxg6 hxg6 20.Ng5 exd4 21.Qg4 Re8 22.Qh4 d5 23.Qh7+ Kf8
+24.Nf3 Ne5 25.Nxd4 Ng4 26.Nf3 dxe4 27.Nh4 Qb6 28.Be3 Nxe3 29.Rxe3 Qf6 30.Rc3 Nd6
+31.Rc7 Re7 32.Rc3 Qg5 33.Re3 Nc4 34.Bxc4 bxc4 35.Nhf5 gxf5 36.Nxf5 Re5 37.Rg3 Qxf5
+38.Qxg7+ Ke7 39.Qh8 Qf4 40.Qb8 Qc1+ 41.Kh2 Rh5+ 42.Rh3 Rxh3+ 43.gxh3 Bd5
+44.Qc7+ Ke6 45.Qc8+ Kf6 46.Qd8+ Ke5 47.Qe7+ Be6 48.Qc7+ Kf5  0-1

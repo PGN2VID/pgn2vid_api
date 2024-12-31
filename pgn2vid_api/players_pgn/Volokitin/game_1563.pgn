@@ -1,0 +1,20 @@
+[Event "Chess.com Rapid Wk1 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.12"]
+[Round "5"]
+[White "Volokitin,And"]
+[Black "Tabatabaei,M"]
+[Result "0-1"]
+[WhiteElo "2681"]
+[BlackElo "2623"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a6 7.a4 Ba7 8.Re1 O-O
+9.h3 h6 10.Nbd2 Re8 11.b4 Be6 12.Bxe6 Rxe6 13.Nf1 Qd7 14.Be3 Bxe3 15.Nxe3 d5
+16.exd5 Nxd5 17.b5 Nce7 18.Nxd5 Qxd5 19.c4 Qd6 20.d4 exd4 21.Rxe6 Qxe6 22.Qxd4 Qd6
+23.Qxd6 cxd6 24.Rd1 axb5 25.axb5 Nc8 26.g4 g6 27.Kg2 Kg7 28.Rd5 Ra2 29.Nd2 Kf6
+30.Rd3 Rc2 31.Kg3 Ke7 32.Re3+ Kd8 33.Rd3 Kc7 34.h4 Nb6 35.Rd4 Kd7 36.h5 g5
+37.f3 Ke6 38.Re4+ Kd7 39.Rd4 Rc1 40.Re4 Na4 41.Re3 Nc5 42.Ne4 Ne6 43.Nf6+ Kc7
+44.Ng8 Rc2 45.Rxe6 fxe6 46.Nxh6 Kd7 47.Nf7 Ke7 48.Nxg5 Rxc4 49.h6 Rc8 50.f4 Rh8
+51.h7 d5 52.Kf3 Kf6 53.Ke3 e5 54.Kf3 exf4 55.Kxf4 b6 56.Nf3 Rxh7 57.g5+ Kg6
+58.Ke5 Rc7 59.Nd4 Rc5 60.Kd6 Rc1 61.Kxd5 Rd1  0-1

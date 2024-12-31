@@ -1,0 +1,15 @@
+[Event "Topalov Vienna Clock Simul"]
+[Site "Vienna AUT"]
+[Date "2012.04.27"]
+[Round "1"]
+[White "Topalov,V"]
+[Black "Menezes,Chr"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2227"]
+[ECO "E01"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Be7 6.Nf3 O-O 7.O-O c6 8.Nc3 Nbd7
+9.Bf4 dxc4 10.e4 b5 11.d5 Qb6 12.dxc6 Nc5 13.e5 Rd8 14.Qe2 Nd5 15.Nxd5 Rxd5
+16.Bg5 Bf8 17.Rad1 Rxd1 18.Rxd1 Ba6 19.Be3 Rc8 20.Ng5 h6 21.Nxf7 Kxf7 22.Qh5+ Kg8
+23.Qg6 Rd8 24.Rd6 Bxd6 25.exd6 Rxd6 26.Be4 Rxc6 27.Qe8+  1-0

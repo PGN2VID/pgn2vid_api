@@ -1,0 +1,16 @@
+[Event "FIDE Steinitz Mem Open"]
+[Site "chess24.com INT"]
+[Date "2020.05.15"]
+[Round "6.2"]
+[White "Korobov,A"]
+[Black "Le Quang Liem"]
+[Result "0-1"]
+[WhiteElo "2688"]
+[BlackElo "2709"]
+[ECO "E17"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 O-O 7.Qc2 c5 8.d5 exd5
+9.Ng5 h6 10.h4 Na6 11.cxd5 Nb4 12.Qd1 d6 13.a3 Na6 14.Qc2 Nc7 15.Bf4 b5 16.Rd1 b4
+17.Nce4 Nce8 18.Nxf6+ Nxf6 19.Ne4 Rc8 20.Nxf6+ Bxf6 21.g4 Bxh4 22.Bxd6 Bxf2+
+23.Kxf2 Qxd6 24.Bf3 Qf6 25.Rh5 Rfd8 26.Rg1 Rxd5 27.g5 Rxg5 28.Rgxg5 hxg5
+29.Qh7+ Kf8 30.Rh1 Rd8 31.Qh8+ Ke7 32.Qh2 Qd4+ 33.Kf1 Bxf3  0-1

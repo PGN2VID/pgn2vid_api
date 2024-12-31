@@ -1,0 +1,21 @@
+[Event "chess.com SpeedChess Q2Sw"]
+[Site "chess.com INT"]
+[Date "2022.11.12"]
+[Round "1"]
+[White "Eljanov,P"]
+[Black "Salman,P"]
+[Result "1-0"]
+[WhiteElo "2706"]
+[BlackElo "2287"]
+[ECO "B41"]
+
+1.e4 c5 2.Nf3 e6 3.c4 a6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 Qc7 7.a3 b6 8.Be2 Bb7
+9.f3 Be7 10.Be3 d6 11.O-O O-O 12.Rc1 Nbd7 13.Qd2 Rac8 14.Rfd1 Qb8 15.b4 Rfe8
+16.Bf1 Bd8 17.Nb3 Bc7 18.Bf4 Ne5 19.Bxe5 dxe5 20.c5 Ba8 21.Bxa6 Rcd8 22.Qf2 Nd7
+23.Bb5 Re7 24.c6 Nf8 25.Ba4 h5 26.Rxd8 Qxd8 27.Nb5 Ng6 28.g3 Qd3 29.Rc3 Qd1+
+30.Qf1 Qd8 31.Rd3 Qc8 32.Nxc7 Rxc7 33.b5 Kh7 34.Nd2 h4 35.Nc4 Qb8 36.Bc2 Ra7
+37.a4 hxg3 38.hxg3 Qf8 39.Qf2 Qb4 40.Nxb6 Ne7 41.Nd7 Rxa4 42.Bxa4 Qxa4 43.Qh2+ Kg8
+44.Qb2 f6 45.Nb6 Qa7 46.Qf2 Qa1+ 47.Kg2 Bxc6 48.bxc6 Nxc6 49.Nd7 Nd4 50.Nc5 Qb1
+51.Rxd4 exd4 52.Qxd4 Qc2+ 53.Qf2 Qc4 54.e5 fxe5 55.Ne4 Qd5 56.Qd2 Qb5 57.g4 Qa6
+58.Kg3 Qc8 59.Ng5 Qc7 60.Ne4 Qc8 61.Qc3 Qb8 62.Kg2 Kh7 63.Ng5+ Kg8 64.Qc4 Qb2+
+65.Kg3 Qd2 66.Qxe6+ Kh8 67.Qe8+  1-0

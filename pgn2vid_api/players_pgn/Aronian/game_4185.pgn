@@ -1,0 +1,16 @@
+[Event "chess.com SpeedChess 2022"]
+[Site "chess.com INT"]
+[Date "2022.11.30"]
+[Round "1.26"]
+[White "Aronian,L"]
+[Black "Andreikin,D"]
+[Result "0-1"]
+[WhiteElo "2735"]
+[BlackElo "2729"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 exd5 5.d4 Nc6 6.Bb5 Bd6 7.dxc5 Bxc5 8.Nbd2 Ne7
+9.Nb3 Bb6 10.O-O O-O 11.Re1 Qd6 12.Be3 Bxe3 13.Rxe3 Bg4 14.h3 Bh5 15.Bd3 h6
+16.Qd2 a5 17.Nbd4 Bxf3 18.Nxf3 Ng6 19.Bxg6 fxg6 20.Rae1 Rf6 21.Nh2 d4 22.Rd3 dxc3
+23.bxc3 Qc5 24.Ng4 Rf7 25.Rd5 Qf8 26.Re6 g5 27.Rg6 Kh7 28.Rdd6 Rd8 29.Qd3 Kh8
+30.Nxh6 Rxf2 31.Rxd8 Nxd8 32.Ng4 Rxa2 33.Rxg5 Ra1+ 34.Kh2 Qf4+ 35.g3 Ra2+  0-1

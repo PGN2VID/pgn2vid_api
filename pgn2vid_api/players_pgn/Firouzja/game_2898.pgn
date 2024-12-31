@@ -1,0 +1,17 @@
+[Event "AI Cup Div 1 L"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "1.1"]
+[White "Firouzja,Alireza"]
+[Black "Lazavik,Denis"]
+[Result "1-0"]
+[WhiteElo "2777"]
+[BlackElo "2560"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.h3 d6 6.c3 a6 7.a4 h6 8.O-O O-O 9.Re1 Re8
+10.a5 Ba7 11.Bb3 Be6 12.Ba4 Bd7 13.Nbd2 Ne7 14.Bc2 Ng6 15.d4 Bc6 16.Ra3 Rc8
+17.b4 Nh7 18.Bb2 Ng5 19.c4 Bd7 20.dxe5 dxe5 21.c5 Bb5 22.Nxg5 Qxg5 23.Rg3 Qe7
+24.Qh5 Rcd8 25.Bb3 Kf8 26.Nf3 Nf4 27.Qxe5 Qxe5 28.Bxe5 Nh5 29.Rg4 Rd3 30.Re3 Rxe3
+31.fxe3 g5 32.Bd5 Be2 33.Bxc7 Nf6 34.Bd6+ Kg8 35.Bxb7 Nxg4 36.hxg4 Bb5 37.Nd4 Bd7
+38.Bxa6 Rxe4 39.b5 Rxe3 40.b6  1-0

@@ -1,0 +1,20 @@
+[Event "FIDE GP"]
+[Site "Moscow RUS"]
+[Date "2002.06.04"]
+[Round "4.4"]
+[White "Akopian,V"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2678"]
+[BlackElo "2743"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.c3 Nh6 7.d4 cxd4 8.cxd4 f6
+9.Nc3 Nf7 10.Re1 d6 11.b3 O-O 12.Bb2 Bd7 13.Qc2 Qa5 14.h3 Rfe8 15.Ne2 Rac8
+16.Bc3 Qa6 17.Qb2 e5 18.dxe5 fxe5 19.Rad1 Be6 20.Nf4 Bd7 21.Nd3 g5 22.Nc5 dxc5
+23.Rxd7 h6 24.Red1 Re6 25.Nd2 Nd6 26.Nc4 Nxc4 27.bxc4 Rf8 28.Qb7 Qxb7 29.Rxb7 a6
+30.Rdd7 Bf6 31.Ra7 h5 32.Rxa6 Rf7 33.Raa7 Rxd7 34.Rxd7 Re8 35.Rd6 Kf7 36.Rxc6 Ra8
+37.Rxc5 Rxa2 38.Bxe5 Be7 39.Rc6 g4 40.hxg4 hxg4 41.Bg3 Re2 42.e5 Bg5 43.Kf1 Rc2
+44.Rc8 Ke6 45.Kg1 Kf5 46.c5 Be7 47.c6 Rc4 48.Rc7 Ke6 49.Kh2 Rc2 50.Rc8 Rc4
+51.Rg8 Kf5 52.Rg7 Ke6 53.c7 Rxc7 54.Rxg4 Rc8 55.Rg6+ Kf5 56.Rg7 Bg5 57.Rf7+ Ke6
+58.Rh7 Rc4 59.Kh3 Ra4 60.Rh5 Bd2 61.f4 Kd5  1-0

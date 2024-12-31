@@ -1,0 +1,21 @@
+[Event "Madrid sim"]
+[Site "Madrid"]
+[Date "1941.??.??"]
+[Round "?"]
+[White "Alekhine, Alexander"]
+[Black "Vasquez"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C05"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 Be7 8.Nf3 a6
+9.O-O O-O 10.a3 Re8 11.b4 cxd4 12.cxd4 Nf8 13.Ng3 Bd7 14.Be3 f5 15.exf6 Bxf6
+16.Re1 Rc8 17.Rc1 Na7 18.Rc5 Bb5 19.a4 Bxd3 20.Qxd3 Nc6 21.b5 axb5 22.Qxb5 Nd7
+23.Rc2 Qa5 24.Rec1 Qxb5 25.axb5 Na7 26.Rxc8 Rxc8 27.Rb1 Nb6 28.Nh5 Nc4 29.b6 Nc6
+30.Nf4 Kf7 31.Nd3 Be7 32.Bf4 h6 33.h4 Bd8 34.Kf1 Bf6 35.Nc5 Nxd4 36.Nxb7 Nxf3
+37.gxf3 e5 38.Bc1 Rb8 39.Nc5 Rxb6 40.Rxb6 Nxb6 41.h5 Be7 42.Nd3 Bd6 43.Kg2 Ke6
+44.Kh3 Kf5 45.Ne1 Nd7 46.Ng2 Nf6 47.Kh4 d4 48.Ne1 Be7 49.Nd3 e4 50.fxe4+ Kxe4
+51.Ne1 Bb4 52.f3+ Kd5 53.Nd3 Kc4 54.Nxb4 Kxb4 55.Kg3 Nxh5+ 56.Kg4 Nf6+ 57.Kf5 Kc3
+58.Kg6 h5 59.Bg5 d3 60.Kxg7 d2 61.Bxd2+ Kxd2 62.Kxf6 h4 63.f4 h3 64.f5 h2
+65.Kg7 h1=Q  0-1

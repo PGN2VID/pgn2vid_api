@@ -1,0 +1,21 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "6"]
+[White "Kovalenko,I"]
+[Black "Malakhov,V"]
+[Result "0-1"]
+[WhiteElo "2674"]
+[BlackElo "2646"]
+[ECO "A13"]
+
+1.c4 e6 2.Nf3 d5 3.g3 a6 4.b3 Nf6 5.Bb2 Be7 6.Bg2 O-O 7.O-O b6 8.cxd5 exd5
+9.d4 Bb7 10.Nc3 Nbd7 11.Rc1 Bd6 12.e3 Re8 13.Rc2 Ne4 14.Qe2 Nxc3 15.Rxc3 a5
+16.Rfc1 a4 17.Qc2 axb3 18.Qxb3 c5 19.Ba3 cxd4 20.Bxd6 dxc3 21.Rxc3 Qf6 22.Bb4 Nc5
+23.Bxc5 bxc5 24.Rxc5 Qa1+ 25.Bf1 Ba6 26.Nd2 Bxf1 27.Nxf1 d4 28.Rc7 Qxa2 29.Qxa2 Rxa2
+30.exd4 g6 31.Ne3 Rb8 32.Rc1 Rbb2 33.Rf1 Rd2 34.d5 f5 35.h4 Kg7 36.Kg2 Kf6
+37.Kf3 Ra3 38.Rb1 Rxd5 39.Rb6+ Kg7 40.Rb7+ Kh6 41.Rb2 Rd7 42.Kg2 Rda7 43.Rb6 Kg7
+44.Nd5 R3a6 45.Rb1 Ra2 46.Nf4 Rd2 47.Rb6 Raa2 48.Nh3 h6 49.Rb7+ Kf6 50.Rb6+ Kf7
+51.Rb7+ Kf8 52.Rb6 Kf7 53.Rb7+ Ke8 54.Rb6 g5 55.hxg5 hxg5 56.Nxg5 Rxf2+ 57.Kg1 Rg2+
+58.Kf1 Rxg3 59.Ne6 Rf3+ 60.Kg1 Re3 61.Kf1 Rc3 62.Rb1 Ke7 63.Nd4 Kf6 64.Kg1 Rd3
+65.Nc6 Rdd2 66.Nb4 Rg2+ 67.Kh1 Rh2+ 68.Kg1 Rag2+ 69.Kf1 Rh1+ 70.Kxg2 Rxb1  0-1

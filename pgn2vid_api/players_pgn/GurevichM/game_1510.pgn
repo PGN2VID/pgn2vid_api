@@ -1,0 +1,23 @@
+[Event "3rd IECC"]
+[Site "Batumi GEO"]
+[Date "2002.06.21"]
+[Round "9"]
+[White "Gurevich,M"]
+[Black "Marin,M"]
+[Result "1-0"]
+[WhiteElo "2641"]
+[BlackElo "2556"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bf4 Nh5
+9.Bg3 Bb7 10.e3 h6 11.Be2 Nc6 12.Rd1 Be7 13.O-O Nxg3 14.hxg3 d6 15.Rd2 Qb8
+16.Rfd1 Rd8 17.b4 a6 18.Bd3 Qa7 19.Qb3 Rac8 20.Bb1 Qb8 21.Qc2 g6 22.Qb3 Qc7
+23.Be4 Nb8 24.Qb1 Bxe4 25.Nxe4 b5 26.cxb5 axb5 27.Nd4 Qb6 28.Nxe6 fxe6 29.Nxd6 Kg7
+30.Nxc8 Rxc8 31.Rc2 Rxc2 32.Qxc2 Qb7 33.Qd3 Kf7 34.g4 Qc6 35.Rd2 Qc1+ 36.Rd1 Qc6
+37.e4 Na6 38.Qe3 g5 39.Rc1 Qb7 40.Qd4 Nb8 41.Qh8 Bf8 42.Rc3 Nd7 43.Rf3+ Ke8
+44.Qh7 Qc6 45.g3 Qd6 46.Qf7+ Kd8 47.Rc3 Be7 48.Qf3 Qe5 49.Qd3 Bd6 50.Rc6 Ke7
+51.Ra6 Bc7 52.Ra7 Nb6 53.Kg2 Nc8 54.Rb7 Nb6 55.Kg1 Qa1+ 56.Kh2 Qe5 57.Kg2 Ke8
+58.Ra7 Ke7 59.Ra6 Nc4 60.Rc6 Bd6 61.Rc8 Nb6 62.Rc1 Nd7 63.Rc6 Bc7 64.Qe3 Bd6
+65.Ra6 Bc7 66.Ra7 Kd8 67.Qd3 Kc8 68.a4 Kb8 69.Ra6 bxa4 70.Qxd7 Qxe4+ 71.Kh2 Bxg3+
+72.Kh3 Qh1+ 73.Kxg3 Qg1+ 74.Kf3 Qh1+ 75.Ke2 Qe4+ 76.Kd2 Qxb4+ 77.Kd3 Qb1+
+78.Kc4 Qf1+ 79.Qd3 Qc1+ 80.Kb5  1-0

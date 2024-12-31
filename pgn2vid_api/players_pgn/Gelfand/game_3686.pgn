@@ -1,0 +1,20 @@
+[Event "Levitov Chess 50k 2022"]
+[Site "lichess.org INT"]
+[Date "2022.02.21"]
+[Round "1.2"]
+[White "Svidler,P"]
+[Black "Gelfand,B"]
+[Result "0-1"]
+[WhiteElo "2683"]
+[BlackElo "2669"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.d4 cxd4 6.Nxd4 Ng6 7.Be3 Be7 8.c3 O-O
+9.Nd2 a6 10.Be2 Nxd4 11.cxd4 b5 12.a4 bxa4 13.Qxa4 Bb7 14.Rfc1 f5 15.d5 exd5
+16.Qb3 Qb8 17.exd5 Kh8 18.Nf3 Bd6 19.Bc4 a5 20.Bd4 Bb4 21.Bc3 Qd6 22.Bxb4 axb4
+23.g3 h6 24.Rxa8 Bxa8 25.Qd3 Ne5 26.Nxe5 Qxe5 27.b3 f4 28.Qd2 Qd6 29.Re1 Bb7
+30.Re4 fxg3 31.hxg3 Ba6 32.Bxa6 Qxa6 33.Qxb4 Rc8 34.Qd2 Qa1+ 35.Kg2 Qb1 36.Qe3 Rc1
+37.Qf3 Rd1 38.Re8+ Kh7 39.Re7 Rh1 40.Qe4+ Qxe4+ 41.Rxe4 Rd1 42.b4 Rxd5 43.Re3 Rb5
+44.Rb3 Kg6 45.Kf3 Kf5 46.Ke3 Ke5 47.Kd3 d5 48.f3 h5 49.Ke3 g5 50.Rb1 h4 51.gxh4 gxh4
+52.f4+ Kf5 53.Kf3 h3 54.Kg3 d4 55.Rb3 Ke4 56.Kxh3 Kxf4 57.Kg2 Ke4 58.Kf2 d3
+59.Ra3 Rf5+ 60.Ke1 Ke3  0-1

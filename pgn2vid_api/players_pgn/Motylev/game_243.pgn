@@ -1,0 +1,15 @@
+[Event "Chigorin mem"]
+[Site "St Petersburg"]
+[Date "1999.11.04"]
+[Round "3"]
+[White "Cherniaev, Alexander"]
+[Black "Motylev, Alexander"]
+[Result "0-1"]
+[WhiteElo "2432"]
+[BlackElo "2532"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.Qa4+ Nbd7 7.Ne5 O-O-O 8.Nxg4 Nxg4
+9.dxc5 h5 10.c6 Nc5 11.cxb7+ Kb8 12.Qc2 Qe5+ 13.Be2 Nd3+ 14.Kf1 Ndxf2 15.Rg1 Ne4
+16.Bxg4 hxg4 17.Be3 e6 18.b4 Rh5 19.Ke2 Rxh2 20.Qa4 Rd2+ 21.Nxd2 Nxc3+ 22.Kd3 Nxa4
+23.Raf1 Qd5+ 24.Ke2 Nc3+ 25.Ke1 Qd3  0-1

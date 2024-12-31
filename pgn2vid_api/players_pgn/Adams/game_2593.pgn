@@ -1,0 +1,24 @@
+[Event "4th London Chess Classic"]
+[Site "London ENG"]
+[Date "2012.12.01"]
+[Round "1.4"]
+[White "Jones,G"]
+[Black "Adams,Mi"]
+[Result "0-1"]
+[WhiteElo "2644"]
+[BlackElo "2710"]
+[ECO "E46"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 d5 6.a3 Bd6 7.c5 Be7 8.b4 b6 9.Nf4 c6
+10.Be2 Nbd7 11.Bb2 Qc7 12.O-O bxc5 13.bxc5 e5 14.Nd3 e4 15.Nf4 Re8 16.Rb1 Nf8
+17.f3 exf3 18.gxf3 Bd8 19.Bc1 Ng6 20.Nxg6 hxg6 21.Bd3 Bf5 22.Rf2 Qc8 23.Ne2 Bc7
+24.Ng3 Bxd3 25.Qxd3 Qh3 26.Qf1 Qh4 27.Qg2 Rab8 28.Rfb2 Rxb2 29.Rxb2 Rb8 30.Rxb8+ Bxb8
+31.Bd2 Bc7 32.Be1 Nh7 33.Kf1 Qf6 34.Qe2 Ng5 35.f4 Ne6 36.Kg1 Qe7 37.Kf1 Bd8
+38.Qa6 Qd7 39.Ke2 Bh4 40.Kd2 Nf8 41.Ne2 Bxe1+ 42.Kxe1 Nh7 43.Kd2 g5 44.Ng3 gxf4
+45.exf4 Nf6 46.f5 Qc7 47.Kc2 Kh7 48.Kb1 Ng4 49.Qf1 Kg8 50.Qe2 Nf6 51.Qa6 Ng4
+52.Qe2 Nf6 53.Qa6 Kf8 54.Qd3 Qa5 55.Qe3 Kg8 56.Kb2 Kh7 57.Kc2 Qa6 58.h3 Qb7
+59.Qe2 Qd7 60.Kd1 Kg8 61.Qe3 a5 62.Qf3 Qb7 63.Kc2 a4 64.Qe3 Qb8 65.Qf3 Kf8
+66.Qe3 Ne8 67.Kc1 Qd8 68.Ne2 Qb8 69.Ng3 Nf6 70.Kc2 Qb5 71.Kc1 Qc4+ 72.Kb2 Qb5+
+73.Kc1 Qc4+ 74.Kb2 Ne4 75.f6 Nxf6 76.Nf5 Qb5+ 77.Kc2 Ne4 78.h4 Qc4+ 79.Kb2 Qb5+
+80.Kc2 Qc4+ 81.Kb2 Qf1 82.Nd6 Qg2+ 83.Kc1 Qh1+ 84.Kb2 Qh2+ 85.Kc1 Qh1+ 86.Kb2 Qh2+
+87.Kc1 Nxd6 88.cxd6 Qxd6 89.Qh3 g6 90.Qf3 Kg7 91.Qe3 Qf6  0-1

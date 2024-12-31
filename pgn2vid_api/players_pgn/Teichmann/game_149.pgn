@@ -1,0 +1,20 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "19"]
+[White "Moreau, C."]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.d4 fxe4 5.Bxc6 dxc6 6.Nxe5 Qh4 7.O-O Nf6 8.Be3 Bd6
+9.Qd2 Be6 10.Nc3 O-O-O 11.Bg5 Qh5 12.Bf4 c5 13.Ne2 Bxe5 14.Bxe5 Qxe5 15.dxe5 Rxd2
+16.Nf4 Bc4 17.exf6 Bxf1 18.fxg7 Rg8 19.Kxf1 Rxg7 20.Rc1 Rf7 21.Ke1 Rd6 22.g3 c4
+23.c3 Rfd7 24.Rc2 Rd1+ 25.Ke2 Rh1 26.Ke3 Rxh2 27.Kxe4 h5 28.Kf3 b5 29.Re2 c6
+30.a3 Kb7 31.Re5 Rd2 32.Re2 Rxe2 33.Kxe2 Kc7 34.Ne6+ Kd6 35.Nd4 a6 36.Nc2 c5
+37.Ne3 Ke5 38.Nf1 Rh1 39.f3 h4 40.gxh4 Rxh4 41.Ke3 Rh3 42.Nd2 Rh2 43.b4 cxb4
+44.axb4 Rg2 45.Ne4 Ra2 46.Nd2 Rc2 47.Ne4 Kf5 48.Nd6+ Ke6 49.Ne4 Ke5 50.f4+ Kf5
+51.Kf3 Ra2 52.Nd6+ Ke6 53.Ne4 Ra1 54.Nc5+ Kf5 55.Ne4 Rf1+ 56.Nf2 Rxf2+ 57.Kxf2 Kxf4
+58.Ke2 Ke4 59.Kd2 Kf3 60.Kd1 Ke3 61.Kc2 Ke2  0-1

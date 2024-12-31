@@ -1,0 +1,21 @@
+[Event "chess.com SpeedChess Q1Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.21"]
+[Round "14"]
+[White "Svane,R"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2631"]
+[BlackElo "2641"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c6 4.O-O Bf5 5.c4 e6 6.Qb3 Qb6 7.d3 h6 8.cxd5 exd5
+9.Qc2 Na6 10.Nc3 Be7 11.a3 O-O 12.b4 Bh7 13.Be3 Qd8 14.b5 Nb8 15.bxc6 Nxc6
+16.Nd4 Qd7 17.Qb3 Rfd8 18.Rab1 b6 19.Nxc6 Qxc6 20.Rfc1 Qd7 21.Bd4 Rac8 22.Bxf6 Bxf6
+23.Nxd5 Be5 24.a4 Bf5 25.Qb4 Bd6 26.Qb5 Ba3 27.Rxc8 Rxc8 28.Be4 Be6 29.Nf4 Bg4
+30.h3 Qxb5 31.axb5 Bd7 32.Ra1 Rc1+ 33.Rxc1 Bxc1 34.Bc6 Bc8 35.Kg2 Kf8 36.Nd5 Be6
+37.f4 Bb2 38.g4 g6 39.Kf3 Ba3 40.e4 Bc5 41.e5 h5 42.Nf6 hxg4+ 43.hxg4 Ke7
+44.Ke4 Bf2 45.d4 Bb3 46.d5 Bh4 47.d6+ Kf8 48.g5 Be6 49.Bd5 Bf5+ 50.Kf3 Be1
+51.Be4 Be6 52.Bd5 Bf5 53.Bc6 Bb4 54.Ke2 Bc5 55.Bd7 Bc2 56.Kd2 Bb3 57.Bc6 Be6
+58.Kd3 Ba3 59.Bd5 Bf5+ 60.Be4 Be6 61.Bc6 Bc1 62.Ke4 Bf5+ 63.Kf3 Be6 64.Nh7+ Kg7
+65.Nf6 Kf8 66.Nd5 Bd2 67.d7 Bxd5+ 68.Bxd5 Ke7 69.Bxf7  1-0

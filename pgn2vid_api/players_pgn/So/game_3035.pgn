@@ -1,0 +1,25 @@
+[Event "Chess.com RCC Wk20 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.07.09"]
+[Round "7"]
+[White "Tregubov,P"]
+[Black "So,W"]
+[Result "0-1"]
+[WhiteElo "2548"]
+[BlackElo "2773"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d4 exd4 5.O-O a6 6.Ba4 Be7 7.e5 Ne4 8.Nxd4 O-O
+9.Nf5 d5 10.Nxe7+ Nxe7 11.c3 Nc5 12.Bc2 Bf5 13.Na3 Ne6 14.Bxf5 Nxf5 15.Qd3 Ne7
+16.Be3 Qd7 17.Nc2 Rad8 18.f4 g6 19.Rad1 Qb5 20.b3 Qxd3 21.Rxd3 h5 22.g3 Rd7
+23.Bf2 Rfd8 24.Kg2 c5 25.Rfd1 Kf8 26.Kf3 Ke8 27.h3 b5 28.R3d2 g5 29.Be3 gxf4
+30.gxf4 a5 31.Bf2 Ng6 32.Bg3 h4 33.Bh2 Ne7 34.Bg1 b4 35.cxb4 axb4 36.Ne3 Nd4+
+37.Rxd4 cxd4 38.Rxd4 Ra7 39.f5 Rxa2 40.Rxh4 d4 41.Rh8+ Kd7 42.e6+ fxe6 43.fxe6+ Kc8
+44.Rxd8+ Kxd8 45.Nc4 Nc6 46.Ke4 Ke7 47.Kd5 Rg2 48.Bxd4 Nxd4 49.Kxd4 Rg3 50.Na5 Rc3
+51.Kd5 Kf6 52.h4 Rh3 53.Kc5 Rxh4 54.Nc4 Kxe6 55.Kxb4 Kd5 56.Kb5 Rh8 57.b4 Rb8+
+58.Nb6+ Kd6 59.Ka5 Kc6 60.b5+ Kd6 61.Na4 Ra8+ 62.Kb4 Kc7 63.Nc5 Rh8 64.Na4 Kb7
+65.Nc5+ Kb6 66.Na4+ Kc7 67.Nc5 Rh5 68.Na4 Rh1 69.Nc5 Rc1 70.Na4 Rb1+ 71.Ka5 Ra1
+72.Kb4 Rh1 73.Nc5 Rh5 74.Na4 Kd6 75.Ka5 Rh8 76.Kb4 Rc8 77.Nb6 Rb8 78.Na4 Kc7
+79.Nc5 Rh8 80.Na4 Rh4+ 81.Ka5 Rc4 82.Nb6 Rc1 83.Na4 Rb1 84.Nc5 Rb2 85.Na4 Ra2
+86.Kb4 Kd6 87.Nb6 Ra1 88.Na4 Kd5 89.Nb6+ Kd4 90.Na4 Rb1+ 91.Ka5 Kc4 92.b6 Kd5
+93.Ka6 Kc6 94.Ka5 Ra1 95.Kb4 Rh1 96.Ka5 Rh8  0-1

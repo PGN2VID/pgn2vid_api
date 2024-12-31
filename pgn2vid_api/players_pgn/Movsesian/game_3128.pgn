@@ -1,0 +1,23 @@
+[Event "Chess.com Rapid Wk8 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.04.02"]
+[Round "9"]
+[White "Giri,A"]
+[Black "Movsesian,S"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2599"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Nxc6 bxc6 7.Qd3 d5 8.Qg3 h5
+9.h4 Nf6 10.Be2 d4 11.e5 Ng4 12.Ne4 Qa5+ 13.c3 Nxe5 14.O-O d3 15.Bxd3 Nxd3
+16.Qxd3 Qd5 17.Qf3 f5 18.Ng5 e5 19.Rd1 Qxf3 20.Nxf3 e4 21.Ne5 Be6 22.Nxc6 Rc8
+23.Ne5 Bc5 24.Ng6 Rg8 25.Bg5 Bc4 26.b3 Bf7 27.Ne5 Be6 28.c4 g6 29.g3 Ba3
+30.Rab1 a5 31.f3 Rg7 32.Kf2 Bc5+ 33.Be3 Bb4 34.Bh6 Rh7 35.Bg5 Rg7 36.Bf6 Rgc7
+37.fxe4 fxe4 38.Ke3 Bc5+ 39.Kf4 Bf5 40.Rd5 Be6 41.Rdd1 Bf5 42.Rb2 Bb4 43.Re2 Kf8
+44.Rd5 Kg8 45.g4 hxg4 46.h5 Rf8 47.Rd8 Rc8 48.Rxf8+ Rxf8 49.Kg5 g3 50.hxg6 Bh3
+51.Nf7 Rxf7 52.gxf7+ Kxf7 53.Bd4 g2 54.Bg1 e3 55.Rxe3 Bd2 56.Kf4 Bxe3+ 57.Bxe3 Ke6
+58.Ke4 Bf5+ 59.Kd4 Bb1 60.a3 Kd6 61.b4 axb4 62.axb4 Bf5 63.b5 Kc7 64.Kc5 Bd7
+65.Bg1 Kb7 66.Kd6 Be8 67.Kd5 Bf7+ 68.Kc5 Be8 69.Bf2 Bd7 70.Kb4 Be8 71.Kc3 Bd7
+72.Be3 Be8 73.Kb3 Bd7 74.Bd4 Be8 75.Bc5 Bd7 76.Kb4 Be8 77.Be3 Bd7 78.Bg1 Be8
+79.Kc5 Bd7 80.Kd6 Be8 81.Ke6 Kc7 82.Ke7 Bd7 83.b6+ Kc6 84.b7 Kxb7 85.Kxd7  1-0

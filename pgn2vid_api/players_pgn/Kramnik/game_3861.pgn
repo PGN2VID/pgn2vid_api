@@ -1,0 +1,17 @@
+[Event "AI Cup Div 3 L"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "2.2"]
+[White "Matlakov,M"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2674"]
+[BlackElo "2753"]
+[ECO "D78"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.g3 g6 5.Bg2 Bg7 6.O-O O-O 7.Nc3 dxc4 8.e4 a5
+9.Qe2 b5 10.Rd1 b4 11.Na4 Ba6 12.Ne5 c3 13.Qc2 cxb2 14.Bxb2 Nfd7 15.Ng4 Bb5
+16.Nc5 a4 17.d5 Nf6 18.dxc6 Qc7 19.Be5 Qxc6 20.Bxf6 b3 21.Qc3 exf6 22.e5 fxe5
+23.Bxc6 Nxc6 24.axb3 Nd4 25.Qb2 Bc6 26.Rxa4 Nf3+ 27.Kf1 h5 28.Rxa8 Rxa8 29.Ne3 Nxh2+
+30.Ke2 Bb5+ 31.Nc4 Rc8 32.Ne4 Rb8 33.Qd2 Ng4 34.Qd6 Rf8 35.Qc7 Nh6 36.Rd8 Nf5
+37.Rxf8+ Bxf8 38.Qxe5 Bg7 39.Nf6+ Bxf6 40.Qxf6  1-0

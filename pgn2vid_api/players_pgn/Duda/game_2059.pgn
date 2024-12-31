@@ -1,0 +1,15 @@
+[Event "Aimchess Rapid KO"]
+[Site "chess24.com INT"]
+[Date "2022.10.18"]
+[Round "1.13"]
+[White "Vidit,S"]
+[Black "Duda,J"]
+[Result "0-1"]
+[WhiteElo "2710"]
+[BlackElo "2731"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O O-O 6.h3 d5 7.exd5 Nxd5 8.Re1 Be6
+9.Nbd2 f6 10.Nb3 Bb6 11.d4 Kh8 12.Bf1 Bf5 13.dxe5 Ndb4 14.exf6 Qxf6 15.Re2 Rad8
+16.Qe1 h6 17.Qc3 Qxc3 18.bxc3 Nxc2 19.Rb1 Ne3 20.Ba3 Bxb1 21.Bxf8 Nxf1 22.Bc5 Bxc5
+23.Nxc5 Rd1 24.Re8+ Kh7 25.Ne6 Nd2+ 26.Kh2 Nxf3+ 27.gxf3 Kg6  0-1

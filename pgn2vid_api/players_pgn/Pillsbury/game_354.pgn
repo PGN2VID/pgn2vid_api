@@ -1,0 +1,15 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "25"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D08"]
+
+1.d4 d5 2.c4 e5 3.dxe5 dxc4 4.Qxd8+ Kxd8 5.Nc3 Nc6 6.Bg5+ Be7 7.O-O-O+ Bd7
+8.Bf4 a6 9.Nd5 Rc8 10.Nf3 b5 11.e3 Nb4 12.Nxb4 Bxb4 13.e6 fxe6 14.Ne5 Bd6
+15.Nf7+ Ke7 16.Nxh8 Bxf4 17.exf4 Nf6 18.Be2 Bc6 19.Rhe1 Rxh8 20.f5 e5 21.Bf3 e4
+22.g4 Kf7 23.g5 exf3 24.gxf6 gxf6 25.Re6 Be8 26.Rde1  1-0

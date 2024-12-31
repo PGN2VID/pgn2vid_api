@@ -1,0 +1,15 @@
+[Event "Bern sim"]
+[Site "Bern"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Kons"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.c4 Nc6 4.Nc3 Nd4 5.d3 Ne7 6.Be3 Nec6 7.g3 Be7 8.Bg2 O-O
+9.Nd2 Nb4 10.O-O Nxd3 11.f4 Nb4 12.Rc1 d6 13.a3 Nbc6 14.b4 a6 15.g4 Bd7 16.Nb3 Nxb3
+17.Qxb3 Rb8 18.Rcd1 Qc7 19.b5 Nd4 20.Bxd4 cxd4 21.Na2 d5 22.Rc1 dxc4 23.Rxc4 Qb6
+24.Rfc1 axb5 25.Rc7 d3+ 26.Kh1 d2 27.R1c3 Qf2 28.Rf3 Qe1+ 29.Rf1 Rfd8  0-1

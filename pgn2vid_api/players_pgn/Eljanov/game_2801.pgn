@@ -1,0 +1,19 @@
+[Event "AI Cup Div 2 L"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "1.1"]
+[White "Gledura,B"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2633"]
+[BlackElo "2695"]
+[ECO "D35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 c6 6.e3 h6 7.Bh4 Be7 8.Bd3 O-O
+9.Nge2 Re8 10.O-O Nbd7 11.a4 Nh5 12.Bxe7 Qxe7 13.a5 Ndf6 14.Qd2 g6 15.Rac1 Ng7
+16.Na4 a6 17.Rfe1 Bf5 18.Nc5 h5 19.Nf4 Rad8 20.Bf1 Bc8 21.Nfd3 Nf5 22.b3 Ng4
+23.h3 Nf6 24.Ne5 Kg7 25.Qc3 Qc7 26.b4 Kg8 27.Qb2 Nd6 28.f3 Nd7 29.Nexd7 Bxd7
+30.e4 dxe4 31.fxe4 Bc8 32.e5 Nf5 33.Ne4 Re6 34.Nf6+ Rxf6 35.exf6 Be6 36.d5 Bxd5
+37.Qe5 Qxe5 38.Rxe5 Rd6 39.Re8+ Kh7 40.Rb8 Ne3 41.Rxb7 Nxf1 42.Rxf1 g5 43.Rb6 Bc4
+44.Rf2 Kg6 45.Rb8 Kh7 46.Rf5 Kg6 47.g4 hxg4 48.hxg4 Be6 49.Rg8+ Kh6 50.Rfxg5 Bd5
+51.Rh5+  1-0

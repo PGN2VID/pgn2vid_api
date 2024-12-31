@@ -1,0 +1,13 @@
+[Event "chess.com SpeedChess 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.15"]
+[Round "2.27"]
+[White "Carlsen,M"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteElo "2839"]
+[BlackElo "2771"]
+[ECO "B00"]
+
+1.e4 b6 2.d4 Bb7 3.Bd3 f5 4.exf5 Bxg2 5.Qh5+ g6 6.fxg6 Bg7 7.gxh7+ Kf8 8.Ne2 Nf6
+9.Qg5 Bxh1 10.Nf4 Nc6 11.Ng6+ Kf7 12.Nxh8+ Qxh8 13.Qg6+ Kf8 14.Bh6 Qxh7  0-1

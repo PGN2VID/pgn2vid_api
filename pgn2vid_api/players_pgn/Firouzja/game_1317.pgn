@@ -1,0 +1,20 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "12"]
+[White "Nakamura,Hi"]
+[Black "Firouzja,Alireza"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2749"]
+[ECO "D05"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 d5 4.c4 Be7 5.Nc3 O-O 6.Bd3 a6 7.O-O dxc4 8.Bxc4 b5
+9.Bd3 c5 10.dxc5 Bxc5 11.e4 h6 12.e5 Nd5 13.Nxd5 Qxd5 14.Qc2 Bb7 15.Rd1 Qc6
+16.Bf4 Nd7 17.Rac1 Rac8 18.b4 Bxb4 19.Qe2 Bc5 20.Nh4 Rfd8 21.Qg4 Kf8 22.Bf1 Qb6
+23.Bg3 Be7 24.Nf3 Rxc1 25.Rxc1 Rc8 26.Rd1 Nc5 27.Qd4 Na4 28.Qf4 Bxf3 29.Qxf3 Nc3
+30.Rd2 Qc6 31.Qg4 Ne4 32.Re2 Nxg3 33.hxg3 Qc5 34.Qe4 Qc1 35.Qh7 Ke8 36.Qxg7 Bf8
+37.Qf6 Bb4 38.Qf3 Qxf1+ 39.Kh2 Qc1 40.Re4 Rc4 41.Rf4 Rxf4 42.gxf4 Bd2 43.g3 Ke7
+44.Qb7+ Kf8 45.Qd7 Kg7 46.Qd8 Qc3 47.Qf6+ Kg8 48.Qd8+ Kg7 49.Qf6+ Kg8 50.f5 Bg5
+51.fxe6 Kh7 52.Qxf7+ Kh8 53.e7 Bxe7 54.Qe8+ Bf8 55.Qxf8+ Kh7 56.Qf7+ Kh8
+57.Qf6+ Kh7 58.g4 Qf3 59.Qxf3  1-0

@@ -1,0 +1,22 @@
+[Event "Amber Rapid"]
+[Site "Monte Carlo MNC"]
+[Date "2006.03.23"]
+[Round "5"]
+[White "Van Wely,L"]
+[Black "Nielsen,PH"]
+[Result "1-0"]
+[WhiteElo "2647"]
+[BlackElo "2644"]
+[ECO "D53"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 Nbd7 6.cxd5 Nxd5 7.Bxe7 Qxe7 8.e4 Nxc3
+9.bxc3 c5 10.Bd3 O-O 11.O-O e5 12.d5 Nf6 13.Nd2 Ne8 14.a4 Nd6 15.Qe2 Bd7
+16.Rfb1 Rac8 17.Bb5 Bxb5 18.axb5 b6 19.Nc4 Nxc4 20.Qxc4 Rfd8 21.Qe2 Rc7 22.c4 g6
+23.Rb3 Rd6 24.g3 h5 25.Rba3 Kg7 26.f4 h4 27.Qb2 f6 28.Re1 hxg3 29.hxg3 Rd8
+30.g4 Rh8 31.g5 Kg8 32.Re2 Qd6 33.Rg2 Re7 34.gxf6 Qxf6 35.f5 Qh4 36.Rag3 Qxe4
+37.Qc3 Qb1+ 38.Kf2 Qxf5+ 39.Rf3 Qe4 40.Qe3 Qxe3+ 41.Kxe3 Kg7 42.Rfg3 Rh6
+43.Ke4 Rh4+ 44.Rg4 Rxg4+ 45.Rxg4 Kf6 46.d6 Rh7 47.Kd5 g5 48.Rg1 e4 49.Rf1+ Kg6
+50.Kxe4 Rh4+ 51.Ke5 Rd4 52.Ke6 Re4+ 53.Kd5 Rd4+ 54.Kc6 Rxc4 55.Rd1 Rh4 56.d7 Rh8
+57.d8=Q Rxd8 58.Rxd8 Kf5 59.Kd5 Kf4 60.Rf8+ Ke3 61.Rg8 Kf4 62.Rf8+ Ke3 63.Rg8 Kf4
+64.Kc4 g4 65.Kd3 Kf3 66.Rf8+ Kg2 67.Ke2 g3 68.Rg8 c4 69.Rc8 Kg1 70.Rxc4 g2
+71.Rg4  1-0

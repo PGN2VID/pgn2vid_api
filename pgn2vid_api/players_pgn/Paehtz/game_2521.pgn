@@ -1,0 +1,13 @@
+[Event "Isolated Queens Swiss II"]
+[Site "chess.com INT"]
+[Date "2020.05.02"]
+[Round "6"]
+[White "Paehtz,E"]
+[Black "Khachatryan,Anna"]
+[Result "1-0"]
+[WhiteElo "2473"]
+[BlackElo "2071"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.e3 d5 5.c3 Bd6 6.Bg3 O-O 7.Nbd2 Qc7 8.Ne5 Nfd7
+9.f4 Nc6 10.Bd3 b6 11.O-O Bb7 12.Qh5 Nd8 13.Qxh7+  1-0

@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1968.??.??"]
+[Round "11"]
+[White "Letzelter, Jean Claude"]
+[Black "Benko, Pal C"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B09"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 Nf6 5.Nf3 c5 6.dxc5 Qa5 7.Bd3 Qxc5 8.Qe2 Nc6
+9.Be3 Qa5 10.O-O O-O 11.Kh1 Bd7 12.Nd4 Qh5 13.Qxh5 Nxh5 14.Nxc6 bxc6 15.Be2 Rfb8
+16.Rab1 Rb7 17.Bxh5 gxh5 18.Nd1 Rb4 19.Nf2 Bxb2 20.Nd3 Rxe4 21.Rxb2 Rxe3
+22.Re1 Rxe1+ 23.Nxe1 Kf8 24.Nf3 c5 25.Ng5 f6 26.Nf3 Bc6 27.Kg1 Kf7 28.Rb3 Bd5
+29.Ra3 Rb8  0-1

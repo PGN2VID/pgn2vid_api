@@ -1,0 +1,22 @@
+[Event "Chess.com SIG Bullet KO"]
+[Site "chess.com INT"]
+[Date "2021.04.07"]
+[Round "2.10"]
+[White "Firouzja,Alireza"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2759"]
+[BlackElo "2736"]
+[ECO "B06"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 c6 4.f4 d5 5.e5 h5 6.h3 h4 7.Nf3 Bf5 8.Be3 e6 9.Be2 Bf8
+10.O-O Nd7 11.Bf2 Be7 12.Qd2 Be4 13.Nxe4 dxe4 14.Ng5 Bxg5 15.fxg5 Ne7 16.Qf4 Nf5
+17.c3 Nb6 18.Bg4 e3 19.Be1 Nd5 20.Qe4 Qxg5 21.c4 Nde7 22.Bc3 O-O-O 23.Rf3 Ng3
+24.Qxe3 Qxe3+ 25.Rxe3 Nef5 26.Rd3 Ne4 27.Re1 Nxc3 28.bxc3 Rd7 29.Rb1 Rhd8
+30.c5 Kc7 31.Rf3 b6 32.cxb6+ axb6 33.Rf4 Ng3 34.Bf3 c5 35.dxc5 bxc5 36.Rc4 Rc8
+37.Rxc5+ Kd8 38.Rxc8+ Kxc8 39.Rb4 Rd2 40.Rxh4 Rxa2 41.Rh7 Nf5 42.Rxf7 Kd8
+43.Rf6 Ke7 44.Rxg6 Kf7 45.Rf6+ Ke7 46.Bg4 Ne3 47.Rxe6+ Kf7 48.Rf6+ Kg7 49.Bf3 Rc2
+50.Kh2 Rxc3 51.Rf4 Kg6 52.Re4 Nf1+ 53.Kg1 Ng3 54.Rg4+ Kf5 55.Rxg3 Kxe5 56.Rg4 Kf5
+57.Kf2 Rc2+ 58.Kg3 Ra2 59.h4 Kf6 60.Rg5 Ra4 61.Rg4 Kf5 62.Rxa4 Ke5 63.Ra5+ Kf6
+64.h5 Ke6 65.Kg4 Kf6 66.h6 Kg6 67.Ra6+ Kf7 68.Kg5 Ke7 69.h7 Kf7 70.h8=Q Ke7
+71.Qh7+  1-0

@@ -1,0 +1,25 @@
+[Event "Aimchess Rapid Div 3 W"]
+[Site "chess.com INT"]
+[Date "2023.07.11"]
+[Round "4.1"]
+[White "Mamedov,Rau"]
+[Black "Yu Yangyi"]
+[Result "0-1"]
+[WhiteElo "2636"]
+[BlackElo "2735"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 d5 3.exd5 Nf6 4.Bb5+ Nbd7 5.Nf3 Nxd5 6.d4 e6 7.O-O a6 8.Be2 Qc7
+9.c4 N5f6 10.Nc3 Be7 11.Bg5 O-O 12.Bh4 Rd8 13.Bg3 Bd6 14.Bxd6 Qxd6 15.dxc5 Qxc5
+16.Qd4 Qxd4 17.Nxd4 Ne5 18.Rfd1 Bd7 19.c5 Rdc8 20.b4 b6 21.Nb3 Be8 22.Rac1 bxc5
+23.bxc5 g5 24.Rd4 Kg7 25.h4 h6 26.hxg5 hxg5 27.Na4 Nfd7 28.Rd6 Rc7 29.Rcd1 Nf6
+30.Nb6 Raa7 31.a4 Ne4 32.Rd8 Nc3 33.Re1 Bxa4 34.Nxa4 Nxa4 35.Bxa6 Nc6 36.Rc8 Rxc8
+37.Bxc8 Ne7 38.Bxe6 fxe6 39.Rxe6 Rc7 40.g3 Kf7 41.Re5 Kf6 42.f4 gxf4 43.gxf4 Ng6
+44.Re4 Nc3 45.Rc4 Ne2+ 46.Kf2 Nexf4 47.c6 Ne6 48.Nd4 Nxd4 49.Rxd4 Rxc6 50.Ke3 Ke5
+51.Re4+ Kf5 52.Re8 Ra6 53.Kd4 Rd6+ 54.Ke3 Rd1 55.Ke2 Rd7 56.Ke3 Rd6 57.Ra8 Re6+
+58.Kd4 Re4+ 59.Kc3 Ne5 60.Rf8+ Ke6 61.Re8+ Kd6 62.Rd8+ Kc5 63.Rc8+ Nc6 64.Kd3 Re7
+65.Kd2 Kd5 66.Kd3 Ne5+ 67.Kc3 Rd7 68.Rh8 Rc7+ 69.Kd2 Ra7 70.Rd8+ Ke4 71.Re8 Ra3
+72.Kc2 Re3 73.Re7 Kd4 74.Re8 Rc3+ 75.Kd2 Rd3+ 76.Kc2 Nc6 77.Rc8 Nb4+ 78.Kc1 Rh3
+79.Kd2 Rh2+ 80.Ke1 Nd5 81.Rd8 Ke4 82.Re8+ Kf3 83.Kd1 Nc3+ 84.Kc1 Ne4 85.Rd8 Ke3
+86.Rd7 Nc5 87.Rc7 Nd3+ 88.Kb1 Rb2+ 89.Ka1 Kd2 90.Rh7 Rb6 91.Rh2+ Kc3 92.Rg2 Rb8
+93.Rg7 Rb5 94.Rc7+ Nc5 95.Ka2 Kc2 96.Ka3 Rb3+ 97.Ka2 Rc3 98.Rc6 Rc4 99.Ra6 Nxa6  0-1

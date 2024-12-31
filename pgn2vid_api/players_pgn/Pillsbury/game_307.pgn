@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Marco, Georg"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Re1 Nd6 7.Bxc6 dxc6 8.dxe5 Nf5
+9.Qxd8+ Bxd8 10.b3 h6 11.Bb2 Be6 12.c4 Be7 13.Nc3 O-O-O 14.Rad1 g5 15.Rxd8+ Rxd8
+16.Rd1 Rxd1+ 17.Nxd1 b5 18.g4 Ng7 19.Ne3 bxc4 20.bxc4 h5 21.h3 hxg4 22.hxg4 Kb7
+23.Nd4 Bc5 24.Kg2 Bd7 25.Kf3 Ne6 26.Ke4 Nf4 27.Nef5 a5 28.Bc1 Ne6 29.Be3 Kb6
+30.f3 a4 31.Kd3 Ka5 32.Nxe6 Bxe3 33.Nxe3 Bxe6 34.a3 Kb6 35.Kd4 c5+ 36.Kd3 Kc6
+37.Nd1 Bd7 38.Nc3 Kb7 39.Ne4 Kc8 40.Nxg5 Be8 41.Ne4 Bc6 42.f4 Kd7 43.Nxc5+ Ke7
+44.Ne4 Ba8 45.Kd4 Bb7 46.f5 Bc6 47.g5 Ba8 48.Nc5 Bc6 49.f6+ Ke8 50.e6 fxe6
+51.g6 Bf3 52.Nxe6  1-0

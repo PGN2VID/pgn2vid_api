@@ -1,0 +1,14 @@
+[Event "chess.com SpeedChess 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.13"]
+[Round "2.5"]
+[White "Firouzja,Alireza"]
+[Black "So,W"]
+[Result "0-1"]
+[WhiteElo "2777"]
+[BlackElo "2753"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Bg5 h6 7.Bh4 a6 8.a4 Ba7 9.O-O g5
+10.Bg3 Ne7 11.d4 Nxe4 12.dxe5 d5 13.Bd3 Nf5 14.Nd4 Nxd4 15.cxd4 h5 16.e6 Bxe6
+17.Bxe4 dxe4 18.Nc3 Qxd4 19.Bxc7 Rc8 20.Bd6 f5 21.Ba3 Qxd1 22.Raxd1 Kf7  0-1

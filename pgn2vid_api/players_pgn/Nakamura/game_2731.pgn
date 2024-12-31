@@ -1,0 +1,19 @@
+[Event "chess.com Speed 3m+1spm 2018"]
+[Site "chess.com INT"]
+[Date "2018.12.01"]
+[Round "3.12"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2767"]
+[BlackElo "2777"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O d6 6.c3 O-O 7.Bg5 h6 8.Bh4 a6
+9.a4 Ba7 10.Na3 g5 11.Bg3 g4 12.Nh4 Nh5 13.Nc2 Qg5 14.Re1 Be6 15.Ne3 Bxe3
+16.Rxe3 Bxc4 17.dxc4 Ne7 18.a5 Rad8 19.Qb3 Rb8 20.Rd1 Rfd8 21.Qc2 Ng7 22.Red3 Ne6
+23.b4 h5 24.f3 Ng6 25.Nxg6 fxg6 26.Qd2 Qxd2 27.R1xd2 gxf3 28.gxf3 Rf8 29.c5 dxc5
+30.Bxe5 cxb4 31.cxb4 Rbe8 32.Rg2 Kh7 33.Rd7+ Kh6 34.f4 Rxf4 35.Bxf4+ Nxf4
+36.Rb2 Rxe4 37.b5 Ra4 38.b6 c5 39.h4 c4 40.Rxb7 c3 41.Rc2 Rxa5 42.Kh2 Nd5
+43.Rf2 Rb5 44.Rff7 g5 45.Rbd7 gxh4 46.b7 c2 47.Rd6+ Kg5 48.Rxd5+ Kg6 49.Rxb5 c1=Q
+50.b8=Q Qd2+ 51.Kg1 Qe1+ 52.Rf1 Qg3+ 53.Qxg3+  1-0

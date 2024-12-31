@@ -1,0 +1,25 @@
+[Event "Bullet Chess Losers 2023"]
+[Site "chess.com INT"]
+[Date "2023.07.18"]
+[Round "1.2"]
+[White "Giri,A"]
+[Black "Ohanyan,Emin"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2489"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 d5 5.exd5 Nxd5 6.O-O Bc5 7.Nc3 Be6 8.Nxd5 Bxd5
+9.Bxd5 Qxd5 10.Re1 O-O 11.Be3 Bb6 12.Qe2 f6 13.c3 Rfd8 14.Red1 Qe6 15.h3 Kf7
+16.a4 Rd7 17.Bxb6 axb6 18.Qe4 Kg8 19.Re1 Qd5 20.Red1 Rad8 21.Qe2 Na5 22.b4 Nc6
+23.Nh4 Qe6 24.Qe4 Qd5 25.Qe2 Qf7 26.Nf5 Ne7 27.Ng3 Nd5 28.Rac1 Nf4 29.Qc2 Nxd3
+30.Rb1 Nf4 31.Rxd7 Qxd7 32.a5 b5 33.Qe4 Qc6 34.Qxc6 bxc6 35.Ra1 Nd5 36.Ra3 Ra8
+37.Ne4 Kf7 38.Nc5 Ke7 39.Kf1 f5 40.g3 e4 41.Ke2 g6 42.f3 e3 43.f4 Kd6 44.Rb3 Ke7
+45.Nb7 h6 46.Nc5 g5 47.Kf3 gxf4 48.gxf4 Kd6 49.Rb2 Re8 50.Re2 Ra8 51.a6 Ke7
+52.Rg2 Kf7 53.Re2 Ra7 54.Re1 Ra8 55.Re2 Re8 56.Re1 Rg8 57.Re2 Ke7 58.Re1 Kd8
+59.Re2 Ke7 60.a7 Ra8 61.Ra2 Kd6 62.Ra6 Nxc3 63.Kxe3 Nd5+ 64.Kd4 Nxb4 65.Nb7+ Ke7
+66.Ra5 Nd5 67.Nc5 Kd6 68.Nb7+ Ke7 69.Nc5 Nb6 70.Ra6 Kd6 71.Nb7+ Ke7 72.Nc5 Nd7
+73.Nb7 c5+ 74.Nxc5 Nxc5 75.Kxc5 Kd7 76.Kxb5 Kc8 77.Kc6 Kd8 78.h4 Rc8 79.h5 Ra8
+80.Kb7 Rc8 81.a8=Q Rxa8 82.Rxa8+ Kd7 83.Rc8 c6 84.Rc7+ Kd6 85.Rxc6+ Kd5 86.Rxh6 Ke4
+87.Rg6 Kxf4 88.h6 Ke5 89.h7 f4 90.h8=Q+ Ke4 91.Qf6 f3 92.Rg5 Ke3 93.Qe5+ Kf2
+94.Rf5 Kf1 95.Qf4 Kg2 96.Qxf3+ Kh2 97.Qf2+  1-0

@@ -1,0 +1,19 @@
+[Event "FIDE Steinitz Mem Open"]
+[Site "chess24.com INT"]
+[Date "2020.05.17"]
+[Round "14.2"]
+[White "Grischuk,A"]
+[Black "Dubov,Daniil"]
+[Result "1-0"]
+[WhiteElo "2777"]
+[BlackElo "2699"]
+[ECO "B04"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6 5.Bc4 Nb6 6.Bb3 Bg7 7.Ng5 e6 8.Qf3 Qe7
+9.Ne4 h6 10.exd6 cxd6 11.Bf4 d5 12.Nd6+ Kf8 13.c3 h5 14.Nd2 Nc6 15.O-O g5
+16.Nxc8 Nxc8 17.Be3 Nd6 18.Rfe1 g4 19.Qe2 Bh6 20.Nf1 Qf6 21.Bc2 Ne7 22.Bd3 Nef5
+23.Bxh6+ Rxh6 24.Qd2 Kg7 25.Re5 Rg8 26.Rae1 Kh8 27.a4 Qg7 28.Qf4 h4 29.Ne3 g3
+30.fxg3 hxg3 31.h3 Rh4 32.Qf3 Nxe3 33.R1xe3 Qh6 34.Qe2 Rg5 35.Rf3 Rhh5 36.Rxg5 Rxg5
+37.Qe3 Qg7 38.Qf4 Nf5 39.Bxf5 exf5 40.Re3 Kh7 41.Kf1 Qg6 42.Ke2 Qh5+ 43.Kd2 Rg7
+44.Re5 Rg5 45.Rxd5 Qg6 46.Re5 Qf6 47.Re3 Qg6 48.d5 f6 49.d6 Qg8 50.d7 Kg6
+51.Qd6 f4 52.d8=Q fxe3+ 53.Kxe3 Re5+ 54.Kd2 Qb3 55.Q8xf6+  1-0

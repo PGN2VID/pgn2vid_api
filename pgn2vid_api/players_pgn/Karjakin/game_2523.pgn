@@ -1,0 +1,21 @@
+[Event "chess.com Speed 1m+1spm 2018"]
+[Site "chess.com INT"]
+[Date "2018.09.06"]
+[Round "1.23"]
+[White "Karjakin,Sergey"]
+[Black "Duda,J"]
+[Result "0-1"]
+[WhiteElo "2773"]
+[BlackElo "2737"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Qb6 8.Na4 Qa5+
+9.c3 b6 10.Bd2 c4 11.b4 Qa6 12.Ke2 Be7 13.Kf2 f5 14.Be2 Qb7 15.Rg1 a5 16.a3 Nf8
+17.Nb2 Bd7 18.Qb1 b5 19.Nd1 h5 20.Ne3 g6 21.Qc2 a4 22.h3 h4 23.g4 hxg3+ 24.Rxg3 O-O-O
+25.Rh1 Be8 26.h4 Rd7 27.Rgh3 Bd8 28.Ng5 Bxg5 29.fxg5 Rdh7 30.Ng2 Ne7 31.Kf1 Qd7
+32.Be1 Bf7 33.Nf4 Qe8 34.Bf3 Kb7 35.Qg2 Ka6 36.R1h2 Kb6 37.Qh1 Ka6 38.h5 gxh5
+39.Nxh5 Bg6 40.Nf4 Rxh3 41.Rxh3 Rxh3 42.Qxh3 Kb7 43.Qh8 Kc7 44.Qf6 Kd7 45.Bg3 Ng8
+46.Qg7+ Qf7 47.Qh8 Ne7 48.Qf6 Qg8 49.Bxd5 Nxd5 50.Nxd5 exd5 51.Qd6+ Ke8 52.Qc6+ Ke7
+53.Qc7+ Ke8 54.Qb8+ Ke7 55.Qd6+ Ke8 56.Qc6+ Ke7 57.e6 Qxe6 58.Qc7+ Ke8 59.Qb8+ Kf7
+60.Be5 Nd7 61.Qh8 Nxe5 62.dxe5 f4 63.Kf2 d4 64.cxd4 c3 65.Qd8 c2 66.Qc7+ Kg8
+67.Kf3 Qc4 68.Qd8+ Kh7 69.Qd7+ Qf7 70.e6 Qxd7  0-1

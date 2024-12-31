@@ -1,0 +1,14 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "1"]
+[White "Baskin,R"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2390"]
+[BlackElo "2559"]
+[ECO "D43"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.Bg5 h6 6.Bh4 dxc4 7.e4 g5 8.Bg3 b5 9.Be2 Bb7
+10.h4 g4 11.Ne5 Nbd7 12.Nxf7 Kxf7 13.e5 Nd5 14.Ne4 Bb4+ 15.Kf1 Qb6 16.Bxg4 Rag8
+17.Bh5+ Ke7 18.a3 Ba5 19.Nd6 Rxg3 20.Bf3 Rf8 21.Bxd5 cxd5 22.Qh5 Qxd4 23.Nf5+ Rxf5  0-1

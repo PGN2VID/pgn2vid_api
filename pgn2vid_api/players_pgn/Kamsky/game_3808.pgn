@@ -1,0 +1,23 @@
+[Event "Chess.com Rapid W10 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.04.16"]
+[Round "9"]
+[White "Kamsky,G"]
+[Black "Matlakov,M"]
+[Result "1-0"]
+[WhiteElo "2661"]
+[BlackElo "2674"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e5 7.Nf3 Be7 8.Bc4 Be6
+9.Qe2 Nbd7 10.O-O Rc8 11.Ba2 O-O 12.Rd1 Qc7 13.Bg5 h6 14.Bxf6 Nxf6 15.Ne1 Qa5
+16.Nd5 Nxd5 17.Bxd5 Bxd5 18.Rxd5 Qb6 19.Nd3 f5 20.a5 Qc7 21.c3 Qc4 22.f3 fxe4
+23.Qxe4 Qxe4 24.fxe4 Rc4 25.Re1 Rfc8 26.Nb4 Kf7 27.Kf2 Ke6 28.Ke3 Rf8 29.Kd3 Rcc8
+30.Nc2 Rf2 31.Re2 Rf1 32.Ne3 Ra1 33.Kc2 Ra4 34.Kd3 Ra1 35.h3 g6 36.Nc4 Rf8
+37.Kc2 Rc8 38.Kb3 Rc6 39.Ne3 h5 40.Nc2 Rf1 41.Nb4 Rc8 42.Nd3 h4 43.c4 Ra1
+44.Rc2 Rc6 45.Rf2 Rc8 46.Rc2 Rc6 47.Rc1 Rxc1 48.Nxc1 b5 49.axb6 Rxb6+ 50.Kc3 Bg5
+51.Nb3 Be3 52.Rd3 Bg1 53.Rf3 Rb8 54.Rf1 Be3 55.Ra1 Rb6 56.Re1 Bf2 57.Re2 Bg1
+58.Re1 Bf2 59.Re2 Bg3 60.Nc1 Bh2 61.Re1 Bg3 62.Rf1 Bf4 63.Nd3 Be3 64.b4 Rb8
+65.Kb3 Bd4 66.Ka4 Rc8 67.Rc1 Kf6 68.Ka5 Ra8 69.c5 dxc5 70.Nxc5 Rd8 71.Kxa6 Rd6+
+72.Kb5 Kg5 73.Rf1 Be3 74.Rf3 Bg1 75.Nd3 Rd4 76.Nxe5 Rxe4 77.Nf7+ Kh5 78.Rd3 g5
+79.Rd5 Be3 80.Re5 Rf4 81.Rxg5+  1-0

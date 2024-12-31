@@ -1,0 +1,23 @@
+[Event "ch-BUL 2023"]
+[Site "Sofia BUL"]
+[Date "2023.01.23"]
+[Round "3.1"]
+[White "Georgiev,Ki"]
+[Black "Kanov,Nikola"]
+[Result "1-0"]
+[WhiteElo "2546"]
+[BlackElo "2383"]
+[ECO "D27"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 dxc4 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.dxc5 Qxd1 8.Rxd1 Bxc5
+9.Nfd2 b6 10.Be2 Bb7 11.Nb3 Be7 12.f3 Nbd7 13.e4 Nc5 14.Nxc5 Bxc5+ 15.Kf1 Ke7
+16.Bg5 h6 17.Bh4 g5 18.Bf2 Rac8 19.Nc3 Nd7 20.Bg3 b5 21.a3 Rhd8 22.Ke1 f5
+23.exf5 exf5 24.Kf1 f4 25.Bf2 Bxf2 26.Kxf2 Ne5 27.Rac1 h5 28.h3 Ke6 29.Rxd8 Rxd8
+30.Rc2 Rd4 31.Na2 Bd5 32.Nb4 Bb3 33.Rc3 Bc4 34.b3 Bxe2 35.Kxe2 Rd6 36.Rc5 a5
+37.Nc2 Rd5 38.Rxb5 Rxb5 39.Nd4+ Kd5 40.Nxb5 Kc5 41.Nc3 Kd4 42.Kd2 Ng6 43.Ne2+ Kd5
+44.Ke1 Ne5 45.h4 gxh4 46.Nxf4+ Kd4 47.Kd2 Nd7 48.Nxh5 Nc5 49.b4 axb4 50.axb4 Nb3+
+51.Ke2 Nc1+ 52.Kf1 Kc4 53.Kg1 Nd3 54.Kh2 Nf2 55.Ng7 Kxb4 56.Nf5 Kc5 57.Nxh4 Kd5
+58.Kg3 Nd3 59.Ng6 Kd6 60.Nf4 Ne5 61.Kf2 Ke7 62.Ke3 Kf6 63.Nd3 Ng6 64.Ke4 Nh4
+65.g3 Nf5 66.g4 Nd6+ 67.Kf4 Nf7 68.Nc5 Kg6 69.Ne4 Nd8 70.Kg3 Ne6 71.f4 Nd4
+72.Kf2 Nc6 73.f5+ Kf7 74.Kg3 Ne5 75.g5 Kg7 76.Kf4 Nd3+ 77.Kg4 Kh7 78.Nf6+ Kg7
+79.Nh5+ Kh7 80.f6 Ne5+ 81.Kf5 Ng6 82.Nf4 Nf8 83.g6+ Kg8 84.Ne6  1-0

@@ -1,0 +1,24 @@
+[Event "Korchnoi 70"]
+[Site "St Petersburg RUS"]
+[Date "2001.03.22"]
+[Round "7"]
+[White "Taimanov,M"]
+[Black "Rublevsky,S"]
+[Result "0-1"]
+[WhiteElo "2454"]
+[BlackElo "2657"]
+[ECO "A22"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.Nf3 Bxc3 5.dxc3 d6 6.Bg2 h6 7.O-O Nc6 8.Ne1 Be6
+9.b3 Qd7 10.Nc2 Bh3 11.Ne3 h5 12.Nd5 Bxg2 13.Kxg2 h4 14.Rh1 O-O-O 15.Bg5 Qf5
+16.Bxf6 gxf6 17.Qd3 Qg5 18.Qe3 Qg6 19.b4 Kb8 20.Qd3 f5 21.b5 e4 22.Qe3 Ne5
+23.Qd4 Qg4 24.Nf4 Rdg8 25.Kf1 hxg3 26.fxg3 Nf3 27.Qf2 Nd2+ 28.Ke1 Nxc4 29.a4 Qxg3
+30.hxg3 Rxh1+ 31.Qf1 Rxf1+ 32.Kxf1 Rxg3 33.Kf2 Rxc3 34.Rh1 a5 35.Nd5 Rc2
+36.Rh8+ Ka7 37.Nxc7 Nb6 38.Ne8 d5 39.Nd6 f4 40.Rh7 Nc4 41.Nc8+ Kb8 42.Ne7 Ne3
+43.b6 Rc8 44.Nxc8 Kxc8 45.Rxf7 Nc4 46.Rc7+ Kb8 47.Rc5 Nxb6 48.Rxa5 Kc7 49.Rc5+ Kd6
+50.Rb5 Kc6 51.Rb4 Nc4 52.Rb1 e3+ 53.Kg2 Nd2 54.Rb4 d4 55.Rxd4 f3+ 56.exf3 e2
+57.Rxd2 e1=Q 58.Rd4 Qe2+ 59.Kg3 Qe5+ 60.Rf4 Kd5 61.Kg4 Qg7+ 62.Kh3 Ke5 63.Rg4 Qc7
+64.Kg2 Kf5 65.Re4 Qg7+ 66.Kf2 Qb2+ 67.Kg3 Qd2 68.Rg4 Qe1+ 69.Kg2 Qe2+ 70.Kg3 Qd2
+71.Re4 b6 72.Rg4 Qe1+ 73.Kg2 Qe3 74.Kg3 Qg1+ 75.Kh3 Qf2 76.Rg3 Kf4 77.Rg4+ Kxf3
+78.Rg6 Qf1+ 79.Kh2 Qe2+ 80.Kh3 Qe5 81.Kh4 Qe4+ 82.Kh5 Qxa4 83.Rf6+ Kg3 84.Rg6+ Kh3
+85.Rf6 Qg4+ 86.Kh6 b5 87.Kh7  0-1

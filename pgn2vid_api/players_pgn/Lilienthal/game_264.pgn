@@ -1,0 +1,16 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.??.??"]
+[Round "2"]
+[White "Mogilevsky"]
+[Black "Lilienthal, Andor"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.Re1 Nc5 7.Bxc6 dxc6 8.d4 Ne6
+9.dxe5 Qxd1 10.Rxd1 Be7 11.Nc3 Bd7 12.Be3 O-O-O 13.Rd2 h6 14.Rad1 Bb4 15.Ne1 Nc5
+16.Rd4 Bxc3 17.bxc3 b5 18.Rf4 Na4 19.Rxf7 Be6 20.Rxd8+ Rxd8 21.Re7 Rd1 22.f4 Bxa2
+23.Kf2 Rd7 24.Re8+ Rd8 25.Rxd8+ Kxd8 26.f5 Nxc3 27.g4 a5 28.Bd4 b4 29.e6 Bc4
+30.Ke3 a4 31.Nd3 c5 32.Bxc5 a3 33.Bxb4 Nd5+ 34.Kd4 a2 35.Kxc4 Nxb4 36.Nxb4 a1=Q  0-1

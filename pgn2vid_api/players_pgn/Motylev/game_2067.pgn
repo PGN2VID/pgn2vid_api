@@ -1,0 +1,22 @@
+[Event "PNWCC Online Blitz JP 16"]
+[Site "lichess.org INT"]
+[Date "2020.07.11"]
+[Round "5"]
+[White "Nguyen Duc Hoa"]
+[Black "Motylev,A"]
+[Result "0-1"]
+[WhiteElo "2406"]
+[BlackElo "2641"]
+[ECO "A50"]
+
+1.d4 Nf6 2.c4 c6 3.Nf3 b5 4.b3 bxc4 5.bxc4 g6 6.e3 Bg7 7.Be2 O-O 8.O-O d6
+9.Bb2 Nbd7 10.Nbd2 Rb8 11.Qc2 e5 12.Rfd1 e4 13.Ne1 d5 14.Rab1 Re8 15.Ba3 Nb6
+16.Rdc1 Bg4 17.Bf1 Be6 18.c5 Nbd7 19.Qa4 Qc7 20.Nc2 a5 21.Rxb8 Rxb8 22.Rb1 Ra8
+23.Rb3 Ra7 24.Bb2 h5 25.Bc3 Ng4 26.g3 h4 27.Ne1 Ndf6 28.Ng2 Nxf2 29.Kxf2 Ng4+
+30.Kg1 hxg3 31.h4 Nxe3 32.Bb2 Nxg2 33.Bxg2 Qf4 34.Nf1 Qf2+ 35.Kh1 Bh3 36.Bxh3 Rb7
+37.Rxb7 e3 38.Rb8+ Kh7 39.Bc3 e2 40.Nxg3 Qxg3 41.Re8 Qxh3+ 42.Kg1 Qg3+ 43.Kh1 Qf3+
+44.Kg1 Qxc3 45.Rxe2 Bxd4+ 46.Kg2 Qd3 47.Qc2 Qa3 48.Qb3 Qxc5 49.Qf3 Kg7 50.h5 Qc3
+51.Qg4 Qd3 52.hxg6 Qxg6 53.Kf3 Qxg4+ 54.Kxg4 Kf6 55.Rb2 Bc3 56.Rc2 d4 57.Kf3 Ke5
+58.Rh2 Kd5 59.Rh6 c5 60.Ke2 Kc4 61.Rh4 Kb4 62.Rf4 c4 63.Rxf7 Ka3 64.Rc7 d3+
+65.Ke3 d2 66.Ke2 Kxa2 67.Rxc4 Kb3 68.Rc8 a4 69.Kd1 a3 70.Rb8+ Bb4 71.Ra8 a2
+72.Ra6 Kb2 73.Ra8 a1=Q+ 74.Rxa1 Kxa1 75.Kc2 Ka2 76.Kd1 Kb1  0-1

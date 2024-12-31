@@ -1,0 +1,16 @@
+[Event "Topalov Vienna Clock Simul"]
+[Site "Vienna AUT"]
+[Date "2012.04.27"]
+[Round "1"]
+[White "Topalov,V"]
+[Black "Kriebel,T"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2333"]
+[ECO "C64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 f5 5.d4 fxe4 6.Nxe5 Nxe5 7.dxe5 Qe7 8.b4 Bxb4
+9.Bf4 Qc5 10.a4 Bxc3+ 11.Nxc3 Qxc3+ 12.Kf1 Ne7 13.Rc1 Qa5 14.Bc4 Ng6 15.Bg3 Rf8
+16.Qd4 c6 17.h4 b6 18.Rd1 Ne7 19.Kg1 Nf5 20.Qxe4 Nxg3 21.fxg3 Bb7 22.e6 d5
+23.Qg4 Qc5+ 24.Kh2 Qe7 25.Rhf1 O-O-O 26.Rf7 Rxf7 27.exf7+ Kb8 28.Qf4+ Kc8
+29.Be2 Ba8 30.Re1  1-0

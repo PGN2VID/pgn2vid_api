@@ -1,0 +1,24 @@
+[Event "Empresa A"]
+[Site "Montreal CAN"]
+[Date "2006.08.10"]
+[Round "3"]
+[White "Sutovsky,E"]
+[Black "Gulko,B"]
+[Result "1-0"]
+[WhiteElo "2607"]
+[BlackElo "2570"]
+[ECO "B65"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
+9.f4 h6 10.Bh4 Nxd4 11.Qxd4 Qa5 12.Bc4 e5 13.fxe5 dxe5 14.Qd3 Bg4 15.Rdf1 Rac8
+16.Bxf6 Bxf6 17.Kb1 Bh4 18.g3 Be7 19.Nd5 Qc5 20.Bb3 a6 21.h3 Be6 22.Qe2 b5
+23.Rf3 Qa7 24.Rhf1 Qb7 25.a3 Bd8 26.g4 Bh4 27.Qh2 Qb8 28.Ne3 g6 29.Bxe6 fxe6
+30.Ng2 Rxf3 31.Rxf3 Bg5 32.h4 Bd2 33.Rd3 Bf4 34.Qh1 Rd8 35.Qd1 Rxd3 36.Qxd3 Qb6
+37.Ka2 Qf2 38.Nxf4 Qxf4 39.Qd8+ Kf7 40.Qd7+ Kf8 41.Qc8+ Ke7 42.Qc7+ Ke8 43.Qc6+ Ke7
+44.Qb7+ Kf6 45.Qa8 Ke7 46.Qa7+ Kf6 47.Qc5 Kf7 48.Qc7+ Ke8 49.Qc6+ Ke7 50.Qxa6 Qxg4
+51.Qb7+ Kf6 52.Qb8 Ke7 53.Qc7+ Kf6 54.Qd8+ Kf7 55.Qd7+ Kf8 56.Qxb5 Qxe4 57.a4 Ke7
+58.a5 Kd6 59.a6 Kc7 60.a7 Qa8 61.Qxe5+ Kb7 62.Qg7+ Kb6 63.Qxg6 Qd5+ 64.b3 Qa5+
+65.Kb1 Qe1+ 66.Ka2 Qa5+ 67.Kb2 Qe5+ 68.c3 Kxa7 69.Qg1+ Kb7 70.Qg2+ Kc7 71.b4 Qf4
+72.Qg7+ Kc6 73.Qd4 Qf5 74.c4 e5 75.Qd5+ Kb6 76.Ka3 Qb1 77.Qb5+ Ka7 78.Qa5+ Kb7
+79.Qxe5 Qc1+ 80.Ka4 Qxc4 81.Qb5+ Qxb5+ 82.Kxb5 h5 83.Kc5 Ka6 84.Kc6 Ka7 85.b5 Kb8
+86.Kb6 Ka8 87.Kc7  1-0

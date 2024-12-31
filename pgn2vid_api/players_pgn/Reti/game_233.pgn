@@ -1,0 +1,14 @@
+[Event "Kristiania sim"]
+[Site "Kristiania"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Reti, Richard"]
+[Black "Storm, H."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Qf3 d5 4.exd5 Nf6 5.Bb5+ Bd7 6.Nc3 c6 7.Bc4 Bg4 8.Qf2 cxd5
+9.Bb5+ Nc6 10.Nge2 Bd6 11.b3 O-O 12.Bb2 Re8 13.O-O-O d4 14.Nb1 Ne4 15.Qg1 Bc5
+16.Rf1 Bxe2 17.Bxe2 d3  0-1

@@ -1,0 +1,24 @@
+[Event "AI Cup Div 3 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.1"]
+[White "Radjabov,T"]
+[Black "Paravyan,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2745"]
+[BlackElo "2599"]
+[ECO "D40"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.e3 Nc6 6.cxd5 exd5 7.Be2 Be7 8.O-O O-O
+9.b3 Ne4 10.Bb2 Bf6 11.Na4 cxd4 12.Nxd4 Bd7 13.Rc1 Nxd4 14.Bxd4 Bxa4 15.bxa4 Rc8
+16.Rxc8 Qxc8 17.Bxf6 Nxf6 18.Qd4 b6 19.Bd3 Qc7 20.h3 Rc8 21.Bf5 Re8 22.Rd1 Qc5
+23.g4 h6 24.Kg2 Re7 25.Qf4 Qc7 26.Qd4 Qc6 27.Rd2 g6 28.Bd3 Ne4 29.Rc2 Nc5
+30.a5 Qe6 31.Be2 Qe4+ 32.Qxe4 dxe4 33.h4 Kg7 34.Kg3 g5 35.hxg5 hxg5 36.axb6 axb6
+37.Rb2 Re6 38.Rd2 Nd3 39.Bxd3 Rd6 40.f3 exd3 41.e4 b5 42.Kf2 Ra6 43.Ke3 Ra3
+44.Rxd3 Rxa2 45.Rd5 Ra3+ 46.Kf2 f6 47.Rxb5 Kg6 48.e5 fxe5 49.Rxe5 Rb3 50.Rd5 Ra3
+51.Ke2 Kf6 52.Rd6+ Kf7 53.Rd3 Ra1 54.Ke3 Re1+ 55.Kd4 Kf6 56.Rc3 Rd1+ 57.Ke4 Re1+
+58.Kd3 Rd1+ 59.Ke2 Ra1 60.Rc6+ Kf7 61.Ke3 Ra4 62.Rd6 Rb4 63.Rd4 Rb1 64.Rc4 Re1+
+65.Kd4 Kf6 66.Rc6+ Kf7 67.Rb6 Re2 68.Rb5 Kf6 69.Rf5+ Kg6 70.Re5 Rd2+ 71.Ke4 Re2+
+72.Kd5 Rd2+ 73.Ke4 Re2+ 74.Kd4 Rd2+ 75.Ke3 Rd1 76.Re4 Kf6 77.Rd4 Re1+ 78.Kf2 Ra1
+79.Rd6+ Kf7 80.Ke3 Re1+ 81.Kd4 Re2 82.Rd5 Kf6 83.Rf5+ Kg6 84.Kd5 Ra2 85.Re5 Ra5+
+86.Ke6 Ra3  1/2-1/2

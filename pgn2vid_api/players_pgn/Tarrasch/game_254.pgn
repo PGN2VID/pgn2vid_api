@@ -1,0 +1,15 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "18"]
+[White "Tarrasch, Siegbert"]
+[Black "Mason, James"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.a4 Rb8
+9.axb5 axb5 10.dxe5 Be6 11.c3 Be7 12.Nd4 Nxd4 13.cxd4 f5 14.exf6 Nxf6 15.Qe2 Qd7
+16.Re1 Kf7 17.Bf4 Rb7 18.Nd2 Bg4 19.Nf3 Bxf3 20.Qxf3 c6 21.Be5 Rc8 22.Bc2 Kg8
+23.Bf5 Qe8 24.Qh3  1-0

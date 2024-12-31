@@ -1,0 +1,14 @@
+[Event "Simul"]
+[Site "Bergen NOR"]
+[Date "2001.02.10"]
+[Round "1"]
+[White "Shirov,A"]
+[Black "Manne,P"]
+[Result "1-0"]
+[WhiteElo "2718"]
+[BlackElo "2386"]
+[ECO "D35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Be7 6.e3 O-O 7.Bd3 Nbd7 8.Nge2 Re8
+9.Qc2 Nf8 10.O-O-O c6 11.Kb1 Nh5 12.Bxe7 Qxe7 13.e4 dxe4 14.Bxe4 Be6 15.Rhe1 Qb4
+16.d5 cxd5 17.Nxd5 Bxd5 18.Bxd5 Ne6 19.Nc3 Rad8 20.Bxe6 Rxd1+ 21.Qxd1  1-0

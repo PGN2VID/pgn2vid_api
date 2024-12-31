@@ -1,0 +1,20 @@
+[Event "chess.com Speed Poland"]
+[Site "chess.com INT"]
+[Date "2024.01.28"]
+[Round "3.20"]
+[White "Kosakowski,Jakub"]
+[Black "Duda,J"]
+[Result "0-1"]
+[WhiteElo "2486"]
+[BlackElo "2732"]
+[ECO "C00"]
+
+1.e4 e6 2.d4 d5 3.Bd3 dxe4 4.Bxe4 Nf6 5.Bf3 c5 6.Ne2 Nc6 7.Be3 cxd4 8.Nxd4 Ne5
+9.Nc3 a6 10.Qe2 Nxf3+ 11.gxf3 Bb4 12.Rg1 Bxc3+ 13.bxc3 Qa5 14.Qd3 O-O 15.Bh6 g6
+16.Bxf8 Kxf8 17.O-O-O Bd7 18.Kb2 Rc8 19.Nb3 Qe5 20.Rge1 Qf4 21.Qd4 Qxd4 22.cxd4 b6
+23.Nd2 Nd5 24.c4 Nf4 25.Re3 b5 26.c5 a5 27.Ne4 Bc6 28.Nd6 Rb8 29.Rb1 b4 30.Nc4 a4
+31.Nb6 Nd5 32.Re5 Nxb6 33.cxb6 Rxb6 34.Ra5 a3+ 35.Ka1 Rb7 36.Rb3 Bd5 37.Rd3 Rc7
+38.Rc5 Rb7 39.f4 Kg7 40.Re3 Kf6 41.Re5 b3 42.axb3 Rxb3 43.Re3 Rb2 44.Rxa3 Rxf2
+45.Ra7 Rxf4 46.Rcc7 Kg7 47.Kb2 g5 48.Kc3 h5 49.Ra1 h4 50.Kd3 Rf2 51.Rg1 Kg6
+52.Rc8 f6 53.Rg8+ Kf7 54.Rd8 Rxh2 55.Ra1 Rf2 56.Ra7+ Kg6 57.Rg8+ Kf5 58.Rag7 h3
+59.Rxg5+ fxg5 60.Rf8+ Kg4 61.Rxf2 Kg3  0-1

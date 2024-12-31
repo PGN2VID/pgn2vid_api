@@ -1,0 +1,16 @@
+[Event "Kristiania sim"]
+[Site "Kristiania"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Reti, Richard"]
+[Black "Haasted, K."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bg4 6.h3 Bh5 7.g4 Bg6 8.Ne5 c6
+9.h4 Nbd7 10.Nc4 Qc7 11.Bg2 h6 12.Qf3 e5 13.dxe5 Nxe5 14.Qe2 O-O-O 15.Nxe5 Re8
+16.f4 Nd7 17.O-O f6 18.Nxg6 Rxe2 19.Nxe2 Bc5+ 20.Kh1 Re8 21.Ng3 Nf8 22.Nxf8 Bxf8
+23.Bd2 Qd7 24.Rad1 Qxg4 25.Kh2 Qxh4+ 26.Bh3+ Kc7 27.Ba5+ b6 28.Rd7+ Kb8 29.Bd2 g5
+30.fxg5 hxg5 31.Rd1 Bc5 32.Bc1 g4 33.Bf4+ Ka8  0-1

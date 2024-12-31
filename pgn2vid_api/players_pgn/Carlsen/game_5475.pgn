@@ -1,0 +1,19 @@
+[Event "AI Cup Div 1 W"]
+[Site "chess.com INT"]
+[Date "2023.09.29"]
+[Round "5.1"]
+[White "Carlsen,M"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteElo "2839"]
+[BlackElo "2727"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 Bb4+ 5.Nc3 Nf6 6.Nxe5 b5 7.f3 O-O 8.a3 Ba5
+9.Be3 c5 10.dxc5 Qe8 11.Qd6 Be6 12.O-O-O Qc8 13.Nxb5 a6 14.Nd4 Bc7 15.Nxe6 Bxd6
+16.Rxd6 fxe6 17.Bxc4 Re8 18.c6 Re7 19.Bb6 Nbd7 20.cxd7 Nxd7 21.Nc6 Re8 22.Be3 Qc7
+23.Rhd1 Nf8 24.Kb1 Kh8 25.h4 h6 26.g4 Qf7 27.Ne5 Qf6 28.Bd4 Qxh4 29.Bxe6 Qh2
+30.Bd5 Kh7 31.g5 Rac8 32.Rc6 Rxc6 33.Nxc6 hxg5 34.Bf7 Rc8 35.Be5 Qg2 36.Nd4 g4
+37.fxg4 Qxe4+ 38.Ka2 Rd8 39.Rf1 Qg2 40.Rf5 g6 41.Rf6 Qxg4 42.Nf3 Rd3 43.Bd5 Rxd5
+44.Rf7+ Kh6 45.Bg7+ Kh5 46.Rxf8 Qc4+ 47.b3 Qe2+ 48.Bb2 Kg4 49.a4 Qxf3 50.Rxf3 Kxf3
+51.b4 g5 52.Kb3 g4 53.Kc4 Ke4 54.b5 axb5+ 55.axb5 g3 56.b6 g2 57.b7 Rd8  0-1

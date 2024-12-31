@@ -1,0 +1,23 @@
+[Event "Katara Bullet Final 2020"]
+[Site "lichess.org INT"]
+[Date "2020.08.26"]
+[Round "1.12"]
+[White "Paravyan,D"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteElo "2653"]
+[BlackElo "2728"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d4 Bxd4 5.O-O Nf6 6.Nxd4 Nxd4 7.f4 d6 8.fxe5 dxe5
+9.Nc3 Bg4 10.Qd3 Be6 11.Bg5 Bxc4 12.Qxc4 c6 13.Rad1 Qe7 14.Kh1 Qe6 15.Qb4 b6
+16.Bxf6 gxf6 17.a4 Rg8 18.a5 b5 19.a6 O-O-O 20.Qc5 Kb8 21.Rd3 Qd6 22.Qxd6+ Rxd6
+23.Rh3 Rg7 24.Rh6 Nxc2 25.Rhxf6 Rxf6 26.Rxf6 Nd4 27.h3 Kc7 28.Nd1 Kb6 29.Ne3 Kxa6
+30.Ng4 Kb6 31.Nxe5 a5 32.Nxf7 a4 33.e5 b4 34.Nd6 Kc5 35.g4 a3 36.bxa3 bxa3
+37.Ne4+ Kd5 38.Nc3+ Kxe5 39.Rf1 Ra7 40.Re1+ Kd6 41.Ra1 Nc2 42.Ra2 Nb4 43.Ra1 a2
+44.Kg2 Ra3 45.Ne4+ Kc7 46.Nd2 Nc2 47.Nc4 Nxa1 48.Nxa3 Nb3 49.Nc2 a1=Q 50.Nxa1 Nxa1
+51.h4 Nb3 52.h5 Nd4 53.g5 Ne6 54.g6 hxg6 55.hxg6 Ng7 56.Kf3 Kd6 57.Ke4 Ke6
+58.Kd4 Nf5+ 59.Kc5 Ne7 60.g7 Kf7 61.Kd6 Kxg7 62.Kc5 Kf6 63.Kd6 Kf7 64.Kc5 Ke6
+65.Kc4 Kd7 66.Kd4 Kc7 67.Kd3 Kd6 68.Kc3 Nd5+ 69.Kc4 c5 70.Kd3 Nc7 71.Kc4 Nb5
+72.Kd3 Kd5 73.Kc2 c4 74.Kd2 Kd4 75.Kc2 Nd6 76.Kc1 c3 77.Kd1 Kc4 78.Kc1 Kd3
+79.Kd1 Nc4 80.Kc1 Ne3 81.Kb1 c2+ 82.Ka2 Kd2  0-1

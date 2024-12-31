@@ -1,0 +1,21 @@
+[Event "SuperGM"]
+[Site "Dortmund GER"]
+[Date "2000.07.15"]
+[Round "8"]
+[White "Bareev,E"]
+[Black "Akopian,V"]
+[Result "0-1"]
+[WhiteElo "2702"]
+[BlackElo "2660"]
+[ECO "E41"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 d5 6.cxd5 exd5 7.Ne2 Nc6 8.a3 cxd4
+9.axb4 dxc3 10.b5 Ne5 11.Nxc3 Bg4 12.f3 Nxd3+ 13.Qxd3 Be6 14.Qd4 a6 15.bxa6 bxa6
+16.Bd2 O-O 17.Ne2 Re8 18.Bc3 Bd7 19.Nf4 Bb5 20.Kf2 Rc8 21.b3 Re4 22.fxe4 Nxe4+
+23.Kg1 Nxc3 24.h4 Ne4 25.Rd1 Qe8 26.Nxd5 h5 27.Nf4 Ng3 28.Rh3 Ne2+ 29.Nxe2 Bxe2
+30.Rd2 Bg4 31.Rh1 Qe6 32.Kh2 Qxb3 33.Rb2 Qe6 34.Rhb1 Kh7 35.Rb6 Qe7 36.Kg3 Bf5
+37.Rf1 Bg6 38.Rxa6 Rd8 39.Ra7 Qe8 40.Qf4 Rd5 41.e4 Rd4 42.Re1 Qc6 43.Rc7 Qb6
+44.Kh2 Rb4 45.Re7 Qd8 46.Ra7 Rb2 47.Ra3 Qd4 48.Rf3 Qb4 49.Ree3 Qd2 50.Qg3 Rb1
+51.Rf2 Qc1 52.Qf4 Qg1+ 53.Kg3 Qc1 54.Rfe2 Qc5 55.Rd2 Qc1 56.Ree2 Rb3+ 57.Kh2 Rb1
+58.Qe3 Rb4 59.Rd5 Qc7+ 60.Qg3 Qc4 61.Qf3 Qc7+ 62.g3 Qc1 63.Red2 Rb8 64.Rf2 Qc4
+65.Qe2 Qc7 66.Qe3 Rb1 67.Qc5 Bxe4 68.Rxh5+ Kg8 69.Rg2 Qd7 70.Qf2 Qd1  0-1

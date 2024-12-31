@@ -1,0 +1,21 @@
+[Event "chess.com SpeedChess Q2Sw"]
+[Site "chess.com INT"]
+[Date "2022.11.12"]
+[Round "8"]
+[White "Sreyas,Payyappat"]
+[Black "Jobava,Ba"]
+[Result "0-1"]
+[WhiteElo "2145"]
+[BlackElo "2578"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7 7.Ne5 Nxe5 8.dxe5 Qd5
+9.Bf4 O-O-O 10.Qe2 Bb4+ 11.Nd2 Qd4 12.Qe3 Bxg2 13.Rg1 Bc6 14.O-O-O Qxe3 15.Bxe3 g6
+16.Ne4 Ne7 17.c3 Bxe4 18.Bxe4 Ba5 19.Bxa7 Bb6 20.Bxb6 cxb6 21.Kc2 Kc7 22.Rd4 Rxd4
+23.cxd4 Ra8 24.a3 Nc6 25.Rd1 Rd8 26.Bxc6 Kxc6 27.Kd3 Rd5 28.Rc1+ Kd7 29.Ke4 f5+
+30.exf6 Rf5 31.f4 Rxf6 32.Rc4 Rf5 33.Rb4 Kc7 34.Rc4+ Kd7 35.Ra4 Rh5 36.Ra8 Rxh2
+37.b4 Re2+ 38.Kf3 Ra2 39.Ke4 b5 40.Rh8 Re2+ 41.Kf3 Rh2 42.Kg3 Rh1 43.Kg2 Rh5
+44.Kf3 Rh3+ 45.Ke4 h5 46.Ke5 Re3+ 47.Kf6 Re4 48.Kxg6 Rxd4 49.Rxh5 Kc6 50.Rc5+ Kb6
+51.Kg5 Re4 52.Re5 Rxe5+ 53.fxe5 Kc6 54.Kg6 Kd5 55.Kf6 b6 56.Ke7 Kxe5 57.Kd7 Kd5
+58.Kc7 e5 59.Kxb6 e4 60.Kxb5 e3 61.Ka6 e2 62.b5 e1=Q 63.b6 Kc6 64.b7 Qe2+
+65.Ka7 Qe3+ 66.Kb8 Qb6 67.Kc8 Qxb7+ 68.Kd8 Qd7+  0-1

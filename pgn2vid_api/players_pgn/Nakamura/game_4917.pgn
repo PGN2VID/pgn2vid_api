@@ -1,0 +1,23 @@
+[Event "Chess.com Rapid Wk3 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.27"]
+[Round "3"]
+[White "Sarana,A"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2685"]
+[BlackElo "2736"]
+[ECO "A40"]
+
+1.d4 e6 2.c4 b6 3.e4 Bb7 4.Bd3 Nc6 5.Nf3 Nb4 6.O-O Ne7 7.Nc3 Nxd3 8.Qxd3 Ng6
+9.Bg5 Be7 10.Bxe7 Qxe7 11.d5 O-O 12.Rad1 d6 13.Nd4 Rac8 14.f4 c5 15.dxc6 Bxc6
+16.Nxc6 Rxc6 17.g3 a6 18.b3 Rfc8 19.Ne2 Nf8 20.Nd4 R6c7 21.Nf3 Rc6 22.e5 dxe5
+23.Nxe5 R6c7 24.Qd6 f6 25.Nf3 b5 26.Qxe7 Rxe7 27.cxb5 axb5 28.Rd2 b4 29.Re1 Ra7
+30.Re4 Rca8 31.Rxb4 Rxa2 32.Rxa2 Rxa2 33.Rb8 Kf7 34.Rb7+ Kg8 35.Rb8 Kf7 36.Rb7+ Kg8
+37.b4 Rb2 38.b5 Rb4 39.b6 Ng6 40.Kf2 Kf8 41.Ne1 Rb2+ 42.Kf3 Ne7 43.Nd3 Rb3
+44.Ke2 Rb5 45.Kd2 Nf5 46.Kc3 Nd6 47.Rb8+ Ke7 48.Nb4 Kd7 49.g4 h5 50.h3 hxg4
+51.hxg4 g5 52.fxg5 Rxg5 53.Ra8 Rc5+ 54.Kd3 Rb5 55.Ra7+ Ke8 56.Na6 Rxb6 57.Nc7+ Kf7
+58.Ke2 Rb7 59.Rxb7 Nxb7 60.Kf3 Nd6 61.Na6 e5 62.Nc5 Kg6 63.Kg3 Nf7 64.Ne4 Ng5
+65.Nd6 Kg7 66.Kf2 Kf8 67.Nf5 Kf7 68.Ke3 Ke6 69.Ng3 Nf7 70.Nh5 Nd6 71.Ng7+ Kf7
+72.Nh5 Kg6 73.Kf3 Kg5 74.Ng3 e4+ 75.Ke3 Kxg4 76.Ne2 f5 77.Nc3 f4+ 78.Kd4 e3
+79.Kd3 Kf3 80.Ne2 Nf5 81.Ng1+ Kg2 82.Ne2 f3 83.Nf4+ Kf1 84.Ke4 e2 85.Nd3 f2  0-1

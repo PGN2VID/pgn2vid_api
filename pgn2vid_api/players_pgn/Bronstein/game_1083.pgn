@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Rossolimo, Nicolas"]
+[Black "Bronstein, David I"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 g6 6.Nf3 Bg4 7.Qb3 Bxf3 8.Qxb7 Qc8
+9.Qxc8+ Rxc8 10.gxf3 Nxd4 11.Be3 Nc6 12.Bb5 e5 13.Bxa7 Bd6 14.Bxc6+ Rxc6
+15.a4 Ne7 16.Na3 Kd7 17.Nb5 Nf5 18.Ke2 Ra8 19.Be3 d4 20.Bd2 dxc3 21.Bxc3 Ke6
+22.Rhd1 Bf8 23.Rd3 g5 24.b3 Rb8 25.Rad1 Be7 26.Ba5 f6 27.Rc3 Rxc3 28.Bxc3 Nd6
+29.Nxd6 Bxd6 30.Rb1 Kd5 31.Kd3 f5 32.Kc2 h5 33.Rd1+ Kc6 34.h3 h4 35.Rg1 Rg8
+36.b4 e4 37.b5+ Kc5 38.Kb3 Bf4 39.fxe4 fxe4 40.Rd1 Kb6 41.Rd7  1-0

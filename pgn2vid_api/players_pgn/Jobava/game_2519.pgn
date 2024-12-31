@@ -1,0 +1,21 @@
+[Event "Bogdanovich Mem Final TB"]
+[Site "lichess.org INT"]
+[Date "2021.02.13"]
+[Round "2"]
+[White "Korobov,A"]
+[Black "Jobava,Ba"]
+[Result "1-0"]
+[WhiteElo "2683"]
+[BlackElo "2603"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.cxd5 cxd5 5.Bg5 Nc6 6.Bxf6 gxf6 7.e3 e6 8.Bd3 Bd7
+9.f4 h5 10.Nf3 h4 11.O-O f5 12.Rc1 Rc8 13.a3 Be7 14.b4 Bf6 15.Qd2 Kf8 16.Rc2 Kg7
+17.Rfc1 Ne7 18.Ne5 Be8 19.Ne2 Rxc2 20.Qxc2 Nc6 21.b5 Nxe5 22.dxe5 Be7 23.Qc7 Qxc7
+24.Rxc7 Bxa3 25.Nd4 Kg6 26.Kf2 Bb4 27.Nb3 a6 28.b6 Ba4 29.Nd4 Rb8 30.g4 hxg3+
+31.hxg3 Ba5 32.g4 Bxb6 33.gxf5+ exf5 34.Bxf5+ Kg7 35.Rc1 Rh8 36.Kg3 Bd8 37.Bb1 Bd7
+38.f5 a5 39.f6+ Kf8 40.Bf5 Ke8 41.Bxd7+ Kxd7 42.Rc5 a4 43.Rxd5+ Kc8 44.Nb5 Rh7
+45.Kg4 Bb6 46.e4 Rh1 47.Nd6+ Kc7 48.Rd3 Rg1+ 49.Kh5 Rh1+ 50.Kg4 Rg1+ 51.Kf3 Rf1+
+52.Kg2 Rf4 53.Nxf7 Rxe4 54.Kf3 Re3+ 55.Rxe3 Bxe3 56.Nd6 Bh6 57.Ke4 Kd7 58.Nb5 Ke6
+59.Nd4+ Kf7 60.Kf5 a3 61.e6+ Ke8 62.e7 Kf7 63.Nb5 Bf4 64.Kxf4 a2 65.Nd6+ Kxf6
+66.e8=Q  1-0

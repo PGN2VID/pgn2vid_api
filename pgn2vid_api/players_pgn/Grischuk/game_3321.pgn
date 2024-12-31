@@ -1,0 +1,16 @@
+[Event "FIDE Steinitz Mem Open"]
+[Site "chess24.com INT"]
+[Date "2020.05.17"]
+[Round "18.4"]
+[White "Grischuk,A"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2777"]
+[BlackElo "2764"]
+[ECO "D27"]
+
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 e6 5.Nf3 c5 6.O-O a6 7.dxc5 Bxc5 8.Qxd8+ Kxd8
+9.Ne5 Ke7 10.Be2 Rd8 11.Nd2 Kf8 12.Nb3 Be7 13.Bd2 Nbd7 14.Nc4 b6 15.Rfd1 Bb7
+16.f3 Rac8 17.e4 a5 18.Be3 Ba6 19.Rac1 a4 20.Nbd2 Ne5 21.Bxb6 Rxd2 22.Nxd2 Rxc1
+23.Rxc1 Bxe2 24.Rc8+ Ne8 25.Bc5 Bxc5+ 26.Rxc5 Nd3 27.Rb5 Nd6 28.Rb8+ Ke7
+29.b3 axb3 30.Nxb3 Ne5 31.Nd4 Bc4 32.a4 Nd7 33.Nc6+ Kf6 34.Rd8  1-0

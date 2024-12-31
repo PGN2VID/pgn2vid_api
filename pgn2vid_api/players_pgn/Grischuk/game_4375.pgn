@@ -1,0 +1,22 @@
+[Event "Chess.com RCC Wk24 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.08.06"]
+[Round "6"]
+[White "Grischuk,A"]
+[Black "Azarov,S"]
+[Result "1-0"]
+[WhiteElo "2745"]
+[BlackElo "2562"]
+[ECO "E49"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5
+9.Ne2 Qc7 10.Bd3 Nc6 11.f4 b6 12.O-O Rd8 13.Bb2 Bb7 14.Ng3 Na5 15.Qe2 Rac8
+16.Rad1 cxd4 17.cxd4 Nc4 18.Rc1 b5 19.a4 a6 20.axb5 axb5 21.e4 Qb6 22.Ba1 Ra8
+23.Kh1 Ra3 24.f5 exf5 25.Nxf5 Rxd3 26.Qxd3 Bxe4 27.Qg3 Bxf5 28.Rxf5 Nd5 29.h3 Qd6
+30.Qxd6 Rxd6 31.Re1 f6 32.Re8+ Kf7 33.Rb8 Nce3 34.Rf3 Rc6 35.Bb2 b4 36.Rb7+ Kg8
+37.Rf2 h5 38.Re2 Kh7 39.Kg1 Nd1 40.Rd2 N1e3 41.Re2 Nd1 42.Rb5 N1c3 43.Bxc3 bxc3
+44.Rc5 Rd6 45.Kf2 g5 46.Kf3 Kg6 47.g3 f5 48.Re5 g4+ 49.hxg4 hxg4+ 50.Ke2 Nf6
+51.Rxc3 Ne4 52.Rxe4 fxe4 53.Ke3 Re6 54.Rc5 Rf6 55.Kxe4 Rf3 56.d5 Kf6 57.d6 Ke6
+58.Rd5 Kd7 59.Rd3 Rf1 60.Ke5 Rf2 61.Rd4 Re2+ 62.Kf5 Rf2+ 63.Kxg4 Rf1 64.Kg5 Rf3
+65.g4 Rf1 66.Kg6 Rf2 67.g5 Rf1 68.Kg7 Rf2 69.g6 Rf1 70.Kg8 Rf2 71.g7 Rf1
+72.Rh4  1-0

@@ -1,0 +1,18 @@
+[Event "AI Cup Div 1 L"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "1.2"]
+[White "Giri,A"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2760"]
+[BlackElo "2780"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 b6 4.Bd3 Bb7 5.O-O d6 6.Re1 Nd7 7.a4 a6 8.a5 b5 9.c4 bxc4
+10.Bxc4 e6 11.d5 e5 12.b4 Ne7 13.b5 O-O 14.Nc3 h6 15.bxa6 Bxa6 16.Qe2 Bc8
+17.a6 f5 18.a7 g5 19.Ra3 f4 20.h3 Kh8 21.Bd2 Nb6 22.Nb5 Bd7 23.Bd3 Nec8 24.Rea1 Rf7
+25.Bb4 Bf6 26.Nh2 Kh7 27.Nc3 c6 28.dxc6 Bxc6 29.Bb5 Bb7 30.Qh5 Qf8 31.Be2 Bd8
+32.Bg4 Nd7 33.Be6 Re7 34.Bf5+ Kh8 35.Ng4 Nf6 36.Qg6 Nxg4 37.hxg4 Qg7 38.Qxg7+ Kxg7
+39.Nd5 Bxd5 40.exd5 Rc7 41.Bxc8 Rcxc8 42.Bxd6 e4 43.Rb1 e3 44.fxe3 fxe3 45.Rb7+ Kg8
+46.Rxe3 Bf6 47.Be5 Be7 48.Rxe7  1-0

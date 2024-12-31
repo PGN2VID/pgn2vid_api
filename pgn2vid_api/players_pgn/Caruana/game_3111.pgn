@@ -1,0 +1,16 @@
+[Event "Chess.com Rapid Wk4 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.03.05"]
+[Round "2"]
+[White "Caruana,F"]
+[Black "Sarana,A"]
+[Result "1-0"]
+[WhiteElo "2781"]
+[BlackElo "2685"]
+[ECO "E54"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 dxc4 7.Bxc4 c5 8.O-O cxd4
+9.exd4 b6 10.Bd3 Bb7 11.a3 Be7 12.Bf4 Nbd7 13.Qe2 Nd5 14.Nxd5 Bxd5 15.Rac1 Rc8
+16.Ba6 Rxc1 17.Rxc1 Qa8 18.Rc7 Bxf3 19.Qxf3 Qxf3 20.gxf3 Rd8 21.Rxa7 e5 22.dxe5 Kf8
+23.b4 g5 24.Bg3 h5 25.Bb5 Nb8 26.e6 h4 27.Bc7 Rc8 28.exf7 h3 29.Kf1 Kxf7
+30.Bd6 Rc1+ 31.Ke2 Nc6 32.Bxc6 Rxc6 33.Bxe7  1-0

@@ -1,0 +1,16 @@
+[Event "London sim"]
+[Site "London"]
+[Date "1850.??.??"]
+[Round "?"]
+[White "Staunton, Howard"]
+[Black "NN"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6
+9.Nc3 Bg4 10.Qa4 Bd7 11.Qb3 Na5 12.Bxf7+ Kf8 13.Qc2 Kxf7 14.e5 Kf8 15.Re1 Qc8
+16.d5 Bf5 17.Qd2 Nh6 18.Qf4 Ng4 19.e6 Bxf2+ 20.Kh1 Bxe1 21.Qxf5+ Nf6 22.Ne4 Bc3
+23.Bh6 Qd8 24.Rc1 Bb2 25.Bxg7+ Kxg7 26.Qg5+ Kf8 27.Qh6+ Ke8 28.Qg7 Rf8 29.Rxc7 Nxd5
+30.Rd7 Nc4 31.Qxh7 Nf4 32.e7 Rf7 33.Qxf7+ Kxf7 34.exd8=Q+  1-0

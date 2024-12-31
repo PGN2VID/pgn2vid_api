@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "9"]
+[White "Gunsberg, Isidor"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D07"]
+
+1.d4 d5 2.Nf3 Bg4 3.c4 Nc6 4.h3 Bh5 5.g4 Bg6 6.cxd5 Qxd5 7.Nc3 Qa5 8.d5 O-O-O
+9.Bd2 Nb8 10.e4 e6 11.a3 Qb6 12.Be3 c5 13.Rc1 exd5 14.Nxd5 Qe6 15.Bxc5 Bxc5
+16.Rxc5+ Nc6 17.Ng5 Qd6 18.Qc2 h6 19.Bb5 hxg5 20.Bxc6 Bxe4 21.Bxb7+ Kb8 22.Qb3 Qxc5
+23.Ba6+ Qb6 24.Nxb6 Kc7 25.Qc4+ Bc6 26.Na4 Nf6 27.f3 Rhe8+ 28.Kf2 Rd2+ 29.Kg3 Re3
+30.Qxf7+ Rd7  0-1

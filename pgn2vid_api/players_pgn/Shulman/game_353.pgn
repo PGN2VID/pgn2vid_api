@@ -1,0 +1,21 @@
+[Event "Chigorin mem"]
+[Site "St. Petersburg"]
+[Date "1998.11.04"]
+[Round "5"]
+[White "Turov, Maxim"]
+[Black "Shulman, Yuri"]
+[Result "0-1"]
+[WhiteElo "2460"]
+[BlackElo "2520"]
+[ECO "C03"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.Ngf3 Nf6 5.Bd3 c5 6.exd5 Qxd5 7.dxc5 Nbd7 8.b4 a5
+9.Bc4 Qh5 10.c3 Nd5 11.Bxd5 Qxd5 12.Bb2 axb4 13.cxb4 Rxa2 14.Rxa2 Qxa2 15.Qa1 Qxa1+
+16.Bxa1 Nf6 17.O-O Nd5 18.Bxg7 Rg8 19.Bd4 Nxb4 20.Ne4 Nd5 21.Ne5 f6 22.Nc4 e5
+23.Be3 Bh3 24.Ng3 Bd7 25.Na5 f5 26.Bd2 f4 27.Ne4 Bh3 28.g3 Bxf1 29.Kxf1 Bxc5
+30.Nxc5 b6 31.Nd3 bxa5 32.Bxa5 Rg5 33.Bd2 Rh5 34.gxf4 e4 35.Nc5 Nf6 36.Bc3 Rxc5
+37.Bxf6 Kf7 38.Bd4 Rc4 39.Be3 Ke6 40.Kg2 Kf5 41.h3 Rc6 42.Bd2 Rg6+ 43.Kf1 Ke6
+44.Bc3 Kd5 45.Bd2 Kd4 46.Be3+ Kd3 47.Bc5 h5 48.Be7 Rg7 49.Bf6 Rb7 50.Be5 Rb5
+51.Bf6 Rc5 52.Be5 Rb5 53.Bf6 Rb8 54.Be5 Rb6 55.Bg7 Rg6 56.Be5 Rg8 57.Bf6 Rf8
+58.Be5 Rf7 59.Bd6 Kd2 60.Be5 Rd7 61.h4 Kd3 62.Bf6 Rb7 63.Be5 Rb1+ 64.Kg2 Ke2
+65.Bd4 Rb4 66.Bf6 Rb6 67.Be7 Re6 68.Bg5 Rd6 69.Be7 Rd7 70.Bf6 Rd3  0-1

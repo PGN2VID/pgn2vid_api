@@ -1,0 +1,17 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "3.1"]
+[White "Artemiev,V"]
+[Black "Andreikin,D"]
+[Result "1-0"]
+[WhiteElo "2697"]
+[BlackElo "2729"]
+[ECO "A16"]
+
+1.c4 Nf6 2.Nc3 d6 3.g3 g6 4.Bg2 Bg7 5.d4 O-O 6.h3 c5 7.e3 Nc6 8.Nge2 e5 9.O-O Re8
+10.dxc5 dxc5 11.Qxd8 Rxd8 12.b3 Nb4 13.a3 Nd3 14.Rd1 Be6 15.Rb1 Rd7 16.g4 Rad8
+17.g5 Ne8 18.Nd5 Nxc1 19.Rbxc1 h6 20.h4 hxg5 21.hxg5 Bf8 22.Nec3 Kg7 23.Kh2 a6
+24.a4 Bf5 25.a5 Bd6 26.Kg1 Bc7 27.Na4 Bg4 28.f3 Be6 29.Nxc5 Bxa5 30.Nxd7 Rxd7
+31.b4 Bd8 32.f4 Bg4 33.Rd3 Bf5 34.Rd2 exf4 35.exf4 Nc7 36.Rcd1 a5 37.Ne3 Rxd2
+38.Rxd2 Ne6 39.Nxf5+ gxf5 40.Rxd8 Nxd8 41.bxa5 Kf8 42.Bxb7  1-0

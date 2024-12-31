@@ -1,0 +1,15 @@
+[Event "Zuerich sim"]
+[Site "Zuerich"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Timman, Jan H"]
+[Black "Arikok, Enis"]
+[Result "0-1"]
+[WhiteElo "2675"]
+[BlackElo "2290"]
+[ECO "C57"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4 6.c3 b5 7.Bf1 Nxd5 8.Ne4 Qh4
+9.Ng3 Bg4 10.f3 e4 11.cxd4 Bd6 12.Qe2 O-O 13.fxg4 Nb4 14.Kd1 Bxg3 15.hxg3 Qxh1
+16.Nc3 f5 17.a3 Nd3 18.Kc2 b4 19.Nd5 b3+ 20.Kxb3 fxg4 21.Ne3 Rf2 22.Qxg4 Rxf1
+23.Nxf1 Qxf1 24.Qxe4 Nxc1+ 25.Kc2 Qc4+ 26.Kd1 Rf8 27.d3 Nxd3 28.Kd2 Nc5  0-1

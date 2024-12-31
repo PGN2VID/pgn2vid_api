@@ -1,0 +1,21 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "2"]
+[White "Alekseev,Evgeny"]
+[Black "Mohammad,Nubairshah Shaikh"]
+[Result "1-0"]
+[WhiteElo "2573"]
+[BlackElo "2432"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nf6 5.c3 Bg4 6.Qb3 Qd7 7.Bf4 Nc6 8.Nd2 e6
+9.Ngf3 Bd6 10.Bg3 Bh5 11.O-O O-O 12.Rfe1 Rab8 13.a4 Rfc8 14.a5 Bg6 15.Bf1 Bxg3
+16.hxg3 Qc7 17.Qa4 h6 18.Qa3 b6 19.axb6 axb6 20.Bb5 Ne4 21.Bxc6 Qxc6 22.Ne5 Qb7
+23.Nxg6 fxg6 24.Nxe4 dxe4 25.Qd6 Qd5 26.Qf4 Ra8 27.Rab1 Ra2 28.Rxe4 Rf8 29.Qe3 Kh7
+30.f3 Rf6 31.g4 g5 32.Qd3 Kg8 33.c4 Qa8 34.Qb3 Ra1 35.Rxa1 Qxa1+ 36.Kh2 Qc1
+37.Qxb6 Qxc4 38.b4 Kh7 39.Qc5 Qf1 40.Qc2 Kg8 41.Qe2 Qxe2 42.Rxe2 Rf4 43.Re4 Rf7
+44.b5 Rb7 45.Re5 Kf7 46.Kg3 Ke7 47.Kf2 Kd6 48.Ke3 Ra7 49.Rc5 Ra2 50.g3 Rb2
+51.Kd3 Rb1 52.Kc2 Rf1 53.b6 Rf2+ 54.Kb3 Rxf3+ 55.Ka4 Rf1 56.Kb5 Rb1+ 57.Ka6 Ra1+
+58.Ra5 Rb1 59.b7 Kc6 60.Rc5+ Kd7 61.Ka7 Ra1+ 62.Kb8 Ra4 63.Rc7+ Kd8 64.Rxg7 Rxd4
+65.Ka7 Ra4+ 66.Kb6 Rb4+ 67.Kc6 e5 68.Rg8+ Ke7 69.b8=Q Rxb8 70.Rxb8  1-0

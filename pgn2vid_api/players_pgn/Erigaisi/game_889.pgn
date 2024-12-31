@@ -1,0 +1,25 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "18"]
+[White "Xiong,Jeffery"]
+[Black "Erigaisi,Arjun"]
+[Result "1-0"]
+[WhiteElo "2709"]
+[BlackElo "2559"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 c6 3.Nc3 Nf6 4.Nf3 g6 5.Be3 Bg7 6.Qd2 O-O 7.Bh6 Nbd7 8.Be2 e5
+9.O-O-O exd4 10.Nxd4 Nc5 11.Bxg7 Kxg7 12.f3 Re8 13.Nb3 Nxb3+ 14.axb3 d5 15.exd5 Nxd5
+16.Nxd5 Qxd5 17.Qxd5 cxd5 18.Rhe1 Be6 19.Rd4 Kf6 20.Bd3 Red8 21.Kd2 h5 22.Rf4+ Kg7
+23.h4 Rd7 24.Rb4 Rad8 25.Ra1 b6 26.Rd4 Rc7 27.c3 Kf6 28.Rda4 a5 29.Rf4+ Kg7
+30.Rd4 Kf6 31.Re1 Rdc8 32.Ra1 Kg7 33.b4 axb4 34.Rxb4 Rd8 35.Ra6 Rcd7 36.Raxb6 d4
+37.cxd4 Rxd4 38.Rxd4 Rxd4 39.Ke3 Rxh4 40.b4 Rh2 41.Bf1 Rh1 42.Kf2 Rh4 43.Ke3 g5
+44.b5 Rb4 45.Rd6 Rb1 46.Bd3 Rb2 47.b6 h4 48.Kd4 Kf6 49.Kc3 Rb3+ 50.Kc2 Rb4
+51.Kc3 Rb3+ 52.Kc2 Rb4 53.Rc6 Ke5 54.Kc3 Rb3+ 55.Kc2 Bd5 56.Rh6 f6 57.f4+ gxf4
+58.Rh5+ Ke6 59.Rxd5 Rxb6 60.Bc4 Ke7 61.Rd4 f3 62.gxf3 h3 63.Rh4 Kd6 64.Rxh3 Kc5
+65.Rh4 Rd6 66.Kc3 Rd1 67.Rh5+ Kd6 68.Rf5 Ke7 69.Rf4 Rc1+ 70.Kd4 Rh1 71.Bd3 Kf8
+72.Rf5 Kg7 73.Ke3 Rg1 74.Be4 Ra1 75.Rf4 Ra3+ 76.Kf2 Kf7 77.Rg4 Ke7 78.Kg3 Ra1
+79.Rf4 Ra2 80.Rf5 Ra5 81.Kf4 Re5 82.Rxe5+ Kd6 83.Rf5 Ke6 84.Kg4 Ke7 85.Kh5 Ke6
+86.Kg6 Ke7 87.Rxf6 Kd7 88.f4 Kc7 89.f5 Kb8 90.Re6 Kc7 91.Kf6 Kb8 92.Ke5 Kc7
+93.f6 Kb8 94.f7 Kc7 95.f8=Q Kd7 96.Qf7+ Kd8 97.Re8+  1-0

@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Honfi, Karoly"]
+[Black "Bronstein, David I"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C16"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.Qg4 Bf8 6.Bg5 Qd7 7.Bb5 Nc6 8.Nf3 Bb7
+9.O-O-O h6 10.Bf4 a6 11.Be2 O-O-O 12.h4 h5 13.Qh3 f6 14.g4 hxg4 15.Qxg4 Nh6
+16.Qg2 Bb4 17.Nb1 Qf7 18.exf6 gxf6 19.c3 Bf8 20.Nbd2 Re8 21.Qf1 e5 22.Bxh6 Bxh6
+23.Bxa6 e4 24.Ng1 Rhg8 25.Kb1 Qg6 26.Nb3 Nb8 27.Qh3+ f5 28.Bxb7+ Kxb7 29.Ne2 f4
+30.Rdg1 Qh5 31.Nbc1 Nc6 32.Rf1 Ne7 33.f3 Nf5 34.fxe4 Rxe4 35.Rhg1 Rxg1 36.Nxg1 Ng3
+37.Rf2 Re3 38.Qg2 Qf5+ 39.Rc2 Ne4 40.a3 f3  0-1

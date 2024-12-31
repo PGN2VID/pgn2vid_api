@@ -1,0 +1,19 @@
+[Event "AI Cup Div 1 W"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "3.3"]
+[White "Carlsen,M"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteElo "2839"]
+[BlackElo "2727"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bc1 Nf6 8.f3 e6
+9.Be3 b5 10.Qd2 Nbd7 11.g4 b4 12.Na4 h6 13.O-O-O Ne5 14.b3 Bd7 15.Nb2 d5
+16.Bf4 Nxf3 17.Nxf3 Nxe4 18.Qd4 Rg8 19.Ne5 Bc5 20.Qxe4 dxe4 21.Nxd7 Qxd7
+22.Rxd7 Kxd7 23.Nc4 g5 24.Be5 Ke7 25.h4 Rad8 26.hxg5 Rxg5 27.Be2 Rg6 28.Bf4 Bd4
+29.Ne5 Bxe5 30.Bxe5 f5 31.gxf5 exf5 32.Bf4 a5 33.Bxh6 Rg2 34.Bf1 Rg6 35.Be3 Kf6
+36.Bc4 Ke5 37.Rh7 f4 38.Rh5+ Kf6 39.Bb6 Rd7 40.Bxa5 Rg1+ 41.Kb2 f3 42.Bxb4 f2
+43.Bc3+ Kg6 44.Re5 Re1 45.Re6+ Kg5 46.Rf6 e3 47.Rf8 Rc7 48.Bd4 Rxc4 49.Bxe3+ Rxe3
+50.bxc4  1-0

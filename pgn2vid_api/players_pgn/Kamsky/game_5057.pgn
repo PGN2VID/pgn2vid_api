@@ -1,0 +1,21 @@
+[Event "Titled Tue 18th Apr Early"]
+[Site "chess.com INT"]
+[Date "2023.04.18"]
+[Round "3"]
+[White "Kamsky,G"]
+[Black "Harshad,S"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2255"]
+[ECO "D02"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.c3 Qb6 6.Qb3 c4 7.Qc2 Bf5 8.Qc1 Nh5
+9.Bg3 Nxg3 10.hxg3 h6 11.Nbd2 e6 12.Be2 Bd6 13.Bd1 e5 14.dxe5 Nxe5 15.Nxe5 Bxe5
+16.Nf3 Bf6 17.Bc2 Bxc2 18.Qxc2 O-O-O 19.O-O Kb8 20.Rfd1 g6 21.Rd2 Rd7 22.Rad1 Rhd8
+23.Nd4 h5 24.Ne2 Be5 25.Nf4 Qc6 26.Rc1 Qf6 27.Qd1 Qc6 28.Qf3 Ka8 29.Rcd1 Bxf4
+30.gxf4 Qe6 31.Rd4 f5 32.b3 cxb3 33.axb3 a6 34.Qe2 Qc6 35.Qd3 Rc8 36.Rc1 Kb8
+37.Qd2 Rcc7 38.Rd3 Qe6 39.Rd1 Qb6 40.c4 Rd6 41.cxd5 Qb5 42.Qb2 Ka7 43.b4 Rcd7
+44.Qd4+ Qb6 45.Kh2 Qxd4 46.Rxd4 Kb6 47.Kg3 Kb5 48.Kh4 b6 49.Kg5 a5 50.bxa5 bxa5
+51.g3 Ka6 52.Rc1 Kb5 53.Rb1+ Ka6 54.Ra1 Rxd5 55.Rxd5 Rxd5 56.Kxg6 Rd2 57.Kxf5 Kb5
+58.e4 a4 59.e5 Kb4 60.e6 a3 61.e7 Re2 62.Kf6 Kb3 63.Kf7 Kb2 64.Rxa3 Kxa3
+65.e8=Q Rxe8 66.Kxe8 Kb3 67.f5 Kc3 68.f6 Kd3 69.f7 Ke2 70.f8=Q h4 71.gxh4  1-0

@@ -1,0 +1,20 @@
+[Event "chess.com SpeedChess Q2Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.23"]
+[Round "8"]
+[White "Hernandez Gonzalez,W"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2489"]
+[BlackElo "2641"]
+[ECO "B41"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.g3 b5 6.Bg2 Bb7 7.a4 b4 8.O-O Nc6
+9.b3 h5 10.c4 bxc3 11.Nxc3 Nxd4 12.Qxd4 Ne7 13.Bb2 Nc6 14.Qe3 h4 15.Rfd1 hxg3
+16.hxg3 Qa5 17.Nd5 Bc5 18.Qe2 Kf8 19.Ne3 d6 20.Nc4 Qc7 21.Rac1 Qe7 22.e5 d5
+23.Nd6 Bxd6 24.exd6 Qxd6 25.Qg4 f6 26.Rc2 Kf7 27.Rdc1 Rac8 28.Rd2 Ne5 29.Qe2 Rxc1+
+30.Bxc1 Qb4 31.Bb2 Ng6 32.Bd4 Rc8 33.Qd1 Ne7 34.a5 Nf5 35.Bb6 Qc3 36.Qh5+ Kg8
+37.Qe2 Kf7 38.Qh5+ g6 39.Qe2 Qc1+ 40.Rd1 Qc2 41.Qe1 Qxb3 42.Rb1 Qc2 43.Ba7 Bc6
+44.Rc1 Qa4 45.Bb6 Bd7 46.Ra1 Qc6 47.Bf1 Qb7 48.Rb1 Bb5 49.Bg2 Qd7 50.Qb4 Qc6
+51.Qe1 Qc3 52.Qd1 Qc2 53.Qe1 Qe2 54.Qb4 Qd3 55.Re1 d4 56.Be4 Qc3 57.Qb1 d3
+58.Bxf5 gxf5 59.Qa2 Bc4 60.Qa4 Qxe1+ 61.Kg2 Qe4+ 62.f3 Qc6 63.Qa3 d2 64.Qe3 d1=Q  0-1

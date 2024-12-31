@@ -1,0 +1,23 @@
+[Event "chess.com Speed 2020"]
+[Site "chess.com INT"]
+[Date "2020.12.02"]
+[Round "2.34"]
+[White "Aronian,L"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteElo "2781"]
+[BlackElo "2784"]
+[ECO "B50"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.d3 e6 5.O-O Be7 6.Bb3 O-O 7.Re1 b5 8.Nc3 a6
+9.Ne2 Bb7 10.Ng3 Nc6 11.c3 Re8 12.d4 Bf8 13.Bg5 h6 14.Bxf6 Qxf6 15.d5 exd5
+16.Bxd5 Rad8 17.a4 b4 18.cxb4 cxb4 19.Rc1 Na5 20.Bxb7 Nxb7 21.Qd4 Qxd4 22.Nxd4 Nc5
+23.Red1 Nxa4 24.Ra1 Nxb2 25.Rdb1 Nd3 26.Nc6 Rc8 27.Nxb4 Nxb4 28.Rxb4 d5 29.Rba4 dxe4
+30.Nxe4 Rc2 31.g4 Re6 32.Rd4 Be7 33.Raa4 g6 34.Kg2 Kg7 35.Kf3 Rb2 36.Rd5 Rb3+
+37.Kg2 Rb4 38.Rxb4 Bxb4 39.Nc5 Rc6 40.Nd3 Bd6 41.Ne5 Bxe5 42.Rxe5 Kf6 43.Ra5 Ke6
+44.h4 Kd7 45.h5 gxh5 46.Rxh5 Rf6 47.Ra5 Kc7 48.Ra1 Kb6 49.Rb1+ Kc5 50.Ra1 Kb5
+51.Rb1+ Kc4 52.Ra1 Kb4 53.Rb1+ Kc3 54.Ra1 Kb2 55.Ra5 Kb3 56.Ra1 Kb4 57.Rb1+ Kc5
+58.Ra1 Kb6 59.Rb1+ Ka7 60.Ra1 Rf4 61.Kg3 Rb4 62.f3 Rb5 63.Rh1 Rb6 64.Ra1 Kb7
+65.Kf4 Rf6+ 66.Ke4 Re6+ 67.Kf5 Rb6 68.f4 Kc7 69.Ke5 Kd7 70.Kf5 Ke7 71.Ke5 Rb5+
+72.Ke4 a5 73.Kf3 Kd6 74.Rd1+ Kc5 75.Rd7 a4 76.Rxf7 Ra5 77.Rh7 a3 78.Rxh6 a2
+79.Rh1 a1=Q 80.Rxa1 Rxa1 81.Ke4 Kd6 82.Kf5 Ke7 83.Kg6 Kf8  0-1

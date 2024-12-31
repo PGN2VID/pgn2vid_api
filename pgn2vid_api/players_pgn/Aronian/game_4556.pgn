@@ -1,0 +1,19 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "8"]
+[White "Antipov,M2"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2600"]
+[BlackElo "2742"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 a6 5.c4 Nf6 6.e5 Ng4 7.g3 d6 8.exd6 Bxd6
+9.Bxg7 Rg8 10.Bb2 e5 11.Nc3 f5 12.Qe2 e4 13.d3 Qa5 14.O-O-O Nd4 15.Nxd4 cxd4
+16.Nd5 Qxa2 17.dxe4 Ba3 18.Bxa3 Qxa3+ 19.Qb2 Qxb2+ 20.Kxb2 Nxf2 21.Rxd4 Nxh1
+22.Nc7+ Kf7 23.Nxa8 Nf2 24.exf5 Ng4 25.Bg2 Ne3 26.Bd5+ Nxd5 27.Rxd5 Kf6 28.Nb6 Bxf5
+29.Nd7+ Kg6 30.Rd6+ Kg7 31.Nc5 b5 32.Ne6+ Bxe6 33.Rxe6 Rf8 34.Rxa6 bxc4 35.bxc4 Rf2+
+36.Kc3 Rxh2 37.Re6 h5 38.Re3 Kf7 39.c5 h4 40.gxh4 Rxh4 41.Kb3 Rg4 42.c6 Rg6
+43.Rc3 Rg8 44.Kb4 Ke7 45.Rd3 Rb8+ 46.Ka5 Rb1 47.c7 Ra1+ 48.Kb6 Rb1+ 49.Kc6 Rc1+
+50.Kb7 Rb1+ 51.Kc8 Re1 52.Rb3 Rc1 53.Kb8  1-0

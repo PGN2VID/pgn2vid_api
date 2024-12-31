@@ -1,0 +1,23 @@
+[Event "Noteboom Mem A"]
+[Site "Leiden NED"]
+[Date "2008.02.02"]
+[Round "3"]
+[White "Lahaye,R"]
+[Black "Nikolic,Pr"]
+[Result "0-1"]
+[WhiteElo "2377"]
+[BlackElo "2665"]
+[ECO "E15"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Ba6 5.b3 Bb7 6.Bg2 Bb4+ 7.Bd2 a5 8.O-O O-O
+9.Nc3 Na6 10.Rc1 h6 11.Qc2 Qe7 12.Rfe1 d5 13.Ne5 c5 14.Nb5 dxc4 15.Nxc4 Bxg2
+16.Kxg2 Qd7 17.a4 cxd4 18.Red1 Bc5 19.Bf4 Nb4 20.Qb2 Nc6 21.Bd6 Bxd6 22.Ncxd6 e5
+23.e3 Rad8 24.Qe2 Nd5 25.Qf3 Ndb4 26.exd4 Nxd4 27.Nxd4 Qxd6 28.Nc6 e4 29.Qxe4 Qxd1
+30.Rxd1 Rxd1 31.Nxb4 axb4 32.Qxb4 Rb8 33.h4 Rd5 34.Kf1 h5 35.Kg2 g6 36.Kf1 Rc5
+37.Kg2 Rc6 38.Qd4 Re6 39.Qd7 Rbe8 40.Kf1 Re5 41.Qd4 R8e6 42.Qd8+ Kh7 43.Qc7 Rf5
+44.b4 Ref6 45.f4 Rd5 46.Qc3 Rfd6 47.Kg2 Re6 48.Kf2 Rdd6 49.b5 Rd5 50.Qc7 Kg7
+51.Qc3+ Kf8 52.Qh8+ Ke7 53.Qc3 Red6 54.Ke3 Kd7 55.Qc4 Re6+ 56.Kf3 Rd2 57.Qb3 Rd4
+58.a5 bxa5 59.b6 Rb4 60.Qd5+ Ke8 61.b7 a4 62.Qc5 Reb6 63.Qe5+ Kd7 64.Qd5+ Kc7
+65.Qxf7+ Kb8 66.Qd7 Rc4 67.f5 gxf5 68.Qxf5 Kxb7 69.Qd5+ Rcc6 70.Qxh5 a3 71.Qf7+ Ka6
+72.Qg8 Ka5 73.h5 Rf6+ 74.Kg2 Rfe6 75.g4 Kb4 76.g5 a2 77.Qa8 Ra6 78.Qb8+ Kc3
+79.Qh8+ Kc2 80.Qa1 Red6 81.g6 Rd1 82.Qe5 a1=Q  0-1

@@ -1,0 +1,21 @@
+[Event "FIDE Steinitz Mem Open"]
+[Site "chess24.com INT"]
+[Date "2020.05.16"]
+[Round "7.3"]
+[White "Svidler,P"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2777"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 Bg4 4.Bg2 e6 5.O-O Bd6 6.Nbd2 Nf6 7.c4 O-O 8.b3 Nb8
+9.h3 Bh5 10.g4 Bg6 11.Nh4 c6 12.Nxg6 hxg6 13.e3 Nbd7 14.g5 Nh5 15.Qg4 f5
+16.gxf6 Qxf6 17.f4 Qf5 18.Nf3 Ndf6 19.Qxf5 gxf5 20.Ng5 Rfe8 21.Kf2 a5 22.a3 c5
+23.Bb2 a4 24.dxc5 Bxc5 25.Bxf6 Nxf6 26.b4 Ba7 27.c5 b6 28.cxb6 Bxb6 29.Rac1 Rac8
+30.Ke2 Kf8 31.Nxe6+ Kf7 32.Nc5 d4 33.Kd3 Rxe3+ 34.Kxd4 Rxa3 35.Kc4 Rg3 36.Bb7 Rc7
+37.Ba8 Rxh3 38.Kb5 Bxc5 39.Rxc5 Ra7 40.Bc6 a3 41.Rxf5 a2 42.Ra1 Rc3 43.Rc5 Rb3
+44.Rc2 Rba3 45.Kb6 R7a6+ 46.Kc5 Ke6 47.b5 R6a5 48.Re2+ Kf5 49.Kd6 Rd3+ 50.Kc7 Rc3
+51.Kb6 Rca3 52.Kc7 Rc3 53.b6 Rac5 54.Re5+ Rxe5 55.fxe5 Nd5+ 56.Kb7 Nb4 57.Be8 Ra3
+58.Kc8 Nc2 59.Rf1+ Kg5 60.b7 Rc3+ 61.Kd8 Rb3 62.Bc6 a1=Q 63.Rxa1 Nxa1 64.e6 Nc2
+65.e7 Rd3+ 66.Kc7 Re3 67.e8=Q Rxe8 68.Bxe8 Nb4 69.Bb5 Nd5+ 70.Kd6  1-0

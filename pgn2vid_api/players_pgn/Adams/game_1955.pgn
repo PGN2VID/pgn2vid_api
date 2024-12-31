@@ -1,0 +1,19 @@
+[Event "Man-Machine"]
+[Site "London ENG"]
+[Date "2005.06.25"]
+[Round "4"]
+[White "Adams,Mi"]
+[Black "HYDRA"]
+[Result "0-1"]
+[WhiteElo "2737"]
+[BlackElo ""]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 d6 3.Nge2 Nf6 4.g3 g6 5.Bg2 Nc6 6.d4 cxd4 7.Nxd4 Nxd4 8.Qxd4 Bg7
+9.O-O O-O 10.a4 Qa5 11.Qd3 Bd7 12.Nd5 Nxd5 13.Qxd5 Qxd5 14.exd5 Bf6 15.c3 a5
+16.Re1 Rfb8 17.Bf1 b5 18.axb5 Bxb5 19.Bxb5 Rxb5 20.Rd1 Rc8 21.Ra4 Rcc5 22.c4 Rb3
+23.Be3 Rc8 24.Bd4 Kg7 25.Kf1 Bxd4 26.Rxd4 Rxb2 27.Rxa5 f5 28.Ra7 Kf6 29.g4 Rb4
+30.g5+ Kxg5 31.Rxe7 Rcxc4 32.Rxc4 Rxc4 33.Rxh7 Kf6 34.Rd7 Ke5 35.Rg7 Rg4
+36.f3 Rg5 37.Kf2 Kxd5 38.h4 Rh5 39.Kg3 Rh6 40.Re7 Kd4 41.Re1 d5 42.Rd1+ Ke5
+43.Re1+ Kd6 44.Rd1 Rh5 45.Ra1 Kc5 46.Rc1+ Kb4 47.Rd1 Kc4 48.Rc1+ Kd3 49.Rc6 Rh6
+50.h5 f4+  0-1

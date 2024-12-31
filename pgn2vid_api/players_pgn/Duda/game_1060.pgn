@@ -1,0 +1,23 @@
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.09.06"]
+[Round "1.28"]
+[White "Giri,A"]
+[Black "Duda,J"]
+[Result "1-0"]
+[WhiteElo "2780"]
+[BlackElo "2730"]
+[ECO "D43"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 Nd7 8.Bd3 g6
+9.O-O Bg7 10.Re1 O-O 11.e4 dxc4 12.Bxc4 e5 13.d5 Nb6 14.Bb3 Bg4 15.Re3 Rad8
+16.h3 Bxf3 17.Rxf3 Qe7 18.Qe2 c5 19.a4 Nc8 20.a5 Nd6 21.a6 b6 22.Nb5 Nxb5
+23.Qxb5 Rd6 24.Qe2 h5 25.Bc4 Bh6 26.g3 Kg7 27.h4 Rfd8 28.Bd3 R8d7 29.b3 Rc7
+30.Ra2 Qd8 31.Rc2 Qe7 32.Kg2 Kh7 33.Bb5 Kg7 34.Rfc3 Rf6 35.b4 Kh7 36.bxc5 Rxc5
+37.Rxc5 bxc5 38.Bc6 Bf8 39.Rb2 c4 40.Qxc4 Qa3 41.Ra2 Qc5 42.Qxc5 Bxc5 43.Rb2 Bd4
+44.Rc2 Kg7 45.f3 Kf8 46.Rc4 Bb6 47.Rb4 Bc5 48.Rb7 Kg7 49.Rb8 Bd6 50.Re8 g5
+51.hxg5 Rg6 52.f4 exf4 53.e5 f3+ 54.Kxf3 Bc5 55.d6 Bb6 56.Be4 Rxg5 57.d7 Bc7
+58.d8=Q Bxd8 59.Rxd8 Rxe5 60.Rd7 Re6 61.Rxa7 Rf6+ 62.Ke3 Re6 63.Kf4 Rf6+
+64.Ke3 Re6 65.Kd4 Rd6+ 66.Bd5 Kh6 67.Ra8 Kg7 68.Kc5 Rg6 69.Ra7 Kh6 70.Bc4 Rxg3
+71.Rxf7 Ra3 72.a7 h4 73.Bd5 Kg5 74.a8=Q Rxa8 75.Bxa8 h3 76.Rf8 Kg4 77.Rh8 Kg3
+78.Kd4 Kh2 79.Ke3 Kg1 80.Rxh3 Kf1 81.Rh1+  1-0

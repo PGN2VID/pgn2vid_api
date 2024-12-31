@@ -1,0 +1,22 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Gheorghiu, Florin"]
+[Black "Portisch, Lajos"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C94"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d3 Nbd7 11.Nbd2 Bb7 12.Nf1 Nc5 13.Bc2 Re8 14.Ng3 Bf8 15.Nh2 g6
+16.f4 exf4 17.Bxf4 Ne6 18.Bd2 Bg7 19.d4 c5 20.d5 Nf8 21.Bf4 Qe7 22.Rf1 h5
+23.Nf3 N6h7 24.Qd2 Nd7 25.Rf2 Rf8 26.Raf1 Rae8 27.Bh6 h4 28.Nh1 Ne5 29.Bxg7 Nxf3+
+30.gxf3 Kxg7 31.Rg2 Nf6 32.Kh2 Rh8 33.Rg5 Rh5 34.Rfg1 Rxg5 35.Qxg5 Qe5+ 36.Qxe5 Rxe5
+37.Nf2 Re8 38.Ng4 Nh5 39.Ne3 Ng3 40.Ng2 g5 41.Ne3 Kf6 42.Ng4+ Kg7 43.Ne3 Bc8
+44.Nf1 Nxf1+ 45.Rxf1 f5 46.Rg1 Kf6 47.a4 Bd7 48.axb5 Bxb5 49.b3 Be2 50.Kg2 c4
+51.b4 Bd3 52.Bxd3 cxd3 53.Rd1 fxe4 54.fxe4 Rxe4 55.Rxd3 Ke5 56.Kf3 Rf4+ 57.Kg2 g4
+58.hxg4 Rxg4+ 59.Kh3 Rc4 60.Rd1 Rxc3+ 61.Kxh4 Rc4+ 62.Kg3 Rxb4 63.Ra1 Rb6
+64.Ra5 Kd4 65.Kf4 Kc4 66.Kf5 Kb4 67.Ra1 a5 68.Rb1+ Kc5 69.Ra1 Ra6 70.Ke6 a4
+71.Rc1+ Kb4 72.Rb1+ Kc3 73.Rc1+ Kb4 74.Rb1+ Ka5 75.Ra1 Rb6 76.Ra2 Kb5 77.Ra1 Kb4  0-1

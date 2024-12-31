@@ -1,0 +1,18 @@
+[Event "Chess.com Bullet Open KO"]
+[Site "chess.com INT"]
+[Date "2020.12.20"]
+[Round "1.6"]
+[White "Jacobson,Brandon"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2487"]
+[BlackElo "2559"]
+[ECO "B00"]
+
+1.e4 d6 2.d4 g6 3.Nc3 c6 4.Be3 Bg7 5.h4 Nf6 6.h5 Nxh5 7.Rxh5 gxh5 8.Qxh5 e5
+9.Bc4 Qf6 10.Nf3 Qg6 11.Qh2 Be6 12.d5 cxd5 13.Nxd5 Na6 14.O-O-O Qxe4 15.Bb5+ Kf8
+16.Ng5 Qg6 17.Bd3 Bf5 18.Qh4 h6 19.Ne4 Re8 20.Nxd6 Bxd3 21.Nxe8 Bxc2 22.Qe7+ Kg8
+23.Nef6+ Bxf6 24.Nxf6+ Kg7 25.Rd6 Ba4 26.Ne8+ Rxe8 27.Rxg6+ Kxg6 28.Qxb7 Re6
+29.Qxa7 Bb5 30.Qa8 Bd3 31.Qg8+ Kf6 32.Bxh6 Bg6 33.Qg7+ Kf5 34.f3 Rc6+ 35.Kd2 Nb4
+36.a3 Rd6+ 37.Ke2 Nc2 38.g4+ Ke6 39.Be3 Nd4+ 40.Bxd4 exd4 41.Qg8 d3+ 42.Kd2 Rc6
+43.Qe8+ Kd6 44.Qe3 Rc2+ 45.Kd1 Re2 46.Qd4+ Ke6 47.Qc3 Kd5 48.Qc4+ Kxc4 49.b3+ Kd4  0-1

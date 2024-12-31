@@ -1,0 +1,17 @@
+[Event "AI Cup Div 3 L"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "3.2"]
+[White "Kramnik,V"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2753"]
+[BlackElo "2745"]
+[ECO "A36"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.d3 d6 6.e3 e5 7.Nge2 Nge7 8.a3 Rb8
+9.b4 O-O 10.b5 Na5 11.O-O f5 12.Qc2 Be6 13.e4 Qd7 14.Bd2 b6 15.f4 fxe4 16.Nxe4 d5
+17.cxd5 Nxd5 18.Rae1 exf4 19.gxf4 h6 20.Kh1 Qxb5 21.N2g3 Qb3 22.Qc1 Bb2 23.Nxc5 Bxc1
+24.Nxb3 Nxb3 25.Bxc1 Nxc1 26.f5 Nxd3 27.Rxe6 N5f4 28.Re7 gxf5 29.Bc6 Rbc8
+30.Ba4 Rc3 31.Bd1 Rxa3 32.Nh5 Nxh5 33.Bxh5 Kh8 34.Bg6 Ra2 35.Rxf5 Ra1+ 36.Kg2 Nf4+
+37.Kg3 Nxg6 38.Rh5 Nxe7  0-1

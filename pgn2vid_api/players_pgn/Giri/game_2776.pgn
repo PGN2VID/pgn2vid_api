@@ -1,0 +1,23 @@
+[Event "Chess.com Rapid Wk1 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.12"]
+[Round "7"]
+[White "Alekseenko,K"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteElo "2702"]
+[BlackElo "2772"]
+[ECO "B20"]
+
+1.e4 c5 2.h3 g6 3.c3 d5 4.exd5 Qxd5 5.d4 Bg7 6.Nf3 cxd4 7.cxd4 Nf6 8.Nc3 Qd8
+9.Bc4 O-O 10.O-O Nbd7 11.Bb3 Nb6 12.Bg5 Nbd5 13.Re1 b6 14.Ne5 Bb7 15.Qf3 Rb8
+16.Bxf6 Nxc3 17.Nc6 Bxc6 18.Qxc6 Ne2+ 19.Rxe2 Bxf6 20.Rd1 b5 21.Qe4 Rb6 22.Rd3 a5
+23.a3 a4 24.Ba2 Rd6 25.Red2 Kg7 26.h4 Qc8 27.h5 Qf5 28.Qxf5 gxf5 29.Bb1 Kh6
+30.b3 Ra8 31.d5 f4 32.bxa4 bxa4 33.Rf3 Be5 34.Be4 Rc8 35.Re2 Rc1+ 36.Kh2 Rb6
+37.Rc2 Re1 38.Rc4 Ra6 39.Bc2 Bd6 40.Bxa4 Re5 41.Bc6 Rxh5+ 42.Kg1 Bxa3 43.Rfxf4 Bd6
+44.g4 Bxf4 45.Rxf4 Rg5 46.Rxf7 Rxg4+ 47.Kf1 Rg7 48.Rf5 Ra3 49.Ke2 Kg6 50.Re5 Kf6
+51.Re6+ Kf5 52.Bd7 Kf4 53.Rh6 Ra2+ 54.Kf1 Ke5 55.Be6 Ra1+ 56.Ke2 Ra3 57.Rh5+ Kd6
+58.Rh4 Kc5 59.Rh5 Kd6 60.Rh4 Rc3 61.Rb4 Rc7 62.Rb6+ Ke5 63.Rb3 Kd4 64.Rd3+ Ke4
+65.Re3+ Kd4 66.Rd3+ Ke5 67.Re3+ Kd6 68.Rb3 Rc2+ 69.Ke3 Ke5 70.Rb7 Rc3+ 71.Kd2 Rf3
+72.Ke2 Rf4 73.Rb8 h5 74.Rb3 h4 75.Re3+ Re4 76.Bh3 Kxd5 77.f3 Rxe3+ 78.Kxe3 Ke5
+79.f4+ Kd5  0-1

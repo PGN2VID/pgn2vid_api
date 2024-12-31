@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "4"]
+[White "Janowsky, Dawid Markelowicz"]
+[Black "Tarrasch, Siegbert"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D08"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.a3 a5 6.h3 Bc5 7.Bg5 Nge7 8.Nbd2 h6
+9.Bh4 Be6 10.Rc1 a4 11.g4 Qd7 12.Bg2 Ng6 13.Bg3 h5 14.gxh5 Rxh5 15.h4 Ngxe5
+16.Nxe5 Nxe5 17.Ne4 Bb6 18.Bxe5 Rxe5 19.c5 Ba5+ 20.Kf1 Bb3 21.Qd3 Ra6 22.Ng5 Bd5
+23.Bxd5 Qxd5 24.Rh3 Re7 25.Rc4 Rd7 26.Nf3 Rc6 27.Rxd4 Qe6 28.Ng5 Rxd4 29.Qxd4 Qd7
+30.Re3+ Kd8 31.Nxf7+ Kc8 32.Qxd7+ Kxd7 33.Ne5+  1-0

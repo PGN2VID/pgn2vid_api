@@ -1,0 +1,15 @@
+[Event "Philadelphia sim"]
+[Site "Philadelphia"]
+[Date "1892.??.??"]
+[Round "?"]
+[White "Robinson, AK."]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B34"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Nxc6 bxc6 7.Bd2 d6 8.Bc4 Nf6
+9.O-O O-O 10.Kh1 d5 11.exd5 cxd5 12.Bb3 d4 13.Ne2 Ba6 14.f3 e5 15.Bg5 h6
+16.Bh4 g5 17.Bg3 Nd5 18.Bxd5 Qxd5 19.Re1 f5 20.Nc1 e4 21.fxe4 fxe4 22.Nb3 Rac8
+23.Rc1 e3 24.Qg4 Bb7 25.Rg1 d3 26.c3 Rc4 27.Qh5 Rf2 28.Qe8+ Kh7  0-1

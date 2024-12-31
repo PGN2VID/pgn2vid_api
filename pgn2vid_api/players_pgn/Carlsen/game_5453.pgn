@@ -1,0 +1,25 @@
+[Event "AI Cup Div 1 W"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "2.1"]
+[White "Carlsen,M"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2839"]
+[BlackElo "2771"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Nc3 Qxe2+ 8.Bxe2 Be7
+9.Bd2 O-O 10.O-O-O a6 11.Rhe1 Re8 12.d4 h6 13.Bd3 Bg4 14.h3 Bxf3 15.gxf3 Nc6
+16.Ne2 Nh7 17.Rg1 Bg5 18.f4 Bh4 19.Rg2 Nf8 20.c3 Bf6 21.Ng3 g6 22.Nh5 Bg7
+23.f5 gxh5 24.Rdg1 Ng6 25.fxg6 f6 26.Bc4+ Kh8 27.Rg3 f5 28.Rf3 Rf8 29.Bf7 Nd8
+30.Rxf5 Nxf7 31.gxf7 Kh7 32.Re1 Kg6 33.Rf3 Bf6 34.Bxh6 Rxf7 35.Bd2 Rg8 36.Kc2 Kh7
+37.Rf5 Kg6 38.Rd5 Rh7 39.Kd3 Kf7 40.Rf5 Rg2 41.Re3 Kg6 42.Ref3 Be7 43.Be3 Rg1
+44.a4 Rh1 45.Ke4 Rg1 46.Rg3+ Rxg3 47.fxg3 Bf6 48.Rf3 c6 49.Kd3 d5 50.a5 Rf7
+51.Ke2 Bd8 52.Rxf7 Kxf7 53.b4 Kg6 54.Kf3 Kf5 55.Bf4 Be7 56.Bh6 Bd8 57.Bd2 Be7
+58.Be1 Bg5 59.g4+ hxg4+ 60.hxg4+ Kg6 61.Ke2 Bf4 62.Bh4 Bd6 63.Kf3 Bf8 64.Bg3 Bh6
+65.Bf4 Bf8 66.Ke3 Be7 67.Kd3 Bf8 68.Bd2 Be7 69.c4 Bf8 70.cxd5 cxd5 71.Kc3 Be7
+72.Kb3 Bd6 73.Ka4 Be7 74.b5 Bd6 75.b6 Be7 76.Kb3 Bd6 77.Kc3 Be7 78.Kd3 Bd6
+79.Ke2 Be7 80.Kf3 Bd6 81.Kg2 Be7 82.Kg3 Bf6 83.Bc3 Be7 84.Kf4 Bd6+ 85.Kf3 Be7
+86.Bd2 Bd6 87.Kg2 Be7 88.Kh3 Bf6 89.Bc3 Be7 90.Kg3 Bd6+ 91.Kf3 Be7 92.Kg3 Bd6+
+93.Kf3  1/2-1/2

@@ -1,0 +1,33 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "11"]
+[White "Chigorin, Mikhail"]
+[Black "Mason, James"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 Be7 7.h3 Bd7 8.Nbd2 b5
+9.Bc2 d5 10.Qe2 dxe4 11.dxe4 Bd6 12.Nf1 Be6 13.Ne3 Ne7 14.Ng5 Bd7 15.g4 h6
+16.Nf3 Bc6 17.Ng2 Ng6 18.g5 hxg5 19.Bxg5 Qd7 20.Ngh4 Nxh4 21.Nxh4 Nh5 22.O-O-O g6
+23.Nf3 Qc8 24.Qd3 f6 25.Bd2 g5 26.Bb3 Qb7 27.Rde1 O-O-O 28.Be6+ Kb8 29.Qe2 Ng7
+30.Bg4 Rdf8 31.Rhg1 Re8 32.Nh2 Bc5 33.Nf1 Re7 34.Ng3 Bd7 35.Rh1 Qb6 36.Be3 Qc6
+37.Rd1 Be6 38.Kb1 Bf7 39.Rd2 Bg6 40.Bxc5 Qxc5 41.Rhd1 Ne6 42.Rd5 Qc6 43.Qd2 Nd4
+44.Ka1 Bxe4 45.Nxe4 Qxd5 46.Ng3 Rd8 47.cxd4 exd4 48.a3 d3 49.Kb1 Re5 50.Rc1 f5
+51.Bd1 f4 52.Nf1 Qd6 53.Qc3 c5 54.Nd2 c4 55.Bf3 Rde8 56.Ka2 R8e7 57.b3 cxb3+
+58.Kxb3 Rc7 59.Qxc7+ Qxc7 60.Rxc7 Kxc7 61.Be4 Kb6 62.Bxd3 a5 63.Ne4 Kc6 64.f3 Rd5
+65.Kc2 Re5 66.Kc3 Rd5 67.Bc2 a4 68.Bd3 Kb6 69.Kc2 Re5 70.Kb2 Ka5 71.Kc3 Rd5
+72.Bc2 Kb6 73.Bd3 Ka5 74.Be2 Kb6 75.Bd3 Ka5 76.Bc2 Kb6 77.Bb1 Rd1 78.Ba2 Rc1+
+79.Kb2 Rf1 80.Nxg5 Rf2+ 81.Ka1 Rg2 82.Ne6 Rg3 83.Bd5 Rxh3 84.Nxf4 Rh7 85.Nd3 Rd7
+86.Be4 Re7 87.Kb1 Kc7 88.Bg6 Rg7 89.Be8 Rg3 90.Bxb5 Rxf3 91.Kc2 Kb6 92.Bxa4 Ka5
+93.Bb3 Rg3 94.Kc3 Rh3 95.Bc2 Rg3 96.Kb2 Rg4 97.Nc1 Rg6 98.Na2 Rg4 99.Nc3 Rg2
+100.Kb3 Rg3 101.Be4 Re3 102.Bd5 Rh3 103.Bc6 Rh6 104.Bb5 Rh3 105.Be2 Re3 106.Bd1 Rh3
+107.Bc2 Rg3 108.Kb2 Rh3 109.Na2 Rh4 110.Nc1 Rh2 111.Nb3+ Kb5 112.Nd4+ Kc4
+113.Nf5 Rh3 114.Nd6+ Kc5 115.Ne4+ Kc4 116.Nf2 Rh2 117.Nd3 Kb5 118.Nc1 Rg2
+119.Na2 Rh2 120.Nb4 Kc4 121.Nc6 Kb5 122.Ne5 Rg2 123.Kb3 Rg3+ 124.Bd3+ Kc5
+125.Kc3 Kd5 126.Nc4 Kc5 127.Nb2 Rg4 128.Bc4 Kb6 129.Kb4 Rg5 130.a4 Rg4 131.a5+ Ka7
+132.Na4 Rg1 133.Nc3 Rg4 134.Nb5+ Kb7 135.Nd6+ Ka7 136.Nc8+ Kb7 137.Ne7 Ka7
+138.Kb5 Rg7 139.Nc6+ Ka8 140.Bd5 Rb7+ 141.Kc5 Rb1 142.Be4 Rb2 143.Nb4+ Ka7
+144.Bc2  1-0

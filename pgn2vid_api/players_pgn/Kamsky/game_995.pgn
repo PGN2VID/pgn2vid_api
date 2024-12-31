@@ -1,0 +1,20 @@
+[Event "24th ECC"]
+[Site "Kallithea GRE"]
+[Date "2008.10.17"]
+[Round "1"]
+[White "Kamsky,G"]
+[Black "Feygin,M"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2569"]
+[ECO "E10"]
+
+1.d4 e6 2.c4 Nf6 3.Nf3 c5 4.d5 b5 5.dxe6 fxe6 6.cxb5 d5 7.g3 Bd6 8.Bg2 a6
+9.bxa6 O-O 10.O-O Nc6 11.Nc3 Bxa6 12.Bg5 h6 13.Bxf6 Qxf6 14.Rc1 Nd4 15.Ne1 Rab8
+16.Qd2 Rxb2 17.Qxb2 Nxe2+ 18.Qxe2 Bxe2 19.Nxe2 Qb2 20.Rc2 Qa3 21.f4 c4 22.Kh1 Bc5
+23.Nf3 Qd3 24.Rd2 Qe3 25.Rfd1 Rb8 26.Rc2 Qa3 27.Nfd4 Rb2 28.Rxb2 Qxb2 29.Bh3 c3
+30.Bxe6+ Kf8 31.Bf5 Bxd4 32.Nxd4 Qxa2 33.Bc2 Qa7 34.Kg2 Qb6 35.Kf3 Qf6 36.Ke3 Qe7+
+37.Kd3 Qe4+ 38.Kxc3 Qe3+ 39.Rd3 Qe1+ 40.Kb2 h5 41.h4 Qg1 42.Bd1 Qf2+ 43.Nc2 g6
+44.Kc1 Kg7 45.Ne3 Kh6 46.Nxd5 Qc5+ 47.Kd2 Qa5+ 48.Ke2 Qa2+ 49.Kf3 Qh2 50.Ne3 Qa2
+51.Bc2 Qe6 52.Rd5 Qc6 53.Kf2 Qc3 54.Rd6 Kh7 55.Rxg6 Qd2+ 56.Kf3 Kh8 57.Rh6+ Kg7
+58.Nf5+ Kf8 59.Rf6+ Kg8 60.Bb3+  1-0

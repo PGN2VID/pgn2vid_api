@@ -1,0 +1,28 @@
+[Event "Chess.com Bullet Open KO"]
+[Site "chess.com INT"]
+[Date "2020.12.20"]
+[Round "3.7"]
+[White "Tang,Andrew"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteElo "2538"]
+[BlackElo "2749"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 b6 5.Nf3 Bb7 6.g3 Be4 7.Qb3 Nc6 8.Be3 Qe7
+9.Bg2 Na5 10.Qd1 Nxc4 11.Bc1 Bxc3+ 12.bxc3 O-O 13.O-O d5 14.Bh3 Bxf3 15.exf3 c5
+16.Re1 Rac8 17.Bf1 cxd4 18.cxd4 h6 19.Bd3 Rfe8 20.Rb1 Qd7 21.Qe2 Nd6 22.Rb3 Rc7
+23.Bb1 Rec8 24.Bd2 Nc4 25.Bf4 Rc6 26.Kg2 Nd6 27.h4 Rc3 28.Bd2 Rxb3 29.axb3 Qb5
+30.Qe3 Qd7 31.Qd3 Qb5 32.Qe3 Qd7 33.g4 Nh7 34.Qd3 Nf8 35.Qe3 a5 36.Bd3 a4
+37.Bb1 axb3 38.Qxb3 Nc4 39.Bc1 Ng6 40.Kh3 Qe7 41.g5 h5 42.f4 Qd7 43.Qf3 e5+
+44.f5 e4 45.Qg3 Qxf5+ 46.Kg2 b5 47.Bc2 Qf3+ 48.Qxf3 Nxh4+ 49.Kg3 Nxf3 50.Rh1 Nd6
+51.Bd1 Nf5+ 52.Kf4 N5xd4 53.Be3 Ne6+ 54.Kf5 g6+ 55.Kf6 d4 56.Bxf3 dxe3 57.Bxe4 exf2
+58.Rf1 Rc5 59.Rxf2 Nxg5 60.Bd3 Nh7+ 61.Ke7 Re5+ 62.Kd6 Re6+ 63.Kd5 Kg7 64.Bxb5 Nf6+
+65.Kd4 Re4+ 66.Kd3 Rg4 67.Bc6 Rg5 68.Bf3 Rf5 69.Ke2 Ng4 70.Rg2 Ne5 71.Be4 Rf6
+72.Ke3 Nd7 73.Bd5 Nf8 74.Bc4 Ne6 75.Bd3 Nf4 76.Rh2 Nxd3 77.Kxd3 Rf5 78.Ke4 Kf6
+79.Rg2 Ke6 80.Rb2 Kf6 81.Rb6+ Kg7 82.Rb2 Rf6 83.Rg2 Re6+ 84.Kf4 Rf6+ 85.Kg5 Rf5+
+86.Kh4 Kh6 87.Rc2 g5+ 88.Kh3 f6 89.Rc6 Kg6 90.Rc8 h4 91.Rf8 Rf4 92.Rg8+ Kf5
+93.Rc8 Rf3+ 94.Kh2 Kg4 95.Rc4+ Rf4 96.Rc2 f5 97.Rc3 Kh5 98.Rc2 Rg4 99.Rc6 f4
+100.Rc8 Rg3 101.Rh8+ Kg4 102.Rg8 Rh3+ 103.Kg2 Rg3+ 104.Kf2 Rf3+ 105.Kg2 Re3
+106.Kh2 h3 107.Kg1 Rg3+ 108.Kf1 Rg2 109.Rh8 Rg3 110.Rxh3 Rf3+ 111.Kg2 Rxh3
+112.Kg1 Rg3+ 113.Kf2 Rf3+  0-1

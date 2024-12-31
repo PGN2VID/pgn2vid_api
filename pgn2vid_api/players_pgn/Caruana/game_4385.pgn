@@ -1,0 +1,22 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.3"]
+[White "Caruana,F"]
+[Black "Gledura,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2633"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 c6 5.e3 Nbd7 6.Qc2 a5 7.b3 a4 8.Nxa4 dxc4
+9.bxc4 Qa5+ 10.Nc3 Ne4 11.Bd2 Nxd2 12.Nxd2 Bb4 13.Rc1 Bxc3 14.Qxc3 Qxc3 15.Rxc3 Rxa2
+16.Bd3 Ke7 17.Ke2 e5 18.Rc2 Ra3 19.Rb1 exd4 20.exd4 Rd8 21.Rb3 Ra5 22.c5 Nf8
+23.Nc4 Ra4 24.d5 cxd5 25.Nb6 Ra7 26.Rb4 Be6 27.Ke3 Ra3 28.Rcb2 Bf5 29.R4b3 Rxb3
+30.Rxb3 Bxd3 31.Rxd3 Ke6 32.Kd4 f6 33.f4 Ng6 34.g3 Ne7 35.Ke3 Nc6 36.Kf3 h5
+37.Re3+ Kf5 38.Rd3 d4 39.Nc4 Ke6 40.Rb3 Kd5 41.Nd6 Rd7 42.Nxb7 Kc4 43.Rb1 d3
+44.Nd6+ Kc3 45.Ne4+ Kc2 46.Rb6 Nd4+ 47.Ke3 Nf5+ 48.Kf3 Re7 49.Nf2 Nd4+ 50.Kg2 d2
+51.Rd6 Nb5 52.Rd8 Nc3 53.c6 Rc7 54.Rd6 f5 55.Kf3 Ne4 56.Nxe4 fxe4+ 57.Ke2 e3
+58.h3 Rf7 59.Rd5 Kc3 60.Rd6 Re7 61.Rd7 Re6 62.c7 Rc6 63.g4 hxg4 64.hxg4 Kc2
+65.f5 Kc1 66.g5 Rc2 67.Kxe3 d1=Q 68.Rxd1+ Kxd1 69.f6 Rxc7 70.fxg7 Rxg7 71.Kf4 Ke2
+72.Kf5 Kf3 73.g6 Ra7 74.Kf6 Kf4 75.g7 Ra8 76.Kf7 Kf5 77.g8=Q Rxg8 78.Kxg8  1/2-1/2

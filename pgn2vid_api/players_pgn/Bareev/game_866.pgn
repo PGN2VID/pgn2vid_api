@@ -1,0 +1,15 @@
+[Event "New York op"]
+[Site "New York"]
+[Date "1998.03.16"]
+[Round "1"]
+[White "Casella, Michael"]
+[Black "Bareev, Evgeny"]
+[Result "0-1"]
+[WhiteElo "2345"]
+[BlackElo "2675"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 Ne7 7.h4 h5 8.Nf4 hxg4
+9.Nxg6 Nxg6 10.h5 c5 11.Qxg4 cxd4 12.Qxd4 Nc6 13.Bb5 Ne7 14.Bg5 a6 15.Bxc6+ Nxc6
+16.Qh4 Be7 17.Bxe7 Qxe7 18.f4 g6 19.Qg4 Qb4 20.O-O-O Nxe5 21.Nxd5 Nxg4 22.Nxb4 Nf2
+23.h6 Nxd1 24.Kxd1 Ke7  0-1

@@ -1,0 +1,16 @@
+[Event "Monte Carlo+"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "6"]
+[White "Alapin, Simon"]
+[Black "Chigorin, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D07"]
+
+1.d4 d5 2.c4 Nc6 3.Nc3 dxc4 4.d5 Na5 5.Qa4+ c6 6.dxc6 Nxc6 7.e4 Bd7 8.Bxc4 e6
+9.Nf3 Rc8 10.Qd1 Bb4 11.O-O Qa5 12.Qe2 Nge7 13.Bd2 Ne5 14.Nxe5 Qxe5 15.Kh1 O-O
+16.a3 Ba5 17.b4 Bb6 18.Rac1 Rfd8 19.Nb1 Bc6 20.Rfe1 Rd4 21.f3 Qh5 22.Be3 Nf5
+23.exf5 Rh4 24.Bxb6 Rxh2+ 25.Kg1 axb6 26.Bxe6 Rh1+ 27.Kf2 Qh4+ 28.Ke3 Rd8
+29.Rcd1 Qg5+ 30.Kf2 Qh4+ 31.Ke3 Qg5+ 32.Kf2  1/2-1/2

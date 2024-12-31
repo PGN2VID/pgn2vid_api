@@ -1,0 +1,21 @@
+[Event "Amber Rapid"]
+[Site "Monte Carlo MNC"]
+[Date "2006.03.21"]
+[Round "4"]
+[White "Morozevich,A"]
+[Black "Vallejo Pons,F"]
+[Result "0-1"]
+[WhiteElo "2721"]
+[BlackElo "2650"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be7 8.Be3 Be6
+9.Qd2 O-O 10.O-O-O Nbd7 11.g4 b5 12.Rg1 Nb6 13.g5 Nfd7 14.Nd5 Bxd5 15.exd5 Rc8
+16.Qe1 Qc7 17.Rg2 Nc4 18.Bxc4 bxc4 19.Na5 c3 20.Qxc3 Qxc3 21.bxc3 Rxc3 22.Kd2 Ra3
+23.Nc6 Bd8 24.Rb1 Ba5+ 25.Ke2 Rxa2 26.Rb7 Nc5 27.Nxa5 Nxb7 28.Nxb7 Rb8 29.Rg4 Rxb7
+30.Rc4 f5 31.gxf6 gxf6 32.Kd3 Kf7 33.Rc6 Ke7 34.Bb6 Kd7 35.c4 Ra3+ 36.Ke4 Rc3
+37.Ba5 f5+ 38.Kxf5 Rxf3+ 39.Kg4 Rf4+ 40.Kg5 Rb2 41.h4 Rg2+ 42.Kh5 Rgg4 43.Rc7+ Ke8
+44.Rc8+ Kf7 45.Bd8 Rxc4 46.Ra8 Rgd4 47.Ra7+ Ke8 48.Bg5 Rxd5 49.Re7+ Kf8 50.Rxh7 e4
+51.Kg6 Rxg5+ 52.hxg5 e3 53.Rf7+ Ke8 54.Rf1 Re4 55.Kf5 e2 56.Re1 Re3 57.Kf6 Kd7
+58.g6 Rf3+ 59.Kg5 Rf2 60.g7 Ke7 61.g8=N+ Ke6 62.Nh6 Kd5 63.Ng4 Rg2 64.Kf4 Kd4
+65.Kf3 Rxg4 66.Kxg4 Ke3 67.Kg3 d5 68.Ra1 d4 69.Kg2 d3 70.Rxa6 e1=Q  0-1

@@ -1,0 +1,20 @@
+[Event "Chess.com Rapid Wk1 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.12"]
+[Round "9"]
+[White "Tomashevsky,E"]
+[Black "Swiercz,D"]
+[Result "1-0"]
+[WhiteElo "2708"]
+[BlackElo "2656"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e5 4.Bc4 Be7 5.d3 d6 6.a4 Nf6 7.Bg5 O-O 8.O-O Nd7
+9.Bxe7 Qxe7 10.Nd2 Nf6 11.Kh1 Be6 12.f3 Rad8 13.Bxe6 Qxe6 14.a5 d5 15.b3 Nd4
+16.Ne2 dxe4 17.fxe4 Ng4 18.Nc4 f5 19.h3 Nh6 20.Nxd4 exd4 21.Re1 fxe4 22.Rxe4 Qg6
+23.Kg1 Nf5 24.Qg4 Qxg4 25.hxg4 Ng3 26.Re5 Rf4 27.Rae1 Rdf8 28.Re8 Rxg4 29.Rxf8+ Kxf8
+30.Nd6 g6 31.Re8+ Kg7 32.Nxb7 Nf5 33.Nxc5 Ne3 34.Re7+ Kh6 35.Rxa7 Rxg2+ 36.Kh1 Rxc2
+37.b4 Nd5 38.Na6 Rb2 39.Rb7 Kg5 40.Rb5 Kf4 41.Rxd5 g5 42.Nc5 g4 43.Rd7 h5
+44.Rf7+ Kg3 45.Ne4+ Kh3 46.Kg1 g3 47.a6 Rxb4 48.a7 Ra4 49.Ng5+ Kg4 50.Rg7 Ra1+
+51.Kg2 Ra2+ 52.Kf1 h4 53.Ne6+ Kh3 54.Nf4+ Kh2 55.Rh7 Rf2+ 56.Ke1 Rxf4 57.a8=Q g2
+58.Rg7 h3 59.Qb8 Kh1 60.Qxf4 h2 61.Qf3 Kg1 62.Qxg2+  1-0

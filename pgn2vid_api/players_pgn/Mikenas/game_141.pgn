@@ -1,0 +1,19 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.??.??"]
+[Round "1"]
+[White "Ivashin, Alexey"]
+[Black "Mikenas, Vladas"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B02"]
+
+1.e4 Nf6 2.Nc3 d5 3.e5 Nfd7 4.f4 e6 5.Nf3 c5 6.b3 b6 7.Bd3 Ba6 8.Nb5 Be7
+9.a4 f5 10.exf6 Bxf6 11.Ne5 Bxb5 12.axb5 Bxe5 13.fxe5 Qh4+ 14.g3 Qd4 15.Qh5+ Kd8
+16.Ra4 Qxe5+ 17.Qxe5 Nxe5 18.Be2 Rf8 19.d3 Nbd7 20.Bf4 h6 21.h4 Nf7 22.O-O e5
+23.Bd2 Kc7 24.Rg4 g5 25.hxg5 hxg5 26.Bxg5 Nxg5 27.Rxg5 Rg8 28.Rxg8 Rxg8 29.Kg2 Rg7
+30.Ra1 Kb8 31.c4 e4 32.dxe4 d4 33.Rf1 Ne5 34.Rf5 Re7 35.g4 Kc7 36.Kg3 Kd6
+37.Rf6+ Re6 38.Rf5 Re7 39.g5 Rg7 40.Rf6+ Kd7 41.Kf4 Nf7 42.Rf5 Nd8 43.e5 Ne6+
+44.Kg4 Rh7 45.g6 Rh1 46.Rf7+ Ke8 47.Bf3 Rg1+ 48.Kf5 Ng5 49.Bc6+ Kd8 50.Rf8+ Kc7
+51.g7 Nh7 52.g8=Q  1-0

@@ -1,0 +1,14 @@
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.11.19"]
+[Round "2.9"]
+[White "Vachier Lagrave,M"]
+[Black "So,W"]
+[Result "0-1"]
+[WhiteElo "2774"]
+[BlackElo "2767"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.e4 d5 5.exd5 cxd5 6.Nc3 dxc4 7.Qa4+ Nc6 8.Bxc6+ bxc6
+9.Nf3 Qc7 10.O-O Bd6 11.Qxc4 Bg4 12.Ng5 O-O 13.d3 Rab8 14.a3 Kh8 15.Qa4 h6
+16.Nge4 Nxe4 17.Nxe4 f5 18.Nc3 Bf3 19.Re1 f4 20.Ne4 Qd7 21.Nd2 Bd5 22.Ne4 Qh3  0-1

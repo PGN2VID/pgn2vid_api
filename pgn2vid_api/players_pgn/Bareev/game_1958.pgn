@@ -1,0 +1,14 @@
+[Event "Crestbook Shipov-Bareev"]
+[Site "lichess.org INT"]
+[Date "2021.04.10"]
+[Round "18"]
+[White "Shipov,S"]
+[Black "Bareev,E"]
+[Result "1-0"]
+[WhiteElo "2541"]
+[BlackElo "2638"]
+[ECO "A58"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 Qa5 7.e4 Nxe4 8.Bd2 Nxd2
+9.Qxd2 Bxf1 10.Kxf1 d6 11.g3 g6 12.Nf3 Bg7 13.Re1 Ra7 14.Kg2 O-O 15.h4 h6
+16.Re2 Na6 17.Rhe1 Re8 18.h5 g5 19.Nxg5 hxg5 20.Qxg5 Kf8 21.h6 Bf6 22.Qxf6  1-0

@@ -1,0 +1,21 @@
+[Event "Speed Chess GP2 2021"]
+[Site "chess.com INT"]
+[Date "2021.09.25"]
+[Round "2"]
+[White "Atabayew,S"]
+[Black "Vitiugov,N"]
+[Result "0-1"]
+[WhiteElo "2425"]
+[BlackElo "2727"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c6 5.Nf3 Nf6 6.Bc4 Bf5 7.O-O e6 8.Bd2 Qc7
+9.Ne5 Nbd7 10.Bf4 Bd6 11.Qe2 Nb6 12.Bb3 O-O 13.Rfe1 Nbd5 14.Nxd5 cxd5 15.c3 a5
+16.a4 Nd7 17.f3 Nxe5 18.Bxe5 Bxe5 19.Qxe5 Qb6 20.Ra3 Bc2 21.Bxc2 Qxb2 22.Bxh7+ Kxh7
+23.Rea1 Rac8 24.Qe1 Rc7 25.Qb1+ Qxb1+ 26.Rxb1 Rfc8 27.Rbb3 Kg6 28.Kf2 Kf5
+29.Ke3 g5 30.Kd3 g4 31.fxg4+ Kxg4 32.Ra2 Rc4 33.Raa3 R4c7 34.Rb5 Rh8 35.h3+ Kg3
+36.Ra2 Rhc8 37.Rc2 Ra8 38.Rb1 Ra6 39.Rf1 Rb6 40.Rf3+ Kh4 41.Rcf2 f5 42.g4 fxg4
+43.hxg4 Rb1 44.g5 Rd1+ 45.Kc2 Rxd4 46.g6 Rg4 47.Rf7 Rc8 48.g7 Rg8 49.Rh2+ Kg3
+50.Rh7 b6 51.Rh2 Kxh2 52.Rb7 R8xg7 53.Rxb6 Rxa4 54.Rxe6 Ra2+ 55.Kb3 Rgg2
+56.Rh6+ Kg1 57.c4 d4 58.c5 d3 59.c6 Rac2 60.Rd6 a4+ 61.Kxa4 d2 62.Kb3 Rxc6
+63.Rd8 Rc1 64.Rxd2 Rxd2 65.Kb4 Rb2+ 66.Ka3 Rb8 67.Ka4 Ra1+  0-1

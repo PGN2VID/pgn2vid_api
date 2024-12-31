@@ -1,0 +1,21 @@
+[Event "ECC"]
+[Site "Panormo GRE"]
+[Date "2001.09.23"]
+[Round "1"]
+[White "Stefansson,H"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2586"]
+[BlackElo "2684"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be3 c6 5.Qd2 b5 6.Bd3 Nbd7 7.Nf3 e5 8.O-O Bb7
+9.h3 Bg7 10.a4 a6 11.dxe5 dxe5 12.Ne2 O-O 13.Ng3 Re8 14.c4 bxa4 15.c5 Bf8
+16.Rfc1 a5 17.Rxa4 Qc7 18.Qc3 Ba6 19.Bxa6 Rxa6 20.Qc4 Ra7 21.Ne1 Rea8 22.Nd3 Ne8
+23.Rca1 Ng7 24.Nf1 Ne6 25.Nd2 Qb7 26.R1a3 Qb5 27.b4 Be7 28.Qa2 Bg5 29.Nc4 Bxe3
+30.fxe3 Qb8 31.Rxa5 Rxa5 32.Rxa5 Rxa5 33.Qxa5 h5 34.Qa6 Nd8 35.Nd6 Kg7 36.Kf2 Nf6
+37.Kf3 Ne6 38.Qb7 Qxb7 39.Nxb7 Nd7 40.Na5 Nd8 41.Nb2 Kf6 42.Ke2 Ke7 43.Nbc4 f6
+44.Kd3 Nf8 45.Nd6 Kd7 46.Kc4 g5 47.b5 cxb5+ 48.Kxb5 Nde6 49.Nf5 Nc7+ 50.Kb6 Nfe6
+51.c6+ Kc8 52.Ne7+ Kb8 53.Nc4 Na8+ 54.Kb5 Nac7+ 55.Ka5 Nc5 56.Nd6 h4 57.Ng8 N7e6
+58.Kb5 Nd3 59.Nxf6 Nc7+ 60.Ka5 Ne1 61.Nd7+ Ka7 62.Nc8+ Ka8 63.Kb6 Ne6 64.c7 Nc2
+65.Nd6 Nxc7 66.Kxc7 Nxe3 67.Nb5 Nxg2 68.Nb6+  1-0

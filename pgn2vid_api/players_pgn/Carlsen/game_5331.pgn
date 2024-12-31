@@ -1,0 +1,21 @@
+[Event "chess.com SpeedChess 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.12"]
+[Round "1.10"]
+[White "Carlsen,M"]
+[Black "Vidit,S"]
+[Result "0-1"]
+[WhiteElo "2839"]
+[BlackElo "2716"]
+[ECO "D02"]
+
+1.d4 Nf6 2.Nf3 d5 3.g3 Bf5 4.c4 e6 5.Nc3 h6 6.Bg2 c6 7.Qb3 Qb6 8.c5 Qa6 9.Bf1 b5
+10.Bf4 Nbd7 11.Bg2 Qb7 12.O-O a5 13.Rfc1 Be7 14.Nd2 a4 15.Qb4 Nb8 16.Nd1 Na6
+17.Qc3 b4 18.Qe3 O-O 19.f3 Rfd8 20.g4 Bh7 21.Nf2 Nd7 22.Nf1 Re8 23.Qd2 e5
+24.dxe5 Naxc5 25.Bg3 a3 26.b3 Bf8 27.f4 f6 28.Ne3 Kh8 29.exf6 Nxf6 30.Qd4 Nce4
+31.Nxe4 Nxe4 32.Nf5 Qd7 33.Qd3 Rad8 34.Bf3 c5 35.Kg2 Qe6 36.Rd1 Bxf5 37.gxf5 Qxf5
+38.Bh4 Rd6 39.Bg3 Red8 40.Rac1 Qe6 41.Qc2 Nc3 42.Rd3 d4 43.Re1 Qe8 44.e4 Re6
+45.e5 Qf7 46.Rd2 Ree8 47.f5 Nd5 48.e6 Qf6 49.Bxd5 Rxd5 50.Rf1 d3 51.Rxd3 Rxf5
+52.Rdf3 Rxf3 53.Rxf3 Qxe6 54.Qf2 Be7 55.Re3 Qc6+ 56.Qf3 Qxf3+ 57.Kxf3 Rf8+
+58.Ke4 Bf6 59.Kd5 Bd4 60.Re2 Kg8 61.Bd6 Rf5+ 62.Kc4 Kf7 63.Re7+ Kf6 64.Re2 g5
+65.Be7+ Kf7 66.Bd6 h5 67.Re7+ Kg6 68.Re6+ Rf6 69.Re7 Rxd6  0-1

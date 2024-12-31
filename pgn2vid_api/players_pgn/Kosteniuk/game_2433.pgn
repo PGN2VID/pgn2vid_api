@@ -1,0 +1,19 @@
+[Event "Isolated Queens Swiss II"]
+[Site "chess.com INT"]
+[Date "2020.05.02"]
+[Round "1"]
+[White "Goodkind,Lauren"]
+[Black "Kosteniuk,A"]
+[Result "0-1"]
+[WhiteElo "1782"]
+[BlackElo "2471"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Be2 cxd4 7.Nxd4 Nxd4 8.cxd4 e6
+9.O-O Be7 10.Nc3 Qd8 11.Bg5 O-O 12.Qd2 Bd7 13.Rad1 Bc6 14.Qe3 Nd5 15.Bxe7 Nxe3
+16.Bxd8 Nxd1 17.Rxd1 Rfxd8 18.f3 Rd7 19.Kf2 Rad8 20.Ke3 Kf8 21.a3 f6 22.Na2 e5
+23.Nb4 exd4+ 24.Kd2 a5 25.Nd3 b6 26.Rc1 Bd5 27.Nf4 Bf7 28.Bd3 g6 29.g3 Rd6
+30.h4 Re8 31.Rc7 Re7 32.Rc8+ Kg7 33.Ne2 f5 34.Rc1 Bd5 35.f4 Be4 36.Rc8 Bxd3
+37.Kxd3 Re3+ 38.Kd2 Rb3 39.Kc1 Rf3 40.Kd2 d3 41.Nc3 Rd7 42.Rc6 Rxg3 43.Rxb6 Rg2+
+44.Kd1 d2 45.Re6 Rg1+ 46.Kc2 d1=Q+ 47.Nxd1 Rgxd1 48.Re3 R1d4 49.Kc3 Rxf4
+50.Rh3 Re4 51.Kc2 f4  0-1

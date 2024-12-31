@@ -1,0 +1,15 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "12"]
+[White "Praggnanandhaa,R"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2608"]
+[BlackElo "2770"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 c6 6.Bc4 Bf5 7.Ne5 e6 8.O-O Nbd7
+9.Re1 Nxe5 10.Rxe5 Qc7 11.Qe2 Bg6 12.Bxe6 fxe6 13.Rxe6+ Kf7 14.Qc4 b5 15.Qb3 Nd5
+16.Nxd5 cxd5 17.Qxd5 Qc4 18.Re7+ Kxe7 19.Bg5+ Ke8 20.Re1+ Be7 21.Rxe7+ Kf8
+22.Qxa8+  1-0

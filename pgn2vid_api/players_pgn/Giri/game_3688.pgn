@@ -1,0 +1,20 @@
+[Event "Chess.com Classic Div 3 W"]
+[Site "chess.com INT"]
+[Date "2024.05.10"]
+[Round "2.2"]
+[White "Paravyan,D"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteElo "2606"]
+[BlackElo "2745"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ke8 10.h3 h5 11.a4 a5 12.Ne2 Be7 13.Bg5 b6 14.Rfe1 c5 15.Bxe7 Kxe7
+16.Nf4 Be6 17.Ng5 Nd4 18.Ngxe6 Nxe6 19.Nd5+ Kd7 20.Rad1 Kc6 21.Rd2 Rae8 22.f4 Nd4
+23.Ne3 g6 24.c3 Nf5 25.Nxf5 gxf5 26.h4 Rd8 27.Red1 Rxd2 28.Rxd2 Rg8 29.Kf2 Rg4
+30.g3 Rg8 31.c4 Re8 32.b3 Rg8 33.Kf3 Re8 34.Kg2 Rg8 35.Kf2 Re8 36.Rd3 Rg8
+37.Rd1 Re8 38.Kg2 Rg8 39.Kf3 Rh8 40.g4 fxg4+ 41.Kg3 Re8 42.Rd5 Re6 43.f5 Re7
+44.f6 Re8 45.Kf4 Rg8 46.e6 fxe6 47.Rg5 Rf8 48.Ke5 Kd7 49.Rg7+ Kc6 50.f7 Kd7
+51.Kf6 Kd6 52.Rg8 Rxf7+ 53.Kxf7 Ke5 54.Rg5+ Kd4 55.Kxe6 Kc3 56.Rxh5 Kxb3
+57.Rg5 Kxa4 58.h5 Kb3 59.h6 a4 60.h7 a3 61.h8=Q  1-0

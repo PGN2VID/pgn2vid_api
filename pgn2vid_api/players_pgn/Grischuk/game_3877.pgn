@@ -1,0 +1,20 @@
+[Event "chess.com Speed 2021"]
+[Site "chess.com INT"]
+[Date "2021.11.11"]
+[Round "1.15"]
+[White "Grischuk,A"]
+[Black "Nihal,Sarin"]
+[Result "0-1"]
+[WhiteElo "2773"]
+[BlackElo "2650"]
+[ECO "C02"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 Nf5 8.Nc2 cxd4
+9.cxd4 Rc8 10.O-O Be7 11.Bd2 O-O 12.Bd3 Qb6 13.Bc3 Na5 14.Qe2 Nc4 15.Rab1 Rc7
+16.Kh1 g6 17.g4 Ng7 18.Rg1 f5 19.exf6 Bxf6 20.Rg3 Nd6 21.Re1 Bb5 22.Bxb5 Qxb5
+23.Qxb5 Nxb5 24.Re3 Rfc8 25.Ng1 Bg5 26.Rd3 Bc1 27.Ne1 Nxc3 28.bxc3 Bb2 29.Ne2 Rc6
+30.Kg2 Ne8 31.Nf3 Nd6 32.Ne5 R6c7 33.Nf4 Re8 34.Ne2 Ne4 35.Rgf3 Rf8 36.Nf4 Ng5
+37.Ne2 Nxf3 38.Nxf3 Rfc8 39.Ng5 Rc6 40.Nf4 Rxc3 41.Rd1 Rc1 42.Rd2 R1c2 43.Rd3 R8c3
+44.Rd1 Bc1 45.Ngxe6 Rc6 46.g5 Bxf4 47.Nxf4 Rxa2 48.Nxd5 Rcc2 49.Nf6+ Kf7
+50.Ng4 Rd2 51.Rc1 Rxd4 52.Kg3 Ra3+ 53.f3 Ke6 54.Rc7 Rb3 55.Rxh7 Rdd3 56.Rg7 Rxf3+
+57.Kg2 Kf5 58.Nf2 Rxf2+ 59.Kxf2 Kxg5  0-1

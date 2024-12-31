@@ -1,0 +1,22 @@
+[Event "Oleg Kalinin Memorial Sim"]
+[Site "lichess.org INT"]
+[Date "2020.05.04"]
+[Round "1.4"]
+[White "Ivanchuk,V"]
+[Black "Kovalskyi,Roman"]
+[Result "1-0"]
+[WhiteElo "2678"]
+[BlackElo "1716"]
+[ECO "B27"]
+
+1.e4 c5 2.Nf3 g6 3.c3 Bg7 4.d4 cxd4 5.cxd4 d5 6.e5 Bg4 7.Nbd2 Nc6 8.h3 Bxf3
+9.Nxf3 Nh6 10.Bd3 O-O 11.Be3 f6 12.exf6 Rxf6 13.O-O Nf5 14.Qb3 Qd7 15.Rac1 Nxe3
+16.fxe3 Rc8 17.Rc5 e6 18.Rfc1 Rcf8 19.Be2 a6 20.R1c3 R6f7 21.Qd1 Qd6 22.Qe1 e5
+23.Qg3 Qe7 24.dxe5 Nxe5 25.Rc7 Nxf3+ 26.Bxf3 Qd8 27.Rxf7 Rxf7 28.Rd3 Bxb2
+29.Rxd5 Qf6 30.h4 Bc1 31.Re5 Kg7 32.Qg5 Qxg5 33.hxg5 b5 34.Kf2 Rc7 35.Ke2 Rc2+
+36.Kd1 Rc7 37.Re6 Rc5 38.Rxa6 Rxg5 39.Kxc1 h5 40.Kd2 h4 41.Ra5 Kh6 42.Ke2 Rc5
+43.a4 Rc2+ 44.Kd3 Ra2 45.Rxb5 Rxa4 46.Rd5 Ra6 47.Ke2 g5 48.Rc5 Ra4 49.Rc6+ Kg7
+50.Bh5 Ra5 51.Kf3 Rf5+ 52.Kg4 Rf2 53.Rg6+ Kh7 54.Rxg5 Re2 55.Kxh4 Rxe3 56.Bf3 Re1
+57.g4 Kh8 58.Rc5 Rf1 59.Kg3 Rg1+ 60.Kf4 Rf1 61.g5 Kg7 62.Kg4 Rg1+ 63.Kf5 Rf1
+64.Rc7+ Kf8 65.Kf4 Rf2 66.Kg3 Rf1 67.g6 Rg1+ 68.Bg2 Rd1 69.Kf4 Kg8 70.Ke5 Re1+
+71.Kf6 Re8 72.Bd5+ Re6+ 73.Bxe6+ Kf8 74.Rc8+  1-0

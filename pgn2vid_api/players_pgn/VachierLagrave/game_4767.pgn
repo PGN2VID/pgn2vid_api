@@ -1,0 +1,24 @@
+[Event "Chess.com Classic Div 2 W"]
+[Site "chess.com INT"]
+[Date "2024.05.13"]
+[Round "4.2"]
+[White "Oparin,G"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteElo "2676"]
+[BlackElo "2732"]
+[ECO "B54"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bc4 g6 6.f3 Bg7 7.Nc3 a6 8.Be3 b5
+9.Bb3 Bb7 10.Qd2 h5 11.a4 bxa4 12.Bxa4+ Nbd7 13.Nc6 Qc8 14.Na5 O-O 15.O-O Rb8
+16.Nxb7 Rxb7 17.Bb3 Nc5 18.Bxc5 Qxc5+ 19.Kh1 Ra8 20.Nd5 e6 21.Ra5 Rb5 22.Nxf6+ Bxf6
+23.Rfa1 Rxa5 24.Rxa5 Qb6 25.Ra2 Rc8 26.g3 Rc5 27.Kg2 Kg7 28.h4 g5 29.hxg5 Rxg5
+30.Ra1 Rg6 31.Rh1 h4 32.g4 Qb5 33.Kh3 Qe5 34.Rg1 a5 35.c3 Bg5 36.Qd3 Rf6
+37.Bd1 Bf4 38.Qd4 Qg5 39.Rg2 Be5 40.Qd2 Rf4 41.Qf2 Bf6 42.Qd2 Be5 43.Qf2 Rf6
+44.Qd2 Bf4 45.Qd4 Kg6 46.Qd3 Kh6 47.b4 axb4 48.cxb4 Rg6 49.b5 Qc5 50.Qb3 Qb6
+51.Qc3 Kh7 52.Be2 Rg8 53.Qf6 Bg3 54.Qxf7+ Rg7 55.Qh5+ Kg8 56.Qe8+ Kh7 57.Qxe6 Qe3
+58.Qf5+ Rg6 59.e5 Qc1 60.g5 Qh1+ 61.Kg4 Qxg2 62.Kh5 Qxe2 63.Qxg6+ Kh8 64.Qf6+ Kg8
+65.Qd8+ Kg7 66.Qe7+ Kg8 67.Qe8+ Kg7 68.Qg6+ Kh8 69.Qf6+ Kg8 70.Kh6 Qxe5 71.Qg6+ Kf8
+72.Kh5 h3 73.b6 h2 74.Qh6+ Kf7 75.Qh7+ Ke6 76.Qg8+ Kd7 77.Qf7+ Kc6 78.Qc7+ Kb5
+79.Qd7+ Kxb6 80.Qd8+ Kc5 81.Qa5+ Kc6 82.Qa6+ Kd7 83.Qb7+ Ke6 84.Qc8+ Kd5
+85.Qb7+ Kc4 86.Qa6+ Kb3 87.Qd3+ Kb4 88.Qd2+ Qc3 89.Qg2 Qc1  0-1

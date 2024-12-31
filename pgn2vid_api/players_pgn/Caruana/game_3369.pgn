@@ -1,0 +1,20 @@
+[Event "Chess.com RCC Wk21 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.07.16"]
+[Round "7"]
+[White "Paravyan,D"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2620"]
+[BlackElo "2783"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 a6 6.Be2 Qc7 7.Nxc6 dxc6 8.Qd3 e5
+9.Qg3 h5 10.Bg5 f6 11.Be3 h4 12.Qg6+ Qf7 13.Qxf7+ Kxf7 14.Na4 Be6 15.O-O-O Nh6
+16.h3 Kg6 17.Bc5 Nf7 18.Bxf8 Rhxf8 19.Nc5 Ng5 20.g3 b6 21.gxh4 bxc5 22.hxg5 fxg5
+23.Rd6 Rf6 24.Rxc6 Rh8 25.Rxc5 Rxf2 26.Rc6 Rf6 27.Rxa6 Rh4 28.a4 Bxh3 29.Rg1 Rxe4
+30.Bd3 Rxa6 31.Bxe4+ Bf5 32.Bxf5+ Kxf5 33.b3 g4 34.Kd2 Kf4 35.Rf1+ Kg3 36.Rf5 g6
+37.Rxe5 Kh3 38.c4 g3 39.c5 g2 40.Rg5 Kh2 41.b4 g1=Q 42.Rxg1 Kxg1 43.b5 Rxa4
+44.c6 Rc4 45.Kd3 Rc1 46.Ke4 g5 47.Kd5 Rd1+ 48.Ke6 Rc1 49.Kd7 Rd1+ 50.Kc7 g4
+51.b6 g3 52.b7 Rb1 53.Kd8 g2 54.c7 Kf2 55.b8=Q Rd1+ 56.Ke7 Re1+ 57.Kf7 g1=Q
+58.c8=Q Qg2 59.Qf4+ Qf3 60.Qc5+ Kg2 61.Qg5+ Kf2 62.Qg3+ Ke2 63.Qgxf3+  1-0

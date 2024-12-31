@@ -1,0 +1,25 @@
+[Event "Chess.com RCC Wk14 KO"]
+[Site "chess.com INT"]
+[Date "2022.05.15"]
+[Round "1.3"]
+[White "Nakamura,Hi"]
+[Black "Bortnyk,Olexandr"]
+[Result "1-0"]
+[WhiteElo "2766"]
+[BlackElo "2604"]
+[ECO "A46"]
+
+1.Nf3 Nf6 2.d4 d6 3.e3 g6 4.b3 Bg7 5.Bb2 O-O 6.Be2 Bf5 7.O-O c6 8.c4 Re8
+9.Nc3 Qc7 10.d5 Ne4 11.Rc1 Nxc3 12.Bxc3 Bxc3 13.Rxc3 cxd5 14.Qxd5 Nc6 15.Qd2 Qa5
+16.Qb2 Rac8 17.Rd1 Bg4 18.a3 Bxf3 19.Bxf3 Qb6 20.b4 Ne5 21.Be2 a5 22.Rc2 axb4
+23.axb4 Nc6 24.Rb1 Ra8 25.Bf3 Ra4 26.c5 Qxb4 27.Qc1 Qa5 28.Bxc6 bxc6 29.cxd6 exd6
+30.Rxc6 Qd5 31.h3 Ra2 32.Rb4 Qd2 33.Qxd2 Rxd2 34.Rb7 Re6 35.Rb1 h5 36.h4 Kg7
+37.g3 d5 38.Rc5 Rf6 39.Rf1 Rf3 40.Rb5 Rf5 41.Rc5 Rf6 42.Rb5 Rc6 43.Rb4 Rc3
+44.Rf4 Rcc2 45.Rb1 Rc4 46.Rf3 Rc7 47.Rb4 Rd7 48.Rff4 Rc2 49.Kg2 Rc1 50.Rbd4 Rcc7
+51.Rd3 Rc6 52.Rfd4 Re6 53.Rxd5 Rxd5 54.Rxd5 Re7 55.Rd4 Rc7 56.e4 Rc3 57.Kf1 Rc2
+58.Kg2 Rc3 59.Rd2 Rb3 60.Rd5 Rc3 61.Kf1 Rc2 62.Ke1 Rc4 63.f3 Rc2 64.Rd2 Rc1+
+65.Kf2 Kf6 66.Ke3 Ke5 67.Rd5+ Ke6 68.Kf4 Rc3 69.Ra5 Kf6 70.Ra6+ Ke7 71.Ra4 Kf6
+72.Rb4 Ke6 73.Rb7 Kf6 74.e5+ Ke6 75.Rb6+ Ke7 76.Rb4 Ke6 77.Ra4 Rc6 78.Ke4 Rb6
+79.g4 hxg4 80.fxg4 Rb5 81.Ra6+ Ke7 82.Ra4 Rb1 83.Kf4 Re1 84.h5 gxh5 85.gxh5 Kf8
+86.h6 Kg8 87.Kf5 Rf1+ 88.Rf4 Re1 89.Kf6 Kh7 90.Rf5 Kxh6 91.Kxf7 Ra1 92.e6 Ra7+
+93.e7 Ra5 94.Rf6+ Kh7 95.Re6 Ra8 96.e8=Q Rd8 97.Rh6+  1-0

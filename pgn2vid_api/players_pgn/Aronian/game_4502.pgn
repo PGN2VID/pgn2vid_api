@@ -1,0 +1,20 @@
+[Event "chess.com SpeedChess 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.05"]
+[Round "1.25"]
+[White "So,W"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2753"]
+[BlackElo "2742"]
+[ECO "B47"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.g3 a6 7.Bg2 Nf6 8.O-O Nxd4
+9.Qxd4 Bc5 10.Bf4 d6 11.Qd2 h6 12.Rad1 e5 13.Be3 Bxe3 14.Qxe3 Be6 15.Rd2 O-O
+16.Rfd1 Rfd8 17.a3 Rac8 18.h3 b5 19.f4 Kf8 20.fxe5 dxe5 21.Rxd8+ Rxd8 22.Rxd8+ Qxd8
+23.Qc5+ Kg8 24.Qxe5 Qd2 25.Nd5 Bxd5 26.exd5 Qxc2 27.d6 Qc8 28.Qe7 a5 29.Kh2 b4
+30.axb4 axb4 31.Qe5 b3 32.Qd4 Qe6 33.Bc6 Qe2+ 34.Bg2 Qe6 35.Bf3 h5 36.Bd1 Qe1
+37.Bf3 Qe6 38.h4 Qf5 39.Kg2 Qe6 40.Qd3 g6 41.Qd4 Kg7 42.Qd3 Qe5 43.Qd2 Nd7
+44.Bd1 Nc5 45.Bf3 Kf6 46.d7 Nxd7 47.Qxd7 Qxb2+ 48.Kh3 Qc3 49.Bd5 Ke5 50.Qxf7 Qc1
+51.Qe6+ Kd4 52.Qe4+ Kc5 53.Bxb3 Qf1+ 54.Qg2 Qf5+ 55.Kh2 Kd4 56.Bc2 Qe6 57.Qd2+ Kc5
+58.Qf2+ Kc4 59.Bb1 Kc3 60.Qc2+ Kb4 61.Qe4+  1-0

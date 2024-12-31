@@ -1,0 +1,23 @@
+[Event "3rd Kolkata GM Open 2018"]
+[Site "Kolkata IND"]
+[Date "2018.05.19"]
+[Round "6.8"]
+[White "Burmakin,V"]
+[Black "Gukesh,D"]
+[Result "1-0"]
+[WhiteElo "2528"]
+[BlackElo "2426"]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 g6 4.c4 c6 5.b3 Bg7 6.Bb2 O-O 7.O-O Bg4 8.h3 Bxf3
+9.Bxf3 d4 10.e3 e5 11.exd4 exd4 12.d3 a5 13.Bg2 Nfd7 14.Re1 Na6 15.Nd2 Ne5
+16.Nf3 Nxf3+ 17.Qxf3 Qb6 18.Ba3 Nb4 19.Re2 Rfe8 20.Rae1 Rxe2 21.Qxe2 a4 22.bxa4 Bf8
+23.Qb2 Bc5 24.Bxb4 Qxb4 25.Qxb4 Bxb4 26.Rb1 Rxa4 27.a3 Bxa3 28.Rxb7 Ra6 29.Rc7 c5
+30.Bd5 Rf6 31.g4 h5 32.g5 Rf4 33.Be4 h4 34.Kg2 Bb4 35.f3 Kf8 36.Kf2 f6 37.Rc6 Kf7
+38.Rc7+ Kf8 39.Rc6 Kf7 40.Bd5+ Kg7 41.Rc7+ Kh8 42.Be4 fxg5 43.Rc6 Rf7 44.Rxg6 Bd2
+45.Ke2 Be3 46.Kd1 Ra7 47.Kc2 Ra2+ 48.Kb3 Rh2 49.Bf5 Rf2 50.Be4 Rh2 51.Bf5 Rf2
+52.Rc6 Rxf3 53.Rxc5 Kg7 54.Rc7+ Kf6 55.Bg4 Rf1 56.Rc6+ Ke7 57.c5 Rc1 58.Kb4 Bf4
+59.Re6+ Kd8 60.Kb5 Rc3 61.Bf5 g4 62.Re4 Be3 63.Rxg4 Bf2 64.Kc6 Ke7 65.Rg6 Bg3
+66.Re6+ Kf7 67.Kd5 Rc1 68.Re4 Kf6 69.Bg4 Kg7 70.Rxd4 Bf2 71.Rc4 Rxc4 72.Kxc4 Kf6
+73.d4 Be3 74.d5 Ke5 75.Bf3 Bg5 76.d6 Bd8 77.Kb5 Bg5 78.Kb6 Ke6 79.Kc6 Bd2
+80.Bg4+ Ke5 81.d7 Ba5 82.Kb7 Kd5 83.c6 Kd6 84.Bf3 Ke7 85.Kc8 Kd6 86.d8=Q+  1-0

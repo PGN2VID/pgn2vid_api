@@ -1,0 +1,21 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "1"]
+[White "Malek,Jan"]
+[Black "Movsesian,S"]
+[Result "0-1"]
+[WhiteElo "2422"]
+[BlackElo "2606"]
+[ECO "A28"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 Bb4 5.Qc2 d6 6.Nd5 a5 7.a3 Bc5 8.Bd3 Bg4
+9.Nxf6+ Qxf6 10.Be4 a4 11.Bxc6+ bxc6 12.Qe4 Qg6 13.Qxc6+ Ke7 14.Nxe5 dxe5
+15.Qxc7+ Kf6 16.Qxc5 Qd3 17.f3 Be6 18.Qc6 Rac8 19.Qe4 Bxc4 20.Qxd3 Bxd3 21.e4 Rc2
+22.Kf2 Rb8 23.Re1 Ke6 24.Re3 Rb3 25.g3 f6 26.h4 h5 27.Kg2 Kd6 28.Kf2 Kc5
+29.g4 g6 30.Kg3 Kd4 31.Kf2 Rb7 32.Kg3 Rb8 33.Re1 Rb3 34.Re3 Rb7 35.Re1 Rbc7
+36.Kh3 Rc8 37.Kg3 Rb8 38.Re3 Rh8 39.Re1 f5 40.exf5 gxf5 41.gxf5 Rf8 42.Kf2 Rxf5
+43.Rg1 e4 44.Rg3 e3+ 45.Ke1 e2 46.Kf2 Rfc5 47.Rg1 Rc8 48.Rb1 R2c6 49.Ra1 Rc2
+50.Rb1 R2c7 51.Ra1 Rf7 52.b3 Rcf8 53.Bb2+ Kd5 54.Rg5+ Kd6 55.Be5+ Ke6 56.f4 axb3
+57.Ke3 Rd8 58.Rxh5 Ba6 59.Rb1 Bc4 60.d4 b2 61.d5+ Rxd5 62.Rh6+ Kd7 63.Bxb2 Rd3+
+64.Kf2 Rxf4+ 65.Kxe2 Rh3+ 66.Kd2 Rf2+ 67.Ke1 Re2+ 68.Kd1 Rh1+  0-1

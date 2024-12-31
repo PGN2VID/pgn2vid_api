@@ -1,0 +1,15 @@
+[Event "ECC"]
+[Site "Rethymnon GRE"]
+[Date "2003.09.29"]
+[Round "2"]
+[White "Heberla,B"]
+[Black "Krasenkow,M"]
+[Result "1-0"]
+[WhiteElo "2420"]
+[BlackElo "2585"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.c3 d6 4.Bd3 Nc6 5.f4 e5 6.fxe5 dxe5 7.d5 Nce7 8.c4 Nf6
+9.Nf3 O-O 10.O-O c6 11.Nc3 b5 12.Be3 bxc4 13.Bxc4 cxd5 14.exd5 e4 15.Ng5 Ng4
+16.Nxf7 Qc7 17.d6 Qxc4 18.dxe7 Nxe3 19.Nh6+ Bxh6 20.Rxf8+ Bxf8 21.Qd8 Qf7
+22.e8=Q Qf5 23.Qxe4 Qe5 24.Qdd4  1-0

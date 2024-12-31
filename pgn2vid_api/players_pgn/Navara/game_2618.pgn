@@ -1,0 +1,21 @@
+[Event "European Online KO Final"]
+[Site "chess.com INT"]
+[Date "2020.05.31"]
+[Round "1.2"]
+[White "Asadli,Vugar"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2572"]
+[BlackElo "2719"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.O-O d6 7.Bb3 h6 8.Be3 Bxe3
+9.fxe3 O-O 10.Nbd2 Be6 11.Bc2 Ne7 12.Nh4 Ng6 13.Nf5 d5 14.exd5 Nxd5 15.Qe1 Qd7
+16.g4 Nge7 17.Qf2 Bxf5 18.gxf5 Nf6 19.e4 Qd6 20.Nc4 Ng4 21.Qg3 Qc5+ 22.Kh1 b5
+23.b4 Qc6 24.Nxe5 Nxe5 25.Qxe5 Qd6 26.Qxd6 cxd6 27.f6 Ng6 28.Bb3 a5 29.bxa5 Rxa5
+30.Rf5 Ne5 31.d4 g6 32.Rf2 Nc4 33.h4 Rc8 34.Rg1 Kf8 35.Rg3 Ra3 36.h5 g5 37.Rf5 Nd2
+38.Rxb5 Nxe4 39.Re3 Nxf6 40.Rb7 d5 41.Ree7 Kg8 42.Rxf7 Rf8 43.Rg7+ Kh8 44.Rg6 Ng4
+45.Rgg7 Rf1+ 46.Kg2 Ne3+ 47.Kh2 g4 48.Rgf7 Rxf7 49.Rxf7 Ra8 50.Re7 g3+ 51.Kg1 Nc4
+52.Kg2 Rc8 53.Kxg3 Nd2 54.Bxd5 Rxc3+ 55.Kf4 Rh3 56.Re2 Rxh5 57.Rxd2 Rxd5
+58.Ke4 Rd8 59.d5 Kg7 60.d6 h5 61.Kd5 h4 62.Kc6 h3 63.d7 Ra8 64.d8=Q Rxd8
+65.Rxd8  1-0

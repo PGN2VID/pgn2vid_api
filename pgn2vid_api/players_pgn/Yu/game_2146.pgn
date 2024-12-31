@@ -1,0 +1,20 @@
+[Event "chess.com Speed Q1KO Win"]
+[Site "chess.com INT"]
+[Date "2023.08.22"]
+[Round "2.1"]
+[White "Yu Yangyi"]
+[Black "Vasquez Schroeder,R"]
+[Result "1-0"]
+[WhiteElo "2721"]
+[BlackElo "2470"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.h3 g6 7.Nf3 Bg7 8.O-O Nf6
+9.Re1 O-O 10.Nbd2 Bf5 11.Be2 Rfe8 12.Nf1 Rad8 13.Ng3 Bc8 14.Bd3 b6 15.Bg5 Bb7
+16.Qd2 Na5 17.Bf4 Qc8 18.b3 Ba6 19.Bc2 e6 20.Rac1 Nc6 21.Bh6 Qc7 22.Bxg7 Kxg7
+23.Re3 Ne7 24.Ne5 Nc8 25.h4 Nd6 26.Rce1 Bb7 27.h5 Qe7 28.Rf3 Nfe4 29.Nxe4 dxe4
+30.Rh3 g5 31.h6+ Kh8 32.Rh5 f6 33.Nc4 Nxc4 34.bxc4 Qf7 35.Qe2 Qg6 36.Rh2 f5
+37.f3 exf3 38.gxf3 Qf6 39.Rh5 g4 40.f4 Bf3 41.Qe5 Qxe5 42.Rxe5 Rc8 43.Bd3 Bb7
+44.Rg5 Ba6 45.Rg7 Bxc4 46.Bxc4 Rxc4 47.Rxa7 Rxc3 48.Rxe6 Rcc8 49.Rxe8+ Rxe8
+50.d5 Rd8 51.d6 Kg8 52.Rg7+ Kf8 53.d7 b5 54.Rxh7 Kg8 55.Re7 Kf8 56.Re8+ Rxe8
+57.dxe8=Q+ Kxe8 58.h7  1-0

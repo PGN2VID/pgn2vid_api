@@ -1,0 +1,25 @@
+[Event "chess.com SpeedChess 2022"]
+[Site "chess.com INT"]
+[Date "2022.12.12"]
+[Round "2.33"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2735"]
+[BlackElo "2768"]
+[ECO "C26"]
+
+1.e4 e5 2.Bc4 Nf6 3.Nc3 Bb4 4.Nf3 O-O 5.Nxe5 d6 6.Nf3 Nxe4 7.O-O Nf6 8.d4 h6
+9.Nd5 Nxd5 10.Bxd5 c6 11.Bb3 d5 12.Bf4 Bd6 13.Qd2 Qc7 14.Bxd6 Qxd6 15.Rae1 Bf5
+16.Ne5 Nd7 17.c4 dxc4 18.Nxc4 Qf6 19.Na5 Rab8 20.d5 cxd5 21.Bxd5 Nc5 22.b4 Nd3
+23.Re3 Nf4 24.Rf3 Nxd5 25.Qxd5 g6 26.Nxb7 Qb6 27.Nd6 Rbd8 28.Nxf5 Rxd5 29.Ne7+ Kg7
+30.Nxd5 Qd4 31.Nf4 Qxb4 32.g3 Re8 33.Kg2 Qa5 34.a3 Re1 35.Rxe1 Qxe1 36.Re3 Qc1
+37.h4 Qc6+ 38.Kg1 g5 39.hxg5 hxg5 40.Nd3 Qc3 41.Ne5 Qc5 42.Kg2 f6 43.Nf3 Qd5
+44.Kg1 Kg6 45.Ne1 a5 46.Nd3 Qd4 47.Ne1 Qa1 48.Kg2 Qd1 49.Nf3 Qd5 50.Kg1 f5
+51.Ne5+ Kf6 52.Nd3 Qd4 53.Ne1 f4 54.gxf4 gxf4 55.Rh3 Qd1 56.Kf1 Kf5 57.Rd3 Qb1
+58.f3 Ke5 59.Ke2 Qb2+ 60.Kd1 a4 61.Nc2 Qb1+ 62.Kd2 Qf1 63.Nb4 Qf2+ 64.Kc3 Qe2
+65.Kc4 Kf5 66.Kb5 Qe8+ 67.Nc6 Kg5 68.Rc3 Qe1 69.Rd3 Qb1+ 70.Nb4 Kf5 71.Kxa4 Qe1
+72.Kb3 Qe6+ 73.Kc3 Qe5+ 74.Kc4 Qe6+ 75.Kc5 Qe7+ 76.Kb5 Qb7+ 77.Kc4 Qf7+ 78.Nd5 Qa7
+79.Kb3 Qb7+ 80.Nb4 Qa7 81.a4 Ke6 82.Nd5 Ke5 83.Nc3 Ke6 84.Nb5 Qg1 85.Nd4+ Ke5
+86.Nc2 Qb1+ 87.Kc3 Qa2 88.Rd4 Qb1 89.Re4+ Kf5 90.Nd4+ Kg6 91.Ne2 Qa1+ 92.Kb3 Qf1
+93.Nxf4+ Kf5 94.Nd5 Qxf3+ 95.Ne3+ Kxe4  0-1

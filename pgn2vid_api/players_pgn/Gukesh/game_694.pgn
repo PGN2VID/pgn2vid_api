@@ -1,0 +1,14 @@
+[Event "Speed Chess Super Swiss"]
+[Site "chess.com INT"]
+[Date "2020.10.03"]
+[Round "13"]
+[White "Baskin,R"]
+[Black "Gukesh,D"]
+[Result "0-1"]
+[WhiteElo "2390"]
+[BlackElo "2563"]
+[ECO "B10"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Qd5 6.d3 Bg4 7.h3 Bh5 8.Nxf6+ gxf6
+9.g4 Bg6 10.Bg2 Nd7 11.O-O O-O-O 12.Be3 Qd6 13.a4 h5 14.Rfb1 hxg4 15.hxg4 f5
+16.gxf5 Bxf5 17.Nd4 Qh2+ 18.Kf1 Bh3 19.f4 Qh1+ 20.Bg1 Rg8  0-1

@@ -1,0 +1,21 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.??.??"]
+[Round "9"]
+[White "Boleslavsky, Isaak"]
+[Black "Kofman, Rafael Moiseevich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c4 Bd7 6.Nc3 Nge7 7.O-O Ng6 8.d4 Be7
+9.Bxc6 bxc6 10.dxe5 dxe5 11.Be3 O-O 12.Qe2 f5 13.exf5 Bxf5 14.Rad1 Qe8 15.Nd2 Nh4
+16.Nde4 Qg6 17.f3 Rad8 18.Kh1 Bc8 19.Ng3 Nf5 20.Bf2 Bf6 21.Qe4 Nd4 22.Qxg6 hxg6
+23.Nge4 Kf7 24.Rd2 Bf5 25.Rfd1 Rfe8 26.Kg1 c5 27.Kf1 Rh8 28.h3 Rb8 29.b3 Rh7
+30.Be3 Rbh8 31.Nf2 a5 32.Nce4 Be7 33.Nd3 Bxe4 34.fxe4 Ke6 35.Rf2 g5 36.Bxd4 cxd4
+37.Rf5 Rf8 38.Rxf8 Bxf8 39.Ke2 Be7 40.c5 c6 41.Rc1 Rh8 42.Rb1 Rb8 43.a3 Ra8
+44.Rb2 g6 45.Rb1 Bd8 46.a4 Bc7 47.Kd2 Kf6 48.Kc2 g4 49.Rf1+ Kg5 50.hxg4 Rh8
+51.Rf7 Bb8 52.b4 axb4 53.Nxb4 Kxg4 54.Nxc6 Rc8 55.Nxb8 Rxb8 56.c6 Rc8 57.c7 Kg3
+58.a5 Kxg2 59.a6 g5 60.a7 g4 61.Kd2 g3 62.Rd7 Kf2 63.Rd8 Rxc7 64.a8=Q Rf7
+65.Rf8 Rf3 66.Rxf3+ Kxf3 67.Qf8+  1-0

@@ -1,0 +1,22 @@
+[Event "Titled Tue 21st Nov Early"]
+[Site "chess.com INT"]
+[Date "2023.11.21"]
+[Round "3"]
+[White "Kamsky,G"]
+[Black "Eugene,Floryan"]
+[Result "1-0"]
+[WhiteElo "2634"]
+[BlackElo "2431"]
+[ECO "A80"]
+
+1.d4 f5 2.Nc3 Nf6 3.Bg5 d5 4.e3 e6 5.Nf3 Bd6 6.Bd3 O-O 7.O-O Bd7 8.Ne2 Be8
+9.Ne5 Bh5 10.f3 Nbd7 11.Nf4 Qe8 12.Bxf6 Nxf6 13.c4 c6 14.Qb3 Qe7 15.cxd5 cxd5
+16.Rac1 Be8 17.Be2 b6 18.Nfd3 Bd7 19.Nxd7 Nxd7 20.Rc6 Rac8 21.Rfc1 Rxc6 22.Rxc6 Rd8
+23.f4 Nb8 24.Rc3 g5 25.Ne5 Bxe5 26.fxe5 g4 27.Qc2 Nd7 28.Rc7 a5 29.Bb5 Qb4
+30.Qe2 Nf8 31.a3 Qb3 32.Rc3 Qa2 33.Qc2 Qa1+ 34.Qc1 Qxc1+ 35.Rxc1 Ng6 36.g3 Nf8
+37.Rc6 Rb8 38.Rc7 Kh8 39.Kf2 Kg8 40.Ke2 Ng6 41.Kd2 Nf8 42.Kc3 Ng6 43.Kb3 Nf8
+44.Ka4 Ng6 45.Ba6 Nf8 46.Kb5 h5 47.Bb7 Ng6 48.Kxb6 h4 49.Kxa5 hxg3 50.hxg3 Re8
+51.Kb6 Rf8 52.a4 Re8 53.a5 Rf8 54.a6 f4 55.exf4 Nxf4 56.a7 Nd3 57.Bc8 Nxb2
+58.a8=Q Nc4+ 59.Rxc4 dxc4 60.Bxe6+ Kg7 61.Qxf8+ Kxf8 62.Bxc4 Ke7 63.d5 Kd7
+64.d6 Ke8 65.Kc7 Kf8 66.d7 Kg7 67.d8=Q Kh6 68.Qf6+ Kh7 69.e6 Kg8 70.e7+ Kh7
+71.Bd3+ Kg8 72.e8=R+  1-0

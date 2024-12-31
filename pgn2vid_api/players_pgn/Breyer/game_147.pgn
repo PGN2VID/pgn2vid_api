@@ -1,0 +1,14 @@
+[Event "Kosice sim"]
+[Site "Kosice"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Breyer, Gyula"]
+[Black "Toufar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 d5 6.d4 f6 7.Bxf4 fxg5 8.Bxg5 Be7
+9.Qd2 Bxg5 10.hxg5 Be6 11.Nc3 Ne7 12.Bd3 Bd7 13.Rh6 c6 14.O-O-O Na6 15.Rdh1 Nb4
+16.exd5 Nxd3+ 17.cxd3  1-0

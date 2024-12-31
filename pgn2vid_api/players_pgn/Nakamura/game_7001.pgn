@@ -1,0 +1,16 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "1"]
+[White "Nakamura,Hi"]
+[Black "Zakhartsov,Vl"]
+[Result "1-0"]
+[WhiteElo "2780"]
+[BlackElo "2526"]
+[ECO "A04"]
+
+1.Nf3 c5 2.b3 d5 3.Bb2 a6 4.e3 Nc6 5.d4 Bg4 6.Be2 Bxf3 7.Bxf3 cxd4 8.exd4 Nf6
+9.c4 e6 10.O-O Bd6 11.Nd2 O-O 12.a3 Rc8 13.c5 Bb8 14.b4 e5 15.dxe5 Bxe5 16.Bxe5 Nxe5
+17.Nb3 Re8 18.Be2 Nc6 19.Rc1 Rc7 20.Qc2 Rce7 21.Bf3 Ne5 22.Nd4 Nxf3+ 23.Nxf3 Re2
+24.Qd3 Ra2 25.c6 bxc6 26.Rxc6 a5 27.Qb3 Rae2 28.b5 d4 29.b6 d3 30.b7 Qb8
+31.Ra6 R2e7 32.Rb1 d2 33.Nxd2 Qf4 34.b8=Q Qxd2 35.h3 Rxb8 36.Qxb8+ Re8 37.Rxf6  1-0

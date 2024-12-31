@@ -1,0 +1,22 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "6"]
+[White "Erigaisi,Arjun"]
+[Black "Livaic,Leon"]
+[Result "0-1"]
+[WhiteElo "2559"]
+[BlackElo "2507"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.d4 cxd4 5.Nxd4 a6 6.Rg1 b5 7.g4 Bb7 8.Bg2 Qc7
+9.g5 Nfd7 10.Nd5 Bxd5 11.exd5 g6 12.Ne6 fxe6 13.dxe6 Nb6 14.Be3 Nc6 15.Qf3 Rc8
+16.O-O-O Ne5 17.Qe4 Nbc4 18.Bd4 Bg7 19.f4 d5 20.Qe2 Nd3+ 21.Qxd3 Bxd4 22.Qxd4 O-O
+23.Bxd5 Rxf4 24.Qc3 Rf5 25.Bxc4 Rc5 26.Rd7 Qf4+ 27.Qd2 Qxc4 28.Rd8+ Kg7 29.b3 Qxc2+
+30.Qxc2 Rxc2+ 31.Kb1 Rxd8 32.Kxc2 Rd6 33.Re1 h6 34.h4 hxg5 35.hxg5 Rd5 36.Rf1 Rxg5
+37.Rf7+ Kh6 38.Rxe7 Re5 39.Re8 Kg5 40.Kd3 Kf6 41.Kd4 Rxe6 42.Rf8+ Kg5 43.Ra8 Rf6
+44.Kd5 Kf5 45.a4 g5 46.a5 g4 47.Re8 Kf4 48.Re1 Kg5 49.Rg1 Kf4 50.Kc5 Kg5
+51.Re1 g3 52.Rg1 Kg4 53.b4 Rf5+ 54.Kb6 Rf6+ 55.Kb7 Kh3 56.Rd1 g2 57.Rd8 Kh2
+58.Rg8 g1=Q 59.Rxg1 Kxg1 60.Ka7 Kf1 61.Kb7 Ke2 62.Kc7 Kd3 63.Kb7 Kc4 64.Ka7 Kxb4
+65.Kb8 Kxa5 66.Kc7 Rb6 67.Kd7 b4 68.Ke7 b3 69.Kd8 b2 70.Ke7 b1=Q 71.Kf7 Qb5
+72.Kg7 Qc6 73.Kf7 Rb7+ 74.Kf8 Qc8+  0-1

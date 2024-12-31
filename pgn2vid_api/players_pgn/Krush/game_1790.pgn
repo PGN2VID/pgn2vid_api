@@ -1,0 +1,16 @@
+[Event "Isolated Queens Swiss II"]
+[Site "chess.com INT"]
+[Date "2020.05.02"]
+[Round "5"]
+[White "Krush,I"]
+[Black "Herman,Sara"]
+[Result "1-0"]
+[WhiteElo "2429"]
+[BlackElo "1839"]
+[ECO "E73"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 e5 7.d5 Na6 8.g4 Nc5 9.f3 a5
+10.h4 b6 11.h5 Ne8 12.Nh3 f5 13.hxg6 fxg4 14.gxh7+ Kh8 15.Ng5 gxf3 16.Bxf3 Qf6
+17.Qe2 Ba6 18.O-O-O a4 19.Rdf1 Qe7 20.Bh5 Nf6 21.Bg6 Bc8 22.Kb1 c6 23.dxc6 Qa7
+24.Nd5 Bg4 25.Qg2 Be6 26.Bxc5 Bxd5 27.exd5 bxc5 28.Ne6 Rfe8 29.Bxe8 Rxe8
+30.Nxg7 Qxg7 31.Qxg7+ Kxg7 32.Rxf6  1-0

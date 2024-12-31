@@ -1,0 +1,17 @@
+[Event "chess.com SpeedChess 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.14"]
+[Round "1.7"]
+[White "Nepomniachtchi,I"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2771"]
+[BlackElo "2712"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.e5 Nd5 7.Qg4 Kf8 8.a3 Bxc3+
+9.bxc3 Qc7 10.Bd2 Qxe5+ 11.Be2 Nc6 12.O-O h5 13.Qf3 Qf6 14.Qe4 g5 15.Rfe1 Nf4
+16.Nxc6 bxc6 17.Bf1 d5 18.Qa4 e5 19.c4 Bf5 20.Qa5 Rc8 21.Bc3 Ng6 22.cxd5 cxd5
+23.Ba6 Rxc3 24.Qxc3 Qxa6 25.Rxe5 Qf6 26.Re3 Kg7 27.Rd1 Rd8 28.Qxf6+ Kxf6
+29.Rc3 Nf4 30.Rc5 Rc8 31.Rxc8 Bxc8 32.g3 Nh3+ 33.Kg2 g4 34.Kf1 Ba6+ 35.Ke1 Bc4
+36.Rb1 Ng5 37.Kd2 Nf3+ 38.Ke3 Ke5 39.c3 a6 40.Rb8 Nxh2 41.Rh8 Nf1+  0-1

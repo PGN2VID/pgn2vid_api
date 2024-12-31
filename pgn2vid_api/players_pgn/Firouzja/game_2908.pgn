@@ -1,0 +1,17 @@
+[Event "AI Cup Div 1 L"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "2.3"]
+[White "Nepomniachtchi,I"]
+[Black "Firouzja,Alireza"]
+[Result "1-0"]
+[WhiteElo "2771"]
+[BlackElo "2777"]
+[ECO "E54"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 dxc4 7.Bxc4 c5 8.O-O cxd4
+9.exd4 b6 10.Qe2 Bb7 11.Rd1 h6 12.Rd3 Nc6 13.Ne5 Ne7 14.a3 Bxc3 15.bxc3 Rc8
+16.Rh3 Nf5 17.Bd2 Ne4 18.Re1 Nxd2 19.Qxd2 Rxc4 20.Nxc4 Bxg2 21.Kxg2 Qd5+
+22.Kg1 Qxc4 23.Re5 Rd8 24.Qe2 Qxe2 25.Rxe2 Ne7 26.Rc2 Nc6 27.Rh4 Rd5 28.c4 Rxd4
+29.Rxd4 Nxd4 30.c5 bxc5 31.Rxc5 e5 32.Ra5 e4 33.Rxa7 Nf3+ 34.Kg2 Nh4+ 35.Kh1 f5
+36.a4 Kf8 37.a5 f4 38.Rb7  1-0

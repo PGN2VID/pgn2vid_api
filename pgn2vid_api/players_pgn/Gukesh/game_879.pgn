@@ -1,0 +1,23 @@
+[Event "Baer Polgar Challenge"]
+[Site "chess24.com INT"]
+[Date "2021.04.08"]
+[Round "3.10"]
+[White "Gukesh,D"]
+[Black "Keymer,Vincent"]
+[Result "1-0"]
+[WhiteElo "2578"]
+[BlackElo "2591"]
+[ECO "B10"]
+
+1.c4 c6 2.e4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nc3 Nxd5 6.Nf3 Nc6 7.Bc4 e6 8.O-O Be7
+9.d4 O-O 10.Qe2 Nxc3 11.bxc3 b6 12.Bd3 Bb7 13.Qe4 g6 14.Bh6 Re8 15.Qg4 Bf8
+16.Bg5 Qc8 17.Rac1 Bg7 18.Qh4 Qc7 19.Rfe1 Ne7 20.Bf4 Qd8 21.Qg3 Nd5 22.Bg5 Qc7
+23.Qh4 Rac8 24.c4 Ne7 25.Ne5 Nc6 26.Ng4 f5 27.Nf6+ Bxf6 28.Bxf6 Qf7 29.d5 Nb4
+30.Bb1 exd5 31.Rxe8+ Qxe8 32.Qh6 Qf8 33.Qh4 Qe8 34.Qh6 Qf7 35.Bc3 Rxc4 36.a3 Na6
+37.Bd3 Rc8 38.Bb2 Nc5 39.Bf1 Rd8 40.Qh4 Re8 41.Qd4 Kf8 42.Qh8+ Ke7 43.Re1+ Ne6
+44.Qe5 Kf8 45.Bb5 Rc8 46.Qd6+ Qe7 47.Rxe6 Qxd6 48.Rxd6 Rc2 49.Rd8+ Ke7 50.Rd7+ Ke6
+51.Rxb7 Rxb2 52.Bf1 d4 53.Rxa7 Rb1 54.Ra8 Ke7 55.Ra4 Rd1 56.g3 d3 57.Rd4 d2
+58.Kg2 Ke6 59.Be2 Ra1 60.Rxd2 Rxa3 61.Rb2 f4 62.Rxb6+ Ke5 63.Rb5+ Kf6 64.gxf4 Rc3
+65.Bf3 h6 66.Rb6+ Kf5 67.Kg3 h5 68.Rb5+ Kf6 69.h4 Ra3 70.f5 gxf5 71.Rb6+ Kg7
+72.Kf4 Ra2 73.Kg5 Rxf2 74.Rb7+ Kg8 75.Kg6 Kf8 76.Kf6 Ke8 77.Bxh5+ Kd8 78.Bg6 f4
+79.h5 f3 80.h6 Rh2 81.Kg7 f2 82.Rf7  1-0

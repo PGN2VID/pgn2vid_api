@@ -1,0 +1,15 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "3"]
+[White "Tomashevsky,E"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2694"]
+[BlackElo "2641"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 Bc5 4.Nc3 a6 5.e3 Ba7 6.Nge2 d6 7.d4 Nge7 8.h3 O-O
+9.O-O exd4 10.exd4 Nf5 11.d5 Ne5 12.b3 Bd7 13.Bb2 b5 14.cxb5 axb5 15.Ne4 Re8
+16.a3 Bb6 17.Kh2 h5 18.Nf4 h4 19.g4 Nh6 20.g5 Nf5 21.Nh5 b4 22.a4 Ra5 23.Rc1 Kf8
+24.f4 Ng6 25.Re1 Bc8 26.Rc4 Bb7 27.Qa1  1-0

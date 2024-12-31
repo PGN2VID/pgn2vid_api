@@ -1,0 +1,22 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "7"]
+[White "Panarin,M"]
+[Black "Praggnanandhaa,R"]
+[Result "1-0"]
+[WhiteElo "2562"]
+[BlackElo "2608"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+
+9.Ne2 h5 10.O-O Nd7 11.Re1 h4 12.Bf4 Qc7 13.Bxd6 Qxd6 14.Bh7+ Kf8 15.Bf5 Nb6
+16.Bxc8 Raxc8 17.Qh7 Re6 18.Qh8+ Ke7 19.Qxh4 Nd5 20.Ng3 Qf4 21.Qxf4 Nxf4
+22.Nf5+ Kf8 23.Rxe6 fxe6 24.Nd6 Rc7 25.g3 Rd7 26.Ne4 Nd3 27.Rb1 f5 28.Ng5 e5
+29.Kf1 e4 30.Ke2 Ke7 31.f3 Kf6 32.h4 c5 33.fxe4 c4 34.b3 fxe4 35.bxc4 Re7
+36.Nxe4+ Rxe4+ 37.Kxd3 Re7 38.Rf1+ Kg6 39.Rf4 Kh5 40.Rf5+ Kg4 41.Rg5+ Kf3
+42.c5 b5 43.cxb6 axb6 44.a4 Ra7 45.Rb5 Rxa4 46.Rxb6 Kxg3 47.Rg6+ Kxh4 48.Rxg7 Kh5
+49.Re7 Kh6 50.Re5 Kg6 51.c4 Kf6 52.c5 Ra3+ 53.Ke4 Ra1 54.Kd5 Rc1 55.Re6+ Kf5
+56.Re3 Ra1 57.c6 Ra5+ 58.Kd6 Ra4 59.Re5+ Kf4 60.d5 Rc4 61.Re6 Rc5 62.c7 Rc4
+63.Re8 Kf5 64.c8=Q+ Rxc8 65.Rxc8 Ke4 66.Re8+ Kd4 67.Re6 Kc3 68.Ke7 Kc4 69.d6 Kb5
+70.d7 Kc4 71.d8=Q Kb3 72.Qd7 Kb2 73.Rc6 Ka2 74.Qb7 Ka1 75.Ra6+  1-0

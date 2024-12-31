@@ -1,0 +1,14 @@
+[Event "Hastings sim"]
+[Site "Hastings"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 f5 6.Bxg8 fxe4 7.Qb3 Qf6 8.Ng5 Qxg5
+9.Qf7+ Kd8 10.cxb4 d6 11.O-O Bh3 12.g3 Nd4 13.Nc3 Be6 14.Qf8+ Kd7 15.Qxa8 Rxg8
+16.Qxb7 Nf3+ 17.Kh1 Qh5 18.h4 Qg4 19.Qb5+ Ke7 20.Nd5+ Kf7  0-1

@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "10"]
+[White "Chigorin, Mikhail"]
+[Black "Janowsky, Dawid Markelowicz"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Nf3 Nc6 3.c3 Nf6 4.d4 Nxe4 5.d5 Nb8 6.Bd3 Nc5 7.Nxe5 Nxd3+ 8.Nxd3 Be7
+9.O-O O-O 10.c4 d6 11.Nc3 Nd7 12.Re1 Re8 13.Bf4 Nb6 14.b3 Bf5 15.Qd2 Nd7
+16.Rac1 Nf8 17.Re2 Ng6 18.Bg3 h5 19.h3 h4 20.Bh2 Kh7 21.Rce1 Bg5 22.Qd1 Rxe2
+23.Qxe2 Bh6 24.Ne4 Qd7 25.Qf3 Re8 26.Kf1 a5 27.a4 b6 28.Re2 f6 29.Ke1 Ne5
+30.Bxe5 dxe5 31.c5 Bg6 32.c6 Qe7 33.Nb2 f5 34.Nd2 Qc5 35.Qd3 e4 36.Qc4 Qd6
+37.Nd1 Bh5 38.Nf1 Bxe2 39.Kxe2 f4 40.f3 Qg6 41.Nf2 Qxg2 42.fxe4 f3+ 43.Ke1 Bf4
+44.Ng4 Qxh3 45.Nfe3 Bxe3 46.Nxe3 Qg3+ 47.Kd1 f2 48.Ke2 Qg1 49.Nf1 Qg2 50.e5 Rxe5+
+51.Kd2 Qxd5+  0-1

@@ -1,0 +1,15 @@
+[Event "chess.com SpeedChess Q2KO"]
+[Site "chess.com INT"]
+[Date "2022.11.13"]
+[Round "3.8"]
+[White "Grischuk,A"]
+[Black "Artemiev,V"]
+[Result "1-0"]
+[WhiteElo "2745"]
+[BlackElo "2701"]
+[ECO "B48"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 Nc6 4.d4 cxd4 5.Nxd4 Qc7 6.Be3 a6 7.Qf3 Bd6 8.O-O-O Be5
+9.Nxc6 bxc6 10.Bd4 Nf6 11.Bxe5 Qxe5 12.Qe3 g5 13.g3 Ng4 14.Qe2 h5 15.f3 Nf6
+16.Qe3 Nd5 17.Nxd5 cxd5 18.Qc5 Rb8 19.c3 d6 20.Qc7 O-O 21.Qxb8 dxe4 22.Qxd6 Qa5
+23.Bc4 exf3 24.Rhf1 Bb7 25.Bb3 Qf5 26.Bc2 Qh3 27.Qe7 Bd5 28.Qxg5+  1-0

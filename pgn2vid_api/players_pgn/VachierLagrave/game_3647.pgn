@@ -1,0 +1,24 @@
+[Event "Chess.com RCC Wk11 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.04.23"]
+[Round "2"]
+[White "Alekseenko,K"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteElo "2698"]
+[BlackElo "2758"]
+[ECO "B92"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
+9.Kh1 b6 10.f3 Bb7 11.Be3 b5 12.a4 b4 13.Nd5 Nxd5 14.exd5 Nd7 15.c4 a5 16.f4 Bf6
+17.Qd2 Re8 18.fxe5 Bxe5 19.Nd4 Nc5 20.Rae1 Rc8 21.Bg4 Qh4 22.Bh3 Ra8 23.Qd1 Ba6
+24.Bf2 Qh6 25.Nf5 Qg6 26.b3 Bb7 27.Bxc5 dxc5 28.Re4 h5 29.Qe2 f6 30.Nh4 Qf7
+31.Bf5 g5 32.Bg6 Qg7 33.Qxh5 Rf8 34.Nf5 Qh8 35.Nh6+ Kg7 36.Nf5+ Kg8 37.Qxh8+ Kxh8
+38.Ne3 Kg7 39.Bf5 Rae8 40.Ng4 Bc3 41.h3 Rxe4 42.Bxe4 Bc8 43.Bf5 Bxf5 44.Rxf5 Kg6
+45.Rf3 Re8 46.Ne3 Bd4 47.Nf5 Re1+ 48.Kh2 Be5+ 49.g3 Re2+ 50.Kg1 Rd2 51.g4 Kf7
+52.Kf1 Ke8 53.Ke1 Rc2 54.Kd1 Rh2 55.Rd3 Kd7 56.Rf3 Bc3 57.Re3 Be5 58.Ke1 Rc2
+59.Kf1 Rc1+ 60.Kg2 Rc3 61.Kf3 Bf4 62.Rxc3 bxc3 63.Ne3 Kd6 64.Nc2 Ke5 65.Ke2 Bh2
+66.Kd3 Kf4 67.d6 Kf3 68.d7 Bc7 69.Kxc3 Kg3 70.Ne3 Kxh3 71.Kd3 Kg3 72.Ke4 Bd8
+73.Kf5 Kf3 74.Nd5 Ke2 75.Nxf6 Kd3 76.Ne4 Kd4 77.Nxg5 Kc3 78.Ne6 Be7 79.d8=Q Bxd8
+80.Nxd8 Kxb3 81.g5 Kxc4 82.g6 Kb4 83.g7 c4 84.g8=Q c3 85.Nc6+ Ka3 86.Qc4 c2
+87.Qc3+ Kxa4 88.Qxc2+ Kb5 89.Nd4+ Kb4 90.Qb3+ Kc5 91.Ke5 a4 92.Qb5+  1-0

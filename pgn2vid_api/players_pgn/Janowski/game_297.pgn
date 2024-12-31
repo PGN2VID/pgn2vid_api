@@ -1,0 +1,15 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Schlechter, Carl"]
+[Black "Janowsky, Dawid Markelowicz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 a6 4.cxd5 exd5 5.Qb3 c6 6.e4 dxe4 7.Bc4 Qe7 8.a4 Nf6
+9.Nge2 Bf5 10.O-O Bg6 11.f4 exf3 12.Rxf3 Qd7 13.Nf4 Bd6 14.Re3+ Kf8 15.Rf3 a5
+16.h3 Na6 17.Nxg6+ hxg6 18.Ne4 Re8 19.Nxd6 Qxd6 20.Bf4 Qxd4+ 21.Be3 Rxe3
+22.Rxe3 Rh4 23.Rd1  1-0

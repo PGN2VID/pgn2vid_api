@@ -1,0 +1,19 @@
+[Event "AI Cup Div 3 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.1"]
+[White "Beerdsen,Thomas"]
+[Black "Alekseev,Evgeny"]
+[Result "0-1"]
+[WhiteElo "2511"]
+[BlackElo "2573"]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Be7 6.d4 Na5 7.Bd3 d6 8.dxe5 dxe5
+9.Nxe5 Nf6 10.O-O O-O 11.Qc2 Nd7 12.Nxd7 Bxd7 13.e5 g6 14.Bh6 Re8 15.Nd2 Bc6
+16.f4 Qd5 17.Ne4 Nc4 18.Rae1 Nb2 19.Qxb2 Qxd3 20.Rf3 Qc4 21.Qc2 Rad8 22.h3 f5
+23.Nd2 Rxd2 24.Qxd2 Bxf3 25.gxf3 Rd8 26.Qb2 b6 27.Qb3 Qxb3 28.axb3 Kf7 29.e6+ Ke8
+30.Bg7 Rd3 31.Ra1 a5 32.b4 axb4 33.cxb4 Bxb4 34.Ra8+ Rd8 35.Ra7 Ke7 36.Rxc7+ Kxe6
+37.Be5 Rd7 38.Rc8 Kd5 39.Kf2 Bc5+ 40.Kg3 b5 41.h4 b4 42.h5 Bd4 43.Rb8 Kc4
+44.hxg6 hxg6 45.Kh4 Rd5 46.Kg5 Bxe5 47.fxe5 Rxe5 48.Kxg6 b3 49.f4 Rb5 50.Rc8+ Kb4
+51.Rc1 b2 52.Rh1 Kb3 53.Rh3+ Ka2 54.Rh2 Ka1  0-1

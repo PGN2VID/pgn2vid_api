@@ -1,0 +1,17 @@
+[Event "Isolated Queens Swiss II"]
+[Site "chess.com INT"]
+[Date "2020.05.02"]
+[Round "2"]
+[White "Khrapko,Marharyta"]
+[Black "Krush,I"]
+[Result "0-1"]
+[WhiteElo "2065"]
+[BlackElo "2429"]
+[ECO "B50"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Bd3 Nc6 5.h3 e5 6.Bc2 Be7 7.O-O O-O 8.Re1 a6
+9.a4 b6 10.d4 cxd4 11.cxd4 Nb4 12.Bb3 Bb7 13.d5 Nd7 14.Be3 Nc5 15.Bxc5 bxc5
+16.a5 Bc8 17.Re3 f5 18.exf5 Bxf5 19.Nbd2 Bg5 20.Nxg5 Qxg5 21.Rg3 Qf4 22.Nc4 Rf6
+23.Rf3 Qg5 24.Rg3 Qh4 25.Qd2 Raf8 26.Qg5 Qxg5 27.Rxg5 Be4 28.Rd1 Bd3 29.Nb6 Rxf2
+30.Kh2 h6 31.Rg6 R8f6 32.Rxf6 gxf6 33.Nd7 Kg7 34.Ba4 Rxb2 35.Nb8 c4 36.Bd7 c3
+37.Nc6 c2 38.Rc1 Rb1 39.Nxb4 Rxb4 40.Ba4 Rxa4  0-1

@@ -1,0 +1,15 @@
+[Event "AI Cup Div 3 L"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "5.1"]
+[White "Durarbayli,Vasif"]
+[Black "Tomashevsky,E"]
+[Result "1-0"]
+[WhiteElo "2625"]
+[BlackElo "2694"]
+[ECO "C85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.Re1 Qd6 8.Na3 b5
+9.d4 c5 10.dxe5 Qxd1 11.Rxd1 Nxe4 12.c4 Rb8 13.Re1 Bf5 14.h3 O-O 15.Bf4 g5
+16.Bh2 Bg6 17.Rad1 b4 18.Nc2 Nxf2 19.Kxf2 Bxc2 20.Rd7 Rfe8 21.e6 fxe6 22.Bxc7 Rbc8
+23.Rxe6 Bf8 24.Rxa6 Bg7 25.Ra7 Ra8 26.Bb6 Rxa7 27.Bxa7 Bxb2 28.Rd2  1-0

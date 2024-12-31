@@ -1,0 +1,19 @@
+[Event "Isolated Queens Swiss II"]
+[Site "chess.com INT"]
+[Date "2020.05.02"]
+[Round "9"]
+[White "Kosteniuk,A"]
+[Black "Ambartsumova,K"]
+[Result "1-0"]
+[WhiteElo "2471"]
+[BlackElo "2371"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 e5 4.dxe5 dxe5 5.Qxd8+ Kxd8 6.Bc4 Be6 7.Bxe6 fxe6
+8.Nf3 Bd6 9.h3 Ke7 10.Be3 c6 11.a3 b5 12.Nd2 a5 13.Ne2 Nbd7 14.f3 Bc5 15.Kf2 Rhd8
+16.Rhd1 Bxe3+ 17.Kxe3 Nc5 18.g4 h6 19.h4 Nfd7 20.b4 Na4 21.c4 Nb2 22.Rdb1 Nxc4+
+23.Nxc4 bxc4 24.bxa5 Nc5 25.Rb4 Rxa5 26.Rxc4 Rd3+ 27.Kf2 Rd2 28.Rc3 Kf6 29.Ke3 Rb2
+30.Nc1 Rh2 31.h5 g6 32.hxg6 Kxg6 33.Nd3 Nxd3 34.Rxd3 Kf6 35.Rd2 Rxd2 36.Kxd2 Kg5
+37.a4 Kf4 38.Ra3 c5 39.Kc2 c4 40.Kc3 Rc5 41.Kb4 Rc8 42.Rc3 Ra8 43.a5 Kg5
+44.Kb5 h5 45.gxh5 Kxh5 46.a6 Kg5 47.Kb6 Kf4 48.a7 Rg8 49.Ra3 Ra8 50.Kb7 Rd8
+51.a8=Q Rxa8 52.Kxa8 Kg3 53.Kb7 Kf2 54.Kc6 Ke2 55.Kc5  1-0

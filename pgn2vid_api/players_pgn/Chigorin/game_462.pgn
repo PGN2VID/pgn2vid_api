@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "8"]
+[White "Chigorin, Mikhail"]
+[Black "Didier, M."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4+ 5.Kf1 g5 6.g3 fxg3 7.Qf3 g2+ 8.Kxg2 Nh6
+9.Qg3 Bd6 10.Qxh4 gxh4 11.d4 Rg8+ 12.Kf1 Ng4 13.e5 Bf8 14.Nf3 Nc6 15.Be4 Bh6
+16.Bxh6 Nxh6 17.Nbd2 Bh3+ 18.Ke2 O-O-O 19.c3 Rg2+ 20.Ke1 Rg7 21.Nxh4 Ne7
+22.Ke2 Rdg8 23.Ndf3 Nhf5 24.Nxf5 Nxf5 25.Rhg1 Rg2+ 26.Kd3 h5 27.b4 Ne7 28.d5 Bd7
+29.h4 Nf5 30.Bxf5 Bxf5+ 31.Ke3 Kd7 32.Kf4 Bd3 33.e6+ fxe6 34.Ne5+ Kd6 35.Rxg2 Rxg2
+36.Nxd3 Rg4+ 37.Ke3 Kxd5 38.Rd1 Rxh4 39.Nf4+ Kc4 40.Rd4+  1-0

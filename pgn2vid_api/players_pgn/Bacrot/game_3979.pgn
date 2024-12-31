@@ -1,0 +1,20 @@
+[Event "Titled Tue 15th Aug Early"]
+[Site "chess.com INT"]
+[Date "2023.08.15"]
+[Round "3"]
+[White "Mihailidis,A"]
+[Black "Bacrot,E"]
+[Result "0-1"]
+[WhiteElo "2202"]
+[BlackElo "2662"]
+[ECO "B54"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Nb3 Nc6 7.c4 a5 8.a4 Be7
+9.Nc3 O-O 10.Be3 Be6 11.Be2 Nd7 12.O-O Nc5 13.Nd5 Bg5 14.Bxg5 Qxg5 15.Nxc5 dxc5
+16.Qc1 h6 17.Qxg5 hxg5 18.Rad1 Rad8 19.Kf2 g6 20.Ke3 Kg7 21.h3 f5 22.g4 Nd4
+23.Bd3 Rh8 24.Rh1 fxg4 25.hxg4 Rdf8 26.Be2 Rh4 27.Rxh4 gxh4 28.g5 Rh8 29.Rh1 h3
+30.f4 Bxd5 31.cxd5 exf4+ 32.Kf2 Nxe2 33.Kxe2 h2 34.Kf3 Rh4 35.e5 Kf7 36.e6+ Ke7
+37.Ke4 Kd6 38.Kf3 c4 39.Kg2 Rh5 40.Rxh2 Rxg5+ 41.Kf3 Rxd5 42.Kxf4 Kxe6 43.Re2+ Kd6
+44.Rg2 g5+ 45.Ke4 Kc5 46.Rc2 g4 47.b3 Rd4+ 48.Ke3 Rd3+ 49.Ke4 Rxb3 50.Rg2 Kb4
+51.Rxg4 Kxa4 52.Kd5 b5 53.Kc5 Rf3 54.Rg1 Rf5+ 55.Kb6 b4 56.Rb1 c3 57.Kc6 c2
+58.Rc1 b3 59.Rh1 b2 60.Kd6 c1=Q  0-1

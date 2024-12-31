@@ -1,0 +1,20 @@
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2023.06.15"]
+[Round "2.23"]
+[White "Gukesh,D"]
+[Black "Pranav,V"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2608"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nf3 Nc6 5.Nc3 Nf6 6.Bf4 g6 7.e3 Bg7 8.h3 O-O
+9.Be2 Bf5 10.Qb3 Na5 11.Qa4 Rc8 12.O-O Ne4 13.Rfc1 Nxc3 14.bxc3 b6 15.Ne5 f6
+16.Nd3 Bd7 17.Qd1 Nc4 18.Nb4 Be6 19.a4 Qd7 20.Bh2 Bf7 21.Bf3 Rfd8 22.e4 dxe4
+23.Bxe4 e5 24.Qe2 exd4 25.cxd4 f5 26.Bf3 Re8 27.Qd1 Qxd4 28.Qxd4 Bxd4 29.Rab1 Nd2
+30.Rxc8 Rxc8 31.Rd1 Nxf3+ 32.gxf3 Bc5 33.Nd5 Bxd5 34.Rxd5 Re8 35.Be5 Kf7
+36.f4 g5 37.Kg2 gxf4 38.Bxf4 Re4 39.Kf3 Ke6 40.Rd8 Rxa4 41.Rh8 Ra3+ 42.Kg2 Ra2
+43.Rxh7 Rxf2+ 44.Kg3 Ra2 45.h4 a5 46.h5 a4 47.h6 Bf2+ 48.Kf3 Bd4 49.Ra7 Ra1
+50.Kg2 Kd5 51.Rd7+ Ke4 52.Rxd4+ Kxd4 53.h7 Ra2+ 54.Kh3 Ra3+ 55.Kh4 Ke4 56.h8=Q Kxf4
+57.Qd4+ Kf3 58.Qd5+ Kf4 59.Qd6+  1-0

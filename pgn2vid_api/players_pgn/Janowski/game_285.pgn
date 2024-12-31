@@ -1,0 +1,23 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Janowsky, Dawid Markelowicz"]
+[Black "Albin, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C82"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Bc5 10.Nbd2 Nxd2 11.Qxd2 h6 12.Qf4 g5 13.Qg3 g4 14.Ne1 h5 15.Nd3 h4
+16.Qf4 Be7 17.a4 Na5 18.Bd1 Rg8 19.axb5 axb5 20.Qh6 Nb7 21.Rxa8 Qxa8 22.Nf4 Kd7
+23.Nxe6 fxe6 24.Qh5 g3 25.fxg3 Qa7+ 26.Kh1 hxg3 27.Bg4 Nd8 28.hxg3 Qa4 29.Bh3 Rxg3
+30.Bf4 Qc4 31.Rf2 Rg7 32.Kh2 Bc5 33.Rf3 Qe4 34.Rf1 c6 35.b4 Bb6 36.Bg3 Rh7
+37.Qf3 Qc4 38.Qf8 Qxc3 39.Qd6+ Kc8 40.Rf8 Rh6 41.Rg8 Qc1 42.Bf2 Bc7 43.Qe7 Bxe5+
+44.Bg3 Bxg3+ 45.Kxg3 Qe3+ 46.Kh2 Qb6 47.Rg7 Qb7 48.Qxd8+ Kxd8 49.Rxb7 d4
+50.Kg3 Rf6 51.Ra7 e5 52.Bg4 Rd6 53.Kf3 d3 54.Ke3 d2 55.Bd1 Rd4 56.g4 Rxb4
+57.Kxd2 Rd4+ 58.Ke1 Rd6 59.Be2 b4 60.Rb7 c5 61.Rb5 Rc6 62.Kd2 Ke7 63.Kd3 Kf6
+64.Bf3 Rc7 65.Be4 Kg5 66.Bf5 Rc6 67.Rb8 Kf6 68.Ke4 Rd6 69.Rf8+ Ke7 70.Rc8 Kf6
+71.Rxc5 Rd4+ 72.Kf3 Rf4+ 73.Kg3 Rd4 74.Rc6+ Kf7 75.g5 Rf4 76.Rc7+ Kf8 77.Be6 Rf1
+78.Kg2  1-0

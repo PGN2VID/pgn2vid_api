@@ -1,0 +1,20 @@
+[Event "Titled Tue 17th Jan Early"]
+[Site "chess.com INT"]
+[Date "2023.01.17"]
+[Round "2"]
+[White "Gurevich,D"]
+[Black "Crocker,P"]
+[Result "1-0"]
+[WhiteElo "2393"]
+[BlackElo "2135"]
+[ECO "A31"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 e5 5.Nb5 d5 6.cxd5 Bc5 7.N5c3 e4 8.Nxe4 Nxe4
+9.Qa4+ Bd7 10.Qxe4+ Qe7 11.Qxe7+ Kxe7 12.Nc3 Na6 13.a3 Rhd8 14.e4 f6 15.Bxa6 bxa6
+16.Be3 Bxe3 17.fxe3 Rab8 18.Rb1 Rb3 19.Kd2 Rdb8 20.Kc2 Kd6 21.Rhd1 f5 22.exf5 Bxf5+
+23.e4 Bg6 24.Rd2 a5 25.a4 R3b4 26.Re2 Ke5 27.h3 Rc8 28.Kd2 Bxe4 29.Rxe4+ Rxe4
+30.Nxe4 Kxe4 31.Re1+ Kxd5 32.Re7 Rc4 33.b3 Rb4 34.Kc3 Re4 35.Rxa7 Re3+ 36.Kb2 Re2+
+37.Ka3 Rxg2 38.Rxa5+ Kc6 39.Ra7 Rg3 40.Kb4 h5 41.a5 g5 42.Ra6+ Kc7 43.Rg6 h4
+44.Kc4 Rxh3 45.Rxg5 Rf3 46.Rh5 h3 47.b4 Kb7 48.Kb5 Ka7 49.Rh7+ Kb8 50.a6 Rf5+
+51.Ka4 Rf3 52.b5 Rf4+ 53.Ka5 Rf3 54.Rh6 Kc8 55.Kb6 h2 56.Rxh2 Rf6+ 57.Ka5 Kb8
+58.Rh8+ Ka7 59.b6+ Rxb6 60.Rh7+ Kb8 61.Kxb6 Ka8 62.Rh8+  1-0

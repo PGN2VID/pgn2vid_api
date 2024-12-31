@@ -1,0 +1,15 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "2.2"]
+[White "Artemiev,V"]
+[Black "Duda,J"]
+[Result "0-1"]
+[WhiteElo "2697"]
+[BlackElo "2726"]
+[ECO "A15"]
+
+1.c4 Nf6 2.Nf3 e6 3.b3 d5 4.Bb2 Be7 5.g3 O-O 6.Bg2 c5 7.cxd5 Nxd5 8.O-O Nc6
+9.d4 cxd4 10.Nxd4 Nxd4 11.Bxd4 Bd7 12.Nd2 Rc8 13.Nc4 Bc6 14.Bxa7 Nc3 15.Qxd8 Nxe2+
+16.Kh1 Rfxd8 17.Bb6 Bxg2+ 18.Kxg2 Rd5 19.Rfe1 Bf6 20.Rad1 Nc3 21.Rxd5 Nxd5
+22.Be3 b5 23.Nd6 Rc2 24.Nxb5 Rxa2  0-1

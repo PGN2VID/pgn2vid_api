@@ -1,0 +1,14 @@
+[Event "Cheliabinsk-A"]
+[Site "Cheliabinsk"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Nicevski, Risto"]
+[Black "Nielsen, Peter Heine"]
+[Result "0-1"]
+[WhiteElo "2345"]
+[BlackElo "2445"]
+[ECO "C26"]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Bc5 4.d3 d6 5.Be3 Be6 6.Bxe6 fxe6 7.Bxc5 dxc5 8.Qf3 Nc6
+9.Qg3 O-O 10.Nf3 Nh5 11.Qg4 Nf4 12.g3 h5 13.Qg5 Nd4 14.O-O-O Nfe2+ 15.Nxe2 Nxe2+
+16.Kd2 Nd4 17.Qxh5 Rxf3 18.c3 Rxf2+ 19.Kc1 Ne2+ 20.Kb1 Qd6 21.Ka1 Nxc3 22.Rdf1 Qa6  0-1

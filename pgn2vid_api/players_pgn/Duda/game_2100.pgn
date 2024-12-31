@@ -1,0 +1,25 @@
+[Event "chess.com SpeedChess Q2Sw"]
+[Site "chess.com INT"]
+[Date "2022.11.12"]
+[Round "9"]
+[White "Duda,J"]
+[Black "Salem,AR"]
+[Result "0-1"]
+[WhiteElo "2731"]
+[BlackElo "2677"]
+[ECO "E70"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be3 d6 6.h3 e5 7.d5 Na6 8.Nf3 Nc5 9.Nd2 a5
+10.g4 c6 11.Be2 a4 12.Qc2 cxd5 13.cxd5 Bd7 14.Nc4 Qe7 15.Nb6 Ra5 16.g5 Nh5
+17.Bxc5 Rxc5 18.Nxd7 Qxd7 19.Qxa4 Qe7 20.Bxh5 gxh5 21.h4 f6 22.Rg1 fxg5 23.Rxg5 Kh8
+24.Qd1 Bh6 25.Rf5 Rxf5 26.exf5 Qxh4 27.Qf3 Rc4 28.Rd1 Rf4 29.Qg3 Qf6 30.Qh3 Rh4
+31.Qf3 e4 32.Qg3 Rg4 33.Qh2 Rh4 34.Qg3 Bf4 35.Qg2 Rg4 36.Qh1 Rh4 37.Qg2 Rg4
+38.Qh1 Be5 39.Nxe4 Qxf5 40.f3 Rg6 41.Ke2 h6 42.b4 h4 43.Rg1 Rxg1 44.Qxg1 h3
+45.Qg4 Qxg4 46.fxg4 h2 47.Nf2 Bd4 48.Nh1 Kg7 49.Kf3 Kf6 50.Ng3 Be5 51.Ne4+ Kg6
+52.Kg2 h5 53.gxh5+ Kxh5 54.a4 Kg4 55.a5 Kf5 56.Nf2 Bc3 57.b5 Bxa5 58.Kxh2 Ke5
+59.Kg2 Kxd5 60.Kf3 Kc4 61.Ne4 Bb4 62.b6 d5 63.Nf6 Kc5 64.Ke3 Kc6 65.Kd3 Bc5
+66.Ng4 Bxb6 67.Ne5+ Kd6 68.Nf7+ Kc5 69.Ng5 Ba5 70.Ne6+ Kd6 71.Nd4 Bb4 72.Nc2 Bc5
+73.Ne1 b5 74.Kc3 b4+ 75.Kb3 Kc6 76.Nd3 Kb5 77.Nf4 Kc6 78.Nd3 Kd6 79.Kc2 d4
+80.Kb3 Kd5 81.Kc2 Be7 82.Kb3 Bd6 83.Nb2 Ke4 84.Kc4 Ke3 85.Nd1+ Kd2 86.Nf2 Kc2
+87.Kxd4 b3 88.Nd3 Bf8 89.Kc4 Bg7 90.Ne1+ Kb2 91.Nd3+ Ka3 92.Ne1 b2 93.Nc2+ Ka4
+94.Ne3 b1=Q  0-1

@@ -1,0 +1,18 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "13"]
+[White "Mason, James"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bg4 6.Be2 Nbd7 7.Bd2 c6 8.h3 Bxf3
+9.Bxf3 Qb6 10.d5 cxd5 11.Bxd5 e6 12.Bb3 Bc5 13.Qe2 O-O 14.O-O Rfd8 15.Bg5 h6
+16.Bh4 Be7 17.Bg3 Nc5 18.Bf4 a6 19.Qf3 Rac8 20.Rad1 Nfd7 21.Rfe1 Nxb3 22.axb3 Nc5
+23.Nd5 Rxd5 24.Rxd5 exd5 25.Rxe7 Qf6 26.Bd6 Qxf3 27.gxf3 Ne6 28.c3 Rc6 29.Be5 b5
+30.Rd7 Nc5 31.Rd8+ Kh7 32.b4 Nd3 33.Rxd5 Nxb2 34.Rd6 Rxd6 35.Bxd6 Kg6 36.Kf1 f6
+37.Ke2 h5 38.Bf8 Kf7 39.Bc5 Ke6 40.Bf8 g5 41.Bc5 Kf5 42.Bd4 Nc4 43.Kd3 Ne5+
+44.Bxe5 Kxe5 45.Ke3 Kf5 46.Kd4 Kf4 47.Kc5 Kxf3 48.Kb6 g4  0-1

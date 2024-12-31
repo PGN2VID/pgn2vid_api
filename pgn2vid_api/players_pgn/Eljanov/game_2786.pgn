@@ -1,0 +1,16 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "1"]
+[White "Eljanov,P"]
+[Black "Csonka,B"]
+[Result "1-0"]
+[WhiteElo "2695"]
+[BlackElo "2469"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Bf4 Nf6 5.e3 a6 6.Nc3 Nc6 7.Bd3 Bg4 8.Nge2 e6
+9.O-O Bxe2 10.Qxe2 Bd6 11.Bg5 O-O 12.Rac1 h6 13.Bh4 Rc8 14.a3 Be7 15.Rc2 Ne8
+16.Bg3 Bd6 17.f4 f5 18.Rfc1 Nf6 19.Bh4 Qa5 20.h3 Ne7 21.g4 Ne4 22.Bxe7 Nxc3
+23.Rxc3 Rxc3 24.Rxc3 Bxe7 25.gxf5 exf5 26.Qh5 Qb6 27.Bxf5 Qxb2 28.Rc7 Qa1+
+29.Kf2 Qa2+ 30.Bc2 Qxa3 31.Qxd5+ Kh8 32.Qe4 Bh4+ 33.Kg2  1-0

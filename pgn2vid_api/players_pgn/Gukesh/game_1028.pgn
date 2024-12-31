@@ -1,0 +1,21 @@
+[Event "Riga Tech Rapid Open 2021"]
+[Site "Riga LAT"]
+[Date "2021.08.08"]
+[Round "9.8"]
+[White "Gukesh,D"]
+[Black "Nihal,Sarin"]
+[Result "0-1"]
+[WhiteElo "2578"]
+[BlackElo "2655"]
+[ECO "A40"]
+
+1.d4 g6 2.Nf3 Bg7 3.e4 d6 4.Bc4 e6 5.O-O Ne7 6.Re1 a6 7.a4 b6 8.Nbd2 Bb7
+9.Nf1 O-O 10.Ng3 d5 11.Bd3 dxe4 12.Bxe4 Bxe4 13.Nxe4 Nbc6 14.Bg5 h6 15.Bf6 Bxf6
+16.Nxf6+ Kg7 17.Ne4 Qd5 18.Qd3 Rfd8 19.Rad1 Qa5 20.Qc4 b5 21.axb5 axb5 22.Qe2 b4
+23.Nc5 Rd5 24.Nb3 Qb6 25.Qc4 Nf5 26.Rd2 Nd6 27.Qe2 Qa6 28.Rd3 Qb5 29.Nfd2 Ra2
+30.Qd1 Rxb2 31.Qc1 Ra2 32.c4 bxc3 33.Qxc3 Nb4 34.Rh3 Nc2 35.Rf1 Qb4 36.Qxb4 Nxb4
+37.Rc3 c6 38.h3 Rb2 39.Nf3 Nb5 40.Re3 Nc2 41.Re2 Rxb3 42.Rxc2 Rxf3 43.gxf3 Nxd4
+44.Ra2 Nxf3+ 45.Kg2 Nh4+ 46.Kh2 Nf3+ 47.Kg2 Nd4 48.Rc1 g5 49.Ra7 Kg6 50.Rc4 h5
+51.Rb4 h4 52.Rbb7 f6 53.Rg7+ Kf5 54.Rgf7 Ne2 55.Ra3 Nf4+ 56.Kh2 Rd2 57.Kg1 Rd1+
+58.Kh2 Rf1 59.Ra2 Rc1 60.Ra3 Rc2 61.Kg1 c5 62.Rc7 c4 63.Rd7 c3 64.Rd1 Nxh3+
+65.Kg2 Nf4+ 66.Kg1 g4 67.Ra5+ e5 68.Ra6 g3 69.fxg3 hxg3  0-1

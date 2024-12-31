@@ -1,0 +1,22 @@
+[Event "Chess.com Rapid Wk2 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.19"]
+[Round "5"]
+[White "Shuvalova,Polina"]
+[Black "Dreev,A"]
+[Result "0-1"]
+[WhiteElo "2516"]
+[BlackElo "2623"]
+[ECO "B61"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2 Rc8 8.O-O-O Nxd4
+9.Qxd4 Qa5 10.Bxf6 gxf6 11.f4 Qc5 12.Qd2 f5 13.e5 Bg7 14.exd6 e6 15.Bd3 Qa5
+16.Nb5 Qxa2 17.Qb4 O-O 18.c3 Rfd8 19.Rhg1 h5 20.h3 a5 21.Qa3 Qxa3 22.Nxa3 Bh6
+23.g4 fxg4 24.hxg4 Bxf4+ 25.Kc2 h4 26.g5 Bxd6 27.g6 Bg3 28.gxf7+ Kxf7 29.Nc4 Ba4+
+30.b3 Bc6 31.Nxa5 Bd5 32.Nc4 Ra8 33.Nb6 Ra2+ 34.Kb1 Bxb3 35.Bg6+ Ke7 36.Rdf1 Rf2
+37.Be4 Rdd2 38.Rxf2 Bxf2 39.Nc8+ Kf6 40.Rf1 Bc4 41.Rh1 b5 42.Rh3 Bg3 43.Nb6 Bf1
+44.Rh1 Rf2 45.Nd7+ Ke7 46.Nc5 h3 47.Nd3 Bg2 48.Nxf2 Bxf2 49.Kc1 Bxe4 50.Rxh3 Bd5
+51.Kd2 Bc5 52.Rh7+ Kd6 53.Rh8 Bc4 54.Rd8+ Ke5 55.Rc8 Bf2 56.Rf8 Bh4 57.Rh8 Bg5+
+58.Kc2 Ke4 59.Rh5 Bf4 60.Rh8 e5 61.Rh1 Kf3 62.Kd1 e4 63.Rh3+ Bg3 64.Rh8 e3
+65.Rf8+ Ke4 66.Re8+ Kd3 67.Rd8+ Kxc3 68.Re8 e2+ 69.Rxe2 Bxe2+ 70.Kxe2 b4
+71.Kf3 b3 72.Kxg3 b2 73.Kg4 b1=Q  0-1

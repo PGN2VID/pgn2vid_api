@@ -1,0 +1,15 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.1"]
+[White "Dominguez Perez,L"]
+[Black "Saric,Iv"]
+[Result "1-0"]
+[WhiteElo "2745"]
+[BlackElo "2647"]
+[ECO "B67"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7
+9.Kb1 Nxd4 10.Qxd4 Be7 11.f4 Bc6 12.Bc4 h6 13.Bh4 O-O 14.f5 exf5 15.e5 dxe5
+16.Qxe5 Bd7 17.g4 Re8 18.gxf5 Qc8 19.Rhg1 Kf8 20.Rxg7 Kxg7 21.Bxf6+ Kh7 22.Bxe7 Qxc4
+23.Nd5 Rxe7 24.Qxe7  1-0

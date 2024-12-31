@@ -1,0 +1,23 @@
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.20"]
+[Round "6"]
+[White "Grischuk,A"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2719"]
+[BlackElo "2720"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Be7 10.Rd1+ Ke8 11.g4 Nh4 12.Nxh4 Bxh4 13.h3 Be7 14.Kg2 h5 15.f3 hxg4
+16.hxg4 f5 17.exf6 gxf6 18.Bf4 Be6 19.Bxc7 f5 20.gxf5 Rg8+ 21.Kf2 Bc5+ 22.Ke2 Rg2+
+23.Kd3 Bxf5+ 24.Ne4 Ke7 25.Rd2 Rxd2+ 26.Kxd2 Bxe4 27.fxe4 Rg8 28.Rh1 Bd4
+29.b3 Rg2+ 30.Kd3 Bg7 31.Bf4 b5 32.Rh5 a6 33.a4 Rg4 34.Be3 Rg3 35.c4 Kd7
+36.Ke2 bxa4 37.bxa4 Bc3 38.Rh7+ Ke6 39.Rc7 Ke5 40.Rxc6 Bd4 41.Bd2 Ra3 42.Bc1 Ra1
+43.Kd2 a5 44.Rh6 Rb1 45.Rh4 Bf2 46.Rg4 Kd4 47.Kc2 Rb7 48.e5+ Kxe5 49.Bb2+ Kf5
+50.Rg8 Bc5 51.Rd8 Bb4 52.Rd5+ Ke6 53.Bc3 Bxc3 54.Kxc3 Rb1 55.Kd4 Ra1 56.Rxa5 Kd6
+57.Ra6+ Kc7 58.Kc5 Kb7 59.Rb6+ Kc7 60.Rb4 Rh1 61.Kb5 Rh5+ 62.c5 Rh1 63.a5 Kb7
+64.a6+ Ka7 65.Rd4 Rb1+ 66.Kc6 Rh1 67.Rd8 Rh5 68.Kb5 Rh7 69.Rd5 Rh1 70.Rd7+ Kb8
+71.c6 Rb1+ 72.Kc5 Rc1+ 73.Kb6 Rb1+ 74.Kc5 Rc1+ 75.Kd6 Rd1+ 76.Ke7 Rc1 77.Rd8+ Ka7
+78.Kd7 Rd1+ 79.Kc8  1-0

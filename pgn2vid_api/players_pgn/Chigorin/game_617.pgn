@@ -1,0 +1,21 @@
+[Event "St Petersburg+"]
+[Site "St Petersburg"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Alapin, Simon"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.e4 e6 2.Qe2 Be7 3.b3 d5 4.Bb2 Nf6 5.Nc3 O-O 6.Nf3 c5 7.d3 Nc6 8.Qd2 a6
+9.Be2 b5 10.exd5 exd5 11.O-O Bf5 12.Nd1 d4 13.c3 Qd6 14.cxd4 Nxd4 15.Nxd4 cxd4
+16.Bf3 Rac8 17.Re1 Rfd8 18.Be4 Be6 19.g3 Qb4 20.Qe2 Rc2 21.Qf1 Qd2 22.Bf3 Rxb2
+23.Re2 Qxd3 24.Rxe6 Qxf1+ 25.Kxf1 Rxf2+ 26.Nxf2 fxe6 27.Rc1 Nd5 28.Rc6 Rd6
+29.Bxd5 exd5 30.Rxd6 Bxd6 31.Ke2 Kf7 32.Nd3 a5 33.Kf3 Ke6 34.h3 Kf5 35.Ne1 Bb8
+36.g4+ Kg5 37.Nd3 Bd6 38.Kg2 h5 39.gxh5 Kxh5 40.Ne1 Bb8 41.Kf3 Kg5 42.Ng2 Bc7
+43.Ne1 Bd8 44.Ng2 Bc7 45.Ne1 Bf4 46.Nd3 Bd2 47.Kg3 Bb4 48.Kg2 Bd6 49.Kf3 Kh4
+50.Kg2 Bg3 51.Nc1 g5 52.Ne2 Be5 53.Nc1 Bf4 54.Nd3 Bg3 55.Nc1 g4 56.hxg4 Kxg4
+57.Ne2 d3 58.Nxg3 Kf4 59.Nf1 Ke4 60.Kf2 Kd4 61.Ne3 Kc3 62.Nxd5+ Kc2 63.Ne3+ Kb2
+64.Ke1 Kxa2 65.Kd2 Kxb3 66.Kxd3 a4 67.Nc2 a3  0-1

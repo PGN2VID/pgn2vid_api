@@ -1,0 +1,21 @@
+[Event "It"]
+[Site "Montreal CAN"]
+[Date "2005.08.10"]
+[Round "7"]
+[White "Tyomkin,D"]
+[Black "Krush,I"]
+[Result "1-0"]
+[WhiteElo "2467"]
+[BlackElo "2452"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 Bb4+ 5.Nc3 exd4 6.Nxd4 Qe7 7.Bxc4 Nf6 8.O-O O-O
+9.Bg5 Bxc3 10.Bxf6 Qxf6 11.bxc3 Nc6 12.f4 Rd8 13.e5 Qe7 14.Nxc6 Qc5+ 15.Nd4 Qxc4
+16.Qb3 Be6 17.Nxe6 Qxb3 18.axb3 fxe6 19.Rfd1 a6 20.Kf2 Kf7 21.Ke3 Ke7 22.Rxd8 Rxd8
+23.g4 Rd5 24.c4 Rd8 25.h4 c5 26.Ra5 Rc8 27.h5 Rc7 28.f5 h6 29.Ke4 Rc8 30.Ke3 Rc6
+31.Kf4 Rc8 32.g5 hxg5+ 33.Kxg5 exf5 34.Kxf5 Rc6 35.Ke4 Ke6 36.Ra1 Rb6 37.Rg1 Rxb3
+38.Rxg7 b5 39.Rg6+ Kf7 40.Rf6+ Ke7 41.Kd5 Re3 42.h6 bxc4 43.h7 Rh3 44.Rxa6 c3
+45.Ra7+ Kf8 46.Ra8+ Kg7 47.Rc8 Kxh7 48.Rxc5 Kg8 49.Ke6 Re3 50.Kf6 Rf3+ 51.Ke7 Kg7
+52.Rc6 Re3 53.e6 Rd3 54.Ke8 Kf6 55.e7+ Kg7 56.Rc4 Rg3 57.Rc5 Kg8 58.Rc4 Kg7
+59.Rc6 Rd3 60.Rc8 Re3 61.Rc4 Rg3 62.Rc5 Kg8 63.Kd7 Rd3+ 64.Ke8 Rg3 65.Rc7 Kg7
+66.Rd7 Kf6 67.Kd8 Rg8+ 68.e8=Q Rxe8+ 69.Kxe8 Ke5 70.Rd3  1-0

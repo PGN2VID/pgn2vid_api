@@ -1,0 +1,18 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "1"]
+[White "Schlechter, Carl"]
+[Black "Albin, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Be2 O-O 7.O-O Re8 8.f4 Bf8
+9.Bf3 Bd7 10.e5 dxe5 11.fxe5 Rxe5 12.Bf4 Re8 13.Bxb7 Bc5 14.Kh1 Bg4 15.Nf3 Nbd7
+16.Bxa8 Qxa8 17.Qd3 Qb7 18.Rae1 Be6 19.Ng5 Nf8 20.Nce4 Nxe4 21.Nxe4 Be7 22.b3 Ng6
+23.Bg3 h5 24.Qf3 Qb5 25.Nc3 Qa6 26.Nd5 Bd8 27.Nf4 Nxf4 28.Qxf4 Bf6 29.Bh4 Bxh4
+30.Qxh4 Qxa2 31.Qxh5 Rd8 32.Rd1 Rd6 33.Qc5 Qa6 34.Qxc7 Rd4 35.c4 Rxd1 36.Rxd1 Qa2
+37.Qe5 Bg4 38.Rd8+ Kh7 39.h3 Qb1+ 40.Kh2 Bf5 41.Rd5 Bg6 42.Qf4 f6 43.Qh4+ Kg8
+44.Rd8+ Kf7 45.Qh8  1-0

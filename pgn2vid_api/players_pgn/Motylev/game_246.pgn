@@ -1,0 +1,22 @@
+[Event "Chigorin mem"]
+[Site "St Petersburg"]
+[Date "1999.11.07"]
+[Round "6"]
+[White "Motylev, Alexander"]
+[Black "Brodsky, Michail"]
+[Result "1-0"]
+[WhiteElo "2532"]
+[BlackElo "2512"]
+[ECO "B47"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 Qc7 6.Be2 Nc6 7.O-O Bc5 8.Be3 Nce7
+9.e5 Qxe5 10.Nf3 Qd6 11.Bxc5 Qxc5 12.Ne4 Qc7 13.Nd6+ Kf8 14.c4 b6 15.Qd2 f6
+16.Rfd1 Ra7 17.a4 Bb7 18.a5 bxa5 19.Rxa5 Nc6 20.Ra4 Nge7 21.b4 Nc8 22.Nxb7 Qxb7
+23.c5 Nb8 24.Nd4 Kf7 25.f4 h5 26.f5 e5 27.Bc4+ Ke7 28.Nf3 Ke8 29.Qa2 h4 30.h3 Qe4
+31.Bg8 Kd8 32.Qf7 Kc7 33.Qxg7 Qe3+ 34.Kf1 Qh6 35.Qxh6 Rxh6 36.Bc4 Rb7 37.Rb1 Ne7
+38.Bxa6 Nxa6 39.Rxa6 Nxf5 40.Kf2 d6 41.cxd6+ Kd7 42.Rc1 e4 43.Nh2 Ng3 44.Ng4 Rg6
+45.Rc4 Kd8 46.Ke3 Kd7 47.b5 Nh5 48.Rc5 Ng7 49.Rc7+ Rxc7 50.dxc7 Kxc7 51.Kxe4 Ne8
+52.Kf4 Nd6 53.Rc6+ Kd7 54.Rc5 Ke6 55.Rh5 Rg7 56.Rh6 Ne8 57.Rh8 Nc7 58.Rh5 Nd5+
+59.Kf3 f5 60.Rh6+ Ke7 61.Ne5 Rg3+ 62.Kf2 Rb3 63.Nc6+ Kf7 64.Nd4 Rb4 65.Rxh4 Kg6
+66.Ke2 Rb2+ 67.Kf3 Rb4 68.g3 f4 69.gxf4 Ne7 70.f5+ Kg5 71.Re4 Nd5 72.Ne6+ Kxf5
+73.Rxb4 Nxb4 74.Nd4+ Kg5 75.Ke4 Kh4 76.Nc6  1-0

@@ -1,0 +1,16 @@
+[Event "Clock Simul"]
+[Site "Sao Paulo BRA"]
+[Date "2001.09.03"]
+[Round "?"]
+[White "Short,N"]
+[Black "Cohn,M"]
+[Result "1-0"]
+[WhiteElo "2664"]
+[BlackElo ""]
+[ECO "B33"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6
+9.Na3 b5 10.Bxf6 gxf6 11.Nd5 f5 12.c3 Bg7 13.exf5 Bxf5 14.Nc2 Ne7 15.Bd3 Nxd5
+16.Bxf5 Ne7 17.Ne3 d5 18.Qh5 Qb6 19.O-O Rd8 20.Bc2 Qh6 21.Qe2 e4 22.Rad1 Rg8
+23.g3 Qg5 24.f4 Qg6 25.Kh1 d4 26.cxd4 Bxd4 27.f5 Qh6 28.Ng4 Qg5 29.Rf4 h5
+30.h4 Qxf4 31.gxf4 Rxg4 32.Qxe4  1-0

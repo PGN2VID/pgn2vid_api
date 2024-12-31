@@ -1,0 +1,21 @@
+[Event "ch-USA Senior 2020"]
+[Site "lichess.org INT"]
+[Date "2020.10.17"]
+[Round "2.1"]
+[White "Wolff,Pa"]
+[Black "Christiansen,L"]
+[Result "1-0"]
+[WhiteElo "2552"]
+[BlackElo "2567"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Bc4 Nf6 5.Qe2 c6 6.e5 Nd5 7.h3 O-O 8.O-O dxe5
+9.dxe5 Be6 10.Nbd2 Nd7 11.Nb3 N7b6 12.Bd3 Nb4 13.Nc5 Nxd3 14.cxd3 Qc8 15.Bg5 Re8
+16.Rfe1 Nd5 17.Nxe6 Qxe6 18.Qd2 Nc7 19.Bh6 Bh8 20.Qf4 Qd5 21.Ng5 Rac8 22.Re3 f6
+23.exf6 Bxf6 24.Rae1 Qf5 25.Qg3 Bxg5 26.Bxg5 Nd5 27.Re6 Rcd8 28.a3 Rd7 29.h4 Rf8
+30.R6e5 Qf7 31.h5 Nf4 32.hxg6 Nxg6 33.Bh6 Rfd8 34.R1e3 Qf6 35.Re6 Qf5 36.Rxe7 Rxe7
+37.Rxe7 Qh5 38.Bd2 Qd1+ 39.Be1 Rxd3 40.Qb8+ Rd8 41.Re8+ Rxe8 42.Qxe8+ Kg7
+43.Qe4 h5 44.Kh2 Qd6+ 45.g3 h4 46.Bc3+ Kh7 47.Qf5 hxg3+ 48.fxg3 c5 49.Kh3 b5
+50.Kg4 Qd1+ 51.Kg5 Qd8+ 52.Kh5 Qe8 53.Kg4 Qe2+ 54.Kh3 Qe8 55.Qxc5 Qe6+ 56.g4 Nf4+
+57.Kh4 Ng6+ 58.Kg3 a6 59.Qf5 Qd6+ 60.Kf2 Qh2+ 61.Ke3 Qg3+ 62.Ke4 Qg2+ 63.Kd4 Qg1+
+64.Kd5 Qg2+ 65.Kc5 Qg1+ 66.Kb4 a5+ 67.Kxb5  1-0

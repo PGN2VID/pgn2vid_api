@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Mortimer, James"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.Qe2 Bc5 5.Bxc6 dxc6 6.Nxe5 Qd4 7.Nd3 Bb6 8.f3 O-O
+9.Nf2 Nh5 10.d3 f5 11.Nc3 fxe4 12.Nfxe4 Bf5 13.Nd1 Bxe4 14.dxe4 Nf4 15.Bxf4 Rxf4
+16.c3 Qf6 17.Nf2 Rf8 18.Nd3 Rh4 19.g3 Rh5 20.f4 Ra5 21.Ne5 Rxe5 22.fxe5 Bf2+
+23.Kf1 Qxe5 24.Kg2 Bb6 25.Rhf1 Re8 26.Rae1 h6 27.Qf3 Qe6 28.b3 a5 29.Qf5 Qe7
+30.e5 Qe6 31.g4 Bc5 32.c4 b5 33.Qxe6+ Rxe6 34.Kf3 Bd4 35.Kf4 Bxe5+ 36.Rxe5 Rf6+
+37.Rf5  1-0

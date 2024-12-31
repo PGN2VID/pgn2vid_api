@@ -1,0 +1,26 @@
+[Event "Levitov Chess 50k 2022"]
+[Site "lichess.org INT"]
+[Date "2022.02.21"]
+[Round "4.1"]
+[White "Karjakin,Sergey"]
+[Black "Shimanov,A"]
+[Result "0-1"]
+[WhiteElo "2743"]
+[BlackElo "2581"]
+[ECO "A01"]
+
+1.b3 e5 2.Bb2 Nc6 3.e3 Nge7 4.c4 d5 5.cxd5 Nxd5 6.a3 Bd7 7.d3 Bd6 8.Nd2 Qe7
+9.Ngf3 g5 10.Nc4 g4 11.Nfd2 f5 12.b4 a6 13.g3 O-O-O 14.Bg2 Be6 15.Qa4 f4
+16.gxf4 exf4 17.Be4 fxe3 18.fxe3 Rhf8 19.O-O-O Kb8 20.b5 axb5 21.Qxb5 Na7
+22.Qa4 b5 23.Qa6 bxc4 24.Nxc4 Bc8 25.Qa5 Nb6 26.Bd4 Bb7 27.Rd2 Bxe4 28.dxe4 Qxe4
+29.Rhd1 Qc6 30.Rc2 Qb5 31.Bxb6 cxb6 32.Qc3 Bc7 33.Rxd8+ Rxd8 34.Qg7 Qd7 35.Qf6 Nc6
+36.Rd2 Qe8 37.Rc2 Kb7 38.Qf5 Qd7 39.Qb5 Qd5 40.Qb3 b5 41.a4 b4 42.a5 Qb5
+43.a6+ Qxa6 44.Ra2 Qb5 45.Rc2 Na5 46.Nxa5+ Qxa5 47.Rb2 Qc5+ 48.Rc2 Qb5 49.Rc4 Bd6
+50.Rd4 Rc8+ 51.Kd2 Qc6 52.Qb1 Qc3+ 53.Kd1 Qc6 54.Qxh7+ Rc7 55.Qd3 Qh1+ 56.Kd2 Qxh2+
+57.Kd1 Qg1+ 58.Kd2 Qf2+ 59.Kd1 Qf3+ 60.Kd2 Bc5 61.Re4 Qf2+ 62.Kd1 Qf7 63.Ke2 Bb6
+64.Rxg4 Qa2+ 65.Kf3 Rf7+ 66.Rf4 Rxf4+ 67.exf4 Qf2+ 68.Ke4 Qc5 69.f5 Qc6+
+70.Kf4 Qc3 71.Qd5+ Kc7 72.Qf7+ Kc6 73.Qe6+ Kb5 74.Qd5+ Qc5 75.Qd7+ Qc6 76.Qd1 Qc4+
+77.Kg5 b3 78.Qd7+ Kb4 79.Qd6+ Bc5 80.Qb8+ Kc3 81.Qe5+ Qd4 82.Qe1+ Kc4 83.Qe2+ Kb4
+84.Qe1+ Qc3 85.Qe4+ Ka3 86.Qa8+ Kb2 87.f6 Qc4 88.Kg6 Kb1 89.Qh1+ Ka2 90.Qa8+ Kb1
+91.f7 b2 92.Qc6 Qg4+ 93.Kh7 Qh5+ 94.Kg8 Qg5+ 95.Kh7 Qf5+ 96.Kg8 Kc2 97.Qg2+ Kc3
+98.Qg3+ Kc4 99.Qh4+ Kb5  0-1

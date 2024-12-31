@@ -1,0 +1,19 @@
+[Event "The Hague AEGON"]
+[Site "The Hague"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Bronstein, David I"]
+[Black "Comp Heuristic Alpha"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O Nge7 8.Ng5 d5
+9.exd5 Ne5 10.Bb3 dxc3 11.Qe2 f6 12.Ne4 Nxd5 13.Ba3 c6 14.Nd6+ Kd7 15.f4 Ng6
+16.Bxd5 Qb6+ 17.Kh1 cxd5 18.Nxc3 Bxc3 19.Rab1 Qc6 20.Qd3 d4 21.Nb5 Rd8 22.Nxc3 Qxc3
+23.Qb5+ Qc6 24.Qb3 Rh8 25.Rbc1 Qe6 26.Qc2 Qb6 27.Bc5 Qc6 28.Qb3 Kd8 29.Bxd4 Qe4
+30.Qc3 Be6 31.Rfe1 Qd5 32.Rcd1 Ke8 33.Bxf6 Qxd1 34.Rxd1 gxf6 35.Qxf6 Bf7
+36.f5 Rg8 37.Qd6 Bxa2 38.fxg6 Rxg6 39.Qd7+ Kf8 40.Qxh7 Rg7 41.Qh8+ Bg8 42.Rf1+ Rf7
+43.Qh6+ Ke8 44.Re1+ Re7 45.Qh5+ Kf8 46.Qh6+ Ke8 47.Rf1 Rf7 48.Rd1 Rh7 49.Qd6 Re7
+50.h4 Be6 51.Qe5  1-0

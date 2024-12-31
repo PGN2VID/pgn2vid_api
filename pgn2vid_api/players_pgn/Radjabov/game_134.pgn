@@ -1,0 +1,21 @@
+[Event "Kasparov Cadet GP"]
+[Site "Internet"]
+[Date "2000.01.11"]
+[Round "1.1"]
+[White "Thiruchelvam,T"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2020"]
+[BlackElo "2438"]
+[ECO "C05"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 c4 8.Bc2 b5 9.O-O b4
+10.f4 g6 11.Nf3 h5 12.Bd2 Rb8 13.Be1 Be7 14.Ba4 Qc7 15.Bh4 Bxh4 16.Nxh4 bxc3
+17.bxc3 Rb2 18.Bc2 Qa5 19.a4 Qb6 20.Rb1 Rxb1 21.Qxb1 Qxb1 22.Rxb1 Nb6 23.Kf2 Bd7
+24.Ke1 Na5 25.Nc1 Rg8 26.Nf3 Ke7 27.h4 Rb8 28.Nd2 Kd8 29.Ne2 Rb7 30.Ra1 Nc8
+31.Kd1 Ne7 32.Kc1 Kc7 33.Ng3 Nc8 34.Ne2 Bc6 35.Ra3 Rb6 36.Nf1 Ne7 37.Neg3 Kb7
+38.Ne3 Ka6 39.Nd1 Nb3+ 40.Bxb3 Rxb3 41.Rxb3 cxb3 42.Kb2 Bxa4 43.Ka3 b2 44.Nxb2 Bc2
+45.Kb4 Kb6 46.c4 dxc4 47.Nxc4+ Kc6 48.Ne3 Nd5+ 49.Nxd5 Kxd5 50.Kc3 Bf5 51.Ne2 a5
+52.Nc1 a4 53.Ne2 Ke4 54.Kb4 Ke3 55.Nc3 Kxd4 56.Nb5+ Ke3 57.Nd6 Kxf4 58.Nxf7 Kg3
+59.Kxa4 Kxh4 60.Kb5 Kg3 61.Kc6 Kxg2 62.Kd6 h4 63.Nh6 h3 64.Nxf5 gxf5 65.Kxe6 h2
+66.Kxf5 h1=Q 67.e6 Qh8  0-1

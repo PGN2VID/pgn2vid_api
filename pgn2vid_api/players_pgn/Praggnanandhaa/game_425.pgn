@@ -1,0 +1,13 @@
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.05.31"]
+[Round "1.12"]
+[White "Praggnanandhaa,R"]
+[Black "Wei Yi"]
+[Result "0-1"]
+[WhiteElo "2536"]
+[BlackElo "2736"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O d6 6.c3 g5 7.Re1 Bg7 8.Nbd2 g4
+9.Nh4 Nxe4 10.Nxe4 Qxh4 11.f4 gxf3 12.Qxf3 Qxe1+  0-1

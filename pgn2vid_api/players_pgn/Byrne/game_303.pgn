@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1968.??.??"]
+[Round "7"]
+[White "Letzelter, Jean Claude"]
+[Black "Byrne, Robert E"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B09"]
+
+1.e4 g6 2.d4 Bg7 3.f4 d6 4.Nc3 Nf6 5.Nf3 c5 6.dxc5 Qa5 7.Bd3 Qxc5 8.Qe2 O-O
+9.Be3 Qa5 10.O-O Nc6 11.Nd2 Ng4 12.Nb3 Qh5 13.h3 Nxe3 14.Qxe3 Be6 15.Be2 Qh4
+16.Rad1 Rac8 17.Bb5 a6 18.Bxc6 bxc6 19.Nd4 Bc4 20.Rf2 e5 21.fxe5 Bh6 22.Qe1 dxe5
+23.Nf3 Qh5 24.b3 Be6 25.Rd3 Rfd8 26.Qd1 Bg5 27.Nxe5 Rxd3 28.Qxh5 gxh5 29.cxd3 Be3
+30.Kf1 Bd4 31.Nf3 Bxc3 32.Rc2 Bb4 33.Nd4 c5 34.Nxe6 fxe6 35.a3 Bxa3 36.Ra2 Bb4
+37.Rxa6 Rf8+ 38.Ke2 Rf6 39.e5 Rg6 40.Kf3 h4 41.Rc6 h5 42.Ke4 Kf7 43.Rc7+ Ke8
+44.Rh7 Rxg2 45.Rxh5 Re2+ 46.Kf3 Re1 47.Rxh4 Rxe5 48.d4 Rf5+ 49.Ke4 cxd4 50.Kxd4 Be7
+51.Rh6 Kd7  0-1

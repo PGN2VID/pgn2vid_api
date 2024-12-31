@@ -1,0 +1,13 @@
+[Event "Chess.com RCC Wk11 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.04.23"]
+[Round "2"]
+[White "Nepomniachtchi,I"]
+[Black "Kovalev,Vl"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2623"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 a6 4.d4 exd4 5.Nxd4 d6 6.Nc3 g6 7.h4 Bg7 8.Bg5 Qd7
+9.Nxc6 bxc6 10.Qd2 Qg4 11.Be2 Qf4  1-0

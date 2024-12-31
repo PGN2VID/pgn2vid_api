@@ -1,0 +1,15 @@
+[Event "Chess.com Rapid Wk5 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.03.12"]
+[Round "7"]
+[White "Dominguez Perez,L"]
+[Black "Bok,B"]
+[Result "0-1"]
+[WhiteElo "2756"]
+[BlackElo "2624"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Rg1 b5 7.a4 b4 8.Nd5 Nxd5
+9.exd5 Bb7 10.Bc4 g6 11.b3 Bg7 12.Bb2 O-O 13.Qd2 a5 14.O-O-O Nd7 15.g4 Nb6
+16.Nf5 Bxb2+ 17.Kxb2 Nxc4+ 18.bxc4 gxf5 19.gxf5+ Kh8 20.f6 exf6 21.Qf4 f5
+22.Rd3 Qf6+  0-1

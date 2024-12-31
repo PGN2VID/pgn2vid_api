@@ -1,0 +1,27 @@
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.10"]
+[Round "2.21"]
+[White "Wei Yi"]
+[Black "Van Foreest,Jorden"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2601"]
+[ECO "B91"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 g6 7.Bg2 Bg7 8.h3 O-O
+9.O-O Nc6 10.Nde2 Bd7 11.Nd5 b5 12.c3 Rb8 13.Be3 Ne5 14.b3 Bc6 15.Qd2 e6
+16.Nxf6+ Bxf6 17.f4 Nd7 18.Qxd6 Rc8 19.Rfd1 Be7 20.Qd2 e5 21.Rac1 Qc7 22.Nd4 Bc5
+23.Kh2 Rfe8 24.f5 Nf6 25.Ne6 fxe6 26.Bxc5 exf5 27.exf5 Bxg2 28.Bd6 Qc6 29.Qxg2 Qxg2+
+30.Kxg2 gxf5 31.Bb4 Kf7 32.Rd6 Re6 33.Rcd1 Ne4 34.Rd7+ Kg6 35.Ra7 Nf6 36.Rd6 Rxd6
+37.Bxd6 Rxc3 38.Rxa6 Rc2+ 39.Kf1 Ne4 40.Bxe5+ Kf7 41.Bf4 h5 42.h4 b4 43.a4 Rf2+
+44.Ke1 Rb2 45.Ra7+ Ke6 46.a5 Rxb3 47.a6 Ra3 48.Rh7 b3 49.Rb7 Ra1+ 50.Ke2 Ra2+
+51.Kd3 Rxa6 52.Kc4 Rc6+ 53.Kd4 Nc5 54.Rb5 Kf6 55.Kd5 Rc8 56.Rb6+ Kf7 57.Bd6 Ne4
+58.Be5 Rd8+ 59.Kc4 Nd2+ 60.Kc3 Rd5 61.Bf4 Ne4+ 62.Kxb3 Rd3+ 63.Kc4 Ra3 64.Kd5 Ra5+
+65.Kd4 Nf6 66.Rb7+ Ke6 67.Rb6+ Kf7 68.Rb7+ Kg6 69.Rb6 Ra4+ 70.Ke3 Kf7 71.Rb7+ Ke6
+72.Rb6+ Kf7 73.Rb7+ Ke8 74.Rb8+ Kd7 75.Rb5 Ke6 76.Re5+ Kf7 77.Rxf5 Kg6 78.Rg5+ Kf7
+79.Rf5 Ke6 80.Re5+ Kd7 81.Rb5 Ke6 82.Kf3 Ra3+ 83.Kg2 Ra2+ 84.Kh3 Ra6 85.Re5+ Kf7
+86.Rf5 Kg6 87.Rg5+ Kf7 88.Be5 Ne4 89.Rxh5 Nf2+ 90.Kg2 Ng4 91.Kf3 Nh2+ 92.Kg2 Ng4
+93.Bf4 Ra2+ 94.Kf3 Nh2+ 95.Ke4 Ra4+ 96.Kf5 Ra5+ 97.Be5 Nf3 98.Kf4 Ne1 99.Rf5+ Ke6
+100.Rf6+ Ke7 101.Ke4 Ra4+ 102.Kf5 Nd3 103.Re6+ Kf7 104.Rf6+ Ke7 105.Bc3 Rc4
+106.Re6+ Kd7 107.Be5 Rc5 108.g4 Rc1 109.Rd6+  1-0

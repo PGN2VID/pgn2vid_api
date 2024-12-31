@@ -1,0 +1,26 @@
+[Event "Chess.com Classic Div 2 W"]
+[Site "chess.com INT"]
+[Date "2024.05.12"]
+[Round "3.3"]
+[White "Aronian,L"]
+[Black "Oparin,G"]
+[Result "0-1"]
+[WhiteElo "2730"]
+[BlackElo "2676"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.c4 Nf6 5.Nc3 g6 6.d4 cxd4 7.Nxd4 Bg7 8.Be3 O-O
+9.h3 a6 10.Bxd7 Nfxd7 11.O-O Nc6 12.Rc1 Rc8 13.b3 Qa5 14.Nxc6 bxc6 15.Na4 c5
+16.f4 Nb8 17.Bd2 Qd8 18.Nc3 Nc6 19.Kh1 f5 20.exf5 gxf5 21.Qe1 Qd7 22.Rf3 Nd4
+23.Re3 Rce8 24.Qh4 Kh8 25.Ne2 e5 26.Nc3 Re6 27.Nd5 Rg6 28.Qf2 e4 29.Bc3 Rg8
+30.Rd1 Ne6 31.g4 fxg4 32.f5 Qf7 33.Rf1 Bxc3 34.fxg6 Qxf2 35.Rxf2 Bd4 36.Rf7 Ng5
+37.Rxe4 Nxf7 38.gxf7 Rf8 39.Re8 Kg7 40.Rxf8 Kxf8 41.hxg4 Kxf7 42.Kg2 Ke6
+43.Kf3 Ke5 44.Ne7 Bc3 45.Nc6+ Ke6 46.Ke4 Be1 47.Nb8 a5 48.Na6 Bd2 49.Nc7+ Kd7
+50.Nd5 Ke6 51.Nc7+ Kd7 52.Nb5 Ke6 53.Na7 Be1 54.Nc6 Bc3 55.Nd8+ Ke7 56.Nb7 Ke6
+57.a3 Be1 58.Nd8+ Ke7 59.Nb7 Ke6 60.a4 Bd2 61.Nd8+ Ke7 62.Nc6+ Ke6 63.Na7 Be1
+64.Nb5 Bd2 65.Nc7+ Kd7 66.Nd5 Ke6 67.Kd3 Be1 68.Ke2 Bg3 69.Ke3 Be1 70.Nf4+ Kf6
+71.Ke4 Kg5 72.Kf3 Kf6 73.Ng2 Bd2 74.Ke2 Bc1 75.Ne1 Kg5 76.Kf3 Bd2 77.Nd3 Kf6
+78.Ke4 Kg5 79.Kf3 Kf6 80.Ke2 Bc3 81.Nf4 Ke5 82.Nd5 Bb2 83.Kd3 Bc1 84.Ke2 Kd4
+85.Kd1 Bg5 86.Ke2 Bh6 87.Nf6 Kc3 88.g5 Bxg5 89.Ne4+ Kxb3 90.Nxg5 Kxa4 91.Kd2 Kb3
+92.Ne4 a4 93.Kc1 a3 94.Kb1 h5 95.Nxd6 h4 96.Ne4 Kxc4 97.Ka2 Kb4 98.Ng5 c4
+99.Nh3 c3  0-1

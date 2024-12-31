@@ -1,0 +1,20 @@
+[Event "AI Cup Div 3 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "2.1"]
+[White "Kramnik,V"]
+[Black "Martinez Alcantara,Jose Eduardo"]
+[Result "0-1"]
+[WhiteElo "2753"]
+[BlackElo "2611"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 b6 4.Bd3 Bb7 5.O-O Be7 6.c4 O-O 7.Nc3 d5 8.cxd5 exd5
+9.b3 a6 10.Bb2 Bd6 11.Rc1 Nbd7 12.Ne2 Re8 13.Ng3 g6 14.Rc2 Qe7 15.Qe2 c6
+16.Rfc1 a5 17.Qd1 Ne4 18.Bxe4 dxe4 19.Nd2 Nf6 20.Nc4 Bxg3 21.hxg3 Nd5 22.Ba3 Qd7
+23.Ne5 Qe6 24.Nxc6 f6 25.Bb2 Rec8 26.Ne5 fxe5 27.dxe5 Rd8 28.Rd2 Rd7 29.Rc4 Rad8
+30.Rcd4 Bc6 31.Qc1 Bb7 32.a3 Rc8 33.Qd1 h5 34.b4 axb4 35.axb4 b5 36.Qb3 Rcd8
+37.Qd1 Bc6 38.Qc1 Ne7 39.Rc2 Rd5 40.Rxd5 Bxd5 41.Rd2 Rc8 42.Qa1 g5 43.Qa5 h4
+44.Qxb5 Kf7 45.Qe2 Rh8 46.g4 h3 47.g3 h2+ 48.Kh1 Rb8 49.Qd1 Bb3 50.Qc1 Qxg4
+51.e6+ Bxe6 52.Qc3 Qf3+ 53.Kxh2 Rg8 54.b5 Qh5+ 55.Kg1 Rg6 56.f4 Rh6 57.Qg7+ Ke8
+58.Rg2 Qd1+ 59.Kf2 Qd2+  0-1

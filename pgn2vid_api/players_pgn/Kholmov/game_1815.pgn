@@ -1,0 +1,21 @@
+[Event "Chigorin Mem"]
+[Site "St Petersburg RUS"]
+[Date "2000.11.09"]
+[Round "8"]
+[White "Kholmov,R"]
+[Black "Manakov,I"]
+[Result "1-0"]
+[WhiteElo "2415"]
+[BlackElo "2303"]
+[ECO "B54"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Nb3 d5 7.Bg5 Be6 8.Bxf6 gxf6
+9.exd5 Qxd5 10.Qxd5 Bxd5 11.Nc3 Be6 12.Nb5 Kd7 13.O-O-O+ Kc6 14.Bd3 Nd7 15.Nc3 Kc7
+16.g4 Bb4 17.Ne4 h5 18.h3 hxg4 19.hxg4 f5 20.gxf5 Bxf5 21.Bc4 Bxe4 22.fxe4 Rxh1
+23.Rxh1 Rf8 24.c3 Be7 25.Rh5 Nb6 26.Be2 Nd7 27.Nd2 Rg8 28.Rh7 Rf8 29.Kc2 Nf6
+30.Rh2 Rg8 31.Bc4 Rg7 32.Rf2 Ng4 33.Rxf7 Rxf7 34.Bxf7 Bg5 35.Nf3 Bf4 36.Bd5 Nf6
+37.Kd3 Ne8 38.b4 Nd6 39.c4 b6 40.a4 Ne8 41.c5 bxc5 42.bxc5 Nf6 43.Kc4 Ng4
+44.Nh4 Ne3+ 45.Kb5 Bg3 46.Nf3 Bf4 47.a5 Nc2 48.Kc4 Ne3+ 49.Kd3 Ng4 50.a6 Nf6
+51.Kc4 Ng4 52.Ng1 Nf6 53.Ne2 Be3 54.Nc3 Bf2 55.Bb7 Kb8 56.Bc6 Kc7 57.Kb5 Kb8
+58.Na2 Kc7 59.Nb4 Bd4 60.Nd5+ Nxd5 61.exd5 Bf2 62.d6+ Kd8 63.Be4 Kd7 64.Bf5+ Kd8
+65.Kc6  1-0

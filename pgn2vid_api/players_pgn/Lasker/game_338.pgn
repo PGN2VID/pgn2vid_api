@@ -1,0 +1,15 @@
+[Event "Budapest sim"]
+[Site "Budapest"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.O-O Nf6 6.Bg5 d6 7.Bb5 h6 8.Bh4 Bg4
+9.Nbd2 g5 10.Bxc6+ bxc6 11.Bg3 h5 12.h3 Bxf3 13.Nxf3 g4 14.hxg4 hxg4 15.Nxd4 Qd7
+16.Re1 Nh5 17.Nf5 O-O-O 18.Qxg4 Rdg8 19.Qf3 Rh7 20.Rad1 Rg6 21.Kf1 Rf6 22.Be5 Rg6
+23.Qc3 dxe5 24.Rxd7 Nf4 25.Rd8+ Kxd8 26.Rd1+ Bd4 27.Rxd4+ exd4 28.Qxd4+ Rd6  0-1

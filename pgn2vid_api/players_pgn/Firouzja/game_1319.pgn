@@ -1,0 +1,18 @@
+[Event "Chess.com Bullet Open 2"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "13"]
+[White "Bortnyk,Mykola"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteElo "2473"]
+[BlackElo "2749"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.h3 a6 5.g4 b5 6.Bg2 Bb7 7.Nge2 Nd7 8.a3 c5 9.Be3 cxd4
+10.Nxd4 Ngf6 11.O-O Qc8 12.f4 Nc5 13.e5 Nfe4 14.exd6 Nxc3 15.bxc3 Bxg2 16.Kxg2 exd6
+17.f5 Be5 18.fxg6 hxg6 19.Qf3 Qb7 20.Nc6 Rc8 21.Nxe5 dxe5 22.Rae1 Qxf3+ 23.Rxf3 Ne6
+24.Bd2 Rc5 25.Rfe3 f6 26.Rf3 Ke7 27.Kg3 g5 28.Re2 Nf4 29.Bxf4 gxf4+ 30.Rxf4 Rxc3+
+31.Rf3 Rxh3+ 32.Kxh3 Rxf3+ 33.Kg2 Rxa3 34.g5 Ra4 35.gxf6+ Kxf6 36.Kf2 Kf5
+37.Re3 Rf4+ 38.Kg2 Rg4+ 39.Kf2 Rc4 40.Ra3 Rxc2+ 41.Ke3 Rc6 42.Kd3 b4 43.Ra1 b3
+44.Rb1 Rb6 45.Kc3 b2 46.Kc2 Ke6 47.Kc3 a5 48.Kc2 a4 49.Rxb2 Rxb2+  0-1

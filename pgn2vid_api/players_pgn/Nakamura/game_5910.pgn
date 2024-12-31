@@ -1,0 +1,19 @@
+[Event "chess.com SpeedChess 2022"]
+[Site "chess.com INT"]
+[Date "2022.12.12"]
+[Round "2.16"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2735"]
+[BlackElo "2768"]
+[ECO "C27"]
+
+1.e4 e5 2.Bc4 Nf6 3.Nc3 Nxe4 4.Qh5 Nd6 5.Bb3 g6 6.Qxe5+ Qe7 7.d4 Nc6 8.Qxe7+ Bxe7
+9.Nd5 Bd8 10.Bf4 Nxd4 11.O-O-O Nxb3+ 12.axb3 O-O 13.Nxc7 Bxc7 14.Bxd6 Bxd6
+15.Rxd6 b6 16.Nf3 Re8 17.Re1 Rxe1+ 18.Nxe1 Kf8 19.g3 Ke7 20.Rd4 Bb7 21.c3 Re8
+22.Nc2 Kd8 23.Ne3 Re4 24.Rxe4 Bxe4 25.Kd2 Ke7 26.b4 Ke6 27.Ke2 g5 28.f3 Bb1
+29.Nc4 Kd5 30.Nd2 Bg6 31.Ke3 Bc2 32.f4 f6 33.Nf3 h6 34.Nd4 Bg6 35.b3 a6 36.c4+ Kd6
+37.Kd2 Bh7 38.Kc3 Bg6 39.Ne2 Bh5 40.Nd4 Bg6 41.b5 a5 42.b4 a4 43.Nf3 Bf7
+44.Nd2 Ke6 45.c5 bxc5 46.bxc5 Kd5 47.b6 Kc6 48.Ne4 Bd5 49.Nxf6 Bf3 50.Kb4 a3
+51.Kxa3 Kxc5 52.Nxd7+ Kd4 53.Kb4 gxf4 54.gxf4 Ke3 55.f5  1-0

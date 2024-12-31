@@ -1,0 +1,14 @@
+[Event "Chess.com Rapid Wk5 KO"]
+[Site "chess.com INT"]
+[Date "2022.03.13"]
+[Round "1.1"]
+[White "So,W"]
+[Black "Dubov,Daniil"]
+[Result "1-0"]
+[WhiteElo "2778"]
+[BlackElo "2711"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qe2 Ne7 8.Be3 O-O
+9.c4 Nbc6 10.Nc3 d5 11.exd5 exd5 12.Bxa7 Rxa7 13.cxd5 Nxd5 14.Rd1 g6 15.Bxg6 hxg6
+16.Nxd5 Qg5 17.O-O Be6 18.f4 Qd8 19.Qf3 b5 20.f5 Bxf5 21.Qc3  1-0

@@ -1,0 +1,16 @@
+[Event "Paris sim"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Alekhine, Alexander"]
+[Black "NN"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Nc6 6.Bb5 Bc5 7.d4 Bb4 8.Bd2 Bxc3
+9.bxc3 O-O 10.O-O Bg4 11.Qe1 Qe7 12.Bd3 f5 13.exf6 Rxf6 14.Be3 Raf8 15.Nd2 Rxf1+
+16.Nxf1 Nd8 17.c4 dxc4 18.Bxc4+ Kh8 19.Ng3 Nd6 20.Bd3 Re8 21.Bf2 Qxe1+ 22.Rxe1 Rxe1+
+23.Bxe1 Nc6 24.c3 Na5 25.Bd2 Ndc4 26.Bc1 g6 27.Ne4 Kg7 28.Nc5 Bc8 29.Kf2 b6
+30.Nb3 Nxb3 31.axb3 Nd6 32.c4 Bf5 33.Ke3 Bxd3 34.Kxd3 Nf5 35.Bf4 Kf6 36.Bxc7  1-0

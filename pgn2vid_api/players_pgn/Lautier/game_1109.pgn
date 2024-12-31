@@ -1,0 +1,16 @@
+[Event "Clichy sim"]
+[Site "Clichy"]
+[Date "1999.10.09"]
+[Round "1"]
+[White "Lautier, Joel"]
+[Black "Comp ZChess"]
+[Result "1-0"]
+[WhiteElo "2638"]
+[BlackElo ""]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 Nf6 5.Qc2 Nbd7 6.a3 dxc4 7.Bxc4 Nb6 8.Bd3 Nbd5
+9.Nf3 Nxc3 10.bxc3 Bd7 11.O-O Be7 12.e4 c5 13.Rb1 cxd4 14.cxd4 b6 15.Bb2 Rc8
+16.Qe2 Ba4 17.Ne5 O-O 18.f4 Nd7 19.Ng4 Kh8 20.Ne3 Nf6 21.f5 Ng8 22.Rf3 Bf6
+23.e5 Bg5 24.Rbf1 Bc6 25.Rh3 Nh6 26.f6 g6 27.Rg3 Bh4 28.Rg4 Nxg4 29.Qxg4 Bxf6
+30.exf6 Rc7 31.Qg5 Qa8 32.Qh6 Rg8 33.Rf4  1-0

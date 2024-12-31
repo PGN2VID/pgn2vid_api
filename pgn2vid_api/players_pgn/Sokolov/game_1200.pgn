@@ -1,0 +1,14 @@
+[Event "WCCC Man-Machine exh"]
+[Site "Paderborn"]
+[Date "1999.06.19"]
+[Round "1"]
+[White "Comp Fritz 5.32"]
+[Black "Sokolov, Ivan"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo "2624"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ke8 10.Rd1 a5 11.h3 Bc5 12.g4 Ne7 13.Ne4 Ba7 14.Bh6 f5 15.exf6 gxh6
+16.Re1 Ng6 17.Nd6+ Kd7 18.Nf7 Bc5 19.Rad1+ Bd6 20.Nxh8 Nxh8 21.Re7+ Kd8 22.Ne5  1-0

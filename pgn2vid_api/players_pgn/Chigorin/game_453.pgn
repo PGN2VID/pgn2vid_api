@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "2"]
+[White "Von Scheve, Theodor"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 Bg4 3.Bf4 e6 4.e3 Bd6 5.Bg3 Nf6 6.c4 Nbd7 7.Nc3 Bxg3 8.hxg3 c6
+9.Qb3 Qc7 10.Rc1 Rc8 11.cxd5 exd5 12.Bd3 O-O 13.Rh4 Bxf3 14.gxf3 Rfe8 15.Kf1 Nf8
+16.Kg2 g6 17.e4 dxe4 18.fxe4 Qb6 19.Qc4 Rcd8 20.e5 Nd5 21.Ne4 Qxb2 22.Rc2 Qa3
+23.Rc1 Kg7 24.Rch1 Qb2 25.Bc2 h5 26.Rb1 Nb6 27.Qxf7+ Kxf7 28.Rxb2 Kg7 29.g4 hxg4
+30.Rxg4 Kh6 31.Nd6 Re7 32.Rb1 Red7 33.Bxg6 Rxd6 34.Bf7 Rg6 35.Bxg6 Nxg6 36.Rb3 Nd5
+37.Rh3+ Kg7 38.Rhg3 Ne7 39.f4 Kf7 40.f5 Nxf5 41.e6+ Kxe6 42.Rxg6+ Kf7 43.R3g4 Ne3+
+44.Kf3 Nxg4 45.Rxg4 Rh8 46.Rg2 Kf6 47.Ke4 Rh7 48.Kd3 Ke6 49.Kc4 Kd6 50.a4 Rh1
+51.Rg6+ Kc7 52.Kc5 Rh5+ 53.Kc4 a5 54.Rg7+ Kb6 55.Re7 Rh1 56.Kb3 Rh3+ 57.Kb2 Rd3
+58.Rd7 Ka6 59.Ka2 Ka7 60.Rd8 b6 61.Kb2 Kb7 62.Kc2 Kc7 63.Kxd3 Kxd8 64.d5 b5
+65.dxc6 b4 66.Kc4 Kc7  0-1

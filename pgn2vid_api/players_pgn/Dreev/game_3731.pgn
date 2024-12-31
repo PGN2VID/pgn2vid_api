@@ -1,0 +1,26 @@
+[Event "Chess.com Rapid Wk2 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.19"]
+[Round "4"]
+[White "Dreev,A"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2623"]
+[BlackElo "2633"]
+[ECO "E36"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3+ 6.Qxc3 O-O 7.Nf3 b6 8.Bg5 dxc4
+9.Qxc4 Ba6 10.Qa4 h6 11.Bh4 Qd7 12.Qxd7 Nbxd7 13.Bxf6 Nxf6 14.e3 Bxf1 15.Rxf1 c5
+16.Ke2 Rfc8 17.Rfc1 c4 18.Nd2 b5 19.b3 c3 20.Nf3 a5 21.Ne5 Rc7 22.Nd3 Nd7
+23.Ra2 Rb8 24.b4 axb4 25.axb4 Rc4 26.Ra3 Rbc8 27.Nc5 Nf6 28.Raxc3 Rxb4 29.Nd3 Rxc3
+30.Rxc3 Ra4 31.Rc8+ Kh7 32.Ne5 Ra7 33.Rb8 Ne4 34.f3 Ra2+ 35.Kf1 Ra1+ 36.Ke2 Ra2+
+37.Kf1 Nd2+ 38.Kg1 Nc4 39.Nxc4 bxc4 40.Rc8 Rc2 41.h4 Kg6 42.Kh1 c3 43.Kh2 f5
+44.Rc7 Kf6 45.h5 Rc1 46.Kg3 c2 47.Kf4 Rh1 48.Rxc2 Rxh5 49.Rc6 g5+ 50.Kg3 Ke7
+51.Rc1 Rh4 52.Kf2 h5 53.Ra1 f4 54.e4 g4 55.Kg1 gxf3 56.gxf3 Rh3 57.Kg2 Rg3+
+58.Kf2 h4 59.Rh1 h3 60.Rg1 h2 61.Rh1 Rh3 62.Kg2 Rg3+ 63.Kf2 Rg8 64.Rxh2 Rd8
+65.Rh4 Rxd4 66.Rxf4 Rd2+ 67.Kg3 Ra2 68.Rg4 Ra1 69.Kf4 Kf6 70.Rg5 Rh1 71.Rc5 Rh4+
+72.Ke3 Rh8 73.f4 Rh3+ 74.Kd4 Rh1 75.f5 Rd1+ 76.Ke3 exf5 77.Rxf5+ Ke6 78.Rd5 Re1+
+79.Kd4 Ra1 80.Re5+ Kd6 81.Rd5+ Kc6 82.Rc5+ Kb6 83.Rd5 Kc7 84.Ke5 Ra6 85.Kf5 Kc6
+86.Rd3 Ra1 87.e5 Rf1+ 88.Ke6 Kc7 89.Ke7 Re1 90.e6 Kc6 91.Kf7 Rf1+ 92.Ke8 Ra1
+93.e7 Kc7 94.Rd4 Rf1 95.Rc4+ Kb7 96.Kd7 Rd1+ 97.Ke6 Re1+ 98.Kd6 Kb6 99.Rc6+ Kb7
+100.Rc5 Kb6 101.Re5 Rd1+ 102.Ke6 Rh1 103.e8=Q Rh6+ 104.Kd5 Rh1 105.Re6+ Ka5  0-1

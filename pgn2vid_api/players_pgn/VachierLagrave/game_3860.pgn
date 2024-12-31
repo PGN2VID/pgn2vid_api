@@ -1,0 +1,13 @@
+[Event "chess.com SpeedChess 2022"]
+[Site "chess.com INT"]
+[Date "2022.12.14"]
+[Round "2.38"]
+[White "Vachier Lagrave,M"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2760"]
+[ECO "C15"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 Nf6 5.e5 Ne4 6.a3 Nxc3 7.Nxc3 Bxc3+ 8.bxc3 c5
+9.Qg4 O-O 10.Bh6 g6 11.h4 f5 12.Qg3 cxd4 13.h5 f4 14.Bxf4  1-0

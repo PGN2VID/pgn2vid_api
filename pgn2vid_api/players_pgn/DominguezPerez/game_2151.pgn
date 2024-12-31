@@ -1,0 +1,20 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.4"]
+[White "Saric,Iv"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2647"]
+[BlackElo "2745"]
+[ECO "D02"]
+
+1.d4 Nf6 2.Nf3 d5 3.c3 e6 4.Bg5 h6 5.Bh4 g5 6.Bg3 Ne4 7.Nfd2 Nxg3 8.hxg3 c5
+9.e3 Nc6 10.Bd3 Bd7 11.dxc5 Bxc5 12.Nb3 Be7 13.N1d2 Qc7 14.Rc1 Ne5 15.Be2 b5
+16.Nd4 Nc4 17.b3 Nxd2 18.Qxd2 Qb6 19.Qd3 a6 20.e4 dxe4 21.Qxe4 Rc8 22.O-O O-O
+23.g4 Bc6 24.Qb1 Bf6 25.Nxc6 Rxc6 26.Qe4 Rd8 27.c4 Rd4 28.Qe3 b4 29.g3 Qc5
+30.Kg2 Rd8 31.Qxc5 Rxc5 32.Rcd1 Kf8 33.Rxd8+ Bxd8 34.Rd1 Ke7 35.Bf3 Bb6 36.Bb7 Rc7
+37.Be4 Rd7 38.Rc1 Bc5 39.Rc2 Rd4 40.Re2 a5 41.f4 Rd1 42.f5 Kf6 43.fxe6 fxe6
+44.Bb7 Rg1+ 45.Kh2 Rf1 46.Kg2 Rg1+ 47.Kh3 Rf1 48.Bc8 e5 49.Kg2 Rd1 50.Bb7 Bd4
+51.Kf3 Bc5 52.Rh2 Rd3+ 53.Ke2 Rxg3 54.Rxh6+ Ke7 55.Ra6 e4 56.Rxa5 Rg2+ 57.Kf1 Rg1+
+58.Ke2 Rg2+ 59.Kd1 Rg1+ 60.Kd2 Rg2+ 61.Ke1 Rg1+ 62.Ke2 Rg2+  1/2-1/2

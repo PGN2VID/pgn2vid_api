@@ -1,0 +1,23 @@
+[Event "chess.com Speed 2021"]
+[Site "chess.com INT"]
+[Date "2021.11.10"]
+[Round "1.41"]
+[White "Sarana,A"]
+[Black "Rapport,R"]
+[Result "1-0"]
+[WhiteElo "2656"]
+[BlackElo "2763"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Nc3 g6 3.e4 d5 4.exd5 Nxd5 5.Nxd5 Qxd5 6.c4 Qd6 7.Nf3 Bg7 8.Be2 O-O
+9.O-O Bg4 10.Be3 Nc6 11.d5 Bxf3 12.Bxf3 Ne5 13.Be2 Nd7 14.Qb3 b6 15.Rad1 a5
+16.Qc2 Nc5 17.b3 Rad8 18.Rfe1 Be5 19.g3 Qf6 20.Kg2 Rfe8 21.Bf3 Qg7 22.h4 h5
+23.Bxc5 bxc5 24.Re2 Bf6 25.Rde1 Rd6 26.Re4 Rb8 27.g4 hxg4 28.Rxg4 Qh6 29.Rh1 a4
+30.h5 axb3 31.axb3 g5 32.Be4 Ra6 33.Rg3 Rba8 34.d6 cxd6 35.Bxa8 Rxa8 36.Qf5 Ra2
+37.Rg4 Kg7 38.Kg3 Kf8 39.Rh3 Be5+ 40.Kg2 Bf6 41.Qb1 Rb2 42.Qc1 Bd4 43.Rxd4 Rxf2+
+44.Kxf2 Qf6+ 45.Rf3 Qxd4+ 46.Qe3 Qh4+ 47.Kg2 Qxh5 48.Rh3 Qg4+ 49.Rg3 Qd1
+50.Rxg5 Qc2+ 51.Kh3 Qh7+ 52.Kg3 f6 53.Rg4 Ke8 54.Re4 Kd7 55.Kf2 Qf5+ 56.Rf4 Qh7
+57.Qf3 Qc2+ 58.Kg3 Kd8 59.Rg4 Qc1 60.Qa8+ Kd7 61.Qb7+ Ke6 62.Re4+ Kf5 63.Qd5+ e5
+64.Re2 Qg5+ 65.Kf2 Qh4+ 66.Kf1 Qh3+ 67.Ke1 Qc3+ 68.Kf2 Qxb3 69.Qf3+ Qxf3+
+70.Kxf3 Ke6 71.Rh2 f5 72.Rh6+ Ke7 73.Ke3 Kd7 74.Rf6 f4+ 75.Ke4 Kc6 76.Rh6 Kc7
+77.Kd5 Kb6 78.Rxd6+ Ka5 79.Kxe5 Kb4 80.Kd5  1-0

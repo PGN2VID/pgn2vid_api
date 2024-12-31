@@ -1,0 +1,19 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.3"]
+[White "Andreikin,D"]
+[Black "Antipov,M2"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2600"]
+[ECO "D85"]
+
+1.c4 g6 2.d4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Bb5+ Nc6
+9.O-O O-O 10.Bxc6 bxc6 11.Qc2 cxd4 12.cxd4 Bg4 13.Ne5 Qxd4 14.Bb2 Qb4 15.Rab1 Bxe5
+16.Bxe5 Qa5 17.Bc3 Qc5 18.Qb2 a5 19.Rfc1 Qd6 20.Be5 Qd7 21.h3 Be6 22.Rd1 Qa7
+23.a3 Rfd8 24.Qc3 Rxd1+ 25.Rxd1 Qb6 26.Rc1 Rc8 27.Bd4 Qd8 28.Bc5 f6 29.Rb1 Kf7
+30.e5 Rb8 31.Rxb8 Qxb8 32.exf6 exf6 33.Qxa5 Qb1+ 34.Kh2 Qb8+ 35.Kg1 Qb1+
+36.Kh2 Qb8+ 37.g3 Bd5 38.a4 h5 39.Qe1 Qe8 40.Qxe8+ Kxe8 41.g4 hxg4 42.hxg4 Kd7
+43.Kg3 Kc7 44.Kf4 Be6 45.Be7 g5+ 46.Ke4 Bxg4 47.Bxf6 Kb7 48.Bxg5 c5 49.Bd2 Bd7
+50.a5 Ka8 51.f4 Bc8 52.f5 Bxf5+ 53.Kxf5 c4 54.Ke5 c3 55.Bxc3 Kb7  1/2-1/2

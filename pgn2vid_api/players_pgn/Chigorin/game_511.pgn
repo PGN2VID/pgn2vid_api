@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "11"]
+[White "Mieses, Jacques"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C28"]
+
+1.e4 e5 2.Nc3 Nc6 3.Bc4 Nf6 4.d3 Bb4 5.Ne2 d5 6.exd5 Nxd5 7.O-O Be6 8.Nxd5 Bxd5
+9.Bxd5 Qxd5 10.f4 O-O 11.f5 Rad8 12.f6 Rfe8 13.Ng3 g6 14.Ne4 Bf8 15.Qg4 Nd4
+16.Rf2 Ne6 17.Be3 Nc5 18.Ng5 h6 19.Nh3 Ne6 20.Qh4 Qc6 21.Bxh6 Rd4 22.g4 Bxh6
+23.c3 Be3 24.cxd4 Nxd4 25.Ng5 Qxf6 26.Qh7+ Kf8 27.Rf1 Nf3+ 28.Nxf3 Qxf3 29.Qh8+ Ke7
+30.Qxe5+ Kd7 31.Qg3 Bxf2+ 32.Qxf2 Qxg4+ 33.Kh1 f5 34.Rg1 Re2 35.Qf1 Qh5 36.Qf4 c6
+37.a3 Re6 38.Rc1 Qh3 39.Qd4+ Kc8 40.Qc4 Qf3+ 41.Kg1 Qe3+ 42.Kh1 b5 43.Qc3 Kb7
+44.a4 Qf3+ 45.Kg1 Qg4+ 46.Kh1 b4 47.Qg7+ Ka6 48.Qc7 Qf3+ 49.Kg1 Qe3+ 50.Kg2 Qd2+
+51.Kh3 Qxd3+ 52.Kh4 Qd4+ 53.Kg3 Qg4+  0-1

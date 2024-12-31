@@ -1,0 +1,23 @@
+[Event "Riga Tech Open A 2021"]
+[Site "Riga LAT"]
+[Date "2021.08.12"]
+[Round "6.6"]
+[White "Praggnanandhaa,R"]
+[Black "Arjun,Kalyan"]
+[Result "0-1"]
+[WhiteElo "2608"]
+[BlackElo "2503"]
+[ECO "A06"]
+
+1.Nf3 d5 2.e3 Nf6 3.c4 e6 4.Nc3 Nbd7 5.b3 b6 6.Bb2 Bb7 7.d4 a6 8.Bd3 Bd6
+9.O-O O-O 10.a4 Re8 11.a5 e5 12.Bc2 exd4 13.exd4 Nf8 14.axb6 cxb6 15.Ne5 Qc7
+16.f4 Rad8 17.Bd3 dxc4 18.bxc4 Ne6 19.Ne2 Be4 20.Bxe4 Nxe4 21.Qc2 Qb7 22.d5 N6c5
+23.Nd4 b5 24.Nec6 Ra8 25.Nf5 Bf8 26.Rab1 Qd7 27.Ne3 bxc4 28.Ne5 Qa4 29.N5xc4 Qxc2
+30.Nxc2 Rad8 31.N2e3 Nd2 32.Nxd2 Rxe3 33.d6 Bxd6 34.Nc4 Rd3 35.Nxd6 R3xd6
+36.Ba3 Rd5 37.Bxc5 Rxc5 38.Rb2 g6 39.Ra1 a5 40.Rba2 Ra8 41.Kf2 h5 42.Rb1 Rc4
+43.g3 a4 44.Ra3 Rd8 45.Kf3 Kg7 46.Rb5 Ra8 47.h3 Rac8 48.Re5 Rc3+ 49.Re3 Rxa3
+50.Rxa3 Ra8 51.g4 hxg4+ 52.hxg4 Kf6 53.Ke4 Ke6 54.Kd4 Kd6 55.Kc4 Re8 56.Kd3 Ra8
+57.Kc4 Kc6 58.Rc3 a3 59.Kb3+ Kd5 60.Ka2 Ra4 61.f5 gxf5 62.gxf5 Ke5 63.Rc5+ Kf6
+64.Rb5 Kg5 65.Rc5 f6 66.Rb5 Kg4 67.Rc5 Rf4 68.Kxa3 Rxf5 69.Rc6 Rf1 70.Kb3 f5
+71.Kc2 Re1 72.Kd2 Re8 73.Rc1 f4 74.Rg1+ Kf3 75.Rg7 Kf2 76.Kd3 f3 77.Rf7 Kg2
+78.Rg7+ Kf1 79.Kd2 f2 80.Rf7 Rd8+ 81.Kc2 Rd5  0-1

@@ -1,0 +1,23 @@
+[Event "Mechanics Institute Rapid"]
+[Site "San Francisco USA"]
+[Date "2019.05.02"]
+[Round "2.8"]
+[White "Wolff,Pa"]
+[Black "Lee,Andy"]
+[Result "0-1"]
+[WhiteElo "2564"]
+[BlackElo "2213"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 a6 6.O-O O-O 7.Re1 Ba7 8.Bb3 h6
+9.Nbd2 Re8 10.Nf1 d5 11.exd5 Nxd5 12.Ng3 b5 13.d4 Nf6 14.d5 e4 15.dxc6 exf3
+16.Qxd8 Rxd8 17.gxf3 Bh3 18.Bf4 Nd5 19.Be5 Bb6 20.Rad1 Be6 21.f4 Ne7 22.Bxe6 fxe6
+23.Nh5 Nf5 24.Kf1 Kf7 25.Ke2 g6 26.Nf6 Ne7 27.Ng4 h5 28.Nh6+ Ke8 29.Rg1 Rxd1
+30.Kxd1 Rd8+ 31.Ke2 Rc8 32.Kf3 Bc5 33.Rd1 Nxc6 34.Ng8 Nxe5+ 35.fxe5 Be7 36.Ke4 Kf7
+37.Nxe7 Kxe7 38.f4 Rg8 39.h4 c5 40.Rd6 Ra8 41.Rb6 Ra7 42.Rc6 c4 43.Ke3 Kd7
+44.Rd6+ Ke7 45.Kd4 Ra8 46.Kc5 Rf8 47.Rd4 Rb8 48.Kc6 b4 49.Rd7+ Ke8 50.Kc7 Rb5
+51.Rd6 bxc3 52.bxc3 Kf7 53.Rxa6 Rb2 54.Rc6 Rxa2 55.Rxc4 Rh2 56.Kd8 Rxh4 57.Rc7+ Kf8
+58.Kd7 Rxf4 59.Kxe6 h4 60.c4 h3 61.Rh7 Rf3 62.c5 Kg8 63.Rh6 Kg7 64.Rh4 g5
+65.Rc4 h2 66.Rc1 g4 67.c6 g3 68.c7 Rf8 69.Kd7 g2 70.e6 g1=Q 71.Rc5 h1=Q 72.e7 Qxc5
+73.exf8=Q+ Qxf8 74.c8=Q Qxc8+ 75.Kxc8 Qd5 76.Kc7 Kf7 77.Kb6 Ke7 78.Kc7 Qc5+
+79.Kb7 Kd7 80.Ka6 Qb4 81.Ka7 Kc7 82.Ka6 Qb6+  0-1

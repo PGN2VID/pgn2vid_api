@@ -1,0 +1,25 @@
+[Event "FIDE World Cup KO"]
+[Site "Shenyang CHN"]
+[Date "2000.09.10"]
+[Round "2.3"]
+[White "Milos,G"]
+[Black "Bareev,E"]
+[Result "0-1"]
+[WhiteElo "2633"]
+[BlackElo "2702"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 Bxf6 7.Nf3 Nd7 8.Bc4 a6
+9.Qe2 b5 10.Bd5 Rb8 11.Nxf6+ Qxf6 12.O-O O-O 13.Bc6 Rb6 14.Bxd7 Bxd7 15.Ne5 Rd8
+16.b4 Bc6 17.c3 Bd5 18.Qe3 Qe7 19.Rfe1 Re8 20.a4 Rd6 21.axb5 axb5 22.Ra5 f6
+23.Nd3 c6 24.Qg3 Bc4 25.Nc5 Rdd8 26.Rea1 Qf7 27.Ra7 Re7 28.Ra8 Rxa8 29.Rxa8+ Re8
+30.Ra6 e5 31.dxe5 Rxe5 32.Qxe5 fxe5 33.Ra8+ Qf8 34.Rxf8+ Kxf8 35.Nd7+ Ke7
+36.Nxe5 Bd5 37.f3 Kd6 38.Nd3 Bc4 39.Nc5 Kd5 40.Kf2 Ba2 41.Ke3 Bb1 42.h4 h6
+43.Ne4 Bc2 44.h5 Ke5 45.g4 Kd5 46.Nc5 Bh7 47.Kd2 Ke5 48.Nd3+ Kd5 49.Nf4+ Ke5
+50.Ke3 Bb1 51.Ne2 Kd5 52.Nd4 Bh7 53.f4 g6 54.hxg6 Bxg6 55.Nf3 Bf7 56.Ne5 Be6
+57.Kf3 Bg8 58.Kg3 Be6 59.Kh4 Ke4 60.g5 hxg5+ 61.Kxg5 Bd5 62.Ng6 Kd3 63.f5 Kxc3
+64.Ne7 Bf7 65.Nxc6 Be8 66.f6 Kc4 67.Kf5 Kd5 68.Ne7+ Kc4 69.Ke6 Kxb4 70.Nd5+ Kc4
+71.Ke7 Bh5 72.Nf4 b4 73.Nxh5 b3 74.f7 b2 75.f8=Q b1=Q 76.Qc8+ Kb3 77.Nf6 Qd3
+78.Qb7+ Kc2 79.Nd5 Qh7+ 80.Kd6 Qxb7 81.Nf6 Kd3 82.Nd7 Kd4 83.Nf6 Qb8+ 84.Ke6 Qd8
+85.Nd7 Qe8+ 86.Kd6 Qg6+ 87.Ke7 Kd5 88.Nf6+ Ke5 89.Nd7+ Kf5 90.Kd8 Qc6 91.Ke7 Qc7
+92.Ke8 Ke6 93.Nf8+ Kd6 94.Ng6 Qg7  0-1

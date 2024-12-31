@@ -1,0 +1,23 @@
+[Event "chess.com Speed 2021"]
+[Site "chess.com INT"]
+[Date "2021.12.09"]
+[Round "2.35"]
+[White "So,W"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2791"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Ngf6 12.O-O-O Be7 13.Kb1 O-O 14.Ne4 c5 15.g4 c4
+16.Nxf6+ Nxf6 17.Qxc4 Nxg4 18.Qe2 Qd5 19.Rdg1 f5 20.c4 Qd7 21.Re1 Kf7 22.Rhg1 Bf6
+23.Ne5+ Nxe5 24.dxe5 Be7 25.Rg6 Rfd8 26.Bc1 Rac8 27.Reg1 Bf8 28.b3 b5 29.cxb5 Qd5
+30.f4 Rd7 31.Qg2 Qd3+ 32.Kb2 Kg8 33.Rxe6 Qxb5 34.Ka1 Rdc7 35.Bb2 Rc2 36.Qg3 Qd7
+37.Rf6 R8c7 38.e6 Qd2 39.Rxf8+ Kxf8 40.Bxg7+ Ke8 41.Qg6+ Kd8 42.Bb2 Kc8 43.Qe8+ Kb7
+44.Qb5+ Ka8 45.Rg8+ Rc8 46.Rxc8+ Rxc8 47.a4 Qe1+ 48.Ka2 Qxe6 49.Be5 Qc6 50.Qd3 Qe4
+51.Qd7 Qc2+ 52.Bb2 Qc5 53.Qe6 Rb8 54.Be5 Qc2+ 55.Bb2 Qe4 56.Qd6 Qb7 57.Qe6 Qe4
+58.Qd6 Qb7 59.Qe6 a6 60.Qd6 Qb6 61.Qd5+ Rb7 62.Bd4 Qc7 63.Qg8+ Rb8 64.Qd5+ Qb7
+65.Qc4 Rd8 66.Bb2 Rc8 67.Qe6 Rb8 68.Qc4 Qb6 69.Qd5+ Qb7 70.Qc4 Rd8 71.Qe6 Rc8
+72.Qxf5 Qc6 73.Qe5 Rb8 74.f5 Qf3 75.Qe6 Kb7 76.f6 Qc6 77.Qe7+ Qc7 78.Qxc7+ Kxc7
+79.Be5+  1-0

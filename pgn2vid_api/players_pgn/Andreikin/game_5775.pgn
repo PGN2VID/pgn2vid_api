@@ -1,0 +1,19 @@
+[Event "Chess.com Speed KO Lose"]
+[Site "chess.com INT"]
+[Date "2024.06.28"]
+[Round "1.3"]
+[White "Andreikin,D"]
+[Black "Hong,Andrew"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2550"]
+[ECO "D11"]
+
+1.d4 d5 2.Nf3 c6 3.c4 e6 4.Nbd2 Nf6 5.Qc2 Nbd7 6.a3 b6 7.e4 dxe4 8.Nxe4 Bb7
+9.Bd3 c5 10.d5 exd5 11.cxd5 Nxe4 12.Bxe4 Nf6 13.O-O Be7 14.Qa4+ Qd7 15.Qxd7+ Kxd7
+16.Ne5+ Kc7 17.d6+ Bxd6 18.Bxb7 Bxe5 19.Bxa8 Rxa8 20.Re1 Rd8 21.Rb1 Kc6 22.Bg5 Rd5
+23.g3 Bxb2 24.Rxb2 Rxg5 25.Re7 a5 26.Rxf7 Nd5 27.f4 Rg6 28.f5 Rg5 29.Re2 c4
+30.Re8 Kc5 31.Kf2 b5 32.Kf3 h5 33.h3 b4 34.axb4+ axb4 35.g4 b3 36.Rb7 hxg4+
+37.hxg4 Kd4 38.Rd8 Kc5 39.Rc8+ Kd4 40.Rd8 Kc5 41.Rbb8 Nc3 42.Rdc8+ Kd4 43.Rb4 Nd5
+44.Rbxc4+ Ke5 45.Re8+ Kd6 46.Re6+ Kd7 47.Rd4 b2 48.Rxd5+ Kc7 49.Rc5+ Kd7
+50.Rd5+ Kc7 51.Rb5 g6 52.Rxg6 Rxf5+ 53.gxf5 Kc8 54.Rxb2  1-0

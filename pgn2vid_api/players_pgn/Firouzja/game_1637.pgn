@@ -1,0 +1,24 @@
+[Event "Chess.com SIG Bullet KO"]
+[Site "chess.com INT"]
+[Date "2021.04.07"]
+[Round "3.14"]
+[White "Firouzja,Alireza"]
+[Black "Tang,Andrew"]
+[Result "1-0"]
+[WhiteElo "2759"]
+[BlackElo "2538"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 g6 7.Nbd2 Bg7 8.O-O O-O
+9.Re1 b5 10.Bc2 Bb7 11.Nf1 Re8 12.Ng3 Nb8 13.d4 Nbd7 14.a4 exd4 15.cxd4 c5
+16.d5 c4 17.Bg5 h6 18.Be3 Nc5 19.Bd4 Nfd7 20.Bxg7 Kxg7 21.Qd4+ Qf6 22.axb5 axb5
+23.Qxf6+ Kxf6 24.Nd4 b4 25.Nb5 Ke7 26.Ne2 b3 27.Rxa8 Rxa8 28.Bb1 Ne5 29.Nec3 Ncd3
+30.Re2 Ra1 31.g3 Ba6 32.Nd4 Kd7 33.f4 Ng4 34.Kg2 Kc7 35.h3 Nf6 36.e5 Nd7
+37.e6 fxe6 38.dxe6 Bb7+ 39.Kh2 Nf6 40.e7 Kd7 41.g4 Nxf4 42.Rf2 g5 43.Rf1 Kxe7
+44.Re1+ Kd8 45.Rd1 N6d5 46.Ndb5 Kd7 47.Ne4 Kc6 48.Nbxd6 Ne3 49.Re1 Nc2 50.Rc1 Nd3
+51.Rf1 Nxb2 52.Rf6 Nd3 53.Nxc4+ Kd5 54.Ned2 Rxb1 55.Nb6+ Kc5 56.Nxb1 b2 57.Na4+ Kb5
+58.Nxb2 Nxb2 59.Nc3+ Kc4 60.Rb6 Nd4 61.Rxb2 Bc6 62.Ne2 Nf3+ 63.Kg3 Ne5 64.Rc2+ Kd3
+65.Rc3+ Kxe2 66.Rc5 Nd3 67.Rxc6 Nf4 68.Rc2+ Ke3 69.Ra2 Ne2+ 70.Kg2 Nf4+ 71.Kh2 Ke4
+72.Ra3 Ne2 73.Ra4+ Nd4 74.Ra2 h5 75.Ra3 hxg4 76.hxg4 Kf4 77.Kh3 Ne2 78.Ra4+ Kf3
+79.Ra3+ Kf2 80.Kh2 Nf4 81.Ra2+ Kf3 82.Ra3+ Kxg4 83.Kg1 Kh4 84.Kf1 g4 85.Kg1 Nh3+
+86.Kh1 Nf4 87.Ra4 Nh3 88.Rxg4+  1-0

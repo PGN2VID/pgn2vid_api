@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Benko, Pal C"]
+[Black "Schmid, Lothar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A37"]
+
+1.c4 g6 2.g3 c5 3.Bg2 Bg7 4.Nc3 Nc6 5.a3 d6 6.Rb1 a5 7.Nf3 e5 8.d3 Nge7 9.O-O O-O
+10.Ne1 Be6 11.Nc2 d5 12.cxd5 Nxd5 13.Ne4 b6 14.Ng5 Bc8 15.Ne3 Nde7 16.b4 axb4
+17.axb4 cxb4 18.Bd2 Rb8 19.Bxb4 Nxb4 20.Rxb4 h6 21.Nf3 Be6 22.Qb1 Nc6 23.Rb5 Na7
+24.Rb4 Nc6 25.Rb5 Na7 26.Rb4 b5 27.Rc1 Qd6 28.h4 f5 29.Nd2 e4 30.h5 g5 31.g4 fxg4
+32.Rxe4 Kh8 33.Nb3 Rf4 34.Nc5 Bf7 35.Rxf4 Qxf4 36.Ne4 b4 37.Rc5 b3 38.Nc4 Bxh5
+39.e3 Qf8 40.Ned2 Qxc5  0-1

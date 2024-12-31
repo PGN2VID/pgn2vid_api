@@ -1,0 +1,18 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "1"]
+[White "Karjakin,Sergey"]
+[Black "Zelbel,P"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2448"]
+[ECO "A06"]
+
+1.e4 d5 2.Nf3 dxe4 3.Ng5 Nf6 4.Nc3 Bf5 5.Qe2 Nc6 6.Qb5 Qc8 7.Bc4 Bg6 8.Bb3 a6
+9.Qc4 Ne5 10.Qd4 Qf5 11.h4 Rd8 12.Qa7 h6 13.Nh3 Qc8 14.Nf4 Bf5 15.Ba4+ c6
+16.Qc5 Nfd7 17.Qe3 b5 18.Bb3 e6 19.Nxe4 c5 20.c3 c4 21.Bc2 Bc5 22.Nxc5 Bxc2
+23.Nxd7 Nxd7 24.d4 cxd3 25.O-O O-O 26.Nh5 Qc5 27.Qf3 Qf5 28.Qxf5 exf5 29.Nf4 g6
+30.Bd2 Ne5 31.Rfe1 Nc4 32.Be3 d2 33.Bxd2 Nxd2 34.h5 Be4 35.hxg6 fxg6 36.f3 Bd3
+37.Nxg6 Rf6 38.Ne7+ Kf7 39.Rad1 Bc2 40.Nc6 Ba4 41.Rxd2 Kg6 42.Re7 Rxc6 43.Rxd8 Rf6
+44.Ree8 Kh5 45.Rg8 Rg6 46.Rdf8 Rg5 47.Rxf5  1-0

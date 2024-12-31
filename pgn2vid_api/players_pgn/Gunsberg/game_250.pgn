@@ -1,0 +1,23 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Mortimer, James"]
+[Black "Gunsberg, Isidor"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C12"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bh4 g5 7.Bg3 Ne4 8.Qd3 c5 9.Ne2 Nc6
+10.a3 Qa5 11.dxc5 Bd7 12.O-O-O Nxc5 13.Qf3 Bxc3 14.Nxc3 Ne7 15.h4 g4 16.Qxg4 Nf5
+17.Qf4 Rc8 18.Bd3 Nxd3+ 19.Rxd3 Rc4 20.Qd2 O-O 21.Ne2 Qc7 22.Nd4 Rc8 23.c3 Nxd4
+24.Rxd4 Qb6 25.Rxc4 Rxc4 26.Bf4 Kh7 27.Bxh6 Rg4 28.Be3 Qc7 29.f3 Rg8 30.Bd4 Ba4
+31.g4 Qc4 32.Kb1 Bb5 33.Qc2+ Kh8 34.b3 Qe2 35.Qxe2 Bxe2 36.Rh3 Bd1 37.b4 b5
+38.Kc1 Be2 39.Kd2 Bc4 40.Rh1 Ra8 41.Ke3 a5 42.Bc5 a4 43.f4 Rg8 44.Rg1 Bb3
+45.h5 Kh7 46.Be7 Bc2 47.Kd4 Rc8 48.Bc5 Rg8 49.Ke3 Rc8 50.Bd4 Rg8 51.Bc5 Kh6
+52.Kf3 Kh7 53.Kg3 Bf5 54.Kh4 Bd3 55.Rg3 Be2 56.Be3 Bd1 57.f5 Re8 58.Bd4 Rg8
+59.fxe6 fxe6 60.g5 Rf8 61.g6+ Kg8 62.h6 Rf4+ 63.Kh3 Rf5 64.h7+ Kg7 65.Be3 Rh5+
+66.Kg2 Bc2 67.Bg5 Bxg6 68.Bf6+ Kxh7 69.Kf2 Rh1 70.Ke3 Ra1 71.Kf4 Rf1+ 72.Ke3 Ra1
+73.Kd4 Rxa3 74.Rh3+ Kg8 75.Rh8+ Kf7 76.Rb8 Ra1 77.Rxb5 a3 78.Ra5 a2 79.Kc5 Bd3
+80.b5 Bc4 81.b6 Rb1 82.Kc6 d4 83.Ra7+ Kg6 84.Kc7 dxc3 85.b7 Rxb7+ 86.Kxb7 c2  0-1

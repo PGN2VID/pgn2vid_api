@@ -1,0 +1,15 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "25"]
+[White "Tarrasch, Siegbert"]
+[Black "Taubenhaus, Jean"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6 7.Bxc6 bxc6 8.dxe5 Nf5
+9.Qe4 g6 10.Nd4 Nxd4 11.Qxd4 O-O 12.Bh6 Re8 13.Nc3 Bg5 14.Bxg5 Qxg5 15.Ne4 Qxe5
+16.Nf6+ Kf8 17.Qh4 Re6 18.Nxh7+ Ke8 19.Ng5 Qf6 20.Qh6 Re7 21.Nh7 Qh8 22.Qh4 Qg7
+23.Rfe1 Re6 24.Ng5 Re7 25.Rxe7+ Kxe7 26.Re1+  1-0

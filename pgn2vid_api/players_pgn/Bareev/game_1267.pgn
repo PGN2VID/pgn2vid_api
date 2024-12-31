@@ -1,0 +1,16 @@
+[Event "Amber Blindfold"]
+[Site "Monte Carlo MNC"]
+[Date "2003.03.18"]
+[Round "4"]
+[White "Bareev,E"]
+[Black "Shirov,A"]
+[Result "0-1"]
+[WhiteElo "2729"]
+[BlackElo "2723"]
+[ECO "A15"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.d3 e5 7.O-O Nc6 8.Rb1 a5
+9.a3 Re8 10.Bg5 h6 11.Bxf6 Bxf6 12.b4 axb4 13.axb4 Bg7 14.b5 Ne7 15.Qc2 c6
+16.Nd2 d5 17.Rfc1 Be6 18.Na4 dxc4 19.Nc5 cxd3 20.exd3 Bc8 21.Nc4 Nf5 22.Nb6 Nd4
+23.Qd1 Ra2 24.Kh1 Nxb5 25.Nxc8 Qxc8 26.Nxb7 Qxb7 27.Bxc6 Qa7 28.Qg1 Nd4 29.Bxe8 Qa8+
+30.Qg2 Qxe8 31.Rc7 Qe6 32.Rcb7 Qf5  0-1

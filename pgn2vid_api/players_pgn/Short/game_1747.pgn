@@ -1,0 +1,19 @@
+[Event "Clock Simul"]
+[Site "Sao Paulo BRA"]
+[Date "2001.09.03"]
+[Round "?"]
+[White "Short,N"]
+[Black "Maia,L"]
+[Result "1-0"]
+[WhiteElo "2664"]
+[BlackElo "2250"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 b5 9.g3 Qb6
+10.Bh3 Be7 11.O-O cxd4 12.Nxd4 Nxd4 13.Bxd4 Qxd4+ 14.Qxd4 Bc5 15.Ne2 g6 16.c3 Bb7
+17.a4 bxa4 18.Rxa4 Bc6 19.Ra5 Bb5 20.Rf2 Bxd4 21.Nxd4 Rb8 22.Nxb5 axb5 23.b4 Ke7
+24.Bf1 Rhc8 25.Rf3 Ra8 26.Rxa8 Rxa8 27.Bxb5 Ra3 28.Kg2 Nb6 29.g4 Rb3 30.Rd3 Rb2+
+31.Kg3 Rb3 32.Kf3 Rb2 33.h3 Rh2 34.Kg3 Rc2 35.Rf3 Rb2 36.Rd3 Rc2 37.g5 Rb2
+38.Kf3 Rh2 39.Ke3 Rxh3+ 40.Kd4 Rh4 41.Kc5 Nd7+ 42.Bxd7 Kxd7 43.Rf3 h5 44.gxh6 Rxh6
+45.c4 dxc4 46.Rc3 Rh8 47.Rxc4 Kc7 48.b5 Rd8 49.Rd4 Rc8 50.b6+ Kb8+ 51.Kb5 Rc1
+52.Rd8+ Kb7 53.Rd7+ Kc8 54.Rxf7 Kb8 55.Rf6 Kb7 56.Rxe6  1-0

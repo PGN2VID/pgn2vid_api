@@ -1,0 +1,14 @@
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.09.03"]
+[Round "1.30"]
+[White "Wei Yi"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteElo "2721"]
+[BlackElo "2774"]
+[ECO "A00"]
+
+1.g4 g5 2.h4 d5 3.hxg5 Bxg4 4.c4 dxc4 5.Qc2 Nc6 6.Nc3 Nd4 7.Qe4 Bf5 8.Qxb7 Nc2+
+9.Kd1 Nxa1 10.e4 Rb8 11.Qxa7 Be6 12.Bxc4 Bxc4 13.Qa4+ Qd7 14.Qxc4 Bg7 15.Nge2 h6
+16.g6 fxg6 17.Rg1 g5 18.f4 Nf6 19.e5 Ng4 20.Ne4 Ne3+  0-1

@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "7"]
+[White "Gunsberg, Isidor"]
+[Black "Winawer, Szymon"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Nxe5 Nxe5 7.dxe5 O-O 8.Qe2 d5
+9.c3 Bc5 10.Be3 Bxe3 11.Qxe3 Qe7 12.c4 c6 13.cxd5 cxd5 14.f3 Qc5 15.Qxc5 Nxc5
+16.Nc3 a6 17.b4 Ne6 18.Ba4 Nc7 19.Rac1 Be6 20.Rfd1 Rfd8 21.Rd4 Rac8 22.Rcd1 Na8
+23.Ne4 b5 24.Bb3 Nb6 25.f4 Rc7 26.Nc5 Ra7 27.Bc2 g6 28.Bb3 Rc8 29.h3 a5 30.bxa5 Nc4
+31.Nd3 Ne3 32.Rc1 Rxc1+ 33.Nxc1 Rxa5 34.Rb4 Nc4 35.Ne2 Bd7 36.Nd4 h5 37.Kf2 Kf8
+38.Ke2 Ke7 39.Kd3 Kd8 40.Ne2 Kc7 41.Nc3 Bc6 42.Kd4 Nb6 43.g4 hxg4 44.hxg4 Kd7
+45.f5 Nc4 46.fxg6 fxg6 47.Nxd5 Bxd5 48.Kxd5 Ne3+ 49.Ke4 Nxg4 50.Kf4 Nh6 51.Kg5 Nf5
+52.Kxg6 Ne7+ 53.Kf7 Nc6 54.Re4 Ra7 55.Bd5 Ne7 56.Bb3 Kc6 57.Kf6 Kc5 58.Rg4 Nd5+
+59.Bxd5 Kxd5 60.Rg2 Ra6+ 61.Kf5 Ra8 62.Rd2+ Kc4 63.e6 Kc3 64.Re2 Kd3 65.Rh2 Kd4
+66.e7  1-0

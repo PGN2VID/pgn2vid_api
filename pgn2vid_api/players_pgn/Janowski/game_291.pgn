@@ -1,0 +1,15 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Janowsky, Dawid Markelowicz"]
+[Black "Von Popiel, Ignatz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A84"]
+
+1.d4 f5 2.c4 e6 3.e3 Nf6 4.Bd3 b6 5.Ne2 Bb7 6.O-O Bd6 7.f3 O-O 8.Nbc3 c5
+9.d5 Qe8 10.Nb5 Qe7 11.Nxd6 Qxd6 12.e4 fxe4 13.fxe4 e5 14.Ng3 g6 15.Bh6 Rf7
+16.Qf3 Na6 17.Rf2 Nc7 18.Raf1 Nce8 19.Qe3 Ng7 20.Qg5 Raf8 21.Bxg7 Rxg7 22.Rxf6 Rxf6
+23.Rxf6 Qe7 24.d6  1-0

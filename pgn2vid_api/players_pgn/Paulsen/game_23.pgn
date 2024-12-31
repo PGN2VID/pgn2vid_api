@@ -1,0 +1,15 @@
+[Event "Pittsburgh sim"]
+[Site "Pittsburgh"]
+[Date "1859.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C21"]
+
+1.e4 e5 2.d4 exd4 3.Bc4 Nf6 4.e5 d5 5.Bb3 Ne4 6.Ne2 Nc6 7.f4 Bc5 8.c3 Bg4
+9.Qd3 Bxe2 10.Qxe2 dxc3 11.g3 Nd4 12.Qg2 cxb2 13.Bxb2 c6 14.Na3 Qa5+ 15.Kd1 Nf2+
+16.Qxf2 Nxb3 17.Qe2 Nxa1 18.Bxa1 Bxa3 19.e6 O-O 20.e7 Bxe7 21.Qxe7 Qxa2 22.Qe5 f6
+23.Qe6+ Kh8 24.Bxf6 Rxf6 25.Qe3 Qb1+  0-1

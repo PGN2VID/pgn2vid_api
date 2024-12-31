@@ -1,0 +1,14 @@
+[Event "Zurich sim"]
+[Site "Zurich"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Nf3 Nc6 3.c3 d5 4.Qa4 dxe4 5.Nxe5 Qd5 6.Nxc6 bxc6 7.Bc4 Qd6 8.O-O Ne7
+9.Qb3 Qg6 10.Re1 Bh3 11.g3 Rd8 12.d4 Nd5 13.Nd2 f5 14.Nf3 Bd6 15.Bg5 Qh5
+16.Bxd8 Qxf3 17.Bf1 Bxf1 18.Kxf1 e3 19.Qc2 Kxd8 20.Kg1 f4  0-1

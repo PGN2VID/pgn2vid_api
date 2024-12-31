@@ -1,0 +1,20 @@
+[Event "Chess.com Rapid Wk6 KO"]
+[Site "chess.com INT"]
+[Date "2022.03.20"]
+[Round "1.1"]
+[White "Dubov,Daniil"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteElo "2711"]
+[BlackElo "2778"]
+[ECO "D91"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Bg7 5.Nf3 Ne4 6.Bf4 Nxc3 7.bxc3 c5 8.e3 O-O
+9.cxd5 Qxd5 10.Be2 cxd4 11.exd4 Nc6 12.O-O Bg4 13.h3 Bxf3 14.Bxf3 Qd7 15.Re1 e6
+16.Qb3 Rac8 17.Rad1 Na5 18.Qb1 Rfe8 19.Qb4 b6 20.Be2 Bf8 21.Bb5 Qb7 22.Qb1 Red8
+23.Qd3 Qd5 24.Ba6 Rc6 25.Bb5 Rcc8 26.a4 Nc4 27.Re2 Bd6 28.Bh6 Bf8 29.Bf4 Bd6
+30.Bc1 Na5 31.h4 Rc7 32.Bg5 Rdc8 33.c4 Nxc4 34.Ba6 Rb8 35.Rc2 Na5 36.Rxc7 Bxc7
+37.Rc1 Bd6 38.Bf6 Bf8 39.Qg3 Ra8 40.Be2 Qd6 41.Qf3 Qd5 42.Qxd5 exd5 43.Bf3 Bd6
+44.Bxd5 Re8 45.g3 Kf8 46.Kg2 h5 47.Kf3 Kg8 48.g4 hxg4+ 49.Kxg4 Kf8 50.h5 gxh5+
+51.Kxh5 Re2 52.Rc8+ Re8 53.Rc1 Re2 54.Rc8+ Re8 55.Rc3 Re2 56.Rf3 Ke8 57.Bg5 Be7
+58.Rxf7 Nc6 59.Rf5 Nxd4 60.Bf7+ Kf8 61.Bh6+  1-0

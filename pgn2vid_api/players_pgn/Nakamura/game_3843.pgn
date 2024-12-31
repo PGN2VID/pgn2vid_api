@@ -1,0 +1,19 @@
+[Event "chess.com Speed 2020"]
+[Site "chess.com INT"]
+[Date "2020.12.12"]
+[Round "3.38"]
+[White "So,W"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2770"]
+[BlackElo "2736"]
+[ECO "A88"]
+
+1.d4 g6 2.c4 Bg7 3.Nf3 d6 4.Nc3 f5 5.g3 Nf6 6.Bg2 O-O 7.O-O c6 8.d5 e5 9.dxe6 Bxe6
+10.b3 Re8 11.Bb2 Na6 12.Qc2 Nc5 13.Rad1 Qe7 14.Nd4 Bf7 15.e3 Ng4 16.Nde2 a5
+17.Rd2 a4 18.Rfd1 axb3 19.axb3 Rad8 20.h3 Nf6 21.b4 Nce4 22.Nxe4 Nxe4 23.Bxe4 Qxe4
+24.Bxg7 Qxc2 25.Rxc2 Kxg7 26.b5 c5 27.Nf4 Kf6 28.Nd5+ Bxd5 29.Rxd5 Re5 30.Rd1 Re4
+31.Rd5 Ke6 32.Kg2 Rxc4 33.Rxd6+ Rxd6 34.Rxc4 Kd5 35.Rh4 Rd7 36.Kf3 b6 37.Ke2 Ra7
+38.g4 fxg4 39.Rxg4 Ra2+ 40.Kf3 Rb2 41.h4 Rxb5 42.h5 gxh5 43.Rg5+ Kc6 44.Rxh5 c4
+45.Rh6+ Kc5 46.Rxh7 Rb1 47.Rc7+ Kd5 48.e4+ Kd4 49.Rd7+ Kc3 50.e5 Re1 51.Kf4 b5
+52.Kf5 b4 53.e6 b3 54.Kf6 b2 55.Rb7 b1=Q  0-1

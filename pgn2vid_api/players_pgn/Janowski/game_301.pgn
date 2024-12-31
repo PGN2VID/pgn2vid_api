@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "12"]
+[White "Janowsky, Dawid Markelowicz"]
+[Black "Chigorin, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 Bg4 3.Bf4 e6 4.c4 Nc6 5.e3 Bd6 6.Bg3 Nge7 7.Nc3 O-O 8.Bd3 Bf5
+9.c5 Bxg3 10.hxg3 b6 11.g4 Bg6 12.cxb6 axb6 13.Bxg6 Nxg6 14.Rh5 f6 15.Qc2 Nb4
+16.Qb1 c5 17.a3 Nc6 18.Qd3 Nb4 19.Qd1 Nc6 20.Rc1 Re8 21.Kf1 Nf8 22.Qc2 g6
+23.Rh3 Rc8 24.Rd1 Re7 25.dxc5 bxc5 26.Ne4 Nd7 27.Ng3 Nce5 28.Nh2 Qb6 29.e4 d4
+30.f4 Qb5+ 31.Kg1 Nc4 32.Ngf1 Rb8 33.a4 Qb4 34.b3 Na5 35.Rdd3 e5 36.f5 c4
+37.bxc4 Nc5 38.Rdf3 g5 39.Nd2 Nxa4 40.Rb3 Nxb3 41.Rxb3 d3 42.Rxd3 Nc5 43.Rd5 Ra7
+44.Nhf1 Rba8 45.Qd1 Na4 46.Qf3 Nc3 47.Rd3 Ra3 48.Kh1 Na2 49.Qh3 Nc1 50.Re3 Rxe3
+51.Qxe3 Ra3 52.Qe1 Nd3 53.Qe2 Qb6 54.Ne3 Nf4 55.Nd5 Qb2 56.Nxf4 gxf4 57.c5 Qc3
+58.Nf3 Qxc5 59.Qb2 Rc3 60.Qd2 Rc2 61.Qd8+ Qf8 62.Qd5+ Qf7 63.Qd8+ Qf8 64.Qd5+ Kh8
+65.g5 Rc5 66.Qe6 Kg7 67.Qd7+ Kg8 68.Qe6+ Kg7 69.Qd7+  1/2-1/2

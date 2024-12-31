@@ -1,0 +1,20 @@
+[Event "chess.com SpeedChess Q2KO"]
+[Site "chess.com INT"]
+[Date "2022.11.13"]
+[Round "2.1"]
+[White "Xiong,Jeffery"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2692"]
+[BlackElo "2745"]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Bg5 d5 6.e3 h6 7.Bh4 c5 8.cxd5 exd5
+9.dxc5 Nbd7 10.Rc1 Qa5 11.Bd3 Ne4 12.O-O Bxc3 13.bxc3 Ndxc5 14.Bb1 Be6 15.Nd4 Rac8
+16.c4 dxc4 17.Nxe6 fxe6 18.Be7 Nd2 19.Bxf8 Rxf8 20.Re1 Nd3 21.Bxd3 cxd3 22.Qg4 Nf3+
+23.gxf3 d2 24.Qxe6+ Kh7 25.Qe4+ Kh8 26.Red1 dxc1=Q 27.Rxc1 Qxa2 28.Qxb7 a5
+29.Qe4 a4 30.Rc7 Qa1+ 31.Kg2 a3 32.Ra7 Qb2 33.f4 a2 34.Qe5 Rb8 35.Rxa2 Qxa2
+36.Qxb8+ Kh7 37.Qb7 Kh8 38.Qc8+ Kh7 39.Qf5+ Kh8 40.h4 Qc4 41.h5 Qe2 42.Kg3 Qd1
+43.Qh3 Qg1+ 44.Qg2 Qd1 45.Qf3 Qg1+ 46.Kh3 Qf1+ 47.Kh2 Qe1 48.f5 Qc3 49.f6 gxf6
+50.Qa8+ Kg7 51.Qg2+ Kh8 52.Qg6 Qe5+ 53.Kg2 Qd5+ 54.e4 Qg5+ 55.Qxg5 fxg5 56.f4 Kg7
+57.fxg5  1-0

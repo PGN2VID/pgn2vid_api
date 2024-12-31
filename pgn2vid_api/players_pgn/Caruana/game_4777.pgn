@@ -1,0 +1,27 @@
+[Event "FIDE Candidates 2024"]
+[Site "Toronto CAN"]
+[Date "2024.04.21"]
+[Round "14.2"]
+[White "Caruana,F"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2803"]
+[BlackElo "2758"]
+[ECO "D35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Bb4 6.e3 h6 7.Bh4 g5 8.Bg3 Ne4
+9.Qc2 h5 10.f3 Nxg3 11.hxg3 Be6 12.Bd3 c6 13.O-O-O Nd7 14.f4 Bg4 15.Nf3 Qe7
+16.e4 Bxc3 17.Qxc3 Bxf3 18.gxf3 dxe4 19.Bxe4 gxf4 20.g4 O-O-O 21.d5 h4 22.dxc6 Nc5
+23.Bf5+ Kb8 24.Kb1 b6 25.Rd7 Rxd7 26.cxd7 Rd8 27.Qd4 Nxd7 28.Rd1 Qc5 29.Qxf4+ Qc7
+30.Qd2 h3 31.Be4 a5 32.Qd5 Ka7 33.Qxf7 h2 34.Qh7 Kb8 35.a3 Qe5 36.Qh6 Qc7
+37.g5 Rg8 38.Rh1 Nc5 39.Bh7 Rxg5 40.Qxg5 Qxh7+ 41.Ka1 Qc2 42.Qg8+ Ka7 43.Ka2 a4
+44.f4 Nb3 45.Qg7+ Ka6 46.Qc3 Qg2 47.Qc4+ Kb7 48.Re1 Nc5 49.Qf1 Qd5+ 50.Kb1 Qf5+
+51.Ka1 Qc2 52.f5 Nd3 53.Rb1 Nc5 54.f6 Nb3+ 55.Ka2 Nd2 56.Qh1+ Ka7 57.Rc1 Qb3+
+58.Ka1 Qe6 59.Rc7+ Ka6 60.f7 Nb3+ 61.Kb1 Qf5+ 62.Ka2 Nc5 63.Qa8+ Kb5 64.Qc6+ Ka6
+65.Qa8+ Kb5 66.Qc6+ Ka6 67.Re7 Qf1 68.Qa8+ Kb5 69.Qe8+ Ka6 70.Qa8+ Kb5 71.Qe8+ Ka6
+72.Re4 Nxe4 73.Qxa4+ Kb7 74.Qxe4+ Ka7 75.Qa4+ Kb7 76.Qd7+ Ka6 77.Qc8+ Ka7
+78.f8=Q Qxf8 79.Qxf8 h1=Q 80.a4 Qd5+ 81.Ka3 Qd3+ 82.b3 Qd4 83.Qf7+ Kb8 84.Qe8+ Ka7
+85.Qe7+ Kb8 86.Qe1 Qd6+ 87.Qb4 Qf6 88.Qd2 Qe7+ 89.b4 Qe6 90.Qd3 Ka7 91.Qc3 Kb8
+92.Qb3 Qf6 93.Qe3 Qd6 94.Kb3 Qd5+ 95.Kb2 Qd6 96.Qe8+ Ka7 97.Qf7+ Kb8 98.Kc3 Qe5+
+99.Kd3 Qd6+ 100.Kc4 Qc6+ 101.Kb3 Qd6 102.Qf3 Qd4 103.Qe2 Qd5+ 104.Ka3 Qd6
+105.Qb5 Qd4 106.Kb3 Ka7 107.Qe2 Qd5+ 108.Ka3 Qd4 109.Kb3  1/2-1/2

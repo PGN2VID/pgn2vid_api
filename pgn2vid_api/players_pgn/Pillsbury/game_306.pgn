@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Reggio, Arturo"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C12"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bh4 g5 7.Bg3 Ne4 8.Ne2 c5 9.a3 Ba5
+10.b4 Nxc3 11.Nxc3 cxb4 12.Nb5 bxa3+ 13.c3 Bc7 14.h4 a6 15.Rxa3 Bd7 16.Nxc7+ Qxc7
+17.hxg5 Nc6 18.gxh6 Na5 19.Qc1 Bb5 20.Bh4 Bxf1 21.Kxf1 Nb3 22.Qg5 Qc4+ 23.Kg1 Kd7
+24.Qe7+ Kc6 25.Rh3 Rh7 26.Qd6+ Kb5 27.Qd7+ Kb6 28.Ra4 Qc6 29.Rb4+ Ka7 30.Qxc6 bxc6
+31.Rxb3 Rxh6 32.Be7 Rxh3 33.Bc5+  1-0

@@ -1,0 +1,18 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "1"]
+[White "Maroczy, Geza"]
+[Black "Taubenhaus, Jean"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 d6 7.Bxc6+ bxc6 8.d4 exd4
+9.Nxd4 Bd7 10.c4 O-O 11.Nd2 Re8 12.b3 Bf8 13.Bb2 c5 14.N4f3 Nh5 15.Qc2 Nf4
+16.Qc3 f6 17.Kh1 Qe7 18.Re3 Qf7 19.Ng1 Bc6 20.Rae1 f5 21.f3 Qg6 22.g3 Ne6
+23.Qd3 f4 24.gxf4 Nxf4 25.Qf1 Qh6 26.Qf2 Be7 27.Nf1 Bh4 28.Ng3 Re6 29.R1e2 Bxg3
+30.Qxg3 Rg6 31.Qe1 Nxe2 32.Rxe2 Rf8 33.Rg2 Rxg2 34.Kxg2 Qg5+ 35.Kh1 Rf7 36.Bc3 Qf4
+37.Bd2 Qe5 38.Bc3 Qh5 39.Qg3 Kf8 40.Kg2 Qh6 41.Qe1 g5 42.h3 Qg6 43.Kh2 h5
+44.Qg3 g4 45.b4 cxb4 46.Bxb4 Qe6  0-1

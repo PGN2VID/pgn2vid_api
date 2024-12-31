@@ -1,0 +1,23 @@
+[Event "Chess.com RCC Wk21 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.07.16"]
+[Round "5"]
+[White "Andreikin,D"]
+[Black "Sarana,A"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2668"]
+[ECO "D02"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 c6 7.O-O Nbd7 8.Nc3 O-O
+9.Bf4 dxc4 10.e4 b5 11.d5 cxd5 12.exd5 Nxd5 13.Nxd5 exd5 14.Qxd5 Nb6 15.Qxb5 Bb7
+16.Rad1 Qc8 17.Qh5 Bf6 18.Ng5 Bxg5 19.Qxg5 Bxg2 20.Kxg2 Qc6+ 21.Kg1 Rfe8
+22.Rd6 Qe4 23.h4 Rac8 24.Rfd1 c3 25.bxc3 Nc4 26.R6d4 Qe2 27.Qf5 h6 28.Rd7 Rf8
+29.R1d4 Rce8 30.Rxa7 Qe1+ 31.Kg2 Qxc3 32.Qd3 Qxd3 33.Rxd3 Re2 34.Rc3 Nb6
+35.Rf3 Nd5 36.Bd6 Rd8 37.Bc5 Rc8 38.Ra5 Nf6 39.Bd4 Ne4 40.Ra7 f6 41.Re3 Rxe3
+42.Bxe3 Rc2 43.a4 Ra2 44.a5 Nd6 45.a6 Kh7 46.Ra8 Nc4 47.Bd4 Ne5 48.a7 Nc6
+49.Be3 h5 50.Rc8 Nxa7 51.Ra8 Ra4 52.Rxa7 Rc4 53.Ra5 Kg6 54.Rc5 Rb4 55.Kf3 Ra4
+56.Rc7 Rb4 57.Bc5 Rb8 58.Ke4 Re8+ 59.Kd5 Rd8+ 60.Bd6 Re8 61.Re7 Rd8 62.Ke6 Rc8
+63.f4 Rc3 64.f5+ Kh7 65.Kf7 Rc8 66.Re8 Rc6 67.Be7 Rc7 68.Rd8 Rb7 69.Rd5 Ra7
+70.Ke8 Rb7 71.Rd7 Rb8+ 72.Bd8 Rb3 73.Bxf6 Rxg3 74.Rxg7+ Rxg7 75.Bxg7 Kxg7
+76.Ke7  1-0

@@ -1,0 +1,25 @@
+[Event "Chess.com Bullet Open 2"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "5"]
+[White "Paravyan,D"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteElo "2647"]
+[BlackElo "2749"]
+[ECO "B10"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.d3 e6 6.Be2 Nd7 7.O-O Ngf6 8.Ng3 Bg6
+9.Nh4 Bd6 10.a4 O-O 11.a5 Re8 12.Nxg6 hxg6 13.a6 b5 14.Bf3 Qc7 15.d4 Rad8
+16.c3 c5 17.Qe2 cxd4 18.cxd4 Qb8 19.Bg5 e5 20.Bc6 exd4 21.Qd2 Re6 22.Rfe1 Ne5
+23.Bb7 Nc4 24.Qd3 Rde8 25.Rxe6 Rxe6 26.b3 Ne5 27.Qxd4 Qf8 28.h3 Bc5 29.Qc3 Qd6
+30.Bc8 Bd4 31.Qc1 Bxf2+ 32.Kh1 Nd3 33.Qd2 Bxg3 34.Bxe6 Ne4 35.Bxf7+ Kxf7
+36.Qe3 Ndf2+ 37.Kg1 Kg8 38.Qxa7 Bh2+ 39.Kf1 Qd3+ 40.Ke1 Qc3+ 41.Ke2 Qb2+
+42.Kf3 Qxa1 43.Qe3 Qxa6 44.g4 Qc6 45.Ke2 Qc2+ 46.Kf3 Qd1+ 47.Qe2 Qxe2+ 48.Kxe2 Be5
+49.Be3 Nxh3 50.Kf3 Nhg5+ 51.Ke2 Kf7 52.Kd3 Ke6 53.Bc1 Kd5 54.Ke3 Ne6 55.Ke2 Bd4
+56.Kd3 N6c5+ 57.Kc2 Nxb3 58.Kb1 Nec5 59.g5 Kc4 60.Kc2 Ne4 61.Kb1 Nbc5 62.Ka2 Nd3
+63.Kb1 b4 64.Ka2 b3+ 65.Kb1 Nc3+ 66.Ka1 Nxc1 67.Kb2 Nd3+ 68.Ka3 Nb5+ 69.Ka4 Nb2+
+70.Ka5 Na4 71.Ka6 b2 72.Kb7 b1=Q 73.Kc6 Qe4+ 74.Kd7 Qd5+ 75.Ke8 Qxg5 76.Kf8 Qf6+
+77.Kg8 g5 78.Kh7 g4 79.Kg8 Kc3 80.Kh7 Kb3 81.Kg8 Nb2 82.Kh7 Nc3 83.Kg8 Ne2
+84.Kh7 Nd3 85.Kg8 g3 86.Kh7 Kc3 87.Kg8 Kd2 88.Kh7 Kd1 89.Kg8 Ke1 90.Kh7 Ndc1
+91.Kg8 g2 92.Kh7 Kd1 93.Kg8 Kc2  0-1

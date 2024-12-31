@@ -1,0 +1,22 @@
+[Event "chess.com QF Blitz 1m+1spm 2016"]
+[Site "chess.com INT"]
+[Date "2016.04.06"]
+[Round "20"]
+[White "Aronian,L"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteElo "2784"]
+[BlackElo "2752"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.Bb5 Bg7 5.O-O d6 6.Re1 Bd7 7.Bxc6 Bxc6 8.d4 cxd4
+9.Nxd4 Nf6 10.Bg5 h6 11.Bh4 O-O 12.Qd2 Rc8 13.Rad1 Re8 14.Bxf6 Bxf6 15.Qxh6 Qa5
+16.Nb3 Qg5 17.Qxg5 Bxg5 18.Rd3 Bf6 19.Na5 Rb8 20.Nd1 Bb5 21.Rd2 b6 22.Nb3 Rec8
+23.c3 a5 24.Ne3 Kf8 25.Nd5 Bg7 26.Nd4 Be8 27.a3 b5 28.Nc2 Rc4 29.f3 Rc6 30.Rf2 Rc5
+31.Rd1 Bd7 32.Nf4 Rbc8 33.Nd3 R5c7 34.Ne3 Be6 35.Nf4 Bb3 36.Re1 Rb7 37.Nd3 Be6
+38.h3 Bb3 39.f4 Bc4 40.Nc1 Be6 41.f5 gxf5 42.exf5 Bc4 43.Ne2 b4 44.axb4 axb4
+45.Nxc4 Rxc4 46.Rf3 bxc3 47.bxc3 Rb5 48.Nd4 Rbc5 49.Ne2 Bxc3 50.Nxc3 Rxc3
+51.Rxc3 Rxc3 52.Kf2 Ra3 53.h4 Ra4 54.g3 Rb4 55.Kf3 Rb7 56.g4 Rb3+ 57.Kf4 Rb4+
+58.Re4 Rb1 59.g5 Rf1+ 60.Kg4 f6 61.g6 e5 62.Ra4 d5 63.Ra8+ Ke7 64.Ra7+ Kd6
+65.g7 Rg1+ 66.Kh5 e4 67.Rf7 Ke5 68.Kh6 Kxf5 69.Kh7 e3 70.Re7 d4 71.g8=Q Rxg8
+72.Kxg8 Kg4 73.h5 Kxh5 74.Re4 f5 75.Rxd4 e2 76.Rd5 e1=Q 77.Rxf5+ Kg6  0-1

@@ -1,0 +1,20 @@
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.07.24"]
+[Round "20"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2767"]
+[BlackElo "2822"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.Qd2 b6
+9.Bb5 Bb7 10.O-O a6 11.Bxc6 Bxc6 12.Nd1 Qc7 13.Nf2 O-O-O 14.a4 Kb8 15.b3 Bb7
+16.Nd3 c4 17.Nf2 f5 18.exf6 gxf6 19.Qe2 Bd6 20.Rae1 Rde8 21.g3 Rhg8 22.Nh4 Bxf4
+23.Bxf4 Qxf4 24.Nf3 Qc7 25.Qd2 Rxg3+ 26.hxg3 Qxg3+ 27.Kh1 Qxf3+ 28.Kh2 Rg8
+29.Rg1 Rxg1 30.Rxg1 e5 31.Rg7 Bc6 32.Nh3 cxb3 33.cxb3 Qxb3 34.a5 b5 35.Rxh7 Qc4
+36.dxe5 fxe5 37.Qh6 Qc2+ 38.Kg3 Qd3+ 39.Kh4 Qe4+ 40.Kg3 Qd3+ 41.Kh4 Kc7 42.Ng5 Qd4+
+43.Kh5 Qd1+ 44.Kg6 d4 45.Ne6+ Kd6 46.Kf7 Kd5 47.Nc7+ Kc5 48.Ke7 Qf3 49.Nxa6+ Kc4
+50.Kd8 Qd5 51.Kc7 Ba8 52.Rxd7 Qb7+ 53.Kd8 Qf3 54.Nc7 d3 55.Nxa8 Qxa8+ 56.Ke7 Qe4
+57.a6 b4 58.a7 b3 59.Qa6+ Kc3 60.a8=Q  1-0

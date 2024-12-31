@@ -1,0 +1,16 @@
+[Event "AI Cup Div 3 L"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "4.3"]
+[White "Tomashevsky,E"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2694"]
+[BlackElo "2745"]
+[ECO "A14"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 c5 7.Bb2 d4 8.b4 Re8 9.d3 a5
+10.b5 Bd6 11.e4 e5 12.Bc1 Nbd7 13.Nh4 g6 14.a4 Nf8 15.Ra2 Be7 16.Nd2 Bg4
+17.Qe1 Nh5 18.Bf3 Bxf3 19.Ndxf3 Ne6 20.Ng2 Bf6 21.Kh1 Qd7 22.Ng1 Bg7 23.Qd1 Rf8
+24.f4 exf4 25.gxf4 f5 26.exf5 Rxf5 27.Nh4 Rxf4 28.Bxf4 Nexf4 29.Ng2 Nxg2
+30.Rxg2 Bh6  1-0

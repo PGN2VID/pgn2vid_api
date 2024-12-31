@@ -1,0 +1,13 @@
+[Event "Levitov Ivanchuk-Gelfand"]
+[Site "lichess.org INT"]
+[Date "2021.03.10"]
+[Round "8"]
+[White "Ivanchuk,V"]
+[Black "Gelfand,B"]
+[Result "0-1"]
+[WhiteElo "2678"]
+[BlackElo "2676"]
+[ECO "A00"]
+
+1.b4 e5 2.Bb2 Bxb4 3.Bxe5 Nf6 4.e3 O-O 5.Nf3 Nc6 6.Bb2 d5 7.c4 Re8 8.cxd5 Nxd5
+9.Be2 Bg4 10.O-O Qe7 11.Qb3 Nf4 12.Bd1 Nxg2 13.Kxg2 Qe4 14.Nc3 Bxc3 15.Bxc3 Re6  0-1

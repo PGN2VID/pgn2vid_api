@@ -1,0 +1,21 @@
+[Event "Chess.com RCC Wk21 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.07.16"]
+[Round "8"]
+[White "Grischuk,A"]
+[Black "Xiong,Jeffery"]
+[Result "1-0"]
+[WhiteElo "2745"]
+[BlackElo "2691"]
+[ECO "D35"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6 6.e3 Bd6 7.Bd3 O-O 8.Qc2 h6
+9.Bh4 Re8 10.Nf3 Be6 11.Qb3 b5 12.O-O Nbd7 13.Rfc1 a5 14.Qd1 Rc8 15.Rc2 a4
+16.Rac1 Nb6 17.Ne2 Nc4 18.b3 axb3 19.axb3 Na5 20.Ra2 g5 21.Bg3 Bb4 22.Ne5 Ne4
+23.Bc2 c5 24.dxc5 Nc6 25.Nxc6 Rxc6 26.Bxe4 dxe4 27.Nd4 Rxc5 28.Rxc5 Bxc5
+29.h3 Bxd4 30.exd4 Qd5 31.Ra5 Bd7 32.Ra6 Bc6 33.Qc2 e3 34.Qxc6 Qxc6 35.Rxc6 e2
+36.f3 e1=Q+ 37.Bxe1 Rxe1+ 38.Kf2 Rb1 39.Rc3 Rb2+ 40.Kg3 Rd2 41.Rc5 Rxd4 42.Rxb5 Rd2
+43.h4 gxh4+ 44.Kh3 Rb2 45.Rb4 Kg7 46.Rg4+ Kh7 47.b4 h5 48.Rxh4 Kg6 49.Rf4 f6
+50.g4 hxg4+ 51.Kxg4 Kf7 52.Re4 Rb1 53.Kf5 Rh1 54.Rc4 Rh5+ 55.Ke4 Ke6 56.Rc6+ Ke7
+57.f4 Rh1 58.Rc4 Ke6 59.Rc6+ Ke7 60.b5 Rb1 61.b6 Rb5 62.Kd4 Rf5 63.Kc4 Rxf4+
+64.Kb5 Rf1 65.b7 Rb1+ 66.Ka6 Ra1+ 67.Kb6  1-0

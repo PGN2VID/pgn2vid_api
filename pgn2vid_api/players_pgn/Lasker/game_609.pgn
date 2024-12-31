@@ -1,0 +1,16 @@
+[Event "Riga sim"]
+[Site "Riga"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Wilde"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.Be2 d5 4.exd5 exd5 5.O-O Nf6 6.Re1 Be7 7.d4 O-O 8.dxc5 Bxc5
+9.Bg5 Bxf2+ 10.Kxf2 Ne4+ 11.Kg1 Nxg5 12.Nxg5 Qxg5 13.Bf3 Be6 14.c4 Na6 15.cxd5 Rad8
+16.Nc3 Nb4 17.h4 Qf5 18.Be4 Qf4 19.Qd4 Qd6 20.Rad1 Bd7 21.Qxa7 Ra8 22.Qd4 Nxa2
+23.Bb1 Nxc3 24.bxc3 Ra4 25.c4 b5 26.Qd3 g6 27.cxb5 Rxh4 28.g3 Bxb5 29.Qe3 Rg4
+30.Kg2 Re8 31.Qf3 Re2+ 32.Kh1 Rh4+ 33.Kg1 Qc5+  0-1

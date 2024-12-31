@@ -1,0 +1,23 @@
+[Event "Titled Arena Mar 6th 2021"]
+[Site "lichess.org INT"]
+[Date "2021.03.06"]
+[Round "?"]
+[White "Ohanyan,Emin"]
+[Black "Praggnanandhaa,R"]
+[Result "0-1"]
+[WhiteElo "2255"]
+[BlackElo "2608"]
+[ECO "B15"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 g6 5.h4 Nf6 6.Nxf6+ exf6 7.h5 Be6 8.hxg6 fxg6
+9.Nf3 Bg7 10.Be3 Nd7 11.Qd2 Qe7 12.O-O-O O-O-O 13.Kb1 Nb6 14.Qa5 Kb8 15.b3 Rd5
+16.Qe1 Ka8 17.c4 Rd7 18.Bd3 Rhd8 19.Bc2 Bxc4 20.bxc4 Nxc4 21.Qc3 Na3+ 22.Kb2 Nb5
+23.Qc5 Qe8 24.Rxh7 f5 25.Kb1 Bf8 26.Rxd7 Bxc5 27.Rxd8+ Qxd8 28.dxc5 Nc3+
+29.Kc1 Nxd1 30.Bxd1 Qa5 31.Bb3 Qc3+ 32.Kd1 Qd3+ 33.Ke1 a5 34.Nd2 Qc3 35.Ke2 Qb4
+36.g3 a4 37.Bc4 a3 38.Bf4 Qc3 39.Be3 Qf6 40.f4 Qe7 41.Bb3 Qd8 42.Nf3 Qa5
+43.Ne5 Qc3 44.Nxg6 b5 45.Ne5 Kb7 46.Kf3 b4 47.g4 fxg4+ 48.Nxg4 Qd3 49.Ne5 Qf1+
+50.Ke4 Kc7 51.f5 Kd8 52.Bf4 Ke7 53.Nxc6+ Kd7 54.Ne5+ Ke8 55.Ba4+ Ke7 56.Bg5+ Kf8
+57.Bh6+ Kg8 58.Bb3+ Kh7 59.Be3 Qg2+ 60.Kd4 Qb2+ 61.Kd5 Kg7 62.Bd4 Qg2+ 63.Kd6 Kf8
+64.c6 Qd2 65.Nf3 Qf4+ 66.Be5 Qxf3 67.c7 Qb7 68.Kd7 Qb5+ 69.Ke6 Qe8+ 70.Kd5 Qd7+
+71.Bd6+ Kg7 72.Kc5 Qxf5+ 73.Kb6 Qd7 74.Kb7 Qb5+ 75.Kc8 Kf6 76.Kd8 Qb6 77.Kd7 Qb7
+78.Kd8 Qc6 79.Be7+ Kg7 80.c8=Q Qd5+ 81.Qd7 Qa8+ 82.Qc8 Qa5+ 83.Qc7 Qa8+ 84.Kd7 Qc6+  0-1

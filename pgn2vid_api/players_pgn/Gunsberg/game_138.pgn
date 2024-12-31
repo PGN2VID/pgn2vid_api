@@ -1,0 +1,22 @@
+[Event "Havana m"]
+[Site "Havana"]
+[Date "1890.??.??"]
+[Round "5"]
+[White "Chigorin, Mikhail"]
+[Black "Gunsberg, Isidor"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4 exd4 8.cxd4 Bb6
+9.Nc3 Bg4 10.Bb5 Kf8 11.Be3 Nge7 12.a4 Na5 13.d5 Bxe3 14.fxe3 Ng6 15.Kh1 h6
+16.Ne2 c5 17.Nf4 Nxf4 18.exf4 c4 19.Rc1 Rc8 20.Qe2 Bxf3 21.Rxf3 a6 22.e5 axb5
+23.e6 Rc7 24.axb5 f6 25.b6 Re7 26.Ra3 Nb3 27.Rxc4 Nc5 28.Qa2 Qxb6 29.h3 g6
+30.Qc2 Kg7 31.Rg3 g5 32.fxg5 hxg5 33.Kh2 Qa5 34.Qf5 Qa1 35.Rcc3 Rh5 36.Rgf3 Rh6
+37.Rxc5 dxc5 38.d6 Qe5+ 39.Qxe5 fxe5 40.dxe7 Rxe6 41.Rf8 Rxe7 42.Rc8 e4 43.Kg1 b6
+44.Rc6 Rb7 45.Kf2 Rf7+ 46.Ke3 Rf6 47.Rc7+ Rf7 48.Rc6 Rf6 49.Rc7+ Kg6 50.Kxe4 Re6+
+51.Kd3 Kf5 52.Rf7+ Rf6 53.Re7 Rd6+ 54.Kc3 Re6 55.Rf7+ Rf6 56.Rd7 Kf4 57.Rd3 b5
+58.Rf3+ Ke5 59.Re3+ Kd5 60.Rg3 Rf5 61.Rg4 Re5 62.Kb3 Kc6 63.Rg3 Kb6 64.Rf3 Ka5
+65.g4 c4+ 66.Kc3 Rd5 67.Kc2 Kb4 68.Re3 Rd3 69.Rxd3 cxd3+ 70.Kxd3 Ka3 71.h4 b4
+72.h5 b3 73.Ke4 b2 74.Kf5 b1=Q+ 75.Kxg5 Qh7 76.Kh4 Kb4 77.g5 Qe4+ 78.Kg3 Qf5  0-1

@@ -1,0 +1,25 @@
+[Event "chess.com Speed 5m+1spm 2018"]
+[Site "chess.com INT"]
+[Date "2018.09.20"]
+[Round "2.6"]
+[White "Aronian,L"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteElo "2767"]
+[BlackElo "2782"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Bd3 Nf6 6.O-O Be7 7.c3 O-O 8.Bc2 Re8
+9.h3 d5 10.Re1 Bd6 11.d4 Nbd7 12.Nbd2 Rxe1+ 13.Qxe1 b6 14.Nf1 Bb7 15.Ng3 Bxg3
+16.fxg3 Qf8 17.Bf4 Re8 18.Qf1 c5 19.Ba4 a6 20.Rd1 b5 21.Bc2 c4 22.Bf5 Bc8
+23.Bc7 Ne4 24.Bxe4 dxe4 25.Ne5 Nf6 26.Re1 Qe7 27.Ba5 Qe6 28.g4 h6 29.Bb4 Bb7
+30.Bc5 Nd5 31.Qf5 f6 32.Ng6 e3 33.Re2 Bc8 34.Qh5 Qf7 35.Bd6 Kh7 36.Nf4 Qxh5
+37.gxh5 Bb7 38.Nxd5 Bxd5 39.Bf4 Re4 40.Bxe3 f5 41.g3 Bf7 42.Kf2 Bxh5 43.Rd2 Be8
+44.d5 Bd7 45.b3 g5 46.Bd4 f4 47.bxc4 fxg3+ 48.Kxg3 bxc4 49.Rb2 Bb5 50.a4 Bxa4
+51.d6 Re6 52.Rb7+ Kg6 53.d7 Bxd7 54.Rxd7 h5 55.Rg7+ Kf5 56.Rf7+ Ke4 57.Rg7 g4
+58.hxg4 hxg4 59.Rxg4+ Kd3 60.Rg5 Rd6 61.Bg7 Rd7 62.Bf6 Rd6 63.Be5 Rd5 64.Kf4 a5
+65.Rg3+ Kc2 66.Ke4 Rd3 67.Rg2+ Kb3 68.Rg8 a4 69.Rb8+ Kc2 70.Rb4 a3 71.Rxc4 Rd1
+72.Ra4 Kb3 73.Rb4+ Kc2 74.c4 Re1+ 75.Kd5 a2 76.Ra4 Kb3 77.Ra5 Rd1+ 78.Kc5 Rc1
+79.Rb5+ Kc2 80.Rb2+ Kd3 81.Rb3+ Ke4 82.Bf6 Kf5 83.Bd4 a1=Q 84.Bxa1 Rxa1 85.Kc6 Ra6+
+86.Rb6 Ra1 87.c5 Ke6 88.Kc7+ Ke7 89.c6 Rc1 90.Rb3 Rh1 91.Re3+ Kf7 92.Rf3+ Ke7
+93.Re3+ Kf7 94.Kd7 Rd1+ 95.Kc8  1-0

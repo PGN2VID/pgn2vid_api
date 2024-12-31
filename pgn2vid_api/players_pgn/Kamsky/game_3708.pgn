@@ -1,0 +1,26 @@
+[Event "Chess.com Rapid Wk7 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.03.26"]
+[Round "3"]
+[White "Kamsky,G"]
+[Black "Niemann,Hans Moke"]
+[Result "1-0"]
+[WhiteElo "2658"]
+[BlackElo "2642"]
+[ECO "D02"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.Nbd2 Nh5 6.dxc5 Nxf4 7.exf4 g6 8.c3 Bh6
+9.g3 O-O 10.Bg2 b6 11.O-O bxc5 12.c4 e6 13.Rc1 Ba6 14.Re1 Bg7 15.cxd5 exd5
+16.Nb3 Qb6 17.Nxc5 Rfd8 18.Ne5 Nxe5 19.fxe5 Bc4 20.Na4 Qb4 21.b3 Bb5 22.Nc3 Bc6
+23.Nxd5 Bxd5 24.Bxd5 Qa5 25.Bxa8 Rxd1 26.Rcxd1 Bxe5 27.b4 Qc7 28.Bd5 Kg7
+29.Bb3 h5 30.Rd5 Bd6 31.Red1 Bxb4 32.Rd7 Qc3 33.Rxf7+ Kh6 34.h4 Bc5 35.Kg2 Bd4
+36.Bd5 Qc5 37.Be4 Qc4 38.Rd7 Bc5 39.Bb1 Qe2 40.R7d2 Qe6 41.Rd5 Qc6 42.Be4 Qa4
+43.Kf3 Qxa2 44.R1d2 Qb3+ 45.Kg2 Qc4 46.f3 Qc1 47.Rd1 Qe3 48.Rg5 Kg7 49.Rxg6+ Kf7
+50.Rb1 Bb6 51.Rg5 a5 52.Rxh5 a4 53.Rh7+ Kg8 54.Rb7 Bc5 55.Rd7 Bb6 56.Rd6 Bc7
+57.Rc6 Qd2+ 58.Kh3 Qd7+ 59.g4 a3 60.Rb7 a2 61.Ra7 Qd1 62.Rcxc7 Qh1+ 63.Kg3 Qg1+
+64.Kf4 Qh2+ 65.Kf5 Qxc7 66.Rxc7 a1=Q 67.Rb7 Qa5+ 68.Kg6 Qa6+ 69.Kh5 Qf6 70.g5 Qf4
+71.Bd5+ Kh8 72.Be4 Kg8 73.Rd7 Qe5 74.Bg6 Qf4 75.Rf7 Qd4 76.Rf6 Kg7 77.Be4 Qd8
+78.Rg6+ Kf7 79.Rh6 Kg7 80.Rh7+ Kg8 81.Rb7 Qd6 82.Ra7 Qf4 83.Ra6 Kg7 84.Rg6+ Kh8
+85.Rf6 Qe5 86.Kg6 Qe8+ 87.Kh6 Qe7 88.Ra6 Qf8+ 89.Kh5 Qf4 90.Rf6 Qe5 91.Rf7 Kg8
+92.Kg6 Qe6+ 93.Rf6 Qe8+ 94.Kh6 Qd7 95.g6 Qg7+ 96.Kg5 Qe7 97.h5 Qe5+ 98.Rf5 Qe7+
+99.Kg4 Qd6 100.h6 Qh2 101.Bd5+ Kh8 102.Rf8+  1-0

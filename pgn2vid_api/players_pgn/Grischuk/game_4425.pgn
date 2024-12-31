@@ -1,0 +1,20 @@
+[Event "chess.com SpeedChess Q2Sw"]
+[Site "chess.com INT"]
+[Date "2022.11.12"]
+[Round "6"]
+[White "Grischuk,A"]
+[Black "Demidov,M"]
+[Result "1-0"]
+[WhiteElo "2745"]
+[BlackElo "2568"]
+[ECO "A04"]
+
+1.Nf3 g6 2.e4 Bg7 3.d4 c6 4.Bd3 d5 5.e5 Bg4 6.Nbd2 c5 7.c3 cxd4 8.cxd4 Nc6
+9.h3 Bc8 10.O-O Nh6 11.Nb3 Qb6 12.Re1 O-O 13.Bd2 Nf5 14.Bc3 Nh6 15.Rc1 Bf5
+16.Bf1 Rad8 17.Nc5 f6 18.e6 Be4 19.Nxe4 dxe4 20.Rxe4 Rd6 21.Qb3 Qxb3 22.axb3 f5
+23.Rh4 f4 24.Bc4 Nf5 25.Rxf4 Bh6 26.Rxf5 Rxf5 27.Ra1 Bg7 28.d5 Rfxd5 29.Bxd5 Rxd5
+30.Kf1 a6 31.Re1 h6 32.Re4 Rd6 33.Ke2 Kh7 34.h4 Kg8 35.g4 Rd5 36.b4 Kh7 37.Ne1 Kg8
+38.Nd3 a5 39.bxa5 Bxc3 40.bxc3 Rxa5 41.Nb4 Rc5 42.Nxc6 Rxc6 43.Kd3 Kg7 44.g5 hxg5
+45.hxg5 Rc5 46.f4 Rc6 47.c4 Rd6+ 48.Kc3 Ra6 49.Kb4 Rb6+ 50.Kc5 Rc6+ 51.Kb5 Kf8
+52.c5 Kg7 53.Rd4 Kf8 54.Rd7 Rxe6 55.Rxb7 Re1 56.c6 Rb1+ 57.Kc5 Rc1+ 58.Kb6 Rb1+
+59.Kc7 Rf1 60.Kb8 Rxf4 61.c7  1-0

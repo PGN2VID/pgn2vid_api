@@ -1,0 +1,24 @@
+[Event "chess.com SpeedChess Q1Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.21"]
+[Round "2"]
+[White "Bartel,Mat"]
+[Black "Andreikin,D"]
+[Result "0-1"]
+[WhiteElo "2625"]
+[BlackElo "2729"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Bf4 d6 7.Nxc6 bxc6 8.Bd3 e5
+9.Bc1 Nf6 10.O-O Be7 11.f4 O-O 12.Kh1 Rb8 13.b3 exf4 14.Bxf4 Ng4 15.Qd2 Bf6
+16.Rad1 a5 17.Be2 Be5 18.Bxe5 Nxe5 19.Qxd6 Qxd6 20.Rxd6 Be6 21.Rfd1 Rfc8
+22.Na4 Kf8 23.c4 Ke7 24.Kg1 Rb4 25.Nc5 a4 26.Nxa4 Rxa4 27.bxa4 Ra8 28.R6d2 Rxa4
+29.Rc1 c5 30.Kf2 Ra3 31.h3 g5 32.Rb2 Kf6 33.Rcc2 Nc6 34.Rb3 Ra4 35.Rbc3 Ke5
+36.Ke3 Nb4 37.Rb2 Nxa2 38.Rd3 Nc1 39.Rd8 Ra3+ 40.Kf2 Kxe4 41.Bf1 Na2 42.Re2+ Kf5
+43.Re3 Ra4 44.Bd3+ Kf6 45.Rd6 h6 46.Rb6 Nc3 47.Bf1 Nd1+ 48.Kf3 Nxe3 49.Kxe3 Ke5
+50.Rc6 Ra5 51.g4 f5 52.gxf5 Bxf5 53.Rxh6 Ra3+ 54.Kf2 Kf4 55.Rc6 Ra2+ 56.Kg1 Ra1
+57.Kf2 Ra2+ 58.Kg1 Ra5 59.Kf2 Be4 60.Rf6+ Ke5 61.Rf8 Ra2+ 62.Ke3 Ra3+ 63.Kf2 Bf5
+64.Re8+ Kf4 65.Rf8 Rf3+ 66.Kg1 Kg3 67.Rg8 g4 68.hxg4 Be4 69.Rh8 Rf4 70.Rh3+ Kxg4
+71.Rh8 Kf3 72.Rh3+ Kg4 73.Rh8 Bf5 74.Bh3+ Kf3 75.Bg2+ Ke3 76.Rd8 Rxc4 77.Rd5 Bd3
+78.Re5+ Kd4 79.Rd5+ Ke3 80.Re5+ Kd2 81.Kf2 Rf4+ 82.Kg3 Rc4 83.Rd5 Rc3 84.Kf4 c4
+85.Be4 Rc1 86.Bh7 Rf1+ 87.Kg3 Ke3 88.Bg8 Rg1+  0-1

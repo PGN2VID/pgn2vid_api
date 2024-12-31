@@ -1,0 +1,27 @@
+[Event "AI Cup Play-In Match 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "1.2"]
+[White "Kozak,Adam"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2566"]
+[BlackElo "2694"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Bxc6 dxc6 6.d3 Bd6 7.Nbd2 Be6 8.h3 Nd7
+9.a4 O-O 10.b3 c5 11.O-O Nb8 12.Bb2 Nc6 13.Nc4 f6 14.Ne3 Qd7 15.Bc3 Nd4 16.Bd2 b5
+17.g4 Rfd8 18.Nxd4 cxd4 19.Nf5 Bxf5 20.gxf5 g6 21.Qf3 gxf5 22.exf5 Rab8 23.axb5 axb5
+24.Ra6 Kh8 25.Kh1 Rg8 26.Bh6 Rbe8 27.Re1 Qc8 28.Ra7 Bc5 29.Ra2 Bf8 30.Bd2 Qd7
+31.Ra5 Bd6 32.Ra7 Qg7 33.Raa1 Qd7 34.Ra5 Rb8 35.Ra6 Qc8 36.Rea1 Qd7 37.Bh6 Rbe8
+38.R6a2 e4 39.dxe4 Qe7 40.Rg1 Qe5 41.Rg2 Rxg2 42.Qxg2 Bf8 43.Bxf8 Rxf8 44.Ra6 Qf4
+45.Qg3 Qxe4+ 46.Kh2 Qe5 47.Qxe5 fxe5 48.f6 Kg8 49.Rc6 Kf7 50.Kg3 Kg6 51.Rxc7 Rxf6
+52.Rc5 e4 53.Rd5 Rf3+ 54.Kg2 Rc3 55.Rxd4 Rxc2 56.Rxe4 Rc3 57.Rb4 Rc5 58.Kg3 Kf5
+59.Rf4+ Kg5 60.f3 Rc3 61.h4+ Kg6 62.Rb4 Rc5 63.Re4 Kf5 64.Rf4+ Kg6 65.Rd4 h5
+66.Kf4 Kf6 67.Rd6+ Ke7 68.Rb6 Kd7 69.Ke4 Kc7 70.Rh6 Rc3 71.Rxh5 Rxb3 72.Rc5+ Kd6
+73.Rc8 Rb1 74.Kf5 b4 75.f4 b3 76.Rb8 b2 77.h5 Ke7 78.h6 Rh1 79.Rxb2 Rxh6
+80.Kg5 Rd6 81.f5 Kf7 82.Rb7+ Kf8 83.Rh7 Kg8 84.Rc7 Kf8 85.Kf4 Ra6 86.Ke5 Rb6
+87.Rc1 Ra6 88.Kf4 Rb6 89.Kg5 Kf7 90.Rh1 Ra6 91.Rh7+ Kf8 92.Rc7 Rb6 93.Rd7 Ra6
+94.Rb7 Rc6 95.Kf4 Ra6 96.Ke5 Rc6 97.Rd7 Ra6 98.Rd1 Kf7 99.Rc1 Rb6 100.Ra1 Rc6
+101.Kd5 Rb6 102.Ra5 Kf6 103.Ke4 Rb4+ 104.Kd5 Kxf5 105.Kc5 Re4 106.Kb5 Re5+
+107.Ka6 Rxa5+ 108.Kxa5  1/2-1/2

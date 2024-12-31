@@ -1,0 +1,15 @@
+[Event "AI Cup Div 1 L"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "2.2"]
+[White "Giri,A"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2760"]
+[BlackElo "2734"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.d4 Nf6 4.Nf3 Bg4 5.Be2 Nc6 6.h3 Bf5 7.O-O e6 8.c4 Qd7
+9.Nc3 O-O-O 10.Be3 g5 11.Bxg5 Be7 12.d5 exd5 13.cxd5 Nb4 14.Qd4 c5 15.Qh4 Nfxd5
+16.Nxd5 Bxg5 17.Nxg5 Nxd5 18.Rac1 Kb8 19.Rxc5 Qe7 20.Qd4 Rhg8 21.Rxd5 Rxd5
+22.Qxd5 Rxg5 23.h4 Rxg2+ 24.Qxg2  1-0

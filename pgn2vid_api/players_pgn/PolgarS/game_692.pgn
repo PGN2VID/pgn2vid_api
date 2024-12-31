@@ -1,0 +1,18 @@
+[Event "KC Human-Machine"]
+[Site "KasparovChess INT"]
+[Date "2000.11.09"]
+[Round "3"]
+[White "Polgar,S"]
+[Black "DEEP FRITZ"]
+[Result "0-1"]
+[WhiteElo "2501"]
+[BlackElo ""]
+[ECO "A22"]
+
+1.c4 e5 2.Nc3 Nf6 3.e3 Bb4 4.Nge2 O-O 5.a3 Bxc3 6.Nxc3 c6 7.d4 d6 8.Be2 Bf5
+9.b3 Nbd7 10.Bb2 Qc7 11.O-O Rfe8 12.b4 Nb6 13.dxe5 dxe5 14.Qb3 Be6 15.Na4 Nbd7
+16.Qc2 Bg4 17.Bxg4 Nxg4 18.h3 Ngf6 19.c5 Red8 20.Rad1 Nf8 21.f4 Rxd1 22.Qxd1 Rd8
+23.Qa1 N6d7 24.Rd1 exf4 25.Bxg7 fxe3 26.Rd6 e2 27.Bh6 Nf6 28.Qe1 Rxd6 29.cxd6 Qxd6
+30.Qxe2 Qd4+ 31.Kh2 Ne6 32.Nc5 Nxc5 33.bxc5 Qxc5 34.g3 Qh5 35.Qxh5 Nxh5 36.g4 Nf6
+37.Kg3 Nd5 38.Kf3 f6 39.Ke4 Kf7 40.Bd2 Ke6 41.h4 c5 42.a4 Nb6 43.a5 Nc4 44.Bc3 b5
+45.a6 b4 46.Be1 Ne5 47.g5 f5+ 48.Ke3 f4+ 49.Ke4 f3 50.h5 b3  0-1

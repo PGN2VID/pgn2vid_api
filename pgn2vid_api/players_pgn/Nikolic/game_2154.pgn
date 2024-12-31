@@ -1,0 +1,25 @@
+[Event "7th LCT 2013"]
+[Site "Leiden NED"]
+[Date "2013.07.18"]
+[Round "6.1"]
+[White "Sengupta,D"]
+[Black "Nikolic,Pr"]
+[Result "1-0"]
+[WhiteElo "2555"]
+[BlackElo "2622"]
+[ECO "C02"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 cxd4 8.cxd4 Ng6
+9.h4 h6 10.h5 Bxa3 11.bxa3 Nge7 12.Rb1 Na5 13.Rh3 Qc7 14.Kf1 O-O-O 15.a4 Kb8
+16.Ba3 Nc8 17.Nd2 Ka8 18.Bb4 f6 19.Rc3 Bc6 20.Qc1 Nc4 21.Nxc4 dxc4 22.Rxc4 Nb6
+23.Ba5 fxe5 24.Bxb6 axb6 25.dxe5 Rhf8 26.Qe3 Rd5 27.Rxb6 Qxe5 28.Qxe5 Rxe5
+29.Rb2 Rg5 30.g4 Rd8 31.Ke1 Rgd5 32.Rbc2 Kb8 33.Rf4 e5 34.Rb4 Ka7 35.Rcb2 Rc5
+36.f3 Rf8 37.Kd2 Rd5+ 38.Ke3 Rd6 39.a5 Rdf6 40.Rb6 R6f7 41.a6 Bxf3 42.axb7 Bxb7
+43.R6b5 Re7 44.Ra5+ Kb8 45.Rbb5 e4 46.Rb4 Kc7 47.Ra7 Kb8 48.Ra3 Rf6 49.Ra6 Kc7
+50.Rc4+ Kd7 51.Ra7 Rb6 52.Rc3 Kd6 53.Rb3 Kc6 54.Rc3+ Kd6 55.a4 Rc7 56.Rxc7 Kxc7
+57.Bc4 Rd6 58.Ra5 g6 59.Rc5+ Kb6 60.Re5 gxh5 61.gxh5 Rf6 62.a5+ Kc7 63.Re7+ Kb8
+64.Be2 Bc8 65.Kxe4 Rf5 66.Re5 Rf6 67.Kd4 Kc7 68.Re7+ Kd6 69.Rg7 Rf4+ 70.Ke3 Ra4
+71.a6 Ke5 72.a7 Ra3+ 73.Kd2 Be6 74.Re7 Kd6 75.Rh7 Ke5 76.Re7 Kd6 77.Rh7 Ke5
+78.Bf3 Bd5 79.Bxd5 Kxd5 80.Kc2 Kc4 81.Kb2 Ra6 82.Rf7 Rb6+ 83.Kc2 Ra6 84.Rc7+ Kb5
+85.Kd3 Ra4 86.Rh7 Kc5 87.Rxh6 Rxa7 88.Ke4 Ra1 89.Re6 Re1+ 90.Kf5 Rf1+ 91.Kg6 Kd5
+92.Ra6 Rg1+ 93.Kf7 Rh1 94.h6 Ke5 95.Kg7 Kf5 96.Rf6+ Ke5 97.Rg6  1-0

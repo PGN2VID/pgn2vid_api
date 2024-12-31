@@ -1,0 +1,21 @@
+[Event "Chess.com Bullet Open 2"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "2"]
+[White "Firouzja,Alireza"]
+[Black "Bazeev,G"]
+[Result "1-0"]
+[WhiteElo "2749"]
+[BlackElo "2398"]
+[ECO "A40"]
+
+1.d4 c6 2.Nf3 d5 3.e3 Nf6 4.b3 g6 5.Bb2 Bg7 6.Nbd2 O-O 7.h3 Bf5 8.g4 Bd7
+9.Bg2 Re8 10.O-O h5 11.Ne5 hxg4 12.hxg4 Qc8 13.f4 Bxg4 14.Qe1 Bf5 15.Qh4 Nbd7
+16.Ndf3 e6 17.Ng5 Nxe5 18.fxe5 Nh5 19.Bf3 Qd8 20.Bxh5 Bh6 21.Bxg6 Qxg5+ 22.Qxg5 Bxg5
+23.Bxf5 Bxe3+ 24.Kg2 exf5 25.Rxf5 Re6 26.Kf3 Bh6 27.Rh1 Rg6 28.Rfh5 Kg7 29.Ba3 Re8
+30.Bb4 Ree6 31.Be1 f6 32.Bg3 fxe5 33.Bxe5+ Kf7 34.Rf5+ Ke7 35.c4 Ke8 36.cxd5 cxd5
+37.Ke2 Bg7 38.Rh7 Bxe5 39.dxe5 Re7 40.Rhh5 Rc6 41.Kd3 Kd7 42.Kd4 Kc7 43.Rf2 Rg6
+44.Kxd5 Rd7+ 45.Ke4 Re7 46.Rhf5 Rge6 47.Kd5 Kd7 48.Re2 Ra6 49.Rd2 Ra5+ 50.Ke4+ Ke8
+51.a4 Ra6 52.Rd5 Rb6 53.Rb5 Rxb5 54.axb5 Kd7 55.Kd5 b6 56.Rf6 Kc7 57.Rd6 Rh7
+58.Rc6+ Kd7 59.Rg6 Rh3 60.Rg7+ Ke8 61.Rxa7 Rxb3 62.Ke6 Kd8 63.Rd7+ Kc8 64.Rd5 Rh3
+65.Kd6 Rh6+ 66.e6 Rh3 67.Rf5 Rh5 68.Rxh5  1-0

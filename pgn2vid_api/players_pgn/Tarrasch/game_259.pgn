@@ -1,0 +1,20 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "3"]
+[White "Tarrasch, Siegbert"]
+[Black "Wolf, Heinrich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Re1 Be7 7.c3 O-O 8.h3 Bd7
+9.d4 Re8 10.Bc2 h6 11.d5 Nb8 12.c4 Nh7 13.Kh2 Bc8 14.Nbd2 Nd7 15.Nf1 Ndf8
+16.Ba4 Nd7 17.Ng3 Rf8 18.Nf5 Nb6 19.Bb3 Bxf5 20.exf5 Bf6 21.Be3 e4 22.Nd4 Be5+
+23.g3 Qf6 24.Kg2 Bxd4 25.Qxd4 Qxf5 26.Bd2 Rfe8 27.Bc2 Nf6 28.Bc3 Re7 29.Re3 Nbd7
+30.Rae1 Rae8 31.Qa7 Rb8 32.Bxf6 Qxf6 33.Rxe4 Rxe4 34.Rxe4 Rf8 35.Re2 Ne5
+36.Qe3 b6 37.f4 Ng6 38.h4 Rc8 39.h5 Nf8 40.Qe7 Qd4 41.Bf5 Ra8 42.Qxc7 b5
+43.b3 Qd1 44.Bg4 f5 45.Bf3 bxc4 46.bxc4 Qd4 47.Qxd6 Qxc4 48.Qe5 Qd3 49.Rb2 Ra7
+50.Rb8 Rf7 51.d6 Qd2+ 52.Kh3 Kh7 53.Qd5 Qxd5 54.Bxd5 Rf6 55.Bg8+ Kh8 56.Bc4 Kh7
+57.Re8  1-0

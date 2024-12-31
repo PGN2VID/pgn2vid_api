@@ -1,0 +1,21 @@
+[Event "AI Cup Div 1 W"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "3.2"]
+[White "Vachier Lagrave,M"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2839"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Nbd7
+9.g4 Nb6 10.g5 Nfd7 11.Qd2 h6 12.O-O-O hxg5 13.Bxg5 Be7 14.Bxe7 Qxe7 15.Na5 Rb8
+16.Qxd6 Qxd6 17.Rxd6 Ke7 18.Rd2 Nf6 19.Rg1 g6 20.Rg5 Nbd7 21.Bc4 Rh3 22.Rg3 Rh4
+23.b3 Bxc4 24.Nxc4 Rbh8 25.Rgg2 b5 26.Ne3 Nb6 27.a4 bxa4 28.bxa4 Rc8 29.Kb2 Rb8
+30.Ka2 Rc8 31.Rd3 Rh3 32.a5 Nc4 33.Ncd5+ Nxd5 34.Nxd5+ Ke6 35.Rb3 Rc5 36.Rc3 Rh8
+37.f4 Rb8 38.Rb3 Rxa5+ 39.Kb1 Rxb3+ 40.cxb3 Nd6 41.b4 Ra3 42.fxe5 Nxe4 43.Kb2 Rf3
+44.Nc7+ Kxe5 45.Nxa6 Kd4 46.Rg4 Rf2+ 47.Kb3 Rxh2 48.Nc5 Rh3+ 49.Ka4 f5 50.Ne6+ Kc4
+51.Rxg6 Nc3+ 52.Ka5 Nd5 53.Ka6 Nxb4+ 54.Kb7 Rh7+ 55.Kc8 Kd5 56.Ng5 Ra7 57.Rb6 Nd3
+58.Rb7 Rxb7 59.Kxb7 f4 60.Kb6 Ne5 61.Kc7 Nf7 62.Nxf7 f3 63.Nh6 f2 64.Ng4 f1=R
+65.Ne3+ Kc5 66.Nxf1  1/2-1/2

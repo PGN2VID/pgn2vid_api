@@ -1,0 +1,23 @@
+[Event "Amber Rapidplay"]
+[Site "Monte Carlo"]
+[Date "1999.03.26"]
+[Round "9"]
+[White "Gelfand, Boris"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[WhiteElo "2691"]
+[BlackElo "2632"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bb5+ c6 8.Ba4 O-O
+9.Ne2 b5 10.Bb3 a5 11.O-O e5 12.a4 exd4 13.cxd4 b4 14.Be3 Ba6 15.Rc1 Qe7
+16.e5 Rc8 17.f4 c5 18.f5 c4 19.Bc2 gxf5 20.Rxf5 Nd7 21.Nf4 Bb7 22.Qg4 Ra6
+23.Rg5 Rg6 24.Bxg6 fxg6 25.Nxg6 hxg6 26.Rxg6 Nf8 27.Rd6 b3 28.Bg5 Qc7 29.Bh6 b2
+30.Rf1 c3 31.e6 Qe7 32.Rb6 Rc7 33.Rf7 Qxf7 34.exf7+ Rxf7 35.d5 Bxd5 36.Rb8 Ba2
+37.Bxg7 Rxg7 38.Qf5 Rf7 39.Qg5+ Rg7 40.Qf5 Rf7 41.Qc2 Rc7 42.Qg6+ Rg7 43.Qf6 b1=Q+
+44.Rxb1 Bxb1 45.Qxc3 Ba2 46.Qxa5 Ne6 47.Qd2 Bc4 48.a5 Rg5 49.h4 Rc5 50.Qd7 Rc7
+51.Qd6 Kf7 52.g4 Ra7 53.Qe5 Rd7 54.h5 Rd5 55.Qe4 Rd1+ 56.Kh2 Bd5 57.Qe3 Ra1
+58.g5 Rxa5 59.g6+ Ke7 60.Qc3 Ra2+ 61.Kg1 Rg2+ 62.Kf1 Rg5 63.h6 Rxg6 64.h7 Rh6
+65.h8=Q Rxh8 66.Qxh8 Kd7 67.Qe5 Bc6 68.Kf2 Nc7 69.Kg3 Kc8 70.Kf4 Kb7 71.Qb2+ Ka8
+72.Qa3+ Kb7 73.Ke5 Nb5 74.Qa5 Na7 75.Kd6 Nc8+ 76.Kc5 Bd7 77.Qd8 Ba4 78.Qd5+ Ka7
+79.Qd4 Be8 80.Qd8  1-0

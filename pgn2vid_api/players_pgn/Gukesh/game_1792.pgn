@@ -1,0 +1,15 @@
+[Event "chess.com SpeedChess 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.12"]
+[Round "1.13"]
+[White "Vachier Lagrave,M"]
+[Black "Gukesh,D"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2758"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.b3 a6 4.c4 d5 5.exd5 exd5 6.cxd5 Nf6 7.Nc3 Bd6 8.Be2 O-O
+9.O-O Bg4 10.h3 Bxf3 11.Bxf3 Nbd7 12.Bb2 Ne5 13.Ne4 Nxe4 14.Bxe4 Qh4 15.Bc2 Rae8
+16.d4 Ng6 17.dxc5 Bxc5 18.Qf3 Qg5 19.Bxg6 fxg6 20.Qc3 Qf6 21.Qxc5 Qxb2 22.d6 Re2
+23.d7 Rd2 24.Rad1 h6 25.Qb4 Rxd1 26.Qxf8+  1-0

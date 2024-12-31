@@ -1,0 +1,23 @@
+[Event "PCA/Intel-GP"]
+[Site "London"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Sokolov, Ivan"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2645"]
+[ECO "D36"]
+
+1.d4 e6 2.c4 Nf6 3.Nf3 d5 4.Nc3 Nbd7 5.cxd5 exd5 6.Bg5 Be7 7.e3 c6 8.Qc2 O-O
+9.Bd3 Re8 10.h3 Nf8 11.O-O-O a5 12.Kb1 b5 13.Ne5 Bb7 14.f4 a4 15.g4 a3 16.b3 Rc8
+17.Bf5 Rc7 18.Rc1 Bd6 19.Bh4 Qa8 20.g5 N6d7 21.Rhg1 Nb6 22.Bd3 b4 23.Ne2 c5
+24.dxc5 Rxc5 25.Qd2 Ba6 26.Nd4 Rxc1+ 27.Rxc1 Bxe5 28.fxe5 Bxd3+ 29.Qxd3 Nbd7
+30.Qb5 Nxe5 31.Bg3 Nfg6 32.h4 Rc8 33.h5 Rxc1+ 34.Kxc1 Qc8+ 35.Kd1 Qg4+ 36.Ne2 Nf3
+37.hxg6 hxg6 38.Qb8+ Kh7 39.Qf4 Qh5 40.Kc2 Nxg5 41.Qh4 Ne4 42.Qxh5+ gxh5
+43.Bc7 g5 44.Ng3 h4 45.Nxe4 dxe4 46.Kd2 f5 47.Ke2 Kg6 48.Bd6 g4 49.Bxb4 g3
+50.Bd6 Kg5 51.b4 Kg4 52.b5 h3 53.Kf1 Kf3 54.Bxg3 Kxg3 55.Kg1 f4 56.b6 fxe3
+57.b7 e2 58.b8=Q+ Kf3 59.Qf8+ Ke3 60.Qxa3+ Kd2 61.Qb2+ Kd1 62.Qb1+ Kd2 63.Qb4+ Kd1
+64.Qd4+ Kc1 65.Qxe4 Kd2 66.Kf2 Kc3 67.Qxe2 Kd4 68.Qe3+ Kd5 69.Qxh3 Kc4 70.a4 Kb4
+71.Qg4+ Kc5 72.Ke3 Kc6 73.Qf5 Kd6 74.Kd4 Kc6 75.Qe6+ Kc7 76.Kc5 Kb7 77.Qd7+ Ka6
+78.Qc8+ Ka7 79.Qc7+ Ka6 80.Qc6+ Ka7 81.Qb5 Ka8  1-0

@@ -1,0 +1,16 @@
+[Event "AI Cup Div 3 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.1"]
+[White "Tomashevsky,E"]
+[Black "Kobo,Ori"]
+[Result "1-0"]
+[WhiteElo "2694"]
+[BlackElo "2551"]
+[ECO "E94"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O b6 8.Re1 exd4
+9.Nxd4 Bb7 10.Bd3 Nbd7 11.Bg5 h6 12.Bh4 Re8 13.Bc2 Ne5 14.b3 Qd7 15.Rc1 a6
+16.Bb1 c5 17.Nf3 Nxf3+ 18.Qxf3 Ng4 19.Rcd1 Ne5 20.Qe3 b5 21.cxb5 axb5 22.h3 f5
+23.f4 Nf7 24.Nd5 Bxd5 25.Rxd5 g5 26.Bf2 Bd4 27.Qd2 Bxf2+ 28.Qxf2 fxe4 29.Bxe4 Re7
+30.fxg5 Nxg5 31.Rxg5+ hxg5 32.Bxa8 Rxe1+ 33.Qxe1  1-0

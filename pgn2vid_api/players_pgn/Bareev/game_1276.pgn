@@ -1,0 +1,21 @@
+[Event "Amber Rapid"]
+[Site "Monte Carlo MNC"]
+[Date "2003.03.25"]
+[Round "9"]
+[White "Bareev,E"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2678"]
+[ECO "A55"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.e4 e5 5.Nf3 Be7 6.Be2 O-O 7.O-O c6 8.Qc2 Qe8
+9.b3 a6 10.Bb2 b6 11.Rad1 Bb7 12.Rfe1 Qb8 13.Bf1 Re8 14.g3 b5 15.a3 Bf8 16.dxe5 Nxe5
+17.Nxe5 dxe5 18.b4 Bc8 19.c5 a5 20.Ne2 Bg4 21.Rd2 Qc8 22.Nc1 axb4 23.axb4 Qe6
+24.Nb3 h5 25.Qc3 Bh3 26.Bxh3 Qxh3 27.Na5 Re6 28.f3 Nh7 29.Bc1 h4 30.Rg2 hxg3
+31.hxg3 Be7 32.Rd1 Rg6 33.Qxe5 Bf6 34.Qf5 Rxg3 35.Qxh3 Rxh3 36.Kf2 Nf8 37.Nxc6 Ne6
+38.Be3 Bc3 39.Ne7+ Kf8 40.Nd5 Ra2+ 41.Kg1 Ra3 42.Kf2 Ra2+ 43.Kg1 Ra3 44.Nxc3 Rxc3
+45.Kf2 Ke7 46.Rc1 Rb3 47.c6 Rh8 48.Rgg1 Rb2+ 49.Kg3 Rbh2 50.Rg2 R2h3+ 51.Kf2 Rc8
+52.f4 g6 53.f5 gxf5 54.exf5 Nc7 55.Bg5+ Kd6 56.Bf4+ Kd5 57.Rg7 Rh4 58.Rc5+ Ke4
+59.Bg3 Rh5 60.Rxf7 Nd5 61.c7 Nxb4 62.Re7+ Kd4 63.Rxb5 Nd5 64.Rf7 Ke4 65.Rb8 Rhh8
+66.Rb1 Kd4 67.Rd7 Kc4 68.Rc1+ Nc3 69.Be5 Rhf8 70.Rxc3+ Kb4 71.Rf3  1-0

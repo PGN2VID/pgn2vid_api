@@ -1,0 +1,25 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "6"]
+[White "Chigorin, Mikhail"]
+[Black "Albin, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Bc4 Nc6 5.Nc3 Bg4 6.h3 Bxf3 7.Qxf3 Qh4+ 8.g3 Nd4
+9.Qg2 Qd8 10.d3 c6 11.fxe5 dxe5 12.Rf1 Nf6 13.Bg5 b5 14.Bb3 a5 15.a3 Nxb3
+16.cxb3 b4 17.Na4 Be7 18.Qc2 O-O 19.axb4 axb4 20.Bxf6 Bxf6 21.O-O-O c5 22.Kb1 Be7
+23.Qc4 Qd6 24.Rf5 g6 25.Rf3 Kg7 26.Rdf1 f6 27.g4 h6 28.h4 Qa6 29.h5 Qxc4
+30.dxc4 Rad8 31.Nb6 Rd4 32.Nd5 Bd8 33.Re1 Kf7 34.hxg6+ Kxg6 35.Rh3 Rh8 36.Kc2 Kf7
+37.Re2 Be7 38.Rh1 Ke6 39.Ra1 Rd8 40.Ra6+ Rd6 41.Ra5 Rd8 42.Re1 Rd7 43.Rb5 Kf7
+44.Rb8 Bd8 45.Rc8 Be7 46.Re2 Bd6 47.Rc6 Be7 48.Ra6 Kg6 49.Ra8 Bd8 50.Rc8 Kg5
+51.Rxc5 Kxg4 52.Rc6 Kf3 53.Rh2 Rxe4 54.Nxf6 Bxf6 55.Rxf6+ Kg3 56.Rfxh6 Rg4
+57.R6h3+ Kf4 58.Rf2+ Kg5 59.Rh8 Rf4 60.Re2 Re7 61.Rg2+ Kf5 62.Rh5+ Ke4 63.Re2+ Kd4
+64.Rh1 Kc5 65.Ra1 e4 66.Ra5+ Kc6 67.Ra6+ Kb7 68.Rd6 Kc7 69.Rd5 Kc6 70.Rd8 Kc7
+71.Ra8 Kb7 72.Ra4 Kc6 73.Rxb4 e3 74.Rb5 Rf2 75.Rxf2 exf2 76.Rf5 Re2+ 77.Kc3 Kd6
+78.b4 Ke6 79.Rf8 Ke5 80.b5 Ke4 81.b6 Re3+ 82.Kb4 Rf3 83.Rxf3 Kxf3 84.b7 f1=Q
+85.b8=Q Qe1+ 86.Kb5 Qb1 87.Qe5 Qa2 88.b4 Qa7 89.Qd5+ Kf4 90.c5 Qb8+ 91.Kc4 Qa7
+92.Qd6+ Ke4 93.c6 Qa6+ 94.Kc5  1-0

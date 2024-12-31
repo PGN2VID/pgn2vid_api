@@ -1,0 +1,17 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "9"]
+[White "Kuzubov,Y"]
+[Black "Movsesian,S"]
+[Result "1-0"]
+[WhiteElo "2625"]
+[BlackElo "2606"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.Qc2 g6 6.cxd5 cxd5 7.Bf4 Nc6 8.e3 Bg7
+9.Be2 O-O 10.O-O Bf5 11.Qd1 Rc8 12.h3 Ne4 13.Rc1 Nxc3 14.Rxc3 Qb6 15.Rb3 Qa7
+16.Qd2 Be4 17.Rc1 Bxf3 18.Bxf3 e6 19.Bd6 Rfe8 20.Bc5 Qb8 21.Be2 Qc7 22.Rbc3 Qd7
+23.b4 Nb8 24.b5 axb5 25.Rb3 Nc6 26.Bxb5 Ra8 27.a4 Rec8 28.a5 Bf8 29.Bb6 Qd6
+30.Qb2 Ne7 31.Rbc3 Rxc3 32.Qxc3 Nc8 33.Bc7 Qa3 34.Bd7 Qxc3 35.Rxc3 Bd6 36.Bd8 Ne7
+37.Bb6 Kf8 38.g4 h6 39.Kf1 Ng8 40.Rc8+ Rxc8 41.Bxc8  1-0

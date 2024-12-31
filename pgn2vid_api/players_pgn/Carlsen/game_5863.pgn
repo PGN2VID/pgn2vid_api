@@ -1,0 +1,20 @@
+[Event "Chess.com Classic Div 1 W"]
+[Site "chess.com INT"]
+[Date "2024.05.10"]
+[Round "1.2"]
+[White "Ivic,Velimir"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2596"]
+[BlackElo "2830"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Qc7 6.a4 e5 7.a5 Nf6 8.Nbd2 Be6
+9.b3 h6 10.Nc4 Nd7 11.O-O Bg7 12.Kh1 O-O 13.Ng1 b5 14.axb6 axb6 15.Rxa8 Rxa8
+16.Bb2 b5 17.Ne3 c4 18.bxc4 bxc4 19.d4 Ra2 20.d5 Bxd5 21.Qb1 Ra5 22.exd5 cxd5
+23.Bc3 Rc5 24.Qa2 d4 25.Bb4 dxe3 26.Bxc5 Qxc5 27.fxe3 Nf6 28.Qa8+ Kh7 29.Qb7 Kg8
+30.Nf3 e4 31.Nd4 Qa3 32.Nc6 Qd6 33.Qb8+ Qxb8 34.Nxb8 Nd5 35.Re1 Bc3 36.Re2 f5
+37.Nc6 Kf7 38.g3 Ke6 39.Kg2 Kd6 40.Nd4 Bxd4 41.exd4 c3 42.Kf2 Nb4 43.Ke3 Kd5
+44.Rf2 Kc4 45.g4 Nd5+ 46.Ke2 f4 47.Rf1 g5 48.Ra1 Ne3 49.Ra4+ Kd5 50.Ra5+ Kxd4
+51.Ra4+ Nc4 52.Ra6 e3 53.Rxh6 Ne5 54.h3 f3+ 55.Ke1 Nc4 56.Rf6 Nd2 57.Kd1 Ke4
+58.Ke1 f2+ 59.Ke2 f1=Q+ 60.Rxf1 Nxf1 61.Kxf1 Kf3 62.Ke1 e2  0-1

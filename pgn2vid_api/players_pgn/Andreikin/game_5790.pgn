@@ -1,0 +1,22 @@
+[Event "Chess.com Speed KO Lose"]
+[Site "chess.com INT"]
+[Date "2024.06.28"]
+[Round "4.5"]
+[White "Pranesh,M"]
+[Black "Andreikin,D"]
+[Result "0-1"]
+[WhiteElo "2561"]
+[BlackElo "2729"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 Nc6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Nf6
+9.Re1 Be7 10.e5 Nd7 11.Bf4 Rb8 12.b3 Bb4 13.Bd2 Qa5 14.Nb1 O-O 15.a3 Bxd2
+16.Nxd2 c5 17.Nf3 h6 18.Qc1 Bb7 19.Qf4 c4 20.bxc4 dxc4 21.Be4 Bxe4 22.Rxe4 Qc3
+23.Rae1 Rfc8 24.Nd4 Qxa3 25.h4 Qa2 26.Kh2 Rb1 27.R1e3 Qa1 28.Rf3 Rf8 29.Kg3 Re1
+30.Nc6 Rxe4 31.Qxe4 Re8 32.Qf4 Rf8 33.c3 Qa3 34.Qxc4 Qc5 35.Qe4 Rc8 36.Qf4 Qxc6
+37.Qxf7+ Kh8 38.Re3 Rf8 39.Qg6 Nc5 40.Kh2 Qe8 41.Qg4 Qf7 42.Rf3 Qe7 43.Rg3 a5
+44.Qc4 a4 45.Qb4 Ra8 46.c4 a3 47.Rxa3 Rxa3 48.Qxa3 Qxh4+ 49.Kg1 Qxc4 50.Qf3 Qd5
+51.Qf8+ Kh7 52.Qf4 Nd3 53.Qe3 Nxe5 54.Qe2 Ng6 55.Qc2 Qf5 56.Qe2 Nf4 57.Qf3 Nd5
+58.Qe2 Qb1+ 59.Kh2 Qg6 60.Kg1 Nf6 61.g3 Qe4 62.Qd1 Qf5 63.Qe2 Ne4 64.g4 Qxf2+
+65.Qxf2 Nxf2 66.Kxf2 Kg6 67.Kg3 Kg5 68.Kf3 e5 69.Kg3 e4 70.Kg2 Kxg4 71.Kf2 h5
+72.Ke3 h4 73.Kxe4 h3  0-1

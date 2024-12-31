@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "16"]
+[White "Teichmann, Richard"]
+[Black "Reggio, Arturo"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C05"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.c3 Nc6 7.Ndf3 cxd4 8.cxd4 Bb4+
+9.Kf2 O-O 10.Bd3 f6 11.g3 fxe5 12.dxe5 Ne7 13.Ne2 Nf5 14.Kg2 Be7 15.Bxf5 exf5
+16.Qxd5+ Kh8 17.Be3 Qe8 18.Rac1 Nb6 19.Bxb6 axb6 20.Ned4 Qa4 21.a3 Ra5 22.Qc4 Qxc4
+23.Rxc4 Rc5 24.Rhc1 h6 25.b4 Rxc4 26.Rxc4 g5 27.Rc7 Re8 28.Kf2 gxf4 29.gxf4 Kg7
+30.Nh4 Kf8 31.Ng6+ Kf7 32.Nxe7  1-0

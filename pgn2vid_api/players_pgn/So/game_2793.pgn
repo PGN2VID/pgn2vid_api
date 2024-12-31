@@ -1,0 +1,21 @@
+[Event "Chess.com Rapid Wk1 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.12"]
+[Round "6"]
+[White "So,W"]
+[Black "Van Foreest,Jorden"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2702"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Nc5 10.c3 d4 11.Bc2 d3 12.Bb1 Qd5 13.Re1 Be7 14.Re3 O-O-O 15.b4 Na4
+16.c4 bxc4 17.Qxa4 Qb5 18.Qxb5 axb5 19.a3 g5 20.Ne4 g4 21.Nfd2 Nd4 22.Bb2 h6
+23.Re1 Bg5 24.Kf1 Ne2 25.Rxe2 dxe2+ 26.Kxe2 Be7 27.Bc2 Kb7 28.Bc3 Ra8 29.a4 bxa4
+30.Rxa4 Rxa4 31.Bxa4 Ra8 32.Bb5 Ra2 33.Ke3 Kb6 34.Bd4+ Kxb5 35.Nc3+ Kxb4
+36.Nxa2+ Ka3 37.Nc1 Kb4 38.Na2+ Ka3 39.Nc1 Kb4 40.Ne4 Bf5 41.Bc3+ Ka3 42.f4 gxf3
+43.gxf3 c5 44.f4 h5 45.Nd6 Be6 46.Nb5+ Ka4 47.Nd6 Bh4 48.Ke4 Bf2 49.f5 Bd7
+50.Nxf7 Bc6+ 51.Kf4 Bg1 52.e6 Bxh2+ 53.Kg5 h4 54.Kxh4 Bf4 55.Ne2 Bc7 56.Ne5 Be8
+57.f6 Bd8 58.Kg5 Kb3 59.Kf5 Bh5 60.e7 Bxe7 61.fxe7 Kc2 62.Nf4 Be8 63.Nd5 Kb3
+64.Ke6 Ba4 65.Kd6 Be8 66.Kxc5 Kc2 67.Kd4  1-0

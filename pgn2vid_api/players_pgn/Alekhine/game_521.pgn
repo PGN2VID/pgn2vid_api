@@ -1,0 +1,15 @@
+[Event "CSR tour sim"]
+[Site "Czechoslovakia"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Vavrinsky, J."]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 c6 6.dxc6 Nxc6 7.Nf3 e5 8.O-O e4
+9.Re1 O-O-O 10.Ng5 Qf5 11.Nh3 Bc5 12.Nc3 Rhe8 13.Nd5 Nxd5 14.cxd5 Rxd5 15.a3 Rd3
+16.Rf1 Nd4 17.Kh1 Bd6 18.Ng1 Re6 19.Ne2 Nf3 20.Ng3 Rh6 21.Qxf3 exf3 22.Nxf5 Rxh2+
+23.Kg1 Rxg2+ 24.Kh1 Rd5  0-1

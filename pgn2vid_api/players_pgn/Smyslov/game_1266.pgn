@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Schmid, Lothar"]
+[Black "Smyslov, Vassily"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C93"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 h6 10.d4 Re8 11.Nbd2 Bf8 12.Nf1 Bd7 13.Ng3 Na5 14.Bc2 c5 15.b3 Nc6 16.Be3 cxd4
+17.cxd4 exd4 18.Nxd4 d5 19.exd5 Nb4 20.Nc6 Nxc6 21.dxc6 Bxc6 22.Qd4 Qd5 23.Qxd5 Nxd5
+24.Be4 Nb4 25.Bxc6 Nxc6 26.Nf5 Nb4 27.Nd4 Bc5 28.Red1 Nd5 29.Rac1 Ba3 30.Rc6 Nb4
+31.Rc7 Rad8 32.Rf1 Nxa2 33.Nc2 Bb2 34.Rc6 a5 35.Rc5 Rc8 36.Rxc8 Rxc8 37.Nd4 Bxd4
+38.Bxd4 Nc1  0-1

@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1968.??.??"]
+[Round "12"]
+[White "Benko, Pal C"]
+[Black "Damjanovic, Mato"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 a5 5.g3 O-O 6.Bg2 d5 7.Qc2 Ne4 8.O-O Nxd2
+9.Nbxd2 Nc6 10.Rfd1 f5 11.e3 Bd7 12.Ne1 Ne7 13.Nd3 c6 14.Qb3 Bd6 15.Qc3 g5
+16.f4 g4 17.c5 Bc7 18.Kf2 h5 19.h4 Kh7 20.b3 Ng8 21.a3 Nf6 22.Nb2 Qe7 23.Na4 Rfc8
+24.b4 axb4 25.axb4 Qd8 26.Nb2 Rxa1 27.Rxa1 Ra8 28.Ra3 Ng8 29.Nd3 Ne7 30.Qa1 Rxa3
+31.Qxa3 Qb8 32.Ne5 Be8 33.Bf1 Kg7 34.Nb1 Nc8 35.Nc3 Na7 36.Ke1 Bd8 37.Qa4 Bc7
+38.Kd2 Kf8 39.Kc2 Ke7 40.Qb3 Kd8 41.b5 cxb5 42.Bxb5 Bxb5 43.Nxb5 Bxe5 44.fxe5 Nxb5
+45.Qxb5 Qa7 46.Kb3 Kc7 47.Qa4 Qxa4+ 48.Kxa4 Kd7 49.Kb4 Kd8 50.Ka5 Kd7 51.Kb6 Kc8
+52.c6 Kb8 53.Kc5  1-0

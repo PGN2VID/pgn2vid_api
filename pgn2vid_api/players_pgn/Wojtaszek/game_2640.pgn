@@ -1,0 +1,22 @@
+[Event "FIDE Grand Swiss 2023"]
+[Site "Douglas IOM"]
+[Date "2023.10.30"]
+[Round "6.9"]
+[White "Wojtaszek,R"]
+[Black "L'Ami,E"]
+[Result "1-0"]
+[WhiteElo "2668"]
+[BlackElo "2627"]
+[ECO "D08"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2 Nge7 6.Nb3 Ng6 7.Nbxd4 Ngxe5 8.Nxe5 Nxe5
+9.e3 Bc5 10.Qc2 O-O 11.Nb3 Bb4+ 12.Bd2 Bxd2+ 13.Nxd2 Re8 14.O-O-O Qf6 15.Ne4 Qc6
+16.Nc3 Be6 17.Nd5 Kh8 18.Be2 Rad8 19.Rd4 Nxc4 20.Ne7 Rxd4 21.Nxc6 Rd2 22.Qxc4 Bxc4
+23.Kxd2 Bxe2 24.Kxe2 bxc6 25.Rd1 Kg8 26.Rd7 Rc8 27.Kd3 Kf8 28.Kc4 Ke8 29.Rd2 Rb8
+30.Kc5 Rb6 31.b3 Ra6 32.a4 Rb6 33.b4 a5 34.bxa5 Ra6 35.Rd4 h5 36.h4 Ke7 37.f3 Ke6
+38.Kb4 Ra8 39.Kc5 Ra6 40.Kb4 Ra8 41.g4 hxg4 42.Rxg4 g6 43.Rg5 Kd6 44.e4 Ra7
+45.f4 Rb7+ 46.Kc4 Ra7 47.h5 gxh5 48.Rxh5 f6 49.Rf5 Ke6 50.Kd4 Ke7 51.Rc5 Kd6
+52.Rf5 Ke7 53.Ke3 Ke6 54.Kf3 Ra8 55.Kg4 Rg8+ 56.Kh5 Rh8+ 57.Kg6 Rg8+ 58.Kh6 Kf7
+59.Kh5 Rh8+ 60.Kg4 Ke6 61.a6 Ra8 62.Ra5 c5 63.a7 Kd6 64.Kf3 c6 65.Ke3 Kc7
+66.Rxc5 Rxa7 67.Rf5 Rxa4 68.Rxf6 Ra3+ 69.Kd4 Ra4+ 70.Ke5 c5 71.Re6 Rd4 72.f5 Rd8
+73.f6 c4 74.f7 c3 75.Re7+ Kb6 76.Re8 c2 77.Rxd8 c1=Q 78.f8=Q  1-0

@@ -1,0 +1,20 @@
+[Event "Speed Chess Invitational"]
+[Site "chess.com INT"]
+[Date "2020.10.25"]
+[Round "1.8"]
+[White "Naroditsky,D"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteElo "2621"]
+[BlackElo "2752"]
+[ECO "C46"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.g3 d5 5.exd5 Nxd5 6.Bg2 Nxc3 7.bxc3 Bc5 8.O-O O-O
+9.d3 Bb6 10.Re1 Re8 11.h3 h6 12.Nd2 Bf5 13.Nc4 Qf6 14.Ne3 Be6 15.Qe2 Rad8
+16.Ng4 Bxg4 17.hxg4 e4 18.d4 Bxd4 19.cxd4 Nxd4 20.Qc4 Nf3+ 21.Bxf3 Qxa1 22.Bg2 c6
+23.Bd2 Qd4 24.Qxd4 Rxd4 25.Be3 Ra4 26.Rb1 b6 27.Rb2 Rd8 28.c3 Rd1+ 29.Kh2 c5
+30.Re2 g5 31.f3 exf3 32.Bxf3 Rd3 33.Kg2 Rxc3 34.Bd5 Rd3 35.Bb3 Re4 36.Kf2 Rxg4
+37.Bc2 Rc3 38.Bf5 Ra4 39.Rd2 Rca3 40.Bb1 Rb4 41.Bf5 Kg7 42.g4 Rba4 43.Rd7 Rxa2+
+44.Kf1 Rb2 45.Rd1 Rh2 46.Kg1 Re2 47.Bd2 Rd4 48.Bc3 a5 49.Bxd4+ cxd4 50.Kf1 Rb2
+51.Rxd4 b5 52.Rd7 Kf6 53.Ra7 a4 54.Ke1 h5 55.Bd7 h4 56.Be8 h3 57.Rxf7+ Ke5
+58.Rh7 h2 59.Bg6 a3 60.Kd1 a2 61.Kc1 a1=Q+  0-1

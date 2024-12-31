@@ -1,0 +1,13 @@
+[Event "Chess.com SIG Bullet KO"]
+[Site "chess.com INT"]
+[Date "2021.04.06"]
+[Round "1.1"]
+[White "Firouzja,Alireza"]
+[Black "Artemiev,V"]
+[Result "0-1"]
+[WhiteElo "2759"]
+[BlackElo "2709"]
+[ECO "D00"]
+
+1.d4 d5 2.Bg5 f6 3.Bh4 Nh6 4.e3 Nf5 5.Bd3 h5 6.Nf3 g5 7.Bxg5 fxg5 8.Nxg5 e5
+9.h4 Nxh4 10.Rxh4 Qxg5 11.g3 exd4 12.exd4 Nc6 13.Nc3 Bg4 14.f3 Qe3+ 15.Qe2 Qxe2+  0-1

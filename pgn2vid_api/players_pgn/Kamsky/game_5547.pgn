@@ -1,0 +1,23 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "2"]
+[White "Kamsky,G"]
+[Black "Vaibhav,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2641"]
+[BlackElo "2588"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 c5 4.Nd2 h6 5.h3 Nc6 6.c3 d5 7.Ngf3 Bd6 8.Bxd6 Qxd6
+9.Bb5 O-O 10.O-O Bd7 11.a4 Rfd8 12.Qb1 Ne7 13.Bd3 Nc6 14.Bb5 Ne7 15.Bxd7 Nxd7
+16.Rd1 Rac8 17.a5 Qc7 18.Qa2 Nf5 19.e4 dxe4 20.Nxe4 cxd4 21.Nxd4 Nxd4 22.Rxd4 Ne5
+23.Qa4 Nc4 24.a6 bxa6 25.Rxd8+ Rxd8 26.b3 Nb6 27.Qxa6 f5 28.Ng3 Qxc3 29.Rf1 Rd7
+30.Qb5 Kh7 31.Ne2 Qd2 32.Ng3 Qd3 33.Qb4 Nd5 34.Qb8 f4 35.Nh1 Nc3 36.Re1 Qd2
+37.Qe5 Qxe1+ 38.Qxe1 Rd1 39.Kf1 Kg6 40.f3 Kf5 41.Nf2 Rxe1+ 42.Kxe1 Nd5 43.Ne4 Ke5
+44.Nc5 Kd6 45.Ne4+ Kc6 46.Kd2 Kb5 47.g3 Kb4 48.Kc2 Ne3+ 49.Kd3 Nd5 50.Kc2 fxg3
+51.Nxg3 g5 52.Ne4 Nf4 53.Nf2 a5 54.Kb2 Kc5 55.Kc3 Kd5 56.Kc2 Kd4 57.Kd2 e5
+58.Ng4 Nxh3 59.Nxh6 Ng1 60.Nf5+ Kd5 61.Ke3 Nh3 62.Ng3 Nf4 63.Ne4 Ne6 64.Kd3 Nc5+
+65.Nxc5 Kxc5 66.Kc3 Kb5 67.Kd3 Kb4 68.Kc2 Kc5 69.Kc3 Kb5 70.Kd3 Kb4 71.Kc2 e4
+72.fxe4 g4 73.Kd3 g3 74.Ke3 Kxb3 75.e5 a4 76.e6 a3 77.e7 g2 78.Kf2 a2 79.e8=Q g1=Q+
+80.Kxg1 a1=Q+ 81.Kf2 Qb2+ 82.Qe2 Qxe2+ 83.Kxe2  1/2-1/2

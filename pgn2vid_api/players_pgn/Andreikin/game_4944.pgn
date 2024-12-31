@@ -1,0 +1,17 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.1"]
+[White "Andreikin,D"]
+[Black "Antipov,M2"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2600"]
+[ECO "A22"]
+
+1.c4 Nf6 2.Nc3 e5 3.e3 Bb4 4.Nge2 O-O 5.a3 Be7 6.g3 c6 7.d4 exd4 8.Qxd4 d5
+9.cxd5 cxd5 10.Bg2 Nc6 11.Qd1 Ne5 12.O-O Bg4 13.h3 Bf3 14.Bxf3 Nxf3+ 15.Kg2 Ng5
+16.Nf4 Qd6 17.h4 Nge4 18.Nfxd5 Nxd5 19.Qxd5 Nxc3 20.Qxd6 Bxd6 21.bxc3 Be5
+22.Bb2 Rac8 23.Rac1 Rfd8 24.f4 Bf6 25.e4 Kf8 26.Rfd1 Ke8 27.Kf3 g6 28.Ke2 Rc4
+29.e5 Be7 30.Rd4 b5 31.Rcd1 Rc6 32.a4 a6 33.axb5 axb5 34.Rxd8+ Bxd8 35.Rd5 h5
+36.Rxb5 Ke7 37.Kd3 Ke6 38.c4 Be7 39.Bd4 Kf5 40.Rb7 Re6 41.c5 Kg4 42.c6  1-0

@@ -1,0 +1,18 @@
+[Event "AI Cup Div 1 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.1"]
+[White "Nepomniachtchi,I"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteElo "2771"]
+[BlackElo "2760"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nf6 6.Nc3 Nc6 7.d4 cxd4 8.Nxd4 g6
+9.O-O Bg7 10.Nf3 O-O 11.Bd2 a6 12.Qe2 Rab8 13.Rab1 b5 14.cxb5 axb5 15.Nxb5 Nxe4
+16.Qxe4 Rxb5 17.b4 Ra8 18.Rfc1 d5 19.Qc2 Nd4 20.Nxd4 Bxd4 21.a4 Rbb8 22.b5 Bb6
+23.Ra1 Ba5 24.Bxa5 Rxa5 25.h3 d4 26.Qb3 Qa7 27.Rab1 Qb6 28.Rc4 Rd8 29.Rc6 Qb7
+30.Rd1 Raa8 31.Qc4 Qd7 32.Rd3 e5 33.Rc7 Rdc8 34.Rxd7 Rxc4 35.Rf3 f5 36.Rb3 Rcxa4
+37.b6 Rb8 38.b7 Rc4 39.Rb6 d3 40.Rbd6 Rb4 41.Rd8+ Rxd8 42.Rxd8+ Kf7 43.b8=Q Rxb8
+44.Rxb8  1-0

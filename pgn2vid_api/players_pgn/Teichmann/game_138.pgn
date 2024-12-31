@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "8"]
+[White "Albin, Adolf"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B40"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 Nc6 4.Be2 Nf6 5.O-O d5 6.e5 Nd7 7.Bb5 Be7 8.Bxc6 bxc6
+9.Re1 O-O 10.d4 cxd4 11.Nxd4 Qb6 12.Qg4 f5 13.Qd1 c5 14.Nf3 Bb7 15.Ne2 a5
+16.c3 a4 17.Bg5 Bxg5 18.Nxg5 h6 19.Nf3 Rf7 20.h4 Nf8 21.Qd2 Rd7 22.h5 Rb8
+23.b4 cxb4 24.cxb4 d4 25.Nh4 a3 26.Nf4 Be4 27.Rac1 Qd8 28.g3 d3 29.Re3 Rc8
+30.Rc5 Rxc5 31.bxc5 Rb7 32.Re1 Rb2  0-1

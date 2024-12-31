@@ -1,0 +1,20 @@
+[Event "chess.com SpeedChess Q1Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.21"]
+[Round "11"]
+[White "Gorovets,A"]
+[Black "Dreev,A"]
+[Result "0-1"]
+[WhiteElo "2463"]
+[BlackElo "2606"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bf5 4.c4 e6 5.O-O Nf6 6.d3 dxc4 7.dxc4 Qxd1 8.Rxd1 Nbd7
+9.Nc3 e5 10.b3 Bb4 11.Bb2 O-O 12.Ng5 Nc5 13.Nf3 Rfe8 14.Nd2 Rad8 15.Nf1 h5
+16.Ne3 Bg6 17.Rxd8 Rxd8 18.Rd1 Rxd1+ 19.Ncxd1 Nfd7 20.Bh3 a5 21.a3 Bd2 22.Bc3 Bxc3
+23.Nxc3 Nf6 24.b4 axb4 25.axb4 Na6 26.b5 cxb5 27.Nxb5 Be4 28.Nd6 Bc6 29.Bg2 Bxg2
+30.Kxg2 Nc5 31.f4 g6 32.Nd5 Nfd7 33.Kf3 Kf8 34.e4 Kg7 35.h3 Kf8 36.Ke3 f6
+37.f5 g5 38.g4 h4 39.Nc7 Ke7 40.Ndb5 Nb6 41.Nd5+ Nxd5+ 42.cxd5 Kd7 43.Kf3 Na4
+44.Ke3 Nb6 45.Kd3 Na4 46.Kc4 Nb2+ 47.Kc3 Nd1+ 48.Kd2 Nf2 49.Ke3 Nxh3 50.Nc3 Nf4
+51.Kf3 h3 52.Kg3 Kd6 53.Nb5+ Kc5 54.Nc7 b5 55.Na6+ Kd6 56.Nb4 Kc5 57.Na6+ Kb6
+58.Nb4 Ne2+ 59.Kxh3 Nc3 60.d6 Nxe4 61.d7 Kc7  0-1

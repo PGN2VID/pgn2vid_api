@@ -1,0 +1,19 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "14"]
+[White "Fedoseev,Vl3"]
+[Black "Praggnanandhaa,R"]
+[Result "1-0"]
+[WhiteElo "2674"]
+[BlackElo "2608"]
+[ECO "A00"]
+
+1.g3 c5 2.Bg2 Nc6 3.e4 g6 4.Nc3 Bg7 5.Nge2 d6 6.O-O h5 7.h3 Nf6 8.d3 h4 9.g4 Nxg4
+10.hxg4 Bxg4 11.f3 Be6 12.Rf2 h3 13.Bf1 Nd4 14.Be3 Rc8 15.Nf4 Bd7 16.Rh2 Be5
+17.Rxh3 Bxh3 18.Nxh3 Qd7 19.Nf2 Qe6 20.f4 Bg7 21.Nd5 Kd7 22.c3 Nc6 23.Qf3 Rcf8
+24.Bg2 f5 25.Re1 Kd8 26.Qg3 fxe4 27.dxe4 g5 28.f5 Qh6 29.Bxg5 Qh5 30.Nf4 Be5
+31.Nxh5 Bxg3 32.Nxg3 Ne5 33.Bf4 Kc7 34.Bxe5 dxe5 35.Nd3 Rhg8 36.Kf2 Rg7 37.Nxe5 Rfg8
+38.Ng6 e6 39.Bf3 exf5 40.exf5 Rf7 41.Re6 Rd8 42.Ke3 Rfd7 43.Be4 Rd2 44.Re7+ Kc8
+45.Rxb7 Rh2 46.Rxa7 Rdd2 47.f6 Rd1 48.f7 Re1+ 49.Kf4 Rf2+ 50.Bf3 Rxf3+ 51.Kxf3 Kb8
+52.Rd7 Kc8 53.Re7 Rf1+ 54.Nxf1 c4 55.f8=Q+  1-0

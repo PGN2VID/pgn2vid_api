@@ -1,0 +1,14 @@
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2023.06.13"]
+[Round "1.12"]
+[White "Ohanyan,Emin"]
+[Black "Gukesh,D"]
+[Result "0-1"]
+[WhiteElo "2460"]
+[BlackElo "2736"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 a6 5.Nf3 b5 6.Bd3 Bb7 7.e5 c5 8.dxc5 dxe5
+9.fxe5 Nd7 10.e6 fxe6 11.Ne4 Ngf6 12.Qe2 Bxe4 13.Bxe4 Rc8 14.Bb7 Rxc5 15.Qxe6 Qc7
+16.Be4 Ne5 17.Qxa6 O-O 18.Bd3 Nxd3+ 19.cxd3 Rxc1+  0-1

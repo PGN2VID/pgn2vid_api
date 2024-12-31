@@ -1,0 +1,24 @@
+[Event "Chess.com RCC Wk11 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.04.23"]
+[Round "6"]
+[White "Sarana,A"]
+[Black "Andreikin,D"]
+[Result "0-1"]
+[WhiteElo "2675"]
+[BlackElo "2729"]
+[ECO "D37"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bf4 O-O 6.a3 c6 7.e3 Nbd7 8.h3 b6 9.cxd5 Nxd5
+10.Nxd5 exd5 11.Bd3 c5 12.b3 Bb7 13.O-O Rc8 14.Qe2 Bf6 15.a4 Re8 16.Ba6 Bxa6
+17.Qxa6 cxd4 18.exd4 Rc3 19.b4 Nb8 20.Bxb8 Qxb8 21.Rae1 Re4 22.Qb5 Qd8 23.Rxe4 dxe4
+24.Re1 g6 25.Rxe4 Kg7 26.Ne5 Bxe5 27.Qxe5+ Qf6 28.d5 Rc1+ 29.Kh2 Rd1 30.b5 Qxe5+
+31.Rxe5 Kf6 32.Re8 Rxd5 33.Ra8 Rd7 34.Kg3 Ke5 35.f4+ Kd6 36.Kg4 Kc5 37.Kg5 Kb4
+38.Kh6 f5 39.Rh8 Kxa4 40.Rxh7 Rxh7+ 41.Kxh7 Kxb5 42.Kxg6 a5 43.g4 fxg4 44.hxg4 a4
+45.f5 a3 46.f6 a2 47.f7 a1=Q 48.f8=Q Kc4 49.Qf7+ Kb4 50.Qf4+ Ka5 51.Qd2+ Ka4
+52.Qd7+ Kb4 53.Qe7+ Kc4 54.Qe6+ Kc5 55.Qf5+ Kb4 56.g5 b5 57.Kh7 Qh1+ 58.Kg7 Ka4
+59.g6 b4 60.Qd7+ Ka3 61.Qe7 Ka4 62.Qa7+ Kb5 63.Qd7+ Kc4 64.Qe6+ Kc3 65.Qe3+ Kc4
+66.Kf6 Qc6+ 67.Kf7 Qd7+ 68.Kf8 Qd6+ 69.Kf7 Qd7+ 70.Qe7 Qf5+ 71.Kg7 b3 72.Qf7+ Qd5
+73.Qxd5+ Kxd5 74.Kf8 b2 75.g7 b1=Q 76.g8=Q+ Kd4 77.Qg7+ Ke3 78.Qe7+ Qe4 79.Qf7 Kd2
+80.Qe7 Qf4+ 81.Qf7 Qb8+ 82.Qe8 Qb6 83.Qf7 Qd6+ 84.Kg7 Qg3+ 85.Kh7 Qc3 86.Kg8 Qc8+
+87.Qf8 Qe6+ 88.Qf7 Qg4+ 89.Kf8 Qb4+ 90.Ke8 Qc5 91.Qe7 Qb5+  0-1

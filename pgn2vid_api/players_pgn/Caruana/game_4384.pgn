@@ -1,0 +1,17 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.2"]
+[White "Gledura,B"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2633"]
+[BlackElo "2786"]
+[ECO "D30"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 Bd6 5.c5 Be7 6.b4 O-O 7.a4 b6 8.Qc2 c6 9.Bd3 Qc7
+10.Ba3 bxc5 11.bxc5 Ba6 12.O-O Bxd3 13.Qxd3 Nbd7 14.Nbd2 e5 15.Nxe5 Nxe5
+16.dxe5 Qxe5 17.Nf3 Qc7 18.Nd4 Ng4 19.Nf3 Bf6 20.Rab1 Rab8 21.Bb4 Ne5 22.Nxe5 Qxe5
+23.g3 h5 24.h4 Rfe8 25.Bd2 Qe4 26.Qxe4 dxe4 27.Rfc1 Rxb1 28.Rxb1 Rd8 29.Be1 Rd5
+30.Kf1 Rxc5 31.Rb7 a5 32.Ra7 Rc1 33.Ke2 Ra1 34.Ra6 Ra2+ 35.Kd1 Rxa4 36.Rxc6 Ra1+
+37.Ke2 a4 38.Ba5 a3 39.Bd8 Bb2 40.Be7 a2 41.Ra6 Bc3  0-1

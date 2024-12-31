@@ -1,0 +1,21 @@
+[Event "chess.com Speed 2021"]
+[Site "chess.com INT"]
+[Date "2021.11.11"]
+[Round "1.37"]
+[White "Aronian,L"]
+[Black "Dubov,Daniil"]
+[Result "1-0"]
+[WhiteElo "2782"]
+[BlackElo "2714"]
+[ECO "A40"]
+
+1.d4 c6 2.Nf3 d5 3.Bf4 Nf6 4.e3 Bg4 5.c4 Nbd7 6.Nc3 Bxf3 7.gxf3 e6 8.Qb3 dxc4
+9.Bxc4 Nb6 10.Be2 Be7 11.Rg1 O-O 12.O-O-O Kh8 13.Kb1 a5 14.e4 a4 15.Qc2 a3
+16.b3 Bb4 17.Bg5 Qc7 18.Rg3 Nh5 19.Rh3 Nf4 20.Rh4 Ng6 21.Rh3 Rad8 22.Be3 Nf4
+23.Rh4 Ng6 24.Rh5 Rd7 25.Rg1 Rfd8 26.e5 Bxc3 27.Rxg6 fxg6 28.Qxg6 Kg8 29.Qxh7+ Kf8
+30.Rg5 Rf7 31.f4 Bxd4 32.Rxg7 Rxg7 33.Qh8+ Rg8 34.Qf6+ Ke8 35.Qxe6+ Qe7 36.Qxg8+ Kd7
+37.Bg4+ Kc7 38.Qe6 Qb4 39.Qf7+ Kb8 40.Qf6 Qe1+ 41.Kc2 Qc3+ 42.Kd1 Qd3+ 43.Bd2 Rd5
+44.Qf8+ Ka7 45.Qxa3+ Kb8 46.Qf8+ Kc7 47.Qf7+ Nd7 48.Qf5 Qxf5 49.Bxf5 Bc3
+50.Ke2 Rxd2+ 51.Kf3 Rd4 52.Ke3 Nc5 53.Kf3 Bd2 54.Kg4 Rxf4+ 55.Kg5 Rxf2+ 56.Kf6 Rxh2
+57.e6 Re2 58.e7 Bc3+ 59.Kf7 Rxe7+ 60.Kxe7 Bb4 61.Kf6 Ba3 62.Ke5 Na6 63.Bb1 Nb4
+64.Kd4 Kd6 65.Kc4 b5+ 66.Kd4 c5+ 67.Kc3 Ke5 68.Kd2  1-0

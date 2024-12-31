@@ -1,0 +1,23 @@
+[Event "Chess.com Rapid Wk9 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.04.09"]
+[Round "2"]
+[White "Kamsky,G"]
+[Black "Sevian,Samuel"]
+[Result "1-0"]
+[WhiteElo "2661"]
+[BlackElo "2693"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 g6 3.c3 Bg7 4.Nf3 O-O 5.h3 d6 6.e3 b6 7.Nbd2 Bb7 8.a4 a6 9.Bc4 Nbd7
+10.O-O Qe8 11.Bh2 e5 12.b4 Qe7 13.Qb3 h6 14.Rfd1 Kh7 15.Be2 Rfe8 16.a5 b5
+17.c4 bxc4 18.Bxc4 Rf8 19.b5 axb5 20.Bxb5 Rfb8 21.Qa4 exd4 22.exd4 Nb6 23.Qa3 Nbd5
+24.Re1 Qd8 25.Bf1 Ba6 26.Rab1 Bxf1 27.Rxf1 Ra6 28.Nc4 Rxb1 29.Rxb1 Qa8 30.Qd3 Ra7
+31.Bg3 Qc8 32.Kh1 Qa6 33.Qb3 Ne4 34.Rc1 Rb7 35.Qd3 f5 36.Nfd2 Nxd2 37.Qxd2 Rb4
+38.Qd3 Nf6 39.f3 Nd5 40.Be1 Rb8 41.Bd2 Qa7 42.Ne3 Nf4 43.Qc4 Qxd4 44.Qxd4 Bxd4
+45.Nxf5 Bc5 46.Bxf4 gxf5 47.Re1 h5 48.h4 Rb4 49.g3 Ra4 50.Re7+ Kg6 51.Rxc7 Rxa5
+52.Rc8 Ra1+ 53.Kg2 Ra2+ 54.Kh3 Kf7 55.Rh8 Bg1 56.g4 Ra4 57.Bxd6 hxg4+ 58.fxg4 fxg4+
+59.Kg3 Bd4 60.Rf8+ Kg7 61.Rf4 Kh6 62.Kxg4 Kg6 63.Be5 Ra2 64.Bxd4 Rg2+ 65.Kf3 Ra2
+66.Be3 Ra3 67.Rc4 Ra6 68.Re4 Rf6+ 69.Kg4 Ra6 70.Re7 Ra4+ 71.Bf4 Kf6 72.Rb7 Ra1
+73.Bg5+ Ke6 74.Kh5 Ra8 75.Kg6 Rg8+ 76.Rg7 Ra8 77.h5 Ra6 78.h6 Ke5+ 79.Kh5 Ra8
+80.h7 Kf5 81.Rg8 Ra2 82.Rf8+  1-0

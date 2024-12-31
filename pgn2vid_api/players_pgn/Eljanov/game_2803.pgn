@@ -1,0 +1,14 @@
+[Event "AI Cup Div 2 L"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "2.1"]
+[White "Dominguez Perez,L"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2745"]
+[BlackElo "2695"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.d4 Nf6 5.dxe5 dxe5 6.Qxd8+ Nxd8 7.Nxe5 Bd6 8.Nf3 Nxe4
+9.O-O Be6 10.Re1 Bxc4 11.Rxe4+ Be6 12.Nc3 a6 13.Bf4 Bxf4 14.Rxf4 O-O 15.Re1 h6
+16.Ne5 Re8 17.h4 f6 18.Nd3 Bf7 19.Rxe8+ Bxe8 20.Re4  1/2-1/2

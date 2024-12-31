@@ -1,0 +1,20 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.2"]
+[White "Niemann,Hans Moke"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2667"]
+[BlackElo "2726"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.d3 e6 7.c4 Be7 8.Nc3 Ne5
+9.Ne1 Nc6 10.f4 O-O 11.Nf3 a6 12.a4 Rb8 13.h3 Ne8 14.Be3 Nc7 15.d4 b5 16.axb5 cxd4
+17.Nxd4 Nxd4 18.Bxd4 axb5 19.cxb5 Nxb5 20.Nxb5 Rxb5 21.Qd3 Rb7 22.f5 Bf6
+23.fxe6 Bxd4+ 24.Qxd4 fxe6 25.Rxf8+ Qxf8 26.Qc4 Rxb2 27.Qxe6+ Kh8 28.Rf1 Qb8
+29.Rf7 h6 30.Re7 Qb6+ 31.Kh2 Qf2 32.Re8+ Kh7 33.Qg8+ Kg6 34.Re6+ Kh5 35.Qxg7 Qf4+
+36.Qg3 Qxg3+ 37.Kxg3 Rd2 38.h4 Rd1 39.Rf6 Re1 40.Re6 Rd1 41.Kf4 Rf1+ 42.Ke3 Re1+
+43.Kf2 Rd1 44.Kg3 Re1 45.Kf3 Rf1+ 46.Ke2 Rg1 47.Kf2 Rd1 48.g3 Rd3 49.Kg2 d5
+50.e5 Re3 51.Kh3 d4 52.Ra6 d3 53.Rf6 d2 54.Rd6 d1=Q 55.Rxd1 Rxe5 56.Rd6 Re3
+57.Kg2 Rxg3+ 58.Kxg3  1/2-1/2

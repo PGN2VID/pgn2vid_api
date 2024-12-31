@@ -1,0 +1,21 @@
+[Event "Chess.net Comp"]
+[Site "Internet"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Comp Crafty"]
+[Black "Kudrin, Sergey"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo "2515"]
+[ECO "B36"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7
+9.O-O O-O 10.Qd3 Be6 11.Bd2 a6 12.b3 Qb6 13.Rad1 Rfc8 14.Nd5 Nxd5 15.exd5 Bf5
+16.Qg3 a5 17.Be3 Qb4 18.Bg5 Rc7 19.Bd3 Bxd3 20.Qxd3 a4 21.Rfe1 axb3 22.axb3 Kf8
+23.Qh3 h5 24.Qe3 f6 25.Ra1 Ra3 26.Bh6 g5 27.Bxg7+ Kxg7 28.Rxa3 Qxa3 29.Qf3 h4
+30.Kf1 Qb4 31.Qd3 Qa5 32.Rd1 b6 33.Re1 Ra7 34.Ke2 Qc5 35.Kf3 Kh6 36.Re6 Ra2
+37.Re2 Rxe2 38.Kxe2 Qa3 39.g3 Qb2+ 40.Kf3 hxg3 41.hxg3 g4+ 42.Kxg4 Qxf2 43.Qe4 Qf1
+44.Kh4 Qd1 45.Qe3+ Kg6 46.g4 Qh1+ 47.Kg3 Qd1 48.Qxb6 Qe1+ 49.Qf2 Qc3+ 50.Qf3 Qe1+
+51.Kh3 Qd2 52.Qe4+ Kf7 53.Kg3 Qc3+ 54.Qf3 Qe1+ 55.Kg2 Qd2+ 56.Qf2 Qc3 57.Qe2 Kf8
+58.Qd1 Kf7 59.Kf2 Kf8 60.Ke2 Ke8 61.Qd3 Qb2+ 62.Kf3 Kd8 63.Qe3 Qc2 64.Kg3 Qb2
+65.Kf4 Qc2 66.Kf3 Qb2 67.Qb6+  1-0

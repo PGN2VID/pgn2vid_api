@@ -1,0 +1,25 @@
+[Event "Levitov Dubov-Firouzja Bl"]
+[Site "lichess.org INT"]
+[Date "2021.05.19"]
+[Round "11"]
+[White "Dubov,Daniil"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteElo "2710"]
+[BlackElo "2759"]
+[ECO "E70"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 O-O 6.Nge2 e5 7.d5 a5 8.O-O Na6
+9.Ng3 h5 10.Bg5 Qe8 11.Qd2 Nh7 12.Bh6 Nc5 13.Bc2 Qe7 14.Bxg7 Kxg7 15.Rae1 h4
+16.Nge2 g5 17.h3 Rg8 18.Nd1 Nf8 19.Ne3 Ng6 20.Nc3 Kf8 21.Bd1 Nf4 22.Bg4 Bxg4
+23.hxg4 Rh8 24.Nf5 Qd8 25.g3 Ng6 26.Kg2 Ke8 27.Rh1 Kd7 28.Rh3 Qf6 29.Reh1 Ne7
+30.Qc2 Nxf5 31.exf5 hxg3 32.Kxg3 Rxh3+ 33.Rxh3 e4 34.Kg2 Re8 35.Re3 Qe5 36.a3 Qf4
+37.Qe2 Rh8 38.Rh3 Rxh3 39.Kxh3 Nd3 40.Kg2 Qc1 41.Qxe4 Nf4+ 42.Kh2 Qxb2 43.Qd4 Qc2
+44.Ne4 b6 45.Nf6+ Kc8 46.Ne4 Kb7 47.Nxg5 Nd3 48.Ne4 Ne5 49.Kg3 Nxc4 50.f3 Ne5
+51.Qe3 Qc4 52.Nf6 b5 53.f4 Nd3 54.g5 b4 55.axb4 axb4 56.g6 fxg6 57.fxg6 b3
+58.g7 b2 59.g8=Q b1=Q 60.Nd7 Qxf4+ 61.Qxf4 Qg1+ 62.Kf3 Qxg8 63.Qf5 Nb4 64.Nf6 Qg1
+65.Qe4 Qf1+ 66.Kg4 Nd3 67.Qf5 Ne5+ 68.Kg5 Qg2+ 69.Kh6 Kb6 70.Qb1+ Kc5 71.Qc1+ Kd4
+72.Qd1+ Ke3 73.Qc1+ Kd4 74.Qa1+ Kc4 75.Qc1+ Kd3 76.Qb1+ Ke3 77.Qc1+ Kf3 78.Qd1+ Kf4
+79.Qh5 Qg3 80.Kh7 Qd3+ 81.Kg7 Qg3+ 82.Kf8 Ke3 83.Ke7 Qg7+ 84.Ke6 Nd3 85.Qh3+ Kd4
+86.Qh4+ Kc3 87.Ne4+ Kb3 88.Nf6 Qg6 89.Kd7 Qf7+ 90.Kd8 Ne5 91.Qh3+ Kc4 92.Ne8 Kxd5
+93.Nxc7+ Kc6 94.Qc3+ Nc4  0-1

@@ -1,0 +1,26 @@
+[Event "Chess.com Rapid Wk7 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.03.26"]
+[Round "5"]
+[White "Andreikin,D"]
+[Black "Martinez Alcantara,Jose Eduardo"]
+[Result "1-0"]
+[WhiteElo "2724"]
+[BlackElo "2598"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Bxd2+ 6.Nfxd2 Nc6 7.e3 d6 8.Nc3 e5
+9.d5 Nb8 10.Bg2 h5 11.Qc2 h4 12.O-O-O a5 13.h3 hxg3 14.fxg3 Na6 15.g4 Nd7
+16.Nde4 Ndc5 17.Rdf1 Bd7 18.Nxc5 Nxc5 19.Ne4 Nxe4 20.Bxe4 Qg5 21.Qf2 f6 22.h4 Qxg4
+23.Bd3 O-O-O 24.Rfg1 Qh5 25.Rxg7 f5 26.Qg3 Rdf8 27.Qg5 Qxg5 28.Rxg5 Kd8 29.h5 Rh6
+30.Kd2 Ke7 31.Rg6 Rxg6 32.hxg6 Kf6 33.Rh6 Rd8 34.b3 Kg7 35.Rh7+ Kxg6 36.Re7 Kf6
+37.Rh7 b6 38.a3 Kg6 39.Re7 Kf6 40.Rh7 Kg5 41.b4 axb4 42.axb4 Kg6 43.Re7 Kf6
+44.Rh7 Kg6 45.Rh1 Ra8 46.Rg1+ Kf6 47.Rh1 Ra2+ 48.Kc3 Ra3+ 49.Kd2 e4 50.Bc2 f4
+51.Rf1 f3 52.Bxe4 Ra2+ 53.Kc3 Ra3+ 54.Kd4 Rb3 55.Rxf3+ Ke7 56.Bc2 Ra3 57.Rg3 Kf6
+58.Rg6+ Kf7 59.Rh6 Ke7 60.Rh7+ Kd8 61.Rh8+ Ke7 62.Bg6 Ra1 63.Rh7+ Kd8 64.e4 Rd1+
+65.Ke3 Rg1 66.Bf5 Bxf5 67.exf5 Rf1 68.Ke4 Kc8 69.b5 Kd8 70.Rh8+ Ke7 71.Rh7+ Kd8
+72.Rf7 Rf2 73.Rg7 Rf1 74.Rh7 Rf2 75.Rf7 Rf1 76.Ke3 Kc8 77.Rf6 Kd7 78.Ke4 Rf2
+79.Rh6 Kd8 80.Rh4 Rc2 81.Kf4 Rxc4+ 82.Kg5 Rc5 83.f6 Rxd5+ 84.Kg6 Rd1 85.Rh7 Rg1+
+86.Kf5 Rf1+ 87.Ke6 Re1+ 88.Kd5 Rd1+ 89.Kc6 Rc1+ 90.Kb7 Rf1 91.f7 Ke7 92.Kxc7 d5
+93.Kxb6 d4 94.f8=Q+ Kxf8 95.Rd7 Rd1 96.Kb7 d3 97.b6 Ke8 98.Rd6 d2 99.Kb8 Ke7
+100.Rd3 Ke6 101.b7 Ke5 102.Rd7 Ke4 103.Kc8 Ke3 104.b8=Q  1-0

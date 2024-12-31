@@ -1,0 +1,22 @@
+[Event "Titled Tue 16th Aug Late"]
+[Site "chess.com INT"]
+[Date "2022.08.16"]
+[Round "1"]
+[White "Kamsky,G"]
+[Black "Postnikov,D"]
+[Result "1-0"]
+[WhiteElo "2666"]
+[BlackElo "2360"]
+[ECO "C02"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 f6 7.Bd3 fxe5 8.dxe5 c4 9.Bc2 g6
+10.O-O Bg7 11.Qe2 Nh6 12.Be3 Qc7 13.Bf4 O-O 14.Bg3 Qb6 15.Ra2 Nf5 16.Nbd2 Bd7
+17.Bxf5 Rxf5 18.Re1 g5 19.h3 Raf8 20.Nf1 h6 21.N1h2 Be8 22.Raa1 Bh5 23.Ng4 Bxg4
+24.hxg4 R5f7 25.Rad1 Qc5 26.Nd4 Nxd4 27.Rxd4 b5 28.f3 a5 29.Bf2 Qc7 30.Rdd1 Rb8
+31.Qc2 b4 32.axb4 axb4 33.Bd4 Rf4 34.Ra1 Rb7 35.Qg6 Qc8 36.Ra6 Re7 37.Rea1 Rf8
+38.cxb4 Qe8 39.Qxe8 Rfxe8 40.b5 Rb7 41.b6 Reb8 42.Ra8 Bf8 43.Rxb8 Rxb8 44.Ra7 Bb4
+45.Kf2 Bf8 46.g3 Bb4 47.f4 gxf4 48.gxf4 Bd2 49.f5 exf5 50.gxf5 Bg5 51.f6 Kf8
+52.e6 c3 53.bxc3 Bf4 54.b7 Bd6 55.Ra8 Ke8 56.Ba7 Rxa8 57.bxa8=R+ Bb8 58.Bxb8 Kf8
+59.Kf3 Ke8 60.Kg4 Kf8 61.Kh5 Ke8 62.Kxh6 Kf8 63.Kg6 Ke8 64.Kf5 Kf8 65.Ke5 Ke8
+66.Kxd5 Kf8 67.c4 Ke8 68.c5 Kf8 69.c6 Ke8 70.c7 Kf8 71.c8=B Ke8 72.Bd7+ Kf8
+73.e7+ Kg8 74.e8=N Kh7 75.f7 Kh6 76.f8=N Kg5  1-0

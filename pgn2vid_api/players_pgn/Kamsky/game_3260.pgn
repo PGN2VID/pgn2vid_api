@@ -1,0 +1,22 @@
+[Event "Speed Chess GP3 2021"]
+[Site "chess.com INT"]
+[Date "2021.10.02"]
+[Round "1"]
+[White "Vusatiuk,V"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2323"]
+[BlackElo "2662"]
+[ECO "E55"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O dxc4 8.Bxc4 Nbd7
+9.a3 Ba5 10.Ne2 cxd4 11.b4 Bc7 12.Nexd4 Nb6 13.Bb3 e5 14.Nb5 Bb8 15.Bb2 a6
+16.Nc3 Qe7 17.e4 Be6 18.Rc1 Rd8 19.Qc2 Ba7 20.h3 Rac8 21.Bxe6 Qxe6 22.Rfd1 Nc4
+23.Rxd8+ Rxd8 24.Rd1 Rxd1+ 25.Nxd1 b5 26.Bc1 Qc6 27.Nd2 h6 28.Ne3 Bxe3 29.fxe3 Na5
+30.Qxc6 Nxc6 31.Bb2 Ne8 32.Kf2 Nd6 33.Ke2 h5 34.Kd3 f6 35.Nb3 Nb7 36.Bc3 Kf7
+37.Be1 Ke6 38.g4 hxg4 39.hxg4 Ncd8 40.Bh4 Nf7 41.Ke2 Nfd6 42.Kd3 Nc4 43.g5 fxg5
+44.Bxg5 Nxa3 45.Nd2 a5 46.bxa5 Nxa5 47.Bd8 Nc6 48.Bh4 b4 49.Nb3 Kd6 50.Be1 g6
+51.Nd2 Kc5 52.Nb3+ Kb5 53.Bg3 Nc4 54.Bh2 Nb6 55.Bg3 Nd7 56.Nd2 Nc5+ 57.Kc2 g5
+58.Bh2 g4 59.Bg3 Nd7 60.Kd3 Kc5 61.Nb3+ Kb5 62.Nd2 Nf6 63.Nf1 Nh5 64.Be1 Ka4
+65.Nh2 g3 66.Nf3 g2 67.Bf2 b3 68.Nd2 Ka3 69.Kc3 b2 70.Kc2 Ka2 71.Nb1 Nb4+
+72.Kc3 Kxb1 73.Kxb4 Kc2  0-1

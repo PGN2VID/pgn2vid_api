@@ -1,0 +1,18 @@
+[Event "Chess.com RCC Wk21 KO"]
+[Site "chess.com INT"]
+[Date "2022.07.17"]
+[Round "1.1"]
+[White "Andreikin,D"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2745"]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Qc2 d5 6.cxd5 exd5 7.Bg5 h6 8.Bh4 c5
+9.e3 cxd4 10.Nxd4 Nc6 11.Rd1 Bg4 12.Be2 Nxd4 13.Rxd4 Bxc3+ 14.bxc3 Bxe2 15.Qxe2 Rc8
+16.Qb2 b6 17.O-O Qd6 18.Rfd1 Qe6 19.Bxf6 Qxf6 20.R1d3 Rfd8 21.Qd2 Rd7 22.g3 Rdc7
+23.h4 Rc5 24.Rxd5 Rxd5 25.Rxd5 Qxc3 26.Rd8+ Kh7 27.Qxc3 Rxc3 28.Rd7 Ra3 29.Rxf7 Rxa2
+30.Rb7 h5 31.Kg2 Kg6 32.e4 Kf6 33.Kf3 g6 34.Ke3 Ra5 35.Kf4 Ra4 36.f3 Ra5
+37.g4 hxg4 38.fxg4 g5+ 39.hxg5+ Kg6 40.Rd7 Ra1 41.Rd6+ Kg7 42.g6 Rc1 43.e5 Rc7
+44.Kf5 b5 45.Rd5 b4 46.e6 Rc1 47.Rd7+ Kg8 48.e7 Re1 49.Rd8+  1-0

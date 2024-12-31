@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "20"]
+[White "Teichmann, Richard"]
+[Black "Tarrasch, Siegbert"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6 7.Bxc6 bxc6 8.dxe5 Nb7
+9.Nc3 O-O 10.Re1 f6 11.Bf4 fxe5 12.Bxe5 Bc5 13.Bd4 Bxd4 14.Qc4+ d5 15.Qxd4 Bf5
+16.Re2 Rf6 17.Rae1 Nd6 18.Ne5 Ne4 19.Nxe4 Bxe4 20.f3 Bf5 21.Nxc6 Rxc6 22.Re8+ Qxe8
+23.Rxe8+ Rxe8 24.Qxd5+ Rce6 25.Qxf5 Re1+ 26.Kf2 R1e2+ 27.Kg3 R8e6 28.Qd5 h6
+29.Qd3 c6 30.b4 R6e3 31.Qd4 Re6 32.Qd3 Re7 33.a4 Kf7 34.c4 R2e6 35.c5 Ke8
+36.b5 cxb5 37.axb5 Re3 38.Qg6+ Kd8 39.Qc6 Rd7 40.Qa8+ Ke7 41.c6  1-0

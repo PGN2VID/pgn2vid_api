@@ -1,0 +1,25 @@
+[Event "Titled Tue 21st Feb Late"]
+[Site "chess.com INT"]
+[Date "2023.02.21"]
+[Round "10"]
+[White "Pichot,A"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2638"]
+[BlackElo "2664"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 g6 7.O-O Bg7 8.Re1 O-O
+9.Nbd2 b5 10.Bc2 Bb7 11.a4 Re8 12.Nf1 Nb8 13.Bg5 h6 14.Bh4 Nbd7 15.Ne3 Qb8
+16.b4 c5 17.Bb3 Qc7 18.h3 Nb6 19.Bxf6 Bxf6 20.a5 Nd7 21.Bd5 Bg7 22.Qb3 Nf6
+23.Rac1 Rac8 24.c4 Nxd5 25.cxd5 Qd8 26.Rc2 h5 27.Rec1 Bf8 28.Qb2 Qf6 29.Nd2 Rc7
+30.Nb3 Rec8 31.Rc3 Qd8 32.Qc2 Qe7 33.g3 Ba8 34.h4 Bb7 35.Qe2 Qf6 36.R1c2 Be7
+37.Qd1 Qg7 38.Qc1 Qf8 39.Kh2 Ba8 40.Nf1 f5 41.Nfd2 Bb7 42.Nf3 fxe4 43.dxe4 c4
+44.Nbd2 Bf6 45.Nf1 Rf7 46.Kg1 Qe7 47.Qh6 Rg7 48.Ne1 Rf8 49.Rf3 Bc8 50.Nh2 Bd7
+51.Ng2 Be8 52.Qe3 g5 53.hxg5 Bxg5 54.Rxf8+ Qxf8 55.Qb6 Bg6 56.f3 Rf7 57.Rf2 c3
+58.Qc6 Bxe4 59.Qxc3 Bxd5 60.f4 exf4 61.gxf4 Bf6 62.Qd3 Bb7 63.Nf3 Rg7 64.Kh2 Qf7
+65.Re2 Qg6 66.Qxg6 Rxg6 67.Ngh4 Bxh4 68.Nxh4 Rg4 69.Kh3 Rxf4 70.Re8+ Kf7
+71.Rb8 Bc6 72.Rb6 Bd7+ 73.Kg3 Rg4+ 74.Kh3 Rxb4+ 75.Kg3 Rg4+ 76.Kh3 Ra4+ 77.Kg3 Rxa5
+78.Nf3 Ra3 79.Kf4 Ke7 80.Nd4 Ra4 81.Ke4 a5 82.Rb8 Rc4 83.Kd5 Rc5+ 84.Ke4 Re5+
+85.Kf4 b4 86.Ra8 Rc5 87.Rh8 a4 88.Rb8 b3 89.Ke4 Re5+ 90.Kd3 h4 91.Nf3 Rh5
+92.Rg8 h3 93.Rg7+ Kd8 94.Rg8+ Kc7 95.Rh8 Rxh8  0-1

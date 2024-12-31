@@ -1,0 +1,28 @@
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2023.06.13"]
+[Round "1.18"]
+[White "Ohanyan,Emin"]
+[Black "Gukesh,D"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2736"]
+[ECO "B76"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6
+9.O-O-O d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Bd4 e5 13.Bc5 Be6 14.Ne4 Qc7 15.h4 Rfd8
+16.h5 Nf4 17.Bd6 Qb6 18.hxg6 fxg6 19.g3 Nd5 20.Bc4 Bf7 21.Bc5 Qc7 22.Rxh7 Kxh7
+23.Rh1+ Kg8 24.Qh2 Ne7 25.Qh7+ Kf8 26.Bxf7 Kxf7 27.Ng5+ Kf6 28.Ne4+ Kf7 29.Ng5+ Kf6
+30.Ne4+ Ke6 31.Qxg7 Rf8 32.Bxe7 Qxe7 33.Qxg6+ Kd7 34.Rd1+ Kc7 35.Qg4 Rad8
+36.Re1 Qb4 37.Rh1 Rf7 38.Qh5 Rfd7 39.Qxe5+ Kb6 40.Qc3 Qxc3 41.Nxc3 Rf7 42.Rf1 Rg8
+43.Ne4 Rg4 44.Re1 Rxf3 45.Kd2 Rf5 46.Nc3 Rxg3 47.Re2 Rg6 48.b3 Rf7 49.Kc1 Kb7
+50.Kb2 Rg5 51.Na4 a5 52.Rd2 Rd5 53.Rh2 Rfd7 54.Nc3 Re5 55.a4 Kb6 56.Nb1 Kc5
+57.Na3 Re4 58.Rh5+ Rd5 59.Rh2 Kb4 60.Nb1 Kc5 61.Nc3 Ree5 62.Nxd5 Rxd5 63.Kc3 Kb6
+64.Rh4 Rg5 65.Kd4 Rg3 66.Kc4 Rf3 67.Re4 Rg3 68.Rf4 Rh3 69.Rf8 Rh4+ 70.Kc3 Rh3+
+71.Kb2 Rg3 72.Rf2 Rh3 73.Rg2 Re3 74.c3 Rf3 75.Rc2 Rh3 76.b4 Rh4 77.Kb3 Rh1
+78.Rg2 Rh3 79.Rg6 axb4 80.Kxb4 Rh4+ 81.c4 Rh5 82.Rf6 Rg5 83.Rh6 Rf5 84.Rd6 Kc7
+85.c5 Rf4+ 86.Kb3 Rf3+ 87.Kc4 Rf4+ 88.Rd4 Rf1 89.Rh4 Rc1+ 90.Kb4 Rb1+ 91.Ka5 Rb2
+92.Rh7+ Kb8 93.Rg7 Rb1 94.Re7 Rb2 95.Rh7 Rb1 96.Ka6 Rb4 97.a5 Rb5 98.Rh5 Kc7
+99.Rg5 Kc8 100.Rg8+ Kc7 101.Rg7+ Kc8 102.Ka7 Rxa5+ 103.Kb6 Ra1 104.Rh7 Rg1
+105.Rh6 Rf1 106.Rh8+ Kd7 107.Rh7+ Kc8 108.Rc7+ Kb8 109.Rd7 Kc8 110.Rd6 Rg1
+111.Rh6 Rf1 112.Kxc6 Kd8 113.Rh8+ Ke7 114.Kc7 Ra1 115.c6 Rc1 116.Rh2  1-0

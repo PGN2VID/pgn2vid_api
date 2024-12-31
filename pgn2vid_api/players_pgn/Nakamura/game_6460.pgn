@@ -1,0 +1,13 @@
+[Event "Titled Tue 9th May Late"]
+[Site "chess.com INT"]
+[Date "2023.05.09"]
+[Round "6"]
+[White "Milikow,Yoav"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2394"]
+[BlackElo "2775"]
+[ECO "A40"]
+
+1.d4 e6 2.c4 b6 3.e4 Bb7 4.Bd3 f5 5.exf5 Bxg2 6.Qh5+ g6 7.fxg6 Bg7 8.gxh7+ Kf8
+9.hxg8=R+ Kxg8 10.Nf3  0-1

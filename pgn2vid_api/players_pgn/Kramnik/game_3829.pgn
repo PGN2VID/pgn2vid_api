@@ -1,0 +1,20 @@
+[Event "AI Cup Play-In Match 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "1.2"]
+[White "Niemann,Hans Moke"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2667"]
+[BlackElo "2753"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 b6
+9.O-O Bb7 10.Bf4 Nce4 11.Ng5 Bxc3 12.bxc3 Nxg5 13.Bxg5 Bxg2 14.Kxg2 Rc8 15.Qa4 Rc7
+16.Rfd1 Qa8+ 17.f3 d5 18.Rd4 Rfc8 19.cxd5 Nxd5 20.c4 Ne7 21.Bxe7 Rxe7 22.Rad1 Rec7
+23.Rd7 g6 24.h4 h5 25.Qa3 Rxd7 26.Rxd7 Qc6 27.Qe7 Rf8 28.Rxa7 Qxc4 29.Kf2 Qd4+
+30.Kf1 Qe5 31.Kf2 Qf5 32.Rd7 Kg7 33.Qd6 b5 34.Qd4+ Kh7 35.Qf4 Qc5+ 36.Qd4 Qxd4+
+37.Rxd4 Ra8 38.Rd7 Kg7 39.Rb7 Ra5 40.Ke1 Kf6 41.f4 e5 42.fxe5+ Kxe5 43.Rxf7 Rxa2
+44.Rb7 Rb2 45.Rb6 Kf5 46.Kf2 b4 47.Kf3 b3 48.Rb5+ Ke6 49.Ke3 Rb1 50.Rg5 Rg1
+51.Rxg6+ Kd5 52.Rb6 Rxg3+ 53.Kf4 Rg4+ 54.Kf5 Kc4 55.e4 Rxh4 56.e5 Rh1 57.e6 Re1
+58.Kg5 Kc3 59.Rc6+ Kd4 60.Rb6 Re5+ 61.Kf6 Re3 62.e7 h4 63.Rxb3 Re1  1-0

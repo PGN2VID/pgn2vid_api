@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam"]
+[Date "1978.??.??"]
+[Round "12"]
+[White "Christiansen, Larry Mark"]
+[Black "Bohm, Hans"]
+[Result "0-1"]
+[WhiteElo "2490"]
+[BlackElo "2410"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 g6 6.Nf3 Bf5 7.Bxf5 gxf5 8.c4 dxc4
+9.d5 Qa5+ 10.Nc3 Rd8 11.O-O Nf6 12.Bd2 Nxd5 13.Qe2 Rg8 14.Rad1 Qc5 15.Nxd5 Qxd5
+16.Be3 Qe4 17.Rxd8+ Nxd8 18.Rd1 Nc6 19.Kf1 f6 20.Qd2 Kf7 21.Qd5+ Qxd5 22.Rxd5 Ke6
+23.Rc5 Rg4 24.g3 Re4 25.Nd2 Re5 26.Rxc4 Ra5 27.a4 Kf7 28.Nb3 Rd5 29.Nd4 Nxd4
+30.Bxd4 a6 31.Bb6 Rd7 32.Ke2 e5 33.Rc8 Bb4 34.Be3 Ke6 35.h4 Bd6 36.Bb6 f4
+37.gxf4 exf4 38.Bc5 Be5 39.b4 Kf5 40.Rg8 Ke4 41.f3+ Kd5 42.h5 Ke6 43.h6 f5
+44.Re8+ Kf6 45.Rf8+ Kg6 46.a5 Bf6 47.Bf2 Bg5 48.Rc8 Kxh6 49.b5 axb5 50.Rc5 Re7+
+51.Kf1 Kg6 52.Rxb5 Bf6 53.Rb6 Kg5 54.a6 bxa6 55.Rxa6 Rc7 56.Re6 Rc1+ 57.Kg2 Rc2
+58.Kf1 h6 59.Re8 Bb2 60.Bb6 Bf6 61.Bf2 Rd2 62.Be1 Rd5 63.Kg2 Bd4 64.Re2 Be3
+65.Kh3 Rd1 66.Kg2 Kg6 67.Bb4 Kf7 68.Rc2 Rg1+ 69.Kh2 Rg3 70.Be1 Rg1 71.Bb4 Rb1
+72.Ba3 Rf1 73.Kg2 Rg1+ 74.Kh2 Rg3 75.Rc6 Rxf3 76.Rxh6 Rf2+ 77.Kh3 Ra2 78.Bd6 Ra6
+79.Rh7+ Ke6 80.Bb8 Ra8 81.Rh8 Kd5 82.Re8 Kc4 83.Rd8 f3 84.Rf8 f4  0-1

@@ -1,0 +1,14 @@
+[Event "London sim"]
+[Site "London"]
+[Date "1879.??.??"]
+[Round "?"]
+[White "Baddeley"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.O-O d6 6.Bxc6+ bxc6 7.h3 g5 8.Bxg5 Rg8
+9.Kh1 h6 10.Bh4 Bxh3 11.gxh3 Qd7 12.Ng1 Rxg1+ 13.Kxg1 Qxh3 14.Nd2 Ng4 15.Nf3 Kd7
+16.d4 Rg8 17.Bg3 Ne3  0-1

@@ -1,0 +1,18 @@
+[Event "AI Cup Div 2 L"]
+[Site "chess.com INT"]
+[Date "2023.09.28"]
+[Round "5.2"]
+[White "Caruana,F"]
+[Black "Kuzubov,Y"]
+[Result "0-1"]
+[WhiteElo "2786"]
+[BlackElo "2625"]
+[ECO "D35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 c6 6.e3 Be7 7.Bd3 Nbd7 8.Nf3 Nh5
+9.Bxe7 Qxe7 10.O-O g6 11.Re1 O-O 12.Qc2 Ndf6 13.Ne5 Ng7 14.f3 Be6 15.Qf2 Rad8
+16.Bf1 h5 17.Rad1 Nd7 18.Nd3 Qf6 19.b4 Bf5 20.e4 dxe4 21.fxe4 Bg4 22.Rd2 Qxf2+
+23.Kxf2 Rfe8 24.a4 Nf8 25.d5 cxd5 26.Nxd5 Nd7 27.Nc5 Nxc5 28.bxc5 Kf8 29.Rb2 Bc8
+30.a5 Ne6 31.Rc2 Ng5 32.Nf6 Re5 33.a6 bxa6 34.h4 Ne6 35.c6 Nd4 36.Rc4 Rd6
+37.Nh7+ Kg7 38.Ng5 Nxc6 39.Nf3 Re8 40.e5 Rde6 41.Rc5 Bb7 42.Bc4 R6e7 43.Kg3 Rd8
+44.e6 fxe6 45.Ng5 Nd4 46.Rd1 Nf5+  0-1

@@ -1,0 +1,22 @@
+[Event "chess.com Speed 1m+1spm 2018"]
+[Site "chess.com INT"]
+[Date "2018.10.11"]
+[Round "2.32"]
+[White "Vachier Lagrave,M"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2779"]
+[BlackElo "2777"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.Nf3 Nc6 5.Nc3 a6 6.dxc5 e6 7.Na4 Bxc5 8.Nxc5 Qa5+
+9.c3 Qxc5 10.Bd3 Qe7 11.Ne5 Nd7 12.Nxc6 bxc6 13.e4 Nc5 14.exd5 Nxd3+ 15.Qxd3 exd5+
+16.Be3 a5 17.O-O-O O-O 18.Rhe1 Be6 19.Qd4 Rfb8 20.Rd2 a4 21.Bf4 c5 22.Qxd5 Re8
+23.Qe4 a3 24.b3 Qf6 25.Be5 Qh6 26.Qf4 Bxb3 27.Qxh6 gxh6 28.axb3 a2 29.Kb2 Rxe5
+30.Ra1 Rb8 31.Rxa2 h5 32.Ra5 h4 33.h3 Kg7 34.b4 Kf6 35.Ka3 cxb4+ 36.cxb4 Re1
+37.b5 Ra1+ 38.Ra2 Rb1 39.Rb2 Ra1+ 40.Kb4 Rd1 41.Ra6+ Ke5 42.Rc6 Kd5 43.Rc5+ Kd6
+44.Rc4 Kd5 45.Rxh4 f5 46.Rxh7 Rd4+ 47.Ka5 Ra8+ 48.Kb6 Rb8+ 49.Rb7 Rd8 50.Rc2 Rb4
+51.Rc5+ Ke6 52.Rbc7 Rb2 53.R7c6+ Ke7 54.Re5+ Kf7 55.Rxf5+ Kg7 56.Kc7 Re8
+57.b6 Kh7 58.Kb7 Ree2 59.Rf7+ Kg8 60.Rd7 Re8 61.Rf6 Rbe2 62.h4 Rb2 63.h5 Kh8
+64.g4 Rb1 65.g5 Rb5 66.f4 Rb4 67.h6 Rb5 68.g6 Kg8 69.h7+ Kh8 70.Rf8+ Rxf8
+71.g7+ Kxh7 72.gxf8=Q+ Kg6 73.Qf7+  1-0

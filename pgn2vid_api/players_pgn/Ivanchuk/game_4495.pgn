@@ -1,0 +1,20 @@
+[Event "Chess.com Rapid Wk1 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.12"]
+[Round "4"]
+[White "Sarana,A"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2678"]
+[ECO "E41"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Nc6 6.Ne2 cxd4 7.exd4 d5 8.cxd5 Nxd5
+9.O-O O-O 10.a3 Be7 11.Nxd5 exd5 12.h3 Bf6 13.Be3 Re8 14.Rc1 Ne7 15.Ng3 g6
+16.Rc3 Bd7 17.Qb3 Bc6 18.Rfc1 Qd7 19.Qb4 Nc8 20.Be2 Nd6 21.Bg4 Qe7 22.Bf3 Rad8
+23.Qc5 Nc4 24.b4 Qd7 25.Rxc4 Be7 26.b5 Bxb5 27.Qxd5 Qxd5 28.Bxd5 Rxd5 29.Rc8 Rxc8
+30.Rxc8+ Kg7 31.Ne4 Rd8 32.Rc7 Rd7 33.Rc3 b6 34.f3 f5 35.Ng5 Bf6 36.Rc8 Re7
+37.Kf2 h6 38.f4 Rxe3 39.Kxe3 hxg5 40.Rc7+ Kf8 41.d5 a5 42.Rb7 gxf4+ 43.Kxf4 Bd8
+44.Ke5 Bc4 45.g4 fxg4 46.hxg4 b5 47.Ke6 a4 48.Rb8 Ke8 49.Kd6 Be2 50.g5 Bf3
+51.Kc6 Bg2 52.Rxb5 Bxg5 53.Kc7 Kf7 54.d6 Bf4 55.Rb4 Bxd6+ 56.Kxd6 Kf6 57.Rf4+ Kg5
+58.Rxa4 Kh5 59.Ke5 g5 60.Ra7 g4 61.Rg7 Kh4 62.Kf4 Kh3 63.Rh7+  1-0

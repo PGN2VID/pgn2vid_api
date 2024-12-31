@@ -1,0 +1,22 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "5"]
+[White "Abdrlauf,Elham"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2338"]
+[BlackElo "2752"]
+[ECO "A00"]
+
+1.g3 c5 2.Bg2 Nc6 3.e3 g6 4.Ne2 Bg7 5.O-O e6 6.d4 cxd4 7.exd4 d5 8.c3 Nge7
+9.Nd2 O-O 10.Nf3 b6 11.Nf4 Ba6 12.Nd3 Rc8 13.Re1 Na5 14.Nfe5 Nf5 15.Bf4 Nd6
+16.Qc1 Bxd3 17.Nxd3 Nac4 18.Bh6 Bxh6 19.Qxh6 a5 20.Rab1 Nf5 21.Qf4 Qf6 22.g4 g5
+23.Qf3 Nd2 24.Qe2 Nxb1 25.gxf5 Nxc3 26.bxc3 Qxf5 27.Qd2 Rc7 28.Ne5 Rfc8 29.Re3 f6
+30.Bh3 Qb1+ 31.Re1 Qb5 32.Bxe6+ Kg7 33.Bxc8 Rxc8 34.Nf3 Qd7 35.Nxg5 Qg4+
+36.Kh1 fxg5 37.Qe3 Rf8 38.Rg1 Qf3+ 39.Qxf3 Rxf3 40.Rxg5+ Kf6 41.Rxd5 Rxc3
+42.Rd6+ Kf5 43.Rxb6 Ke4 44.Kg2 Rc2 45.Rh6 Rxa2 46.Rxh7 a4 47.Ra7 a3 48.Ra4 Ra1
+49.h4 a2 50.h5 Kf5 51.d5 Kg5 52.d6 Kxh5 53.d7 Rd1 54.Rxa2 Rxd7 55.Ra5+ Kg6
+56.Ra4 Rg7 57.Ra3 Kf5+ 58.Kf3 Rc7 59.Ra5+ Kf6 60.Ra3 Kf7 61.Re3 Rb7 62.Kg4 Rb6
+63.f4 Rg6+ 64.Kf3 Rf6 65.Rd3 Rh6 66.Kg4 Rg6+ 67.Kf5 Rf6+ 68.Kg4 Rg6+ 69.Kf3 Rf6
+70.Rd4 Rg6 71.f5 Rh6 72.Kf4 Rh3 73.Ke5 Rh4 74.Rxh4  1-0

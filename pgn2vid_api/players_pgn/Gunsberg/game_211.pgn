@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "2"]
+[White "Blackburne, Joseph Henry"]
+[Black "Gunsberg, Isidor"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C46"]
+
+1.e4 e5 2.Nc3 Nc6 3.Nf3 Bc5 4.Be2 d6 5.d3 Nge7 6.Na4 Bb6 7.Nxb6 axb6 8.O-O Ng6
+9.d4 O-O 10.c3 h6 11.Ne1 exd4 12.cxd4 f5 13.exf5 Bxf5 14.g4 Be4 15.f3 Bd5
+16.Ng2 Qf6 17.Be3 Qe6 18.Bd3 Nh4 19.Nxh4 Qxe3+ 20.Kg2 Nxd4 21.Nf5 Bxf3+ 22.Rxf3 Qxf3+
+23.Qxf3 Nxf3 24.Kxf3 g6 25.Re1 gxf5 26.Re7 fxg4+ 27.Kxg4 Ra4+ 28.Kh5 Rf7
+29.Re6 Kg7 30.Rg6+ Kf8 31.Rg2 Rf6 32.Bb1 Raf4 33.Bh7 Rf2 34.Rg8+ Kf7 35.h3 Rxb2  0-1

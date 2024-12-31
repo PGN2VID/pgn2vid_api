@@ -1,0 +1,17 @@
+[Event "Simul"]
+[Site "Internet USCF"]
+[Date "2000.09.17"]
+[Round "1"]
+[White "Shirov,A"]
+[Black "rudenko"]
+[Result "1-0"]
+[WhiteElo "2746"]
+[BlackElo ""]
+[ECO "A40"]
+
+1.d4 Nc6 2.Nf3 Nf6 3.d5 Nb4 4.c4 e6 5.Nc3 exd5 6.cxd5 c6 7.e4 Qe7 8.Be2 Nxe4
+9.O-O f5 10.Re1 Nxd5 11.Nxd5 cxd5 12.Be3 Qe6 13.Nd4 Qe5 14.Nb5 Bd6 15.Nxd6+ Qxd6
+16.f3 Nf6 17.Rc1 b6 18.Qd2 O-O 19.Bf4 Qe7 20.Bd3 Qf7 21.Bd6 Re8 22.Rxe8+ Qxe8
+23.Re1 Qh5 24.Re5 Bb7 25.Rxf5 Qe8 26.Be5 Qe7 27.Bxf6 gxf6 28.Rh5 Re8 29.Bxh7+ Kf7
+30.h4 Qe1+ 31.Qxe1 Rxe1+ 32.Kf2 Rd1 33.Bf5 Rd2+ 34.Kg3 Bc6 35.Rh7+ Kg8 36.h5 Rxb2
+37.h6  1-0

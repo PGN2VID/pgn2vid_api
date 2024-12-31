@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "20"]
+[White "Von Popiel, Ignatz"]
+[Black "Maroczy, Geza"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Be3 d5 7.exd5 Nxd5 8.O-O Bd6
+9.Nc3 Nxe3 10.fxe3 Qh4 11.Nf3 Qh6 12.Qe2 O-O 13.Ne4 Bc7 14.Rae1 Ne5 15.Nxe5 Bxe5
+16.g3 f5 17.Nc3 Bd7 18.Nd1 Bc6 19.Qf2 Rf6 20.Be2 Bxg3 21.Qxg3 Rg6 22.Bf3 Rxg3+
+23.hxg3 Rd8 24.Bxc6 bxc6 25.Rf2 Qh3 26.Rg2 Qg4 27.Nf2 Qb4 28.Re2 Qxb2 29.Nd3 Qxa2
+30.g4 fxg4 31.Nf4 e5 32.Nd3 h5 33.Kh2 Qe6  0-1

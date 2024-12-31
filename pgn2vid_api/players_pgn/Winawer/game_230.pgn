@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "3"]
+[White "Reggio, Arturo"]
+[Black "Winawer, Szymon"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6 7.Bxc6 bxc6 8.dxe5 Nb7
+9.Nc3 Nc5 10.Nd4 O-O 11.Qh5 g6 12.Qf3 Ne6 13.Rd1 Nxd4 14.Rxd4 f6 15.e6 d5
+16.Bh6 Re8 17.Nxd5 cxd5 18.Rxd5 Bd6 19.Rxd6 Qxd6 20.Qxa8 Qxe6 21.h3 g5 22.Qxa7 Qc6
+23.Qd4 Bb7 24.Qg4 Re4 25.Qg3 Rh4 26.Bxg5 fxg5 27.Qxg5+ Kf7 28.Rd1 Qf6 29.Rd7+ Ke6
+30.Qxf6+ Kxf6 31.Rxc7 Rb4 32.b3 Be4 33.f3 Bg6 34.Kf2 Ke5 35.Ke3 Kd6 36.Rc8  1-0

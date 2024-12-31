@@ -1,0 +1,19 @@
+[Event "Human vs Computer"]
+[Site "Bilbao ESP"]
+[Date "2004.10.07"]
+[Round "2"]
+[White "Ponomariov,R"]
+[Black "FRITZ"]
+[Result "1/2-1/2"]
+[WhiteElo "2722"]
+[BlackElo ""]
+[ECO "E97"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.dxe5 dxe5
+9.Bg5 Qxd1 10.Rfxd1 Bg4 11.h3 Bxf3 12.Bxf3 Nd4 13.Nd5 Nxd5 14.cxd5 f5 15.Rd2 Rf7
+16.Be3 Nxf3+ 17.gxf3 Bf8 18.Rc1 a5 19.Kf1 Bd6 20.Ke2 Kf8 21.Rdc2 a4 22.Rc4 Ke7
+23.h4 Kd7 24.h5 gxh5 25.Rh1 f4 26.Bd2 a3 27.b3 h4 28.Rxh4 Rc8 29.Kd3 Rg8
+30.Rc1 Rg2 31.Ke2 Rgg7 32.Bc3 Re7 33.Rh5 Rg6 34.Rch1 Rgg7 35.Rf5 Rg2 36.Kf1 Rg8
+37.Rhh5 Rge8 38.Ke2 Rg8 39.Kf1 Rge8 40.Rfg5 c6 41.dxc6+ Kxc6 42.Rh6 b5 43.Ke2 Kd7
+44.Rgh5 b4 45.Bd2 Rf7 46.Rxh7 Rxh7 47.Rxh7+ Kc6 48.Rh6 Kc7 49.Rh7+ Kc6 50.Rh6 Kc7
+51.Rh7+  1/2-1/2

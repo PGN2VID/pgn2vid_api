@@ -1,0 +1,19 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.2"]
+[White "Sarana,A"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2693"]
+[BlackElo "2695"]
+[ECO "E47"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Ne2 cxd4 7.exd4 d5 8.c5 e5
+9.dxe5 Nfd7 10.O-O Nxe5 11.Nxd5 Nxd3 12.Qxd3 Bxc5 13.Bf4 Be6 14.Nec3 Nc6
+15.Rad1 Nb4 16.Qb5 Nxd5 17.Nxd5 Rc8 18.Nc7 Qe7 19.Qxb7 Bb6 20.Rc1 Bxa2 21.Qxc8 Rxc8
+22.Nd5 Qc5 23.Ne7+ Qxe7 24.Rxc8+ Bd8 25.Rd1 h6 26.Rcxd8+ Kh7 27.Be3 a5 28.h3 a4
+29.R8d4 Bb3 30.Rc1 Qe5 31.Rc8 Qf5 32.Rc1 Qe5 33.Rc3 Qf5 34.Rd2 Qb1+ 35.Kh2 Qf5
+36.Rc5 Qf6 37.Rd4 Qe7 38.Rg4 Qd6+ 39.Rg3 Qf6 40.Rc3 Qe5 41.Rd3 Qc7 42.Bd4 f6
+43.Rc3 Qd6 44.Bc5 Qb8 45.Be3 h5 46.h4 Qb4 47.Rc7 Qf8 48.Bc5 Qg8 49.Bd4 Qf8
+50.Kg1 Kg8 51.Bc5  1-0

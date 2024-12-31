@@ -1,0 +1,15 @@
+[Event "AI Cup Div 2 L"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "3.3"]
+[White "Dominguez Perez,L"]
+[Black "Kuzubov,Y"]
+[Result "0-1"]
+[WhiteElo "2745"]
+[BlackElo "2625"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7 4.O-O Nf6 5.d3 O-O 6.Nc3 d6 7.a4 Be6 8.Nd5 Bxd5
+9.exd5 Nb8 10.Re1 c6 11.dxc6 bxc6 12.Bb3 Nbd7 13.d4 e4 14.Nd2 d5 15.f3 exf3
+16.Nxf3 Bd6 17.c4 Rb8 18.Qd3 Re8 19.Rxe8+ Qxe8 20.cxd5 cxd5 21.Ba2 h6 22.Bd2 Rxb2
+23.Re1 Qb8 24.Ra1 Ne4 25.Bc1 Ndf6 26.Bxb2 Qxb2 27.Qf1 Ng4 28.Bxd5 Bxh2+ 29.Nxh2 Qxd4+  0-1

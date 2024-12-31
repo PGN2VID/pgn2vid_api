@@ -1,0 +1,20 @@
+[Event "chess.com Speed 2021"]
+[Site "chess.com INT"]
+[Date "2021.11.29"]
+[Round "1.26"]
+[White "Caruana,F"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteElo "2791"]
+[BlackElo "2766"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.a3 a6 9.Bd3 b5
+10.O-O c4 11.Be2 f5 12.Qd2 Nb6 13.Kh1 Bd7 14.Rg1 Qc7 15.Nd1 O-O-O 16.b4 Kb7
+17.Bf2 Ra8 18.Nc3 Qd8 19.Qe1 Be8 20.Rd1 Bh5 21.h3 Bxf3 22.Bxf3 h5 23.Qe2 h4
+24.Ra1 Qd7 25.Rgb1 Rhb8 26.a4 Nxa4 27.Nxa4 bxa4 28.c3 Kc7 29.Qe1 a5 30.b5 Na7
+31.Bd1 a3 32.Ba4 Qd8 33.Qc1 Nc8 34.Ra2 Nb6 35.Bd1 a4 36.Be3 Ra5 37.Qc2 Qd7
+38.Bc1 Rxb5 39.Rba1 Rb3 40.Bxa3 Bxa3 41.Rxa3 Qe7 42.R3a2 g5 43.Qd2 gxf4 44.Qxf4 Rxc3
+45.Bxa4 Ra8 46.Bb5 Rxa2 47.Rxa2 Kb7 48.Ba6+ Kc6 49.Rb2 Qa3 50.Bb5+ Kb7 51.Qxh4 Qxb2
+52.Qe7+ Kb8 53.Qd6+ Kc8 54.Qc6+ Kd8 55.Qe8+ Kc7 56.Qc6+ Kd8 57.Qxb6+ Ke7
+58.Qd6+ Kf7 59.Qd7+ Kg6 60.Qxe6+ Kg5 61.Qf6+ Kf4 62.Qh6+ Ke4 63.Qh4+ f4 64.Qe1+ Re3  0-1

@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "5"]
+[White "Teichmann, Richard"]
+[Black "Eisenberg, LR."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 b5 6.Bb3 d6 7.Ng5 Bg4 8.Bxf7+ Kd7
+9.f3 h6 10.fxg4 hxg5 11.d3 b4 12.Nd5 Nxd5 13.Bxd5 Be7 14.O-O Rf8 15.c3 Rxf1+
+16.Kxf1 Qb8 17.Qa4 Qb5 18.Qxb5 axb5 19.Bxc6+ Kxc6 20.cxb4 d5 21.a3 dxe4 22.dxe4 Bxb4
+23.Bxg5 Bc5 24.Ke2 Bd4 25.Rc1+ Kd6 26.Rc2 c5 27.h4 Rf8 28.Ke1 Ke6 29.h5 c4
+30.Bc1 Rc8 31.g5 Bc5 32.g6 b4 33.axb4 Bxb4+ 34.Ke2 Bf8 35.g4 Rc6 36.g5 Kd7
+37.Kf3 Be7 38.Kg4 Ke6 39.h6 gxh6 40.gxh6 Kd7 41.Kh5 Ke8 42.Rf2  1-0

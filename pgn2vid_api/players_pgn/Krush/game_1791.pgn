@@ -1,0 +1,15 @@
+[Event "Isolated Queens Swiss II"]
+[Site "chess.com INT"]
+[Date "2020.05.02"]
+[Round "6"]
+[White "Shuvalova,Polina"]
+[Black "Krush,I"]
+[Result "0-1"]
+[WhiteElo "2454"]
+[BlackElo "2429"]
+[ECO "B68"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Be7
+9.f4 Bd7 10.Nb3 b5 11.Bxf6 gxf6 12.g3 b4 13.Ne2 a5 14.Kb1 a4 15.Nbd4 Qb6
+16.Bg2 Rc8 17.Rhe1 a3 18.b3 Nxd4 19.Nxd4 Qc5 20.f5 e5 21.Ne2 h5 22.Nc1 h4
+23.Nd3 Qc3 24.Nxb4 Qb2+  0-1

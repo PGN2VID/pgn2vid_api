@@ -1,0 +1,20 @@
+[Event "Clichy sim"]
+[Site "Clichy"]
+[Date "1999.10.09"]
+[Round "1"]
+[White "Comp Chess Tiger"]
+[Black "Lautier, Joel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo "2638"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bxc6 Bxc6 8.d4 cxd4
+9.cxd4 Bxe4 10.Nc3 Bxf3 11.Qxf3 e6 12.Qxb7 Qc8 13.Qf3 Be7 14.d5 e5 15.Bg5 O-O
+16.Ne4 Nxd5 17.Nxd6 Qe6 18.Rad1 Bxg5 19.Rxd5 Bf6 20.b3 Rad8 21.Qd1 Qd7 22.Qd3 Qc6
+23.Rd1 Rd7 24.Ne4 Rxd5 25.Qxd5 Qxd5 26.Rxd5 Be7 27.Rxe5 Rc8 28.Kf1 Bb4 29.Rd5 h6
+30.Rd4 Rc1+ 31.Ke2 a5 32.Rc4 Ra1 33.Rc2 f5 34.Nd2 Kf7 35.Nf3 Kf6 36.Kd3 Rf1
+37.Ke3 Ke6 38.Nd4+ Ke5 39.f4+ Kd5 40.Nxf5 Bc5+ 41.Kd3 Rxf4 42.Nxg7 Rd4+ 43.Kc3 Rf4
+44.Rd2+ Ke5 45.Re2+ Kd5 46.Ne6 Bb4+ 47.Kd3 Rf1 48.Nc7+ Kd6 49.Nb5+ Kc6 50.Nc3 Rc1
+51.Rc2 Rh1 52.g3 Rf1 53.Kd4 Bc5+ 54.Ke5 Bd6+ 55.Ke6 Ba3 56.Ne4+ Kb6 57.Nd6 Re1+
+58.Kd7  1-0

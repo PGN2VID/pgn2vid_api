@@ -1,0 +1,22 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "5"]
+[White "Praggnanandhaa,R"]
+[Black "Matinian,N"]
+[Result "1-0"]
+[WhiteElo "2608"]
+[BlackElo "2470"]
+[ECO "A04"]
+
+1.Nf3 d6 2.b3 g6 3.Bb2 Nf6 4.g3 Bg7 5.d4 O-O 6.Bg2 Nc6 7.O-O a5 8.c4 a4 9.bxa4 Bd7
+10.Nc3 Na5 11.Nd2 b6 12.Qc2 Ra7 13.Nb5 Bxb5 14.axb5 Nd7 15.a4 e5 16.e3 Qe7
+17.Rfe1 f5 18.Bd5+ Kh8 19.Nf3 e4 20.Nd2 Nf6 21.Nb3 Nxd5 22.cxd5 Qf7 23.Nxa5 bxa5
+24.Qb3 h5 25.h4 g5 26.hxg5 h4 27.gxh4 Qh5 28.Kf1 Qxh4 29.Ke2 Qxg5 30.Rh1+ Kg8
+31.Rag1 Qf6 32.Qc4 Rb7 33.Kd1 f4 34.Kc2 fxe3 35.fxe3 Qf2+ 36.Kb1 Qxe3 37.Rg2 Rf2
+38.Rhg1 Rxg2 39.Rxg2 Qf3 40.Qc2 Rb8 41.Rf2 Qh1+ 42.Ka2 e3 43.Re2 Qxd5+ 44.Kb1 Re8
+45.Qxc7 Qf5+ 46.Qc2 Qf1+ 47.Ka2 Qf7+ 48.Qb3 d5 49.Rxe3 Rxe3 50.Qxe3 Qc7 51.Qb3 Qc4
+52.Qxc4 dxc4 53.Bc3 Kf7 54.Bxa5 Ke6 55.Bc3 Bf8 56.Kb2 Kd5 57.Kc2 Bd6 58.Kd2 Bc7
+59.Ke3 Bb6 60.Kd2 Bd8 61.Kc2 Bg5 62.a5 Bd8 63.a6 Bb6 64.Be1 Ba7 65.Bb4 Bxd4
+66.Bc3 Bb6 67.Bd2 Ba7 68.Kc3 Bb6 69.Kb4 Ba5+ 70.Ka4 c3 71.a7 cxd2 72.a8=Q+ Kc5
+73.Qc6+ Kd4 74.Qd6+ Ke3 75.Qxd2+  1-0

@@ -1,0 +1,15 @@
+[Event "Waterglen Simul"]
+[Site "Pretoria RSA"]
+[Date "2001.10.03"]
+[Round "?"]
+[White "Short,N"]
+[Black "Morrison,Graham"]
+[Result "1-0"]
+[WhiteElo "2675"]
+[BlackElo ""]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 a6 3.f4 e6 4.Nf3 d5 5.d4 cxd4 6.Nxd4 dxe4 7.Nxe4 Nf6 8.Nxf6+ Qxf6
+9.Be3 Bc5 10.Qd2 O-O 11.O-O-O Bd7 12.Bd3 Nc6 13.Nxc6 Bxe3 14.Qxe3 Bxc6 15.Rhg1 Rfe8
+16.Rde1 Rad8 17.g4 Rd4 18.f5 Rb4 19.c3 Ra4 20.g5 Qd8 21.f6 g6 22.a3 Qd5 23.Qh3 Rxa3
+24.Qh6  1-0

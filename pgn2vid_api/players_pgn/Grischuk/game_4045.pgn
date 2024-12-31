@@ -1,0 +1,23 @@
+[Event "Chess.com Rapid Wk6 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.03.19"]
+[Round "6"]
+[White "Grischuk,A"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2758"]
+[BlackElo "2658"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.Nc3 Ne8 10.Nd5 Bd6 11.Re1 c6 12.Ne3 Bc7 13.Nf5 d5 14.Ne7+ Kh8 15.Nxc8 Qxc8
+16.d3 Qd7 17.Qf3 Nd6 18.g3 Rae8 19.Bd2 Kg8 20.b4 a6 21.a4 Qf5 22.Qxf5 Nxf5
+23.c3 Nd6 24.Bh3 f5 25.Bf4 g6 26.Red1 Bb8 27.Rac1 Nf7 28.Be3 Rd8 29.b5 axb5
+30.axb5 Rfe8 31.Bg2 Ne5 32.h3 Kf7 33.Rb1 Bd6 34.Bb6 Rc8 35.Bd4 Nd7 36.c4 dxc4
+37.dxc4 Bc5 38.Be3 Rxe3 39.fxe3 Ne5 40.bxc6 bxc6 41.Rb7+ Kf6 42.Rxh7 Nxc4
+43.Kh1 Nxe3 44.Rc1 Bd6 45.Rc3 Nxg2 46.Kxg2 Be5 47.Ra3 Rd8 48.h4 Rd2+ 49.Kf3 Bd4
+50.g4 fxg4+ 51.Kxg4 Rg2+ 52.Kh3 Re2 53.Ra6 Re6 54.Kg4 Re4+ 55.Kf3 Re3+ 56.Kf4 Rc3
+57.Rd7 Be5+ 58.Ke4 Rc4+ 59.Kd3 Rxh4 60.Rxc6+ Kf5 61.Rf7+ Kg4 62.Rxg6+ Kh3
+63.Rf1 Kh2 64.Rf2+ Kh3 65.Re2 Bf4 66.Re1 Kh2 67.Re2+ Kh3 68.Rf2 Bg3 69.Rf5 Rg4
+70.Rh5+ Bh4 71.Re6 Ra4 72.Rf5 Kg4 73.Rf7 Ra3+ 74.Kc2 Ra2+ 75.Kb3 Ra5 76.Re4+ Kg5
+77.Rg7+ Kf6 78.Rb7 Bg5 79.Rc4  1-0

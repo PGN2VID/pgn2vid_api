@@ -1,0 +1,31 @@
+[Event "AI Cup Div 1 W"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "2.4"]
+[White "Nepomniachtchi,I"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2771"]
+[BlackElo "2839"]
+[ECO "B95"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Qf3 h6 8.Bd2 Qc7
+9.g4 b5 10.a3 Bb7 11.O-O-O Nbd7 12.Qe2 Ne5 13.f3 g5 14.h4 Rg8 15.hxg5 hxg5
+16.Kb1 Be7 17.Rh6 Nfd7 18.Qh2 Bf6 19.Ncxb5 axb5 20.Nxb5 Qb6 21.Bb4 Be7 22.Nxd6+ Bxd6
+23.Rxd6 Qc7 24.Rhxe6+ fxe6 25.Rxe6+ Kd8 26.Qh7 Nf6 27.Qf5 Nfd7 28.Bd6 Qxd6
+29.Rxd6 Kc7 30.Rf6 Raf8 31.Rxf8 Rxf8 32.Qxg5 Rxf3 33.Bb5 Bxe4 34.Bxd7 Nxd7
+35.Qa5+ Kc8 36.Qb4 Rf4 37.Qc3+ Kd8 38.g5 Rf2 39.Qe3 Rf1+ 40.Ka2 Bxc2 41.b4 Bg6
+42.b5 Rf5 43.a4 Re5 44.Qd4 Re4 45.Qd6 Bf7+ 46.Ka3 Re3+ 47.Kb4 Re4+ 48.Ka3 Re3+
+49.Kb2 Re5 50.b6 Bd5 51.g6 Re6 52.Qc7+ Ke7 53.b7 Bxb7 54.g7 Rg6 55.Qxb7 Rxg7
+56.a5 Rg6 57.Kc2 Kd8 58.Kc3 Rg3+ 59.Kb2 Rg6 60.Kc2 Rg5 61.a6 Rc5+ 62.Kd2 Rc7
+63.Qa8+ Rc8 64.Qh1 Rc7 65.Qh4+ Ke8 66.Qh5+ Ke7 67.Qg5+ Kd6 68.Qb5 Ra7 69.Kc3 Kc7
+70.Kb4 Kd6 71.Ka5 Kc7 72.Qb4 Nb8 73.Qb6+ Kc8 74.Qe6+ Kc7 75.Qc4+ Kd8 76.Kb6 Rxa6+
+77.Kb7 Rc6 78.Qd5+ Ke7 79.Kxb8 Rd6 80.Qc5 Ke6 81.Kc7 Rd5 82.Qc4 Ke5 83.Kc6 Rd6+
+84.Kc5 Rd8 85.Qe2+ Kf6 86.Qf2+ Ke6 87.Qe3+ Kf5 88.Qh3+ Ke5 89.Qh5+ Ke6 90.Qg6+ Ke7
+91.Kc6 Rf8 92.Kd5 Rf7 93.Ke5 Kf8 94.Qh6+ Ke8 95.Qg5 Kd7 96.Qg6 Ke7 97.Qd6+ Ke8
+98.Qa3 Kd7 99.Qd6+ Ke8 100.Qb6 Re7+ 101.Kf6 Rf7+ 102.Kg6 Rd7 103.Qc6 Ke7
+104.Kf5 Kd8 105.Qb6+ Ke8 106.Qc5 Kf7 107.Qe5 Re7 108.Qh8 Rd7 109.Qh1 Ke7
+110.Ke5 Rc7 111.Qd5 Rd7 112.Qc6 Kd8 113.Kf6 Rf7+ 114.Kg6 Rc7 115.Qa4 Ke7
+116.Kf5 Rc5+ 117.Ke4 Kd6 118.Qb4 Kc6 119.Kd4 Rd5+ 120.Kc4 Re5 121.Qb1 Rc5+
+122.Kd4 Rd5+ 123.Ke4 Rb5 124.Qa2 Rc5 125.Kd4 Rb5 126.Qe6+ Kc7 127.Kc4 Rb7
+128.Kc5 Kb8 129.Qd6+  1/2-1/2

@@ -1,0 +1,24 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "3"]
+[White "Kramnik,V"]
+[Black "Kravtsiv,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2598"]
+[ECO "D51"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Bg5 Bb4 5.e3 Nbd7 6.cxd5 exd5 7.Bd3 c5 8.Ne2 h6
+9.Bh4 cxd4 10.exd4 O-O 11.O-O Nb6 12.Qb3 Be7 13.Rfe1 Ng4 14.Bg3 Bd6 15.h3 Bxg3
+16.fxg3 Nf6 17.a4 Rb8 18.a5 Na8 19.Nf4 Nc7 20.Re5 b6 21.axb6 Rxb6 22.Qc2 Rb4
+23.Ra4 Qd6 24.Rxb4 Qxb4 25.Qf2 Be6 26.g4 Rb8 27.Re2 Qd6 28.Na4 Bd7 29.Nc5 Bc6
+30.Nh5 Ne4 31.Nxe4 dxe4 32.Bxe4 Bxe4 33.Rxe4 Ne6 34.Ng3 Rc8 35.Nf5 Qb4 36.Re1 Rd8
+37.Rd1 Ng5 38.d5 Ne4 39.Qd4 Qxd4+ 40.Rxd4 Nf6 41.d6 Kf8 42.Kh2 g6 43.Ne3 Ne8
+44.Nc4 Nf6 45.Ne5 Nd7 46.Nxd7+ Rxd7 47.Kg3 Kg7 48.Kf4 Kf6 49.Ke4 Ke6 50.Ra4 Rxd6
+51.Rxa7 Rb6 52.Ra2 Rb4+ 53.Kd3 Ke5 54.Kc3 Rb7 55.b4 Ke4 56.Kc4 Rc7+ 57.Kb5 Rc8
+58.Rf2 f5 59.gxf5 gxf5 60.Re2+ Kd4 61.Re6 Rg8 62.Re2 Rb8+ 63.Ka4 Ra8+ 64.Kb3 Rb8
+65.Rd2+ Ke4 66.Rd6 h5 67.Kc4 Rg8 68.Rd2 Rc8+ 69.Kb3 Rb8 70.h4 f4 71.Re2+ Kd4
+72.Rf2 Ke4 73.Rb2 Kf5 74.Kc4 Kg4 75.b5 Kxh4 76.b6 Kg3 77.Kc5 h4 78.Kc6 f3
+79.gxf3 Kxf3 80.Kc7 Rxb6 81.Kxb6 h3 82.Kc5 Kg3 83.Kd4 h2 84.Rb1 Kg2 85.Ke3 h1=Q
+86.Rxh1 Kxh1  1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Chess.com Rapid Wk1 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.12"]
+[Round "6"]
+[White "Kovalev,Vl"]
+[Black "Volokitin,And"]
+[Result "1-0"]
+[WhiteElo "2623"]
+[BlackElo "2681"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.Re1 O-O 8.Nbd2 d5
+9.e5 Qc7 10.Qe2 b5 11.Nf1 Nd4 12.Nxd4 cxd4 13.h4 Bd7 14.Bf4 Rac8 15.Rac1 Qa5
+16.a3 b4 17.axb4 Qxb4 18.b3 a5 19.Nh2 a4 20.bxa4 Bxa4 21.Ng4 Qb2 22.Nf6+ Kh8
+23.h5 h6 24.hxg6 Nxg6 25.Bd2 Rxc2 26.Rxc2 Qxc2 27.Ng4 Bb5 28.Bf1 Ra8 29.Rc1 Qb2
+30.Bxh6 Qxe2 31.Bxg7+ Kxg7 32.Bxe2 Ra3 33.Rd1 Ne7 34.Nf6 Nc6 35.f4 Ra2 36.Bf1 Nb8
+37.Rb1 Ra5 38.Rc1 Nd7 39.Ne8+ Kf8 40.Nd6 Ba6 41.Rc7 Ke7 42.Ra7 Ra1 43.Kf2 f6
+44.Bh3 fxe5 45.fxe5 Ra2+ 46.Kf3 Bc4 47.dxc4 Rxa7 48.Nc8+ Kf7 49.Nxa7 Nxe5+
+50.Kf4 Nd3+ 51.Kf3 dxc4 52.Nc6 e5 53.Bf5 Kf6 54.Bh7 Nc5 55.Nb4 c3 56.Nd5+ Kg5
+57.Nb4 e4+ 58.Ke2 Kg4 59.Bg8 Kxg3 60.Bd5 d3+ 61.Ke3 c2 62.Kd4  1-0

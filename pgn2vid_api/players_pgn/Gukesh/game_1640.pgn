@@ -1,0 +1,16 @@
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2023.06.15"]
+[Round "2.22"]
+[White "Pranav,V"]
+[Black "Gukesh,D"]
+[Result "0-1"]
+[WhiteElo "2608"]
+[BlackElo "2736"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 O-O 6.c3 d6 7.Nbd2 h6 8.h3 a5
+9.Re1 a4 10.Nf1 Bd7 11.a3 Ne7 12.Ng3 Ng6 13.d4 Bb6 14.dxe5 dxe5 15.Qe2 Be6
+16.Nf5 Re8 17.g4 Qd7 18.Bb5 c6 19.Rd1 Qc7 20.Bc4 Rad8 21.Bd2 Bxf5 22.exf5 e4
+23.fxg6 Qg3+ 24.Kh1 Qxh3+ 25.Nh2 Bc7 26.gxf7+ Kh8 27.f4 exf3 28.Qf2 Nxg4
+29.fxe8=Q+ Rxe8  0-1

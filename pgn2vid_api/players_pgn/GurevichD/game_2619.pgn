@@ -1,0 +1,15 @@
+[Event "chess.com SpeedChess Q2Sw"]
+[Site "chess.com INT"]
+[Date "2022.11.12"]
+[Round "3"]
+[White "Gurevich,D"]
+[Black "Filgueira,H"]
+[Result "0-1"]
+[WhiteElo "2396"]
+[BlackElo "2283"]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4 Bb4 5.e5 Ne7 6.a3 Bxc3+ 7.bxc3 c5 8.cxd5 exd5
+9.Nf3 Bf5 10.Be2 Nbc6 11.O-O O-O 12.a4 cxd4 13.cxd4 Nb4 14.Ba3 a5 15.Bxb4 axb4
+16.Qb3 Qa5 17.Rfc1 Rfc8 18.Bb5 Rc3 19.Rxc3 bxc3 20.Rc1 Rc8 21.h3 h6 22.Ne1 c2
+23.Nd3 Qd2 24.Qa3 Bxd3 25.Bxd3 Rc3 26.Qxe7 Qxc1+ 27.Kh2 Qf4+  0-1

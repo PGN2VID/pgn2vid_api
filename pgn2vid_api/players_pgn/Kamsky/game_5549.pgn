@@ -1,0 +1,23 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "4"]
+[White "Kamsky,G"]
+[Black "Idani,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2641"]
+[BlackElo "2633"]
+[ECO "D00"]
+
+1.d4 d5 2.Bf4 c5 3.e3 cxd4 4.exd4 Nc6 5.c3 Bf5 6.Nd2 e6 7.Ngf3 Bd6 8.Bg3 Nge7
+9.Nh4 Bg6 10.Be2 Nf5 11.Nxf5 Bxf5 12.O-O O-O 13.Re1 Rb8 14.a4 Bxg3 15.hxg3 Qd6
+16.a5 Qc7 17.Qa4 Ne7 18.Nf3 Nc8 19.Ne5 Nd6 20.g4 Bg6 21.Nd7 Bc2 22.Nf6+ gxf6
+23.Qxc2 Kh8 24.Qd2 Ne4 25.Qh6 Rg8 26.f3 Rg6 27.Qe3 Ng5 28.Bd3 Rg7 29.Kf1 Qg3
+30.Qf2 Qf4 31.Ke2 b6 32.axb6 Rxb6 33.Kf1 Qc7 34.Ra2 Rg8 35.Re2 f5 36.gxf5 exf5
+37.Qe3 Re6 38.Qf2 Rh6 39.Ke1 Qf4 40.Qe3 Qg3+ 41.Kd2 Re6 42.Qf2 Qf4+ 43.Kc2 Rge8
+44.Rxe6 Rxe6 45.Rxa7 Kg7 46.Qd2 Qg3 47.Bxf5 Re1 48.Bd3 Rg1 49.Re7 Rxg2 50.Re2 Rg1
+51.Qe3 Nxf3 52.Kb3 Qb8+ 53.Kc2 Qg3 54.Kb3 h5 55.Rf2 Ng5 56.Qxg3 Rxg3 57.Bf5 h4
+58.Rf4 Rf3 59.Rxf3 Nxf3 60.Kb4 Kf6 61.Bg4 Ng5 62.Kc5 h3 63.Bxh3 Nxh3 64.Kxd5 Ke7
+65.Ke5 Nf2 66.Kf5 Nd3 67.b4 Nb2 68.d5 Nc4 69.Ke4 Nd6+ 70.Kd4 Nb5+ 71.Kc4 Nd6+
+72.Kd4 Kd7 73.c4 f5 74.c5 Nb5+ 75.Ke5 Nc3 76.d6 f4 77.Kxf4 Nd5+ 78.Ke5 Nxb4
+79.Kd4 Nc6+ 80.Kd5 Nd8 81.Ke5 Nc6+ 82.Kd5 Nd8 83.Ke5 Nc6+ 84.Kd5  1/2-1/2

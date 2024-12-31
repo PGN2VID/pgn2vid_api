@@ -1,0 +1,15 @@
+[Event "Rotterdam sim"]
+[Site "Rotterdam"]
+[Date "1861.??.??"]
+[Round "?"]
+[White "Anderssen, Adolf"]
+[Black "NN"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4 exd4 8.cxd4 Bb6
+9.d5 Na5 10.Bb2 Nf6 11.Bd3 O-O 12.Nc3 Bg4 13.Na4 Nd7 14.Nxb6 axb6 15.Qc2 Bxf3
+16.gxf3 Ne5 17.Kh1 Qf6 18.Rg1 Qxf3+ 19.Rg2 Qxd3 20.Qxd3 Nxd3 21.Rxg7+ Kh8
+22.Rg8+ Kxg8 23.Rg1+  1-0

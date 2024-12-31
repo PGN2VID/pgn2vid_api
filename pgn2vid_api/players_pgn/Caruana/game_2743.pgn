@@ -1,0 +1,21 @@
+[Event "chess.com Speed 2020"]
+[Site "chess.com INT"]
+[Date "2020.11.15"]
+[Round "1.14"]
+[White "Caruana,F"]
+[Black "Duda,J"]
+[Result "0-1"]
+[WhiteElo "2823"]
+[BlackElo "2743"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h4 e5 7.Nb3 Be7 8.Bg5 Be6
+9.Bxf6 Bxf6 10.g3 Qd7 11.Qd2 Nc6 12.O-O-O Rd8 13.Nd5 O-O 14.Nxf6+ gxf6 15.Qh6 Qe7
+16.f4 Kh8 17.f5 Bxb3 18.axb3 Rg8 19.Rg1 Rg4 20.Qe3 Nd4 21.Kb1 Qc7 22.Bd3 a5
+23.Rg2 Rdg8 24.Bc4 b5 25.Bd5 a4 26.Rc1 axb3 27.cxb3 Qe7 28.b4 Kg7 29.Qc3 Rd8
+30.Qc7 Rd7 31.Qc8 Ra7 32.Qb8 Kh6 33.Rc8 Kh5 34.Rg8 Qc7 35.Qxc7 Rxc7 36.Rh8 Rg7
+37.g4+ Kxh4 38.Rh2+ Kg3 39.R8xh7 Rxh7 40.Rxh7 Kxg4 41.Rxf7 Rxf7 42.Bxf7 Kf4
+43.Bd5 Ke3 44.Kc1 Ke2 45.Ba8 Kd3 46.Bd5 Ne2+ 47.Kd1 Nf4 48.Bc6 Kc4 49.Kd2 Kxb4
+50.Ke3 Kc5 51.Be8 Kc4 52.Bf7+ Kb4 53.Be8 Kc5 54.Bf7 d5 55.exd5 Nxd5+ 56.Ke4 Nb6
+57.Be8 Nc4 58.Kf3 Nxb2 59.Kg4 Nc4 60.Kh5 Nd6 61.Bd7 b4 62.Be6 Kd4 63.Kg6 Ne4
+64.Kg7 Ke3 65.Bd5 Kf4 66.Bxe4 Kxe4 67.Kxf6 b3 68.Ke6 b2 69.f6 b1=Q  0-1

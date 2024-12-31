@@ -1,0 +1,14 @@
+[Event "Kristiania sim"]
+[Site "Kristiania"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Hovind, Oscar"]
+[Black "Reti, Richard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C28"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3 Bb4 5.O-O d6 6.d3 Bg4 7.Be3 Nd4 8.Bxd4 exd4
+9.Nb1 d5 10.exd5 O-O 11.c3 Bc5 12.Nbd2 Nxd5 13.Qb3 dxc3 14.bxc3 Nb6 15.Ne5 Bh5
+16.d4 Nxc4 17.Ndxc4 Bb6 18.f4 Kh8 19.g4 Bg6 20.f5 f6 21.Nxg6+ hxg6 22.Nxb6  1-0

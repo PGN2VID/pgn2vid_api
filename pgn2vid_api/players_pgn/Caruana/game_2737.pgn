@@ -1,0 +1,19 @@
+[Event "chess.com Speed 2020"]
+[Site "chess.com INT"]
+[Date "2020.11.15"]
+[Round "1.32"]
+[White "Duda,J"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2743"]
+[BlackElo "2823"]
+[ECO "E49"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 c5 8.cxd5 exd5
+9.Ne2 Nc6 10.O-O Re8 11.f3 b6 12.Ra2 Qc7 13.Ng3 h5 14.Re2 h4 15.Nf5 Bxf5
+16.Bxf5 g6 17.Bd3 cxd4 18.cxd4 Re6 19.Qe1 h3 20.Qh4 hxg2 21.Rxg2 Kg7 22.Bd2 Rh8
+23.Qg3 Qe7 24.Bb5 Rh5 25.a4 Na5 26.Bxa5 bxa5 27.e4 dxe4 28.fxe4 Nxe4 29.Qf4 Rf6
+30.Qe3 Rxf1+ 31.Bxf1 Qh4 32.Bd3 Ng5 33.Qe5+ Kh7 34.Qe3 Nh3+ 35.Kh1 Qf4 36.Qxf4 Nxf4
+37.Rd2 Rh3 38.Bc4 Rc3 39.Bf1 Kg7 40.d5 Kf8 41.d6 Ke8 42.Kg1 Kd8 43.Kf2 Rc5
+44.Bb5 Rd5 45.Rxd5 Nxd5 46.Kf3 Nb6 47.Ke4 f6 48.Kd4 a6 49.Bc6 Kc8 50.Kc5 Nd7+
+51.Kd5 Kd8 52.Ke6 Ne5 53.Be4 Nc4 54.Bxg6 Nb2 55.Bc2 f5 56.Kxf5  1-0

@@ -1,0 +1,20 @@
+[Event "chess.com SpeedChess 2022"]
+[Site "chess.com INT"]
+[Date "2022.12.07"]
+[Round "1.36"]
+[White "Nihal,Sarin"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteElo "2670"]
+[BlackElo "2764"]
+[ECO "A48"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4 Bg7 5.Nb5 Na6 6.e3 O-O 7.h3 Ne4 8.c3 c6
+9.Na3 f6 10.Be2 e5 11.Bh2 exd4 12.cxd4 Qa5+ 13.Nd2 Bf5 14.f3 Nxd2 15.Qxd2 Qxd2+
+16.Kxd2 Nb8 17.g4 Be6 18.b4 Nd7 19.Rhc1 Rfe8 20.b5 Bf8 21.Nc2 c5 22.dxc5 Bxc5
+23.Nd4 Bf7 24.Rab1 Rac8 25.Rc3 Bb6 26.Rxc8 Rxc8 27.Nb3 Ne5 28.a4 Nc4+ 29.Bxc4 dxc4
+30.Nd4 c3+ 31.Kc2 Rc4 32.Ra1 Bxd4 33.exd4 Bd5 34.Ra3 Bxf3 35.Rxc3 Rxa4 36.Rxf3 Ra2+
+37.Kb3 Rxh2 38.Rxf6 Kg7 39.Rf3 a6 40.b6 Rd2 41.Kc4 Rb2 42.d5 Rxb6 43.Kc5 Rb5+
+44.Kd6 a5 45.Ke6 a4 46.d6 Rb3 47.Rf7+ Kh6 48.d7 Re3+ 49.Kd6 Rd3+ 50.Kc7 Rc3+
+51.Kxb7 Rd3 52.Kc7 Rc3+ 53.Kd8 a3 54.Rf4 Rd3 55.Ra4 Kg5 56.Kc7 Kh4 57.d8=Q+ Rxd8
+58.Kxd8 h5 59.gxh5+ Kxh5 60.Rxa3  1-0

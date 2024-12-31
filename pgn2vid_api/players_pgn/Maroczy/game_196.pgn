@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "18"]
+[White "Mason, James"]
+[Black "Maroczy, Geza"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.Bb5 Nd4 5.Nxd4 cxd4 6.Ne2 Qg5 7.Bd3 Qxg2 8.Ng3 Qh3
+9.b3 Ne7 10.Bb2 Nc6 11.Qe2 Qh4 12.O-O-O Qd8 13.Kb1 d6 14.f4 Bd7 15.f5 Qb6
+16.c3 dxc3 17.Bxc3 O-O-O 18.Bc4 Ne5 19.fxe6 fxe6 20.Ka1 Kb8 21.Nf1 Be7 22.Ne3 Bf6
+23.d4 Nxc4 24.bxc4 Qa6 25.Rhg1 h6 26.e5 dxe5 27.dxe5 Bg5 28.Bb4 Bc6 29.Bd6+ Ka8
+30.Rd3 Be4 31.Ra3 Qxd6  0-1

@@ -1,0 +1,13 @@
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "NN"]
+[Black "Carlos Torre Repetto"]
+[ECO "B15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 h5 6. Bg5 h4
+7. Bxf6 hxg3 8. Be5 Rxh2 9. Rxh2 Qa5+ 10. c3 Qxe5+ 11. dxe5
+gxh2 0-1

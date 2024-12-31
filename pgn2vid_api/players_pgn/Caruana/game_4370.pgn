@@ -1,0 +1,19 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "2"]
+[White "Shimanov,A"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2566"]
+[BlackElo "2786"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bg5 Nc6 3.Nf3 Ne4 4.Bh4 d5 5.e3 Bf5 6.c4 f6 7.Nc3 e6 8.cxd5 exd5
+9.Nd2 Bb4 10.Ndxe4 Bxe4 11.Bb5 O-O 12.O-O Bxc3 13.bxc3 Na5 14.f3 Bg6 15.Re1 c6
+16.Bf1 Re8 17.Qa4 b5 18.Qb4 Nc4 19.Bxc4 bxc4 20.Bg3 Bd3 21.Qb7 Qb6 22.Qd7 Rad8
+23.Qc7 Qb2 24.Qa5 Rd7 25.h4 h6 26.h5 Kh7 27.Bf4 Rb7 28.Qa4 Re6 29.Qa5 Rbe7
+30.a3 Rb7 31.e4 Rb5 32.Qxa7 dxe4 33.d5 Rxd5 34.Qf2 Qxc3 35.fxe4 Rxe4 36.Rxe4 Bxe4
+37.Rc1 Qd3 38.a4 c3 39.Qe3 Qxe3+ 40.Bxe3 c2 41.Kf2 Rxh5 42.Ra1 Rd5 43.a5 Rd1
+44.Bc1 Bd3 45.g3 Kg6 46.Ke3 Ba6 47.Kf4 Re1 48.Kf3 c5 49.Kf2 Rf1+ 50.Ke3 Rd1
+51.Kf4 h5 52.Ke4 Bb7+ 53.Kf4 Re1 54.g4 h4  0-1

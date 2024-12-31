@@ -1,0 +1,26 @@
+[Event "chess.com SpeedChess Q1Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.21"]
+[Round "2"]
+[White "Baskakov,Egor"]
+[Black "Yu Yangyi"]
+[Result "0-1"]
+[WhiteElo "2215"]
+[BlackElo "2721"]
+[ECO "C26"]
+
+1.e4 e5 2.Nc3 Nf6 3.g3 Bc5 4.Bg2 c6 5.Nge2 d5 6.exd5 cxd5 7.d4 exd4 8.Nxd4 Bg4
+9.Qd3 Nc6 10.Be3 Nxd4 11.Bxd4 Qe7+ 12.Kd2 Bxd4 13.Qxd4 O-O 14.Rae1 Be6 15.Kc1 Rfd8
+16.f4 Qc7 17.Rhf1 Bf5 18.Re5 Be4 19.Bh3 h6 20.Rd1 a6 21.a3 b5 22.Bf5 Rab8
+23.g4 Re8 24.h4 Bxf5 25.Rxf5 Rbc8 26.g5 hxg5 27.Rxg5 Kf8 28.Rxg7 Kxg7 29.Rg1+ Kh7
+30.Qxf6 Rg8 31.Rg5 Rxg5 32.hxg5 d4 33.Qh6+ Kg8 34.g6 dxc3 35.Qh7+ Kf8 36.g7+ Ke7
+37.g8=Q Qxf4+ 38.Kb1 Rxg8 39.Qxg8 cxb2 40.Kxb2 Qe5+ 41.Kb1 Qe1+ 42.Kb2 Qe6
+43.Kb1 f5 44.Qg7+ Kd6 45.Qd4+ Kc6 46.Qc3+ Kd5 47.Qd3+ Ke5 48.Qe3+ Kd6 49.Qd4+ Ke7
+50.Qg7+ Ke8 51.Qh8+ Kd7 52.Qd4+ Kc6 53.Qc3+ Kb6 54.Qd4+ Kb7 55.Qg7+ Kc8 56.Qh8+ Kc7
+57.Qg7+ Qd7 58.Qe5+ Kc6 59.Qf6+ Kb7 60.Kb2 Qc8 61.Qf7+ Kc6 62.Qf6+ Kd5 63.Qg6 Qe6
+64.Qg5 Qe5+ 65.c3 Qe2+ 66.Kb3 Qd1+ 67.Kb2 Qe2+ 68.Kb3 Qe5 69.Qd2+ Ke6 70.Qh6+ Kd5
+71.Qd2+ Kc5 72.Qf2+ Kc6 73.Qa7 Qe6+ 74.Kb2 Kd5 75.Qc7 Qd6 76.Qf7+ Qe6 77.Qb7+ Ke5
+78.Qc7+ Ke4 79.Qg3 f4 80.Qe1+ Kf5 81.Qh4 Qe2+ 82.Kb3 Qc4+ 83.Kb2 Qe2+ 84.Kb3 a5
+85.Qh7+ Kg4 86.Qg6+ Kh3 87.Qh6+ Kg3 88.Qg5+ Kf3 89.Qd5+ Kf2 90.Qd4+ Qe3 91.Qd1 f3
+92.Qh1 Qe6+ 93.Kb2 Ke2 94.Qh5 a4 95.Qg5 Qb3+ 96.Kc1 Qxc3+ 97.Kb1 Qe1+ 98.Ka2 Qd2+
+99.Kb1 Qxg5 100.Ka1 Qd2 101.Kb1 f2 102.Ka1 f1=Q+  0-1

@@ -1,0 +1,25 @@
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.10"]
+[Round "6.1"]
+[White "Karjakin,Sergey"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteElo "2776"]
+[BlackElo "2761"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 Nc6 8.Qd2 Be6
+9.O-O-O Qd7 10.Kb1 h6 11.h3 a6 12.g4 h5 13.gxh5 Rxh5 14.Rg1 Bf6 15.Bg5 O-O-O
+16.Bxf6 gxf6 17.h4 Ne5 18.Qe3 Kb8 19.b3 Bg4 20.Be2 Bxf3 21.Bxf3 Rxh4 22.Bg2 Qf5
+23.Rd4 Rg4 24.Rxg4 Nxg4 25.Qd4 Qxf2 26.Qxf2 Nxf2 27.Rf1 Ng4 28.Bh3 Ne5 29.Rxf6 c6
+30.Rf2 Rg8 31.c4 Rg3 32.Bf5 Kc7 33.Rh2 Rf3 34.Rh5 a5 35.Kb2 Rg3 36.Rh7 Kb6
+37.Bc8 Rg8 38.Bf5 Kc5 39.Rh4 Rg2 40.Rf4 Rg3 41.Bc8 b6 42.a3 Rf3 43.Rxf3 Nxf3
+44.Kc3 d5 45.b4+ axb4+ 46.axb4+ Kd6 47.cxd5 cxd5 48.Kd3 Ne5+ 49.Ke3 Nc6 50.c3 Ke5
+51.Kd3 Ne7 52.Bb7 Nf5 53.Bc8 Nd6 54.Bg4 f5 55.Bf3 f4 56.Bh5 Nc4 57.Bf3 Ne3
+58.Be2 Ng2 59.Bg4 Ne3 60.Be2 Nc4 61.Bf3 Nd6 62.Bh5 Ne4 63.c4 d4 64.Bf3 Ng5
+65.Bg4 f3 66.c5 f2 67.Ke2 bxc5 68.bxc5 Kf4 69.c6 Kg3 70.c7 Kg2 71.c8=Q f1=Q+
+72.Kd2 Ne4+ 73.Kc2 d3+ 74.Kb2 Kg3 75.Qf5 Qg2+ 76.Ka3 Qh1 77.Bd1 Qxd1 78.Qxe4 Qe2
+79.Qg6+ Kf2 80.Qf6+ Qf3 81.Qd4+ Ke2 82.Qe5+ Kf2 83.Qd4+ Kf1 84.Qa1+ Kg2 85.Qg7+ Qg3
+86.Qb7+ Kf2 87.Kb2 Ke2 88.Qe4+ Qe3 89.Qg2+ Qf2 90.Qe4+ Kd2 91.Kb3 Qb6+ 92.Kc4 Qa6+
+93.Kb3 Qb5+ 94.Ka2 Kc3 95.Qe1+ Kc2  0-1

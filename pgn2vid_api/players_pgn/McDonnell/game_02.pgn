@@ -1,0 +1,15 @@
+[Event "England sim"]
+[Site "England"]
+[Date "1830.??.??"]
+[Round "?"]
+[White "McDonnell, Alexander"]
+[Black "NN"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 d6 5.d4 g5 6.Nc3 Bg4 7.Qd3 Ne7 8.g3 Bh3+
+9.Kf2 Qg4 10.Qd2 Bg7 11.Be2 Qe6 12.Nf3 h6 13.gxf4 gxf4 14.Qxf4 Ng6 15.Qe3 Bg4
+16.Nd5 Kd7 17.Rg1 h5 18.Ng5 Qe8 19.e5 Bxe2 20.Kxe2 c6 21.Qh3+ Kd8 22.Nxf7+ Qxf7
+23.Bg5+ Bf6 24.Bxf6+  1-0

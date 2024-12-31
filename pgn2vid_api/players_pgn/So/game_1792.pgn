@@ -1,0 +1,21 @@
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.10.02"]
+[Round "1.23"]
+[White "Mamedyarov,S"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteElo "2767"]
+[BlackElo "2767"]
+[ECO "D77"]
+
+1.d4 Nf6 2.Nf3 d5 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 dxc4 7.Na3 c5 8.Nxc4 Be6
+9.b3 Nc6 10.Bb2 cxd4 11.Nxd4 Nxd4 12.Qxd4 Bd5 13.Bxd5 Qxd5 14.Rfd1 Rfd8 15.Rac1 Qxd4
+16.Bxd4 Nd5 17.Bxg7 Kxg7 18.Na5 Nb4 19.a3 b6 20.axb4 bxa5 21.bxa5 Rxd1+ 22.Rxd1 Rb8
+23.Rd7 e6 24.Rxa7 Rxb3 25.a6 Ra3 26.f4 h6 27.Kf2 g5 28.e3 g4 29.Ke2 h5 30.Ra8 Ra2+
+31.Kd3 Rxh2 32.Rb8 Ra2 33.Rb6 h4 34.gxh4 g3 35.Rb1 Kg6 36.Rg1 g2 37.a7 Rxa7
+38.Rxg2+ Kh5 39.Ke4 f6 40.Rg8 Kxh4 41.Rf8 f5+ 42.Ke5 Kg4 43.Rg8+ Kf3 44.Kxe6 Ke4
+45.Kf6 Ra6+ 46.Kg5 Kxe3 47.Kxf5 Ra5+ 48.Kg4 Ra1 49.Re8+ Kd4 50.f5 Kd5 51.f6 Rf1
+52.Kg5 Kd6 53.Kg6 Rg1+ 54.Kh6 Rf1 55.Kg7 Rg1+ 56.Kf8 Kd7 57.f7 Rf1 58.Re4 Rg1
+59.Rd4+ Kc7 60.Ke7 Re1+ 61.Kf6 Rf1+ 62.Ke6 Kc8 63.Rg4 Kc7 64.Rg8 Kc6 65.Rc8+ Kb7
+66.f8=Q Rxf8 67.Rxf8 Kc6 68.Rc8+ Kb5 69.Kd5 Kb6 70.Rb8+ Kc7 71.Rb2 Kd7  1-0

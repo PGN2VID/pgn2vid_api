@@ -1,0 +1,15 @@
+[Event "Chess.com Rapid Wk2 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.19"]
+[Round "1"]
+[White "Piorun,K"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2641"]
+[BlackElo "2657"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.g3 b6 4.Bg2 Bb7 5.d3 Be7 6.O-O Nc6 7.d4 cxd4 8.Nxd4 a6
+9.Nc3 Bb4 10.Nxc6 Bxc6 11.Qd4 Bf8 12.Be3 b5 13.Rfe1 Ne7 14.a4 b4 15.Nd5 Bxd5
+16.exd5 Nf5 17.Qd3 Nxe3 18.dxe6 fxe6 19.Bxa8 Nxc2 20.Qxc2 Qxa8 21.Qc7 Be7
+22.Rad1 O-O 23.Rxd7 Qf3 24.Qb6  1-0

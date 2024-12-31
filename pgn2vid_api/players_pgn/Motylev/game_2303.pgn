@@ -1,0 +1,20 @@
+[Event "Chess.com RCC Wk14 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.05.14"]
+[Round "3"]
+[White "Motylev,A"]
+[Black "Predke,A"]
+[Result "0-1"]
+[WhiteElo "2633"]
+[BlackElo "2688"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Be7 6.Bxc6 dxc6 7.a3 Bd6 8.d4 Bg4
+9.dxe5 Bxf3 10.Qxf3 Bxe5 11.Bf4 Qe7 12.Bxe5 Qxe5 13.Qg3 Qxg3 14.hxg3 O-O-O
+15.f3 h6 16.Rd1 Nd7 17.Kf2 b5 18.g4 Ne5 19.b3 f6 20.Ne2 c5 21.Ng3 Rxd1 22.Rxd1 g6
+23.Ne2 Rd8 24.Rc1 c6 25.Ke3 b4 26.axb4 cxb4 27.Nf4 Kb7 28.Rh1 a5 29.Nd3 Rh8
+30.Nf2 c5 31.f4 Nc6 32.Nd3 Kb6 33.f5 Nd4 34.fxg6 Nxc2+ 35.Kf4 Nd4 36.e5 fxe5+
+37.Nxe5 Nxb3 38.Kf5 a4 39.g7 Rg8 40.Kf6 a3 41.Kf7 Rxg7+ 42.Kxg7 a2 43.Kxh6 Nd2
+44.g5 Nb1 45.Nc4+ Kb5 46.Nd6+ Kc6 47.g6 a1=Q 48.g7 Qf6+ 49.Kh7 Qe7 50.Kh8 Qd8+
+51.g8=Q Qxg8+ 52.Kxg8 Nd2 53.Nf5 b3 54.g4 c4 55.g5 Kd5 56.g6 Ne4 57.g7 Ng5
+58.Rg1 Ne6 59.Kf7 Nxg7 60.Kxg7 b2 61.Ne3+ Kd4 62.Nxc4 Kd3  0-1

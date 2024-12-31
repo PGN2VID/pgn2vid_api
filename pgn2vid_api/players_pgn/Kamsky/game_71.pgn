@@ -1,0 +1,27 @@
+[Event "Manhattan CC"]
+[Site "New York"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Shirazi, Kamran G"]
+[Black "Kamsky, Gata"]
+[Result "0-1"]
+[WhiteElo "2395"]
+[BlackElo "2345"]
+[ECO "A25"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 f5 6.Nge2 Nf6 7.d4 d6 8.O-O O-O
+9.b3 e4 10.Nf4 Ne7 11.f3 exf3 12.Bxf3 Rb8 13.a4 Bd7 14.Ra2 Kh8 15.Ba3 Rf7
+16.h4 Neg8 17.Re2 Nh6 18.Qd2 a6 19.Bb2 Qf8 20.Rfe1 b6 21.e4 fxe4 22.Nxe4 Nxe4
+23.Bxe4 Re8 24.Bd5 Rfe7 25.Be6 Bxe6 26.Nxe6 Qf3 27.d5 Rxe6 28.Rxe6 Qxg3+
+29.Qg2 Qxe1+ 30.Rxe1 Rxe1+ 31.Kf2 Re7 32.Bxg7+ Kxg7 33.a5 bxa5 34.h5 Ng8
+35.hxg6 hxg6 36.Qh1 Nf6 37.Qa1 g5 38.Qxa5 Kg6 39.Qxa6 g4 40.Qc8 Kg5 41.Qf8 Rh7
+42.Kg2 Kf5 43.b4 Ke5 44.Qc8 Rd7 45.Qh8 Rh7 46.Qf8 Rd7 47.Qh6 Kf5 48.Qh8 Re7
+49.Qf8 Rd7 50.Kg3 Kg5 51.Qc8 Kf5 52.c5 Ke5 53.c6 Re7 54.Qh8 Rh7 55.Qd8 Rf7
+56.b5 Nxd5 57.Qd7 Rf3+ 58.Kxg4 Rb3 59.Qg7+ Ke4 60.Qh7+ Kd4 61.Kf5 Rxb5 62.Ke6 Kc5
+63.Qc2+ Kb6 64.Kd7 Nf6+ 65.Kc8 Nd5 66.Qc4 Ne7+ 67.Kd7 Nd5 68.Qd4+ Rc5 69.Qh8 Kb5
+70.Qb8+ Nb6+ 71.Kxc7 Rxc6+ 72.Kb7 Nc4 73.Qd8 Na5+ 74.Ka7 d5 75.Qd7 Kc4 76.Qg4+ Kb5
+77.Qf5 Rd6 78.Qd3+ Nc4 79.Qd4 Rd7+ 80.Kb8 Kc6 81.Qf6+ Kc5 82.Kc8 Rd6 83.Qg5 Kb4
+84.Qg3 d4 85.Qd3 Kc5 86.Kc7 Rd5 87.Kb7 Re5 88.Qb1 Re3 89.Qf5+ Kb4 90.Qb1+ Rb3
+91.Qe1+ Kc5+ 92.Kc7 Re3 93.Qf2 Kb4 94.Qf8+ Kb3 95.Qb8+ Kc2 96.Qb4 Rb3 97.Qe1 d3
+98.Qe4 Kb2 99.Qd4+ Rc3 100.Kc6 d2 101.Kb5 Kb3 102.Qd5 Rc1 103.Qd3+ Ka2 104.Qe2 Ka1
+105.Qg2 d1=Q  0-1

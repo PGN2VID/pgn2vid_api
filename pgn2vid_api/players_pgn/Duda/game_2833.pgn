@@ -1,0 +1,23 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "2.4"]
+[White "Artemiev,V"]
+[Black "Duda,J"]
+[Result "1-0"]
+[WhiteElo "2697"]
+[BlackElo "2726"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 b6 5.Bg2 Bb7 6.O-O O-O 7.Qc2 e6 8.Nc3 d5
+9.cxd5 exd5 10.Bf4 Na6 11.Rfd1 Qe7 12.Nb5 Rfd8 13.a3 c6 14.Nc3 c5 15.Be5 Nc7
+16.dxc5 bxc5 17.b4 d4 18.Na4 Bxf3 19.Bxc7 Bxe2 20.Bxd8 Rxd8 21.Nxc5 d3 22.Nxd3 Ng4
+23.Nf4 Bxd1 24.Rxd1 Bd4 25.Rxd4 Rxd4 26.Qc8+ Rd8 27.Qxg4 Qe1+ 28.Bf1 Qc3
+29.Qg5 Rd1 30.Qb5 Qxa3 31.Qe8+ Kg7 32.Qe5+ Kg8 33.Nd5 Qc1 34.Qe8+ Kg7 35.Qe5+ Kg8
+36.Nf6+ Kg7 37.Ng4+ Kg8 38.Qe8+ Kg7 39.Qe5+ Kg8 40.Ne3 Rd2 41.Qe8+ Kg7 42.Qe5+ Kg8
+43.Qb8+ Kg7 44.Qxa7 Qe1 45.Ng2 Qb1 46.b5 Rb2 47.Qd4+ Kg8 48.Qd8+ Kg7 49.Qd4+ Kg8
+50.Ne3 Rxb5 51.Ng4 Rb4 52.Qd8+ Kg7 53.Qf6+ Kf8 54.Ne5 Rb7 55.Qh8+ Ke7 56.Qxh7 Qf5
+57.Qh4+ Kf8 58.Qh8+ Ke7 59.Nc6+ Kd6 60.Nd4 Qd5 61.Qf6+ Kc5 62.Ne2 Qd6 63.Qc3+ Kb6
+64.Nf4 Rd7 65.h4 Qc5 66.Qb3+ Kc7 67.Bg2 Kd8 68.Nd5 Ra7 69.Qb8+ Kd7 70.Nf6+ Ke6
+71.Ne4 Ra1+ 72.Kh2 Qc1 73.Qe8+ Kd5 74.Qxf7+ Kd4 75.Qd7+ Kc4 76.Qc6+ Kd4 77.Qd6+ Kc4
+78.Qxg6 Qg1+ 79.Kh3 Re1 80.Qc6+ Kb3 81.Qb5+ Ka3 82.Qa5+ Kb3 83.Nd2+ Kc2 84.Nf3  1-0

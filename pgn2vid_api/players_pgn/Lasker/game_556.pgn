@@ -1,0 +1,14 @@
+[Event "GBR tour sim"]
+[Site "Great Britain"]
+[Date "1908.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D08"]
+
+1.d4 d5 2.c4 e5 3.Nc3 Nc6 4.e3 exd4 5.Nxd5 Nf6 6.Nf3 Nxd5 7.cxd5 Bb4+ 8.Bd2 Qxd5
+9.Nxd4 O-O 10.Nf3 Rd8 11.Qc2 Bf5 12.Qc1 Be4 13.Bc4 Qa5 14.a3 Bxd2+ 15.Nxd2 Bxg2
+16.Rg1 Ne5 17.b4 Rxd2 18.Rxg2 Nf3+ 19.Kf1 Qh5 20.Ra2 Rxa2 21.Bxa2 Qb5+  0-1

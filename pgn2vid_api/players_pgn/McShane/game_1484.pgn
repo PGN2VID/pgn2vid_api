@@ -1,0 +1,23 @@
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2019.09.15"]
+[Round "2.5"]
+[White "Yuffa,D"]
+[Black "McShane,L"]
+[Result "1-0"]
+[WhiteElo "2577"]
+[BlackElo "2682"]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 a5 8.Bg5 h6 9.Be3 Ng4
+10.Bd2 f5 11.h3 Nf6 12.exf5 gxf5 13.Qc1 f4 14.g3 e4 15.Nh4 e3 16.fxe3 fxg3
+17.Ng6 Rf7 18.Qc2 Na6 19.O-O-O Nh7 20.Nf4 Nb4 21.Qb1 Bf5 22.e4 Bd7 23.Rdg1 Be5
+24.Rxg3+ Ng5 25.h4 Rxf4 26.hxg5 hxg5 27.a3 g4 28.axb4 axb4 29.Nd1 Qf6 30.Rhg1 Kf7
+31.Bxb4 Rxe4 32.Qxe4 Bf5 33.Rxg4 Bxe4 34.Rxe4 Ra1+ 35.Kc2 Qh6 36.Bd2 Qh2
+37.Rf1+ Ke8 38.Nc3 Rxf1 39.Bxf1 Kd7 40.Bd3 Qg3 41.Re2 Kc8 42.Be4 Qh4 43.Bd3 Qg3
+44.Ne4 Qg7 45.Bc1 Kb8 46.Kb1 Bd4 47.Ng5 Qf6 48.Re8+ Ka7 49.Ne6 Bb6 50.Rf8 Qh4
+51.Rf3 Qe1 52.Rf1 Qb4 53.Kc2 Qa4+ 54.b3 Qe8 55.Bd2 Qh5 56.b4 Qh2 57.c5 dxc5
+58.bxc5 Ba5 59.Rd1 Bxd2 60.Rxd2 Qe5 61.Bc4 Qe4+ 62.Kb3 Qb1+ 63.Kc3 Qc1+ 64.Rc2 Qe3+
+65.Kb4 Kb8 66.Re2 Qg1 67.Kc3 Qa1+ 68.Kd3 Qa3+ 69.Kc2 Qa4+ 70.Bb3 Qg4 71.Rd2 Qe4+
+72.Kb2 Qe5+ 73.Rd4 Qe2+ 74.Ka3 Qa6+ 75.Kb4 b6 76.cxb6 Qxb6+ 77.Kc3 Qa5+ 78.Kc2 Kc8
+79.Ba4 Qa6 80.Bd7+ Kb8 81.Rb4+ Ka7 82.Ra4  1-0

@@ -1,0 +1,21 @@
+[Event "Aimchess Rapid Div 3 W"]
+[Site "chess.com INT"]
+[Date "2023.07.10"]
+[Round "1.2"]
+[White "Andreikin,D"]
+[Black "Yu Yangyi"]
+[Result "0-1"]
+[WhiteElo "2729"]
+[BlackElo "2735"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nc3 Nxe5 7.dxe5 Nxc3 8.bxc3 Bc5
+9.O-O Be6 10.Rb1 Qd7 11.Qe2 b6 12.Be3 O-O 13.Qh5 g6 14.Qh6 Bxe3 15.fxe3 c5
+16.Rf4 c4 17.Be2 Qc7 18.Rh4 f6 19.exf6 Rxf6 20.Bf3 Raf8 21.Qg5 Rf5 22.Qg3 Qxg3
+23.hxg3 Re5 24.Re1 Kg7 25.Rd4 Rc8 26.Kf2 Rc5 27.e4 dxe4 28.Rdxe4 Rxe4 29.Rxe4 Kf6
+30.Rf4+ Kg5 31.Ke3 Ra5 32.Re4 Bf5 33.Rxc4 Rxa2 34.g4 Bxc2 35.Rc7 h6 36.c4 Ra3+
+37.Kd2 Bb1 38.Kc1 Bd3 39.c5 bxc5 40.Rxc5+ Kf4 41.Kd2 g5 42.Rc6 Kg3 43.Rxh6 Bf1
+44.Rh3+ Kf2 45.Rh5 Ra5 46.Be4 Be2 47.Rh7 Bxg4 48.Rf7+ Kg3 49.Rg7 Be6 50.Ke3 g4
+51.Re7 Bd5 52.Bd3 Bxg2 53.Rg7 Ra3 54.Kd4 Bf3 55.Bf5 a5 56.Bd7 Kf2 57.Bxg4 Bxg4
+58.Kc5 Bd1 59.Rd7 Ke1 60.Kc4 Be2+ 61.Kc5 Rc3+ 62.Kb6 a4 63.Ra7 a3 64.Ka5 Bd1
+65.Kb4 Rb3+ 66.Kc4 Bc2 67.Rd7 Rg3 68.Kb4 a2 69.Ra7 Bb1 70.Kc4 Kd1 71.Kb4 Kc1  0-1

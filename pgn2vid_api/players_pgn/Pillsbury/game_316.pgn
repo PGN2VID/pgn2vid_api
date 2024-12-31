@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "2"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Wolf, Heinrich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A50"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 b6 4.e4 Bb7 5.Bd3 d5 6.cxd5 exd5 7.e5 Ne4 8.Nf3 Be7
+9.O-O O-O 10.Qc2 Nxc3 11.Bxh7+ Kh8 12.bxc3 g6 13.Bxg6 fxg6 14.Qxg6 Qe8 15.Qh6+ Kg8
+16.Ng5 Bxg5 17.Qxg5+ Kf7 18.f4 Ke6 19.f5+ Kd7 20.Qg7+ Kc8 21.e6 Rg8 22.Qh7 Rh8
+23.Qg6 Ba6 24.Qxe8+ Rxe8 25.Re1 Nc6 26.Bg5 Nd8 27.Bxd8 Kxd8 28.f6 Rh8 29.Re5 c6
+30.Rae1 Rc8 31.Rg5 Bd3 32.Ree5 Rh6 33.Rg8+ Kc7 34.Rxc8+ Kxc8 35.e7 Bg6 36.e8=Q+ Bxe8
+37.Rxe8+  1-0

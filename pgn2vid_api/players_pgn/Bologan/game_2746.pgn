@@ -1,0 +1,13 @@
+[Event "Online Olym Div2 B 2020"]
+[Site "chess.com INT"]
+[Date "2020.08.15"]
+[Round "6.1"]
+[White "Mastrovasilis,D"]
+[Black "Bologan,V"]
+[Result "1-0"]
+[WhiteElo "2604"]
+[BlackElo "2574"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 h5
+9.Ne2 Re8 10.O-O Qc7 11.h3 Nd7 12.Ng3 Bxg3 13.fxg3 Qxg3 14.Bf4 Qxh3  1-0

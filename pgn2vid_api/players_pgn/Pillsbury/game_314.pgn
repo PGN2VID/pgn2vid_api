@@ -1,0 +1,14 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Von Scheve, Theodor"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 c5 3.dxc5 Nf6 4.Nc3 Nc6 5.a3 d4 6.Na4 e5 7.b4 e4 8.Ng1 b5 9.Nb2 Nd5
+10.e3 Nc3 11.Qd2 a5 12.bxa5 Bxc5 13.Ne2 Nxe2 14.Bxe2 Rxa5 15.exd4 Nxd4 16.O-O O-O
+17.Rd1 Qb6 18.Bf1 Bg4 19.Re1 Rd8 20.Qc3 Nf3+ 21.gxf3 Bxf3 22.Bh3 Qg6+ 23.Kf1 Qh5  0-1

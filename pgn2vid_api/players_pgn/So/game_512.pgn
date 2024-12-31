@@ -1,0 +1,16 @@
+[Event "COQ Invitational 2012"]
+[Site "Montreal CAN"]
+[Date "2012.07.25"]
+[Round "6"]
+[White "Sumets,A"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2618"]
+[BlackElo "2650"]
+[ECO "D93"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.e3 c5 7.dxc5 Ne4 8.Rc1 Nd7
+9.cxd5 Nxc3 10.bxc3 Qa5 11.Qb3 Nxc5 12.Qb4 Qxb4 13.cxb4 Na4 14.Be5 Bf5 15.Bxg7 Kxg7
+16.Bc4 Rac8 17.O-O Rfd8 18.Nd4 Be4 19.f3 Bxd5 20.Bxd5 Rxc1 21.Rxc1 Rxd5 22.Rc7 e5
+23.Nb3 b5 24.Rxa7 Nc3 25.a3 g5 26.Nc5 Rd1+ 27.Kf2 Rd2+ 28.Kg3 h5 29.h4 gxh4+
+30.Kxh4  1/2-1/2

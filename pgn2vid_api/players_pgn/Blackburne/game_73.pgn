@@ -1,0 +1,14 @@
+[Event "GBR tour sim"]
+[Site "Great Britain"]
+[Date "1871.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.h3 Ne7 7.Bg5 c6 8.Be3 Bb6
+9.Nc3 Ng6 10.Qd2 Be6 11.Bb3 O-O 12.Rad1 Qd7 13.Nh2 Bxh3 14.Bxb6 Bxg2 15.Kxg2 Nf4+
+16.Kh1 axb6 17.f3 N6h5 18.Rf2 Ng3+ 19.Kg1 Qh3 20.d4 Qg2+ 21.Rxg2 Nh3+  0-1

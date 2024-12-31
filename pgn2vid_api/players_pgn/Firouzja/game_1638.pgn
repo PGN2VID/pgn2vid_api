@@ -1,0 +1,15 @@
+[Event "Chess.com SIG Bullet KO"]
+[Site "chess.com INT"]
+[Date "2021.04.07"]
+[Round "3.15"]
+[White "Tang,Andrew"]
+[Black "Firouzja,Alireza"]
+[Result "1-0"]
+[WhiteElo "2538"]
+[BlackElo "2759"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 b6 5.e4 c5 6.d5 Qe7 7.Ne2 exd5 8.exd5 O-O
+9.f3 d6 10.Bd2 Nbd7 11.O-O-O Re8 12.Ng3 Qd8 13.Bd3 Ne5 14.Rhe1 a6 15.a3 Ba5
+16.f4 Nxd3+ 17.Qxd3 Bg4 18.Rxe8+ Qxe8 19.Re1 Qd7 20.h3 Bh5 21.Nxh5 Nxh5 22.g4 Nf6
+23.g5 Nh5 24.f5 Re8 25.Re4 Rxe4 26.Nxe4 Qxf5 27.Nf6+  1-0

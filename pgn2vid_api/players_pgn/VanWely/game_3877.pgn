@@ -1,0 +1,16 @@
+[Event "Apeldoorn Lichess Inv"]
+[Site "lichess.org INT"]
+[Date "2020.06.27"]
+[Round "1.2"]
+[White "Eleveld,H"]
+[Black "Van Wely,L"]
+[Result "0-1"]
+[WhiteElo "2033"]
+[BlackElo "2615"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 c5 6.g3 cxd4 7.Nxd4 d5 8.cxd5 Nxd5
+9.Bg2 Nxc3 10.bxc3 Qxd4 11.cxb4 Qxa1 12.O-O Nc6 13.a3 Nd4 14.Qc4 Qc3 15.Qa2 e5
+16.e3 Be6 17.Qb2 Qxb2 18.Bxb2 Nc6 19.b5 Na5 20.Bc3 Nc4 21.Bxb7 Rab8 22.Bc6 Rfc8
+23.a4 a6 24.Rd1 axb5 25.axb5 Rd8 26.Rc1 f6 27.Bb4 Kf7 28.Bc5 Rd2 29.Ba7 Rbd8
+30.h4 Rd1+ 31.Rxd1 Rxd1+ 32.Kg2 Bd5+ 33.Bxd5+ Rxd5 34.b6 Rb5  0-1

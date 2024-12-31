@@ -1,0 +1,15 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Reggio, Arturo"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 exd4 6.e5 Ne4 7.O-O Be7 8.Nxd4 O-O
+9.Nf5 d5 10.Nxe7+ Nxe7 11.Be3 Nf5 12.Re1 c6 13.c3 Qh4 14.Bb6 Qg5 15.f3 Nh4
+16.Qe2 Bh3 17.g4 Qf4 18.fxe4 Nf3+ 19.Kh1 Nxe1 20.Nd2 Bg2+ 21.Kg1 Nf3+ 22.Nxf3 Bxf3
+23.Qf2 Qxg4+ 24.Kf1 Bxe4 25.Bd1 Qh3+ 26.Ke1 Rfe8 27.Bc7 f6 28.Qf4 fxe5 29.Bxe5 Qf5  0-1

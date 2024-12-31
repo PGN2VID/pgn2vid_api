@@ -1,0 +1,15 @@
+[Event "Mamedyarov-Konevlad Blitz"]
+[Site "lichess.org INT"]
+[Date "2020.06.04"]
+[Round "17"]
+[White "Mamedyarov,S"]
+[Black "Artemiev,V"]
+[Result "1-0"]
+[WhiteElo "2764"]
+[BlackElo "2716"]
+[ECO "B20"]
+
+1.e4 c5 2.a3 g6 3.b4 Bg7 4.Nc3 d6 5.Nf3 Nf6 6.bxc5 dxc5 7.Rb1 O-O 8.Bc4 Nc6
+9.d3 Bg4 10.O-O Ne5 11.Ba2 c4 12.Bf4 Bxf3 13.gxf3 Nh5 14.Be3 cxd3 15.cxd3 Nxd3
+16.Nd5 e6 17.Qxd3 exd5 18.Rxb7 Be5 19.Qxd5 Qf6 20.Rxf7 Rxf7 21.Qxa8+ Kg7
+22.Bxf7 Qxf7 23.Qxa7  1-0

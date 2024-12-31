@@ -1,0 +1,16 @@
+[Event "COQ Invitational 2012"]
+[Site "Montreal CAN"]
+[Date "2012.07.22"]
+[Round "3"]
+[White "So,W"]
+[Black "Yang,Dar"]
+[Result "1-0"]
+[WhiteElo "2650"]
+[BlackElo "2498"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.g3 Ngf6 6.Nxf6+ Nxf6 7.Bg2 c5 8.Nf3 cxd4
+9.Qxd4 Qxd4 10.Nxd4 a6 11.Bf4 Be7 12.O-O O-O 13.Rad1 Rd8 14.c4 Kf8 15.Bc7 Rd7
+16.Bb6 e5 17.Nb3 Rxd1 18.Rxd1 e4 19.Nc5 Bf5 20.Rd4 g6 21.b4 Re8 22.a4 Bxc5
+23.Bxc5+ Kg8 24.Bd6 Nd7 25.h3 h5 26.g4 hxg4 27.hxg4 Bxg4 28.Bxe4 b6 29.Bb7 Re1+
+30.Kg2 Bd1 31.b5 a5 32.Bc6 Nf6 33.c5 bxc5 34.b6  1-0

@@ -1,0 +1,21 @@
+[Event "chess.com Speed 3m+1spm 2018"]
+[Site "chess.com INT"]
+[Date "2018.11.30"]
+[Round "3.15"]
+[White "So,W"]
+[Black "Duda,J"]
+[Result "1-0"]
+[WhiteElo "2780"]
+[BlackElo "2737"]
+[ECO "B08"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.Nf3 Nf6 5.Be2 O-O 6.O-O c6 7.a4 Qc7 8.e5 dxe5
+9.Nxe5 Nbd7 10.Bf4 Nxe5 11.Bxe5 Qd8 12.a5 Bf5 13.Re1 Nd5 14.Bf3 Nb4 15.Bxg7 Kxg7
+16.Be4 Bxe4 17.Nxe4 b6 18.c3 Nd5 19.Qa4 Qc7 20.axb6 axb6 21.Qxa8 Rxa8 22.Rxa8 c5
+23.dxc5 bxc5 24.Raa1 c4 25.g3 Qb6 26.Nd2 Qxb2 27.Nxc4 Qxc3 28.Rac1 Qf6 29.Ne3 Nb4
+30.Red1 Qf3 31.Rc4 Nc6 32.Rd5 Qf6 33.Re4 Qa1+ 34.Kg2 Qa8 35.Kg1 Qb7 36.Rc4 Qa8
+37.Re4 h6 38.h4 f5 39.Rc4 Ne5 40.Rc7 Kf6 41.Rd1 Nf3+ 42.Kf1 e6 43.Rdd7 Ne5
+44.Nd5+ Qxd5 45.Rxd5 exd5 46.Ke2 d4 47.f4 d3+ 48.Ke3 Ng4+ 49.Kxd3 h5 50.Rc6+ Kg7
+51.Ra6 Nf2+ 52.Kd4 Ne4 53.Ra3 Kf6 54.Re3 Nf2 55.Kd5 Kf7 56.Ra3 Ne4 57.Ke5 Kg7
+58.Ke6 Nc5+ 59.Kd6 Ne4+ 60.Ke7 Nc5 61.Ra7 Ne4 62.Ke6+ Kg8 63.Rb7 Kf8 64.Rf7+ Kg8
+65.Ra7 Kf8 66.Rb7 Nc5+ 67.Kf6 Nxb7 68.Kxg6 Nd6 69.Kxh5 Ne4 70.Kg6  1-0

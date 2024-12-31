@@ -1,0 +1,20 @@
+[Event "4NCL Online S5 Div2 2022"]
+[Site "lichess.org INT"]
+[Date "2022.03.22"]
+[Round "5.151"]
+[White "Combie,A"]
+[Black "Nunn,J"]
+[Result "0-1"]
+[WhiteElo "1941"]
+[BlackElo "2568"]
+[ECO "A49"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 Nc6 7.e4 Bg4 8.h3 Bxf3
+9.Bxf3 e5 10.dxe5 dxe5 11.Bg5 Nd4 12.Nd5 c6 13.Nxf6+ Bxf6 14.Be3 Bg5 15.Bxg5 Qxg5
+16.c3 Ne6 17.Qb3 Qe7 18.Rfd1 h5 19.Rd2 h4 20.Rad1 Qg5 21.Kh2 Rad8 22.Rxd8 Rxd8
+23.Rxd8+ Nxd8 24.Qd1 Ne6 25.Bg4 Nc5 26.Qe2 Qc1 27.gxh4 Qf4+ 28.Kg2 Nxe4 29.Qf3 Qxf3+
+30.Bxf3 Nd6 31.Kg3 Kg7 32.h5 g5 33.Be2 f5 34.f3 Kh6 35.h4 Ne8 36.hxg5+ Kxg5
+37.Bc4 Ng7 38.Bf7 Nxh5+ 39.Kf2 Nf4 40.Ke3 Nd5+ 41.Ke2 Kf4 42.Be6 Ne7 43.Kf2 Ng6
+44.Bc8 Nh4 45.Bxb7 Nxf3 46.Bxc6 e4 47.b4 Ne5 48.Bb5 Ng4+ 49.Ke2 Ke5 50.Bd7 Nf6
+51.Bc6 f4 52.c4 f3+ 53.Kf1 Kf4 54.b5 e3 55.c5 Ng4 56.Bxf3 Kxf3 57.c6 e2+
+58.Ke1 Ke3 59.c7 Nh2 60.c8=Q Nf3+  0-1

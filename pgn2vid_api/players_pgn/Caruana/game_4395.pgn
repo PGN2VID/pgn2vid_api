@@ -1,0 +1,31 @@
+[Event "AI Cup Div 2 L"]
+[Site "chess.com INT"]
+[Date "2023.09.28"]
+[Round "4.2"]
+[White "Caruana,F"]
+[Black "Andreikin,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2729"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 g6 5.e5 Ng4 6.Bxc6 dxc6 7.d3 Bg7 8.Qe2 Nh6
+9.Ne4 Nf5 10.c3 b6 11.O-O O-O 12.Bf4 Qd5 13.h3 Ba6 14.Rad1 Rad8 15.c4 Nd4
+16.Qe3 Nxf3+ 17.Qxf3 Qd4 18.Nc3 Bxe5 19.Bxe5 Qxe5 20.Qxc6 Qb8 21.Qe4 e6 22.Qe3 Rd4
+23.b3 Rfd8 24.Rd2 Bb7 25.Rfd1 e5 26.a3 Bc6 27.b4 Qd6 28.Ne2 Rh4 29.bxc5 bxc5
+30.f3 Rb8 31.Qf2 Qe7 32.f4 Re8 33.fxe5 Rh5 34.d4 Rf5 35.Qe3 Rg5 36.Nf4 cxd4
+37.Qxd4 Rxe5 38.Nd5 Bxd5 39.cxd5 Qxa3 40.d6 Qg3 41.Rf2 Re1+ 42.Rxe1 Rxe1+
+43.Rf1 Qe3+ 44.Qxe3 Rxe3 45.Ra1 Rd3 46.Rxa7 Rxd6 47.Kf2 Rd3 48.h4 Kg7 49.g3 Rb3
+50.Kg2 Rb2+ 51.Kf3 Rb3+ 52.Kg2 Re3 53.Kf2 Re6 54.Kf3 Kf6 55.Kf2 Re7 56.Ra5 Re5
+57.Ra7 Rf5+ 58.Kg2 Kg7 59.Rb7 Re5 60.Ra7 Kf8 61.Kf3 Re7 62.Ra6 Kg7 63.Kf2 Rb7
+64.Kf3 Kh6 65.g4 Rb3+ 66.Kg2 Kg7 67.Rc6 Re3 68.Ra6 Re6 69.Ra7 Kf6 70.g5+ Kg7
+71.Kg3 Kf8 72.Ra8+ Re8 73.Ra7 Re7 74.Ra8+ Kg7 75.Ra5 Re3+ 76.Kg2 Re4 77.Kg3 Re3+
+78.Kg2 h6 79.Rb5 hxg5 80.hxg5 Kf8 81.Kf2 Rd3 82.Re5 Rc3 83.Kg2 Ra3 84.Kf2 Rh3
+85.Re1 Rh5 86.Rg1 Rh3 87.Re1 Kg7 88.Re4 Rh5 89.Rg4 Kf8 90.Kf3 Ke7 91.Rg1 Ke6
+92.Kg4 Rh2 93.Re1+ Kd6 94.Rd1+ Ke7 95.Re1+ Kf8 96.Re3 Rg2+ 97.Kh4 Rg1 98.Re2 Ra1
+99.Kg4 Ra4+ 100.Kg3 Rb4 101.Re1 Rb6 102.Kf4 Re6 103.Ra1 Rd6 104.Re1 Rd7 105.Ra1 Rd4+
+106.Kg3 Ke7 107.Re1+ Kd6 108.Rf1 Ke6 109.Re1+ Kd6 110.Rf1 Ke7 111.Re1+ Kf8
+112.Re2 Rd1 113.Kg4 Rd8 114.Re1 Rd6 115.Re2 Re6 116.Ra2 Re5 117.Kf4 Rf5+
+118.Kg4 Ke7 119.Re2+ Kd6 120.Re1 Kd5 121.Rd1+ Ke4 122.Re1+ Kd3 123.Re7 Kd4
+124.Re1 Re5 125.Rd1+ Ke4 126.Re1+ Kd5 127.Rd1+ Ke6 128.Rf1 Re4+ 129.Kg3 Ra4
+130.Rf6+  1/2-1/2

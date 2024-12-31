@@ -1,0 +1,23 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "8"]
+[White "Von Scheve, Theodor"]
+[Black "Tarrasch, Siegbert"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 c5 3.c3 Nc6 4.Bf4 Qb6 5.b3 cxd4 6.Nxd4 f6 7.Nxc6 bxc6 8.Be3 Qa5
+9.b4 Qc7 10.Bc5 e5 11.Bxf8 Kxf8 12.e3 Be6 13.a4 c5 14.Be2 Rb8 15.b5 f5 16.O-O Nf6
+17.Nd2 c4 18.Qc1 g5 19.f4 gxf4 20.exf4 e4 21.Nb1 Nd7 22.Na3 Nc5 23.Nc2 Nb3
+24.Qa3+ Qe7 25.Qxe7+ Kxe7 26.Ra2 Kd6 27.Rd1 Kc7 28.Nb4 Rbd8 29.Nc6 Ra8 30.Nb4 Rhd8
+31.a5 Nc5 32.Nc6 Re8 33.Nxa7 Nd3 34.b6+ Kb7 35.Nb5 Re7 36.g3 Nc5 37.Nc7 Rxc7
+38.bxc7 Kxc7 39.Rb1 Nb3 40.Ra3 d4 41.cxd4 Nxd4 42.Bxc4 Bxc4 43.Ra4 Bd3 44.Rc1+ Nc6
+45.Kf2 Kd6 46.Ke3 Kd5 47.a6 Ra7 48.h3 h5 49.Rg1 Rg7 50.a7 Nxa7 51.Rd4+ Ke6
+52.Rd8 Nb5 53.Re8+ Kf6 54.Rf8+ Ke6 55.Re8+ Kf6 56.Rf8+ Ke6 57.Re8+ Kd6 58.Rh8 Nc3
+59.Rxh5 Ne2 60.Rg2 Rxg3+ 61.Rxg3 Nxg3 62.Rg5 Nf1+ 63.Kd4 Ke6 64.h4 Bb5 65.Rg6+ Kf7
+66.Rb6 Be2 67.Ke5 Ng3 68.Rb1 Bg4 69.Rb3 Bf3 70.h5 Kg7 71.Rb6 Bxh5 72.Rb7+ Kh6
+73.Rb6+ Bg6 74.Rb3 Nf1 75.Kf6 e3 76.Rb1 e2 77.Re1 Bh5 78.Kxf5 Ne3+ 79.Ke6 Ng2
+80.Kf6  0-1

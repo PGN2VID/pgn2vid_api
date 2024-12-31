@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "20"]
+[White "Napier, William Ewart"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6
+9.Bb2 Na5 10.Nc3 Ne7 11.Bd3 O-O 12.d5 Ng6 13.Ne2 c5 14.Qd2 Bg4 15.Ng3 Bxf3
+16.gxf3 Nh4 17.Qf4 Ng6 18.Qf5 Rc8 19.Bc3 f6 20.Kh1 Rc7 21.Rg1 Rcf7 22.Bf1 c4
+23.Bh3 Bxf2 24.Ne2 Ne5 25.Rg2 Be3 26.Nf4 Bxf4 27.Qxf4 Kh8 28.Be6 g5 29.Qd2 b6
+30.Bxf7 Rxf7 31.f4 gxf4 32.Qxf4 Nb7 33.Rag1 Nc5 34.Bxe5 dxe5 35.Qg4 h6 36.Qh5 Qf8
+37.Rg6 Kh7 38.Rxh6+  1-0

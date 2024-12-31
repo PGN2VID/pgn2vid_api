@@ -1,0 +1,19 @@
+[Event "FIDE WCh KO"]
+[Site "Moscow RUS"]
+[Date "2001.12.05"]
+[Round "4.5"]
+[White "Gelfand,B"]
+[Black "Azmaiparashvili,Z"]
+[Result "1-0"]
+[WhiteElo "2701"]
+[BlackElo "2674"]
+[ECO "D56"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 Ne4 8.Bxe7 Qxe7
+9.Rc1 c6 10.Bd3 Nxc3 11.Rxc3 dxc4 12.Bxc4 b6 13.Bd3 Bb7 14.Be4 Na6 15.Bxc6 Bxc6
+16.Rxc6 Nb4 17.Rc4 b5 18.Rc5 Rac8 19.Rxb5 Rc1 20.Qxc1 Nd3+ 21.Ke2 Nxc1+ 22.Rxc1 Qd6
+23.a4 Rb8 24.Rc4 Rxb5 25.axb5 Qb8 26.Rc5 a6 27.Kd3 axb5 28.Kc3 Qb6 29.Kb4 Qa6
+30.Rxb5 Qa1 31.Kc5 Qf1 32.b4 Qxg2 33.Ne5 f6 34.Rb8+ Kh7 35.Nc6 Qxh2 36.b5 Qh5+
+37.Kd6 Qd5+ 38.Kc7 e5 39.b6 Qf7+ 40.Kd6 exd4 41.exd4 h5 42.b7 h4 43.Rh8+ Kxh8
+44.b8=Q+ Kh7 45.Qb1+ f5 46.Qh1 g5 47.d5 Qf6+ 48.Kc7 Qg7+ 49.Kd6 Qf6+ 50.Kd7 g4
+51.d6 f4 52.Qe4+ Kh6 53.Qe6 Qxe6+ 54.Kxe6 g3 55.fxg3 f3 56.Ne5  1-0

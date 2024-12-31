@@ -1,0 +1,13 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "15"]
+[White "Reggio, Arturo"]
+[Black "Tarrasch, Siegbert"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B45"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 e6 4.d4 cxd4 5.Nxd4 Nf6 6.Ndb5 Bb4 7.Bf4 Nxe4 8.Nc7+ Kf8
+9.Nxa8 Qf6 10.Qf3 Nxc3 11.Bd2 Nd4 12.Qd3 Qe5+ 13.Be3 Na4+ 14.c3 Nxb2 15.Qb1 Bxc3+  0-1

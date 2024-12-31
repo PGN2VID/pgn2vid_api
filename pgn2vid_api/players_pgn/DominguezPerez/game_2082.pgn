@@ -1,0 +1,21 @@
+[Event "Aimchess Rapid Div 3 W"]
+[Site "chess.com INT"]
+[Date "2023.07.10"]
+[Round "2.1"]
+[White "Dominguez Perez,L"]
+[Black "Meier,Geo"]
+[Result "1-0"]
+[WhiteElo "2739"]
+[BlackElo "2629"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.c3 Be7 8.Bf4 O-O
+9.Bd3 b6 10.Qe2 Bb7 11.O-O-O a6 12.h4 b5 13.h5 Bd5 14.Ne5 Nd7 15.Rh3 Bg5
+16.Qg4 Nxe5 17.dxe5 Bxf4+ 18.Qxf4 f5 19.h6 g6 20.Bc2 Qe7 21.Rhd3 c6 22.Bb3 a5
+23.Bxd5 cxd5 24.Kb1 Rfc8 25.Rd4 Rab8 26.g3 Rc7 27.f3 Rbc8 28.a3 Rc4 29.Qe3 Qc5
+30.Qg5 Rf8 31.Qd2 Rf7 32.Ka2 a4 33.Kb1 Kf8 34.Qg5 Ke8 35.Qd2 Kd7 36.Qg5 Kc7
+37.Qd2 Kb7 38.Qe3 Rc7 39.R1d3 Qe7 40.Qd2 g5 41.Qe3 Rc8 42.Rd1 Rg8 43.Rh1 Rg6
+44.Qd2 Kc6 45.Rh5 Qd8 46.Ka2 Qg8 47.Qd1 g4 48.Rxc4+ bxc4 49.Qxa4+ Kb7 50.Qd7+ Kb6
+51.Qd6+ Kb7 52.Qd7+ Kb6 53.f4 Ka6 54.Qc6+ Ka7 55.Qc7+ Ka6 56.Qd6+ Ka7 57.Qe7+ Ka6
+58.Rg5 Rxg5 59.Qxg5 Qb8 60.Kb1 Qb3 61.Kc1 d4 62.Qe7 dxc3 63.Qxe6+ Ka7 64.Qd7+ Kb8
+65.Qd8+ Kb7 66.Qe7+ Ka8 67.Qf8+ Ka7 68.Qc5+ Ka6 69.Qd6+ Kb7 70.Qb4+  1-0

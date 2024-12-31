@@ -1,0 +1,15 @@
+[Event "chess.com SpeedChess Q2Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.23"]
+[Round "2"]
+[White "Matinian,N"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteElo "2421"]
+[BlackElo "2753"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7
+9.f4 a5 10.c4 Bb4+ 11.Ke2 O-O 12.a3 Be7 13.cxd5 cxd5 14.Nf2 f6 15.exf6 Bxf6
+16.Ng4 Be7 17.g3 Rb8 18.Kf3 Bb7 19.Bd3 e5 20.Kg2 d4+ 21.Kh3 Qc6 22.Rg1 Qe6
+23.fxe5 Bf3  0-1

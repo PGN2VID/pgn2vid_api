@@ -1,0 +1,22 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "5"]
+[White "Fedoseev,Vl3"]
+[Black "Erigaisi,Arjun"]
+[Result "1-0"]
+[WhiteElo "2674"]
+[BlackElo "2559"]
+[ECO "A00"]
+
+1.g3 d6 2.Bg2 c6 3.e4 g6 4.d4 Bg7 5.Ne2 e5 6.O-O Ne7 7.Nbc3 O-O 8.dxe5 dxe5
+9.Qxd8 Rxd8 10.a4 Be6 11.b3 Na6 12.Ba3 Bf8 13.Rfd1 f6 14.f4 Kf7 15.h3 Ng8
+16.Bxf8 Kxf8 17.Kf2 Ke7 18.fxe5 fxe5 19.Rxd8 Rxd8 20.Rc1 Nc5 21.Ke3 a5 22.Rd1 Rf8
+23.Nc1 Nf6 24.Nd3 Nfd7 25.Nf2 h5 26.h4 Rh8 27.Bh3 Nf8 28.Bxe6 Nfxe6 29.Ne2 Nd7
+30.Nd3 Rf8 31.Re1 Ndc5 32.Nxe5 Rg8 33.Nf4 g5 34.Nxh5 gxh4 35.gxh4 Rg2 36.Re2 Rg1
+37.Nf3 Rh1 38.Nf4 Ng7 39.Rh2 Rd1 40.h5 Nge6 41.h6 Nxf4 42.Kxf4 Rd8 43.h7 Rh8
+44.Ne5 Kf6 45.Ng4+ Kg6 46.Ke5 Nd7+ 47.Kd6 Nf8 48.Ne5+ Kg7 49.Rg2+ Kxh7 50.Rh2+ Kg7
+51.Rxh8 Kxh8 52.Nd7 Ng6 53.Nc5 Kg7 54.Nxb7 Nf4 55.Nxa5 Ne2 56.Nxc6 Nc3 57.a5 Nxe4+
+58.Kc7 Nc3 59.a6 Kf6 60.Kb6 Nb5 61.a7 Nd6 62.a8=Q Ne4 63.Qe8 Kf5 64.Qe5+ Kg4
+65.Qxe4+ Kh3 66.Qd4 Kg2 67.Kc5 Kh2 68.b4 Kh1 69.b5 Kg2 70.b6 Kh1 71.b7 Kg2
+72.b8=Q Kf1 73.Qg8 Ke2 74.Qg2+ Ke1 75.Qdg1+  1-0

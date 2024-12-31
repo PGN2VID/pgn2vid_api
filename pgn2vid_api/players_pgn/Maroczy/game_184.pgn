@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "6"]
+[White "Wolf, Heinrich"]
+[Black "Maroczy, Geza"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C62"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 f6 5.O-O Bd7 6.Nc3 g6 7.dxe5 dxe5 8.Be3 Nh6
+9.h3 Nf7 10.Qe2 Bd6 11.a3 O-O 12.Bc4 Kg7 13.Rad1 a6 14.Ba2 Qc8 15.Nd5 Be6
+16.c4 Re8 17.c5 Bf8 18.b4 Bxd5 19.exd5 Ncd8 20.Qc2 Nh8 21.Rfe1 Ndf7 22.Bc1 a5
+23.Bb3 axb4 24.axb4 b6 25.Ba4 Rd8 26.Bc6 Ra7 27.Be3 bxc5 28.bxc5 Qa6 29.Rb1 Be7
+30.Rb4 Qa2 31.Rb2 Qa6 32.Rb4 Qa3 33.Reb1 f5 34.d6 Bf6 35.Bc1 Qa6 36.Bb7 Rxb7
+37.Rxb7 cxd6 38.Ng5 dxc5 39.R7b6 Qd3 40.Ne6+ Kg8 41.Qxc5 Qd5 42.Qxd5 Rxd5
+43.Rb8+ Nd8 44.Nxd8 Rd1+ 45.Kh2 Bxd8 46.R1b7 Nf7 47.Bb2 Rd5 48.f4 exf4 49.Bf6 Rd2
+50.Kg1 Kf8 51.Rxf7+ Kxf7 52.Rxd8 Rxd8 53.Bxd8 h6 54.Kf2 g5 55.Ba5 Kg6 56.Kf3 Kh5
+57.Be1 Kg6 58.Ke2 g4 59.Bd2 Kg5 60.Be1 Kg6 61.h4 Kh5 62.Kd3 g3 63.Ke2 Kg4
+64.h5 f3+ 65.gxf3+ Kh3 66.Ke3  1-0

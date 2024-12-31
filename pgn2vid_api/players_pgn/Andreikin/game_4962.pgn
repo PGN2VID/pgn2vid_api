@@ -1,0 +1,20 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "3.4"]
+[White "Andreikin,D"]
+[Black "Artemiev,V"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2697"]
+[ECO "D35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 c6 6.e3 h6 7.Bh4 Be7 8.Bd3 O-O
+9.Nge2 Re8 10.h3 a5 11.g4 b5 12.Rg1 b4 13.Na4 Ba6 14.g5 hxg5 15.Bxg5 Bxd3
+16.Qxd3 Ne4 17.Bxe7 Qxe7 18.Ng3 Nd7 19.Qe2 g6 20.Nxe4 Qxe4 21.O-O-O Rac8
+22.Qg4 c5 23.Qxe4 Rxe4 24.dxc5 Nxc5 25.Nb6 Rc6 26.Nxd5 Nd3+ 27.Kb1 Nxf2 28.Rd2 Re5
+29.h4 Ne4 30.Rd4 Nf6 31.Nf4 Kh7 32.Re1 Re4 33.Nh3 Kg7 34.Ng5 Rxd4 35.exd4 Rd6
+36.Re7 Rd7 37.Rxd7 Nxd7 38.Kc2 f6 39.Ne6+ Kf7 40.Nd8+ Ke7 41.Nc6+ Kd6 42.Nxa5 f5
+43.Nc4+ Kd5 44.Kd3 f4 45.Ne5 Nf8 46.a4 bxa3 47.bxa3 Ne6 48.Nxg6 Nxd4 49.Nxf4+ Ke5
+50.Ng6+ Kd5 51.h5 Nf5 52.Nf4+ Ke5 53.a4 Nd6 54.h6 Kf6 55.Kd4 Nf5+ 56.Kc5 Nxh6
+57.a5 Nf7 58.a6 Ne5 59.a7 Nd7+ 60.Kb5  1-0

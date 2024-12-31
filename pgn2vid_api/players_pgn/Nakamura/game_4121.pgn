@@ -1,0 +1,23 @@
+[Event "Chess.com SIG Bullet KO"]
+[Site "chess.com INT"]
+[Date "2021.04.06"]
+[Round "1.1"]
+[White "Nakamura,Hi"]
+[Black "Erigaisi,Arjun"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2567"]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.b3 d5 3.Bb2 Bf5 4.e3 e6 5.d4 h6 6.Bd3 Nbd7 7.O-O Bd6 8.c4 Bxd3
+9.Qxd3 c6 10.Nc3 O-O 11.e4 dxe4 12.Nxe4 Nxe4 13.Qxe4 Nf6 14.Qe2 Qa5 15.a3 Rad8
+16.Rfe1 Qf5 17.Rad1 Rfe8 18.Rd3 a5 19.g3 Bc7 20.Re3 Rd7 21.Ne5 Bxe5 22.Rxe5 Qg6
+23.Rxa5 Red8 24.Re5 h5 25.h3 Qh6 26.h4 Ng4 27.Re4 Nf6 28.Re3 Qg6 29.Rd3 c5
+30.Red1 Qf5 31.d5 exd5 32.Bxf6 gxf6 33.Rf3 Qg4 34.cxd5 Rxd5 35.Rxd5 Rxd5
+36.Kg2 Rf5 37.Re3 Qxe2 38.Rxe2 Rd5 39.Re3 Kg7 40.Re7 b5 41.Rc7 Rd3 42.Rxc5 Rxb3
+43.Rxh5 Kg6 44.Rc5 f5 45.Rc6+ f6 46.Rc5 Rxa3 47.Rxb5 Ra2 48.Rc5 Ra4 49.Rc3 Rb4
+50.Rf3 Ra4 51.Re3 Rb4 52.Kf3 Ra4 53.Rd3 Ra1 54.Ke3 Ra4 55.Rd4 Ra3+ 56.Kf4 Ra2
+57.f3 Ra5 58.Rc4 Rb5 59.g4 fxg4 60.fxg4 Rb1 61.h5+ Kg7 62.Kf5 Rf1+ 63.Rf4 Re1
+64.Re4 Rf1+ 65.Ke6 Kh6 66.Rd4 Kg5 67.Kf7 Ra1 68.Rd5+ Kxg4 69.h6 f5 70.Rd7 Ra8
+71.Kg6 f4 72.Rd4 Rh8 73.Kg7 Rxh6 74.Kxh6 Kg3 75.Kg5 f3 76.Rg4+ Kf2 77.Rf4 Ke2
+78.Re4+ Kf1 79.Kf4 f2 80.Kf3 Kg1 81.Rg4+ Kf1 82.Rg2 Ke1 83.Rxf2 Kd1 84.Re2  1-0

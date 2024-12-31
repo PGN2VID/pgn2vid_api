@@ -1,0 +1,25 @@
+[Event "Chess.com Rapid Wk3 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.27"]
+[Round "6"]
+[White "Sarana,A"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2685"]
+[BlackElo "2792"]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.g3 O-O 6.Bg2 Nbd7 7.Qd3 dxc4 8.Qxc4 c5
+9.dxc5 Nxc5 10.O-O Bd7 11.Rd1 Rc8 12.Ne5 Qb6 13.Nxd7 Ncxd7 14.Qb5 Qxb5 15.Nxb5 a6
+16.Nd6 Rc2 17.Nxb7 Rxe2 18.Bf1 Rc2 19.Bd3 Rc7 20.Na5 Nd5 21.Bd2 Ne5 22.Be4 g5
+23.Bxd5 exd5 24.Bc3 d4 25.Bxd4 Nf3+ 26.Kg2 Nxd4 27.Rxd4 Rc2 28.Rd5 Rxb2 29.Nc4 Rb5
+30.Rad1 f5 31.a4 Rxd5 32.Rxd5 f4 33.Ne5 fxg3 34.hxg3 Rc8 35.Rd7 Bf6 36.Ng4 Bg7
+37.Ne3 Rc5 38.g4 Ra5 39.Nf5 Bf8 40.Rd4 h5 41.f3 hxg4 42.fxg4 Kf7 43.Kf3 Ke6
+44.Ke4 Re5+ 45.Kd3 Rd5 46.Kc4 Rc5+ 47.Kd3 Rd5 48.Ne3 Rxd4+ 49.Kxd4 Kd6 50.Nc4+ Kc6
+51.Ne5+ Kc7 52.Kd5 Ba3 53.Ke6 Bc1 54.Kd5 Kb7 55.Nd3 Bd2 56.Nc5+ Kb6 57.Ne4 Bc1
+58.Kc4 Kc6 59.Kd4 Kb6 60.Kc3 Kc6 61.Kc4 Kb6 62.Nc5 Be3 63.Nd7+ Kc6 64.Ne5+ Kb6
+65.Nd3 Bd2 66.Nc5 Be3 67.Ne6 Ka5 68.Kb3 Kb6 69.Kb4 Kc6 70.Kc4 Kd6 71.Nd4 Ke5
+72.Nc6+ Kf4 73.Nb4 Kxg4 74.Nxa6 Kf3 75.Nb4 g4 76.Nd3 g3 77.a5 Ke2 78.a6 g2
+79.Nf4+ Bxf4 80.a7 g1=Q 81.a8=Q Qc1+ 82.Kb5 Qb2+ 83.Kc5 Qc2+ 84.Kb6 Be3+
+85.Kb7 Qe4+ 86.Kb8 Bf4+ 87.Ka7 Qd4+ 88.Kb7 Qd5+ 89.Ka7 Be3+ 90.Kb8 Qd6+ 91.Kb7 Qd5+
+92.Kb8 Qb5+ 93.Qb7 Bf4+ 94.Ka8 Qe8+ 95.Ka7 Be3+ 96.Ka6 Qa4+  0-1

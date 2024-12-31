@@ -1,0 +1,15 @@
+[Event "chess.com SpeedChess Q2Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.23"]
+[Round "9"]
+[White "Shimanov,A"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2566"]
+[BlackElo "2787"]
+[ECO "B00"]
+
+1.e4 a6 2.d4 c6 3.Bd3 d5 4.e5 c5 5.c3 Nc6 6.Ne2 e6 7.Nd2 cxd4 8.cxd4 Nb4
+9.Bb1 Ne7 10.h4 h5 11.Nf3 Bd7 12.a3 Nbc6 13.O-O Nf5 14.Bxf5 exf5 15.Bg5 Be7
+16.Nf4 Be6 17.Bxe7 Qxe7 18.Ng5 Rh6 19.Rc1 O-O-O 20.b4 Kb8 21.Rc5 Na7 22.a4 Nc8
+23.b5 axb5 24.Rxb5 Nb6  1-0

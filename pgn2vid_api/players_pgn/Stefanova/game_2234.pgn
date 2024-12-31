@@ -1,0 +1,25 @@
+[Event "Najdorf Mem Open A 2017"]
+[Site "Warsaw POL"]
+[Date "2017.07.09"]
+[Round "1.25"]
+[White "Niekras,Dawid"]
+[Black "Stefanova,A"]
+[Result "0-1"]
+[WhiteElo "2291"]
+[BlackElo "2512"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.f4 d5 5.e5 h5 6.Nf3 Bg4 7.Be2 e6 8.Be3 Nh6 9.Qd2 Bf8
+10.g3 Nf5 11.Bf2 h4 12.O-O-O Nd7 13.Ng5 Nh6 14.Rdf1 Nb6 15.Be1 Bxe2 16.Qxe2 Nc4
+17.b3 Ba3+ 18.Kb1 Nf5 19.Nf3 Qb6 20.Qd3 Nb2 21.Qd2 Nc4 22.Qd3 Nb2 23.Qd2 a5
+24.g4 Nc4 25.Qd3 Nfe3 26.Na4 Qb5 27.Rfg1 Be7 28.Nc3 Na3+ 29.Kc1 Qxd3 30.cxd3 h3
+31.Kb2 b5 32.Bd2 Ng2 33.Rc1 Kd7 34.Ne2 b4 35.Ng3 Ra6 36.f5 Nh4 37.Ng5 Bxg5
+38.Bxg5 Nf3 39.Be3 Nb5 40.fxe6+ fxe6 41.Rcf1 Nbxd4 42.Bxd4 Nxd4 43.Rf7+ Kc8
+44.Rhf1 c5 45.Re7 Kb8 46.Rf6 a4 47.Nf1 c4 48.dxc4 dxc4 49.bxc4 Rd8 50.Ref7 a3+
+51.Kb1 Ra5 52.Rf8 Rxf8 53.Rxf8+ Kc7 54.Rf4 Ne2 55.Rf7+ Kc6 56.Kc2 Nd4+ 57.Kd3 Nb3
+58.Kc2 Na1+ 59.Kd3 Rxe5 60.Ne3 b3 61.axb3 Nxb3 62.Ra7 a2 63.Nc2 Nc5+ 64.Kc3 Re4
+65.Rxa2 Rxg4 66.Nd4+ Kd6 67.Nb5+ Ke5 68.Re2+ Re4 69.Rd2 Re3+ 70.Kb4 Nd3+
+71.Ka5 Nc5 72.Kb6 Ne4 73.Rc2 Rb3 74.c5 Kf6 75.Rc4 Ke5 76.Rc2 Kf4 77.c6 Nd6
+78.Rc5 Ne8 79.c7 Nxc7 80.Rxc7 Rb2 81.Rf7+ Ke5 82.Kc6 Rxh2 83.Kd7 Rd2+ 84.Kc7 h2
+85.Rf1 g5 86.Re1+ Kf4 87.Nd6 g4 88.Rf1+ Ke3 89.Nc4+ Ke2 90.Nxd2 g3 91.Rh1 Kxd2
+92.Kd6 Ke3 93.Kxe6 Kf3 94.Ra1 g2 95.Ra3+ Kg4 96.Ra4+ Kg5 97.Ra5+ Kg6  0-1

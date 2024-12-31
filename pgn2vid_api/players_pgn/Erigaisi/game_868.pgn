@@ -1,0 +1,20 @@
+[Event "Chess.com Bullet Open 2"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "7"]
+[White "Fernandez,Dan SIN"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2466"]
+[BlackElo "2559"]
+[ECO "A00"]
+
+1.g3 e6 2.Bg2 d5 3.c4 Nf6 4.Nf3 c6 5.O-O Bd6 6.b3 O-O 7.Ba3 b6 8.Bxd6 Qxd6
+9.Nc3 Bb7 10.a4 Nbd7 11.a5 Nc5 12.b4 Nce4 13.b5 dxc4 14.Nxe4 Nxe4 15.a6 Bc8
+16.bxc6 Nc5 17.Qc2 Bxa6 18.Rfc1 Rac8 19.Ng5 f5 20.Rxa6 Nxa6 21.Qxc4 Nc7 22.d4 h6
+23.Nh3 Nd5 24.Nf4 Nxf4 25.gxf4 Rfe8 26.e3 Re7 27.Bh3 Kh8 28.Bg2 g5 29.fxg5 hxg5
+30.Qa6 Rcc7 31.Qa1 Rh7 32.h4 Rxh4 33.d5+ Kg8 34.dxe6 Qxe6 35.Rd1 Re4 36.Rd8+ Kf7
+37.Qh8 Rxc6 38.Bxe4 fxe4 39.Qg8+ Kf6 40.Rf8+ Ke5 41.Re8 a5 42.Qxg5+ Kd6 43.Rxe6+ Kxe6
+44.Kg2 Rc5 45.Qg8+ Kd6 46.Qb8+ Kc6 47.Kg3 Kb5 48.Qa8 Rc4 49.Kf4 Kb4 50.Qe8 b5
+51.Qe7+ Kb3 52.Ke5 b4 53.Kd5 a4 54.Qa7 Rc3 55.Qh7 a3 56.Kd4 a2 57.Kxe4 a1=Q
+58.Qf7+ Kb2 59.f4 Qb1+ 60.Kf3 Qd3 61.Qe6 Qd1+  0-1

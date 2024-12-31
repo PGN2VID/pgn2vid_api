@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "3"]
+[White "Maroczy, Geza"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B45"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.g3 d5 7.Bg2 dxe4 8.Nxc6 Qxd1+
+9.Kxd1 bxc6 10.Nxe4 Nxe4 11.Bxe4 Bb7 12.Be3 O-O-O+ 13.Ke2 c5 14.Bxb7+ Kxb7
+15.Rhd1 Be7 16.Rxd8 Rxd8 17.Rd1 Kc6 18.Rxd8 Bxd8 19.Kd3 Kd5 20.c4+ Kc6 21.g4 f5
+22.h3 g6 23.a3 a5 24.b3 e5 25.Bd2 e4+ 26.Ke2 Kb6 27.Be3 Bf6 28.gxf5 gxf5
+29.f3 f4 30.Bxf4 exf3+ 31.Kxf3 a4 32.bxa4 Bb2 33.Ke4 Bxa3 34.Kd5 Bb2 35.Bd6 Bd4
+36.Bxc5+  1-0

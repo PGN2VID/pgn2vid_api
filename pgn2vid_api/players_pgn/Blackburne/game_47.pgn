@@ -1,0 +1,19 @@
+[Event "GBR tour sim"]
+[Site "Great Britain"]
+[Date "1868.??.??"]
+[Round "?"]
+[White "De Vere, Cecil Valentine"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3 c5 5.exd5 exd5 6.dxc5 Nc6 7.Bd2 Bxc5 8.Nge2 Nf6
+9.O-O h6 10.Bf4 Be6 11.Qd2 g5 12.Bg3 a6 13.Kh1 Nh5 14.Rae1 Qa5 15.Qd1 O-O-O
+16.a3 Ba7 17.Nc1 Nxg3+ 18.fxg3 h5 19.Bf5 Nd4 20.Nb3 Nxb3 21.cxb3 d4 22.b4 Qc7
+23.Ne4 Rd5 24.Bxe6+ fxe6 25.Nf6 Re5 26.Qb3 Rxe1 27.Rxe1 Qc6 28.h3 e5 29.Nd5 Re8
+30.a4 b5 31.axb5 axb5 32.Qf3 Kb8 33.Ra1 Rd8 34.Ne7 Qxf3 35.gxf3 Kb7 36.Kg2 Bb6
+37.Nf5 Rd7 38.g4 h4 39.Rc1 Bc7 40.Kf2 Kb6 41.Rd1 Bd6 42.Ke2 Bxb4 43.Kd3 Kc5
+44.Ke4 Kc4 45.Rd3 Be1 46.b3+ Kb4 47.Kxe5 Bc3 48.Nxd4 Rxd4 49.Rxd4+ Kxb3 50.f4 gxf4
+51.g5 f3 52.g6 f2 53.g7 Bxd4+ 54.Kxd4 f1=Q 55.g8=Q+ Qc4+  0-1

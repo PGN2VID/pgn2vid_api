@@ -1,0 +1,21 @@
+[Event "Amber Rapid"]
+[Site "Monte Carlo MNC"]
+[Date "2005.03.19"]
+[Round "1"]
+[White "Gelfand,B"]
+[Black "Bareev,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2709"]
+[ECO "D17"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Nb6 8.Ne5 e6
+9.f3 Nfd7 10.a5 Nxe5 11.axb6 Nd7 12.e4 Bg6 13.Rxa7 Nxb6 14.Rxa8 Qxa8 15.Be3 Bb4
+16.Be2 Qa2 17.Qc1 Nc4 18.Kf2 Qb3 19.Bxc4 Qxc4 20.Ne2 Qb3 21.Bd2 Bd6 22.Qc3 Qb5
+23.Ra1 O-O 24.e5 Be7 25.Nf4 Rd8 26.Nxg6 hxg6 27.Be3 Bb4 28.Qc2 Bf8 29.b3 Qd5
+30.Ra7 Qd7 31.Qc4 Qc8 32.g3 Kh7 33.h4 Rd5 34.Qc2 c5 35.h5 Qb8 36.hxg6+ fxg6
+37.Ra4 b5 38.Ra1 cxd4 39.Bf4 Qe8 40.Qd3 Kg8 41.Kg2 g5 42.Bxg5 Rxe5 43.Bd2 Rd5
+44.Rh1 g6 45.Rh4 Bg7 46.Re4 Qf7 47.Be1 g5 48.Bf2 Qf5 49.Qc2 d3 50.Qd2 Qf6
+51.Be3 Kf7 52.Rg4 Qc3 53.Rxg5 Qxb3 54.Rxd5 Qxd5 55.Qa5 Kg6 56.Qb4 Qa2+ 57.Kh3 Qd5
+58.Kg2 Kf7 59.Qf4+ Bf6 60.Qc7+ Kg6 61.Qc8 Kf7 62.Qc7+ Be7 63.g4 b4 64.Qf4+ Kg8
+65.Qb8+ Bf8 66.Bd2 Qd6 67.Qe8 Qe5 68.Qg6+ Qg7 69.Qxd3 Qe5 70.Qg6+ Bg7 71.Bxb4  1/2-1/2

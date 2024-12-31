@@ -1,0 +1,15 @@
+[Event "chess.com SpeedChess 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.20"]
+[Round "3.56"]
+[White "Vachier Lagrave,M"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2780"]
+[ECO "B06"]
+
+1.e4 g6 2.h4 Bg7 3.h5 c5 4.hxg6 hxg6 5.Rxh8 Bxh8 6.c3 Nc6 7.Nf3 d5 8.exd5 Qxd5
+9.Na3 Bg4 10.Bc4 Qd7 11.d3 O-O-O 12.Be3 Bxf3 13.gxf3 Qf5 14.f4 Nf6 15.Qa4 Nd5
+16.O-O-O Nxf4 17.Qb5 Ne6 18.Qa4 Be5 19.Bb5 Rd6 20.Nc4 Nb8 21.Nxd6+ Bxd6 22.Qxa7 Nc7
+23.a4  1-0

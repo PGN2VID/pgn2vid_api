@@ -1,0 +1,22 @@
+[Event "Chess.com RCC Wk16 KO"]
+[Site "chess.com INT"]
+[Date "2022.05.29"]
+[Round "1.2"]
+[White "Grischuk,A"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2742"]
+[BlackElo "2766"]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Bg5 d5 6.e3 c5 7.cxd5 exd5 8.dxc5 Nbd7
+9.Rc1 Nxc5 10.Qd4 Bxc3+ 11.Qxc3 Nce4 12.Bxf6 Nxf6 13.Be2 Bg4 14.O-O Qb6 15.Nd4 Rac8
+16.Qa3 Bxe2 17.Nxe2 Ne4 18.Nd4 g6 19.Rcd1 a6 20.Qb3 Qxb3 21.axb3 Rc7 22.f3 Nc5
+23.Rd2 Rfc8 24.Kf2 Ne6 25.Ne2 Nc5 26.b4 Na4 27.b3 Nb6 28.Rfd1 h5 29.h4 Kg7
+30.Nd4 Nd7 31.Ra2 Nf6 32.Rdd2 Kf8 33.b5 axb5 34.Nxb5 Rc1 35.Nd4 R8c7 36.Rdc2 R7xc2+
+37.Nxc2 Rh1 38.Nd4 Ne8 39.Ra5 Rb1 40.Rxd5 Ke7 41.Re5+ Kd7 42.Rd5+ Ke7 43.Rc5 Kd7
+44.e4 Nd6 45.e5 Ne8 46.Rd5+ Ke7 47.Rb5 Rb2+ 48.Ke3 Rxg2 49.Rxb7+ Kf8 50.b4 g5
+51.e6 gxh4 52.Rxf7+ Kg8 53.Rf4 h3 54.Rh4 Nf6 55.Rxh3 Rb2 56.b5 Rb4 57.Rh1 Kf8
+58.Rc1 h4 59.Rh1 Nd5+ 60.Ke4 Nc7 61.Ke5 Nxb5 62.Nf5 Nc7 63.Rxh4 Rb5+ 64.Kf6 Nd5+
+65.Kg6 Ne7+ 66.Nxe7 Kxe7 67.f4 Kxe6 68.Rh8 Ke7 69.f5 Rb6+ 70.Kg7 Rb7 71.f6+ Ke6+
+72.Kg6  1-0

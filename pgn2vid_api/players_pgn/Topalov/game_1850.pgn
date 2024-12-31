@@ -1,0 +1,22 @@
+[Event "Topalov Vienna Clock Simul"]
+[Site "Vienna AUT"]
+[Date "2012.04.27"]
+[Round "1"]
+[White "Juhasz,Kr"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2378"]
+[BlackElo "2752"]
+[ECO "E62"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O c6 7.Nc3 Bf5 8.b3 Ne4
+9.Bb2 Qa5 10.Nxe4 Bxe4 11.e3 c5 12.Qe2 a6 13.dxc5 Bxb2 14.Qxb2 Qxc5 15.Rac1 Nc6
+16.Rfd1 Rfc8 17.Nd4 Bxg2 18.Kxg2 Qe5 19.Qe2 Nxd4 20.Rxd4 b5 21.Qd2 Qe6 22.cxb5 axb5
+23.Rxc8+ Rxc8 24.Qd3 Qd7 25.a4 bxa4 26.bxa4 Rc5 27.Rb4 Kg7 28.Qd4+ f6 29.Qe4 d5
+30.Qd4 Qc6 31.Rb5 Rxb5 32.axb5 Qxb5 33.e4 dxe4 34.Qxe4 Qc5 35.h4 h5 36.Qa8 Qd4
+37.Qb7 Qe5 38.Qa8 Kf7 39.Qh8 Qe4+ 40.Kg1 Qc2 41.Kg2 Qc6+ 42.Kg1 Ke6 43.Qg7 Qe4
+44.Qg8+ Kf5 45.Qc8+ e6 46.Qc3 g5 47.hxg5 fxg5 48.f3 Qe2 49.Qc5+ Kg6 50.Qf8 g4
+51.Qe8+ Kf6 52.Qd8+ Ke5 53.Qc7+ Kd4 54.Qb6+ Kd3 55.Qb5+ Kd2 56.Qb4+ Kc2 57.Qa4+ Kb2
+58.Qb4+ Kc1 59.Qa3+ Qb2 60.Qe3+ Qd2 61.Qa3+ Kd1 62.Qa1+ Qc1 63.Qf6 Kc2+ 64.Kf2 Qd2+
+65.Kf1 Qd1+ 66.Kf2 Qxf3+ 67.Qxf3 gxf3 68.Kxf3 Kd3 69.Kf4 Kd4 70.Kg5 e5 71.Kxh5 e4
+72.g4 e3 73.g5 e2  0-1

@@ -1,0 +1,24 @@
+[Event "Chess.com RCC Wk21 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.07.16"]
+[Round "1"]
+[White "So,W"]
+[Black "Tari,A"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2672"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 d6 6.O-O a5 7.Re1 O-O 8.h3 h6 9.Nbd2 Be6
+10.Bb5 Bb6 11.Nc4 Bc5 12.Ncd2 Bb6 13.a4 Na7 14.Bc4 Nc6 15.Bxe6 fxe6 16.Nc4 Bc5
+17.Be3 Bxe3 18.Rxe3 Qd7 19.Qb3 b6 20.Rd1 Rf7 21.d4 exd4 22.Nxd4 e5 23.Nb5 Qe6
+24.f3 Kh7 25.Red3 Rd7 26.Kh2 Nd8 27.R3d2 Nb7 28.Nxa5 Qxb3 29.Nxb3 Rxa4 30.Ra1 Rxa1
+31.Nxa1 c6 32.Na3 d5 33.exd5 Rxd5 34.Re2 Nd6 35.N1c2 e4 36.fxe4 Ndxe4 37.Nb4 Rc5
+38.Nac2 Rc4 39.Ne3 Rc5 40.Nec2 Rc4 41.Ne3 Rc5 42.Nd3 Rb5 43.Nc4 Rb3 44.Nc1 Rb5
+45.Nd3 Rb3 46.Nb4 c5 47.Nc6 Rb5 48.Na7 Rb3 49.Nc8 b5 50.Na5 Nxc3 51.Rc2 Rb4
+52.bxc3 Ra4 53.Nb3 c4 54.Nd4 b4 55.cxb4 Rxb4 56.Ne7 c3 57.Ne2 Re4 58.Nf5 Nd5
+59.Kg3 Nb4 60.Nxc3 Rc4 61.Rc1 Nd3 62.Ne3 Rc8 63.Rc2 Nb4 64.Rc1 Nd3 65.Rc2 Nb4
+66.Rd2 Rxc3 67.Kf3 Nc6 68.Rd5 Ra3 69.g4 Ra5 70.Rxa5 Nxa5 71.Ke4 Nc6 72.Nf5 Nd8
+73.Kd5 Nf7 74.h4 Nh8 75.Ke6 Ng6 76.h5 Nh8 77.Ne7 g6 78.Kf6 g5 79.Nf5 Kg8
+80.Nxh6+ Kf8 81.Kxg5 Kg7 82.Nf5+ Kh7 83.Kf6 Kg8 84.g5 Nf7 85.Ne7+ Kf8 86.h6 Nd6
+87.h7 Nf7 88.Ng6+ Ke8 89.h8=Q+ Nxh8 90.Nxh8 Kd7 91.g6 Kd6 92.g7 Kd5 93.g8=Q+  1-0

@@ -1,0 +1,25 @@
+[Event "Skolkovo Russian Rapid GP"]
+[Site "Skolkovo RUS"]
+[Date "2019.09.21"]
+[Round "5.4"]
+[White "Morozevich,A"]
+[Black "Zakhartsov,Vl"]
+[Result "0-1"]
+[WhiteElo "2659"]
+[BlackElo "2519"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 g6 6.b3 Bh6 7.f4 Nf6 8.Bb2 e5
+9.g3 O-O 10.O-O-O Nd4 11.Kb1 b5 12.Bg2 Bb7 13.Nge2 b4 14.Na4 Nxe4 15.Bxe4 Bxe4
+16.Nxd4 Bxh1 17.Rxh1 exd4 18.Qxd4 f6 19.Qxb4 Rf7 20.f5 Rb8 21.Qd4 Qd7 22.Rf1 Re8
+23.Nc3 Re5 24.fxg6 hxg6 25.Qd3 Rf5 26.Rd1 Qe6 27.Nd5 Kh7 28.h4 Rf2 29.a4 Qg4
+30.Ka2 Bg7 31.h5 Qxh5 32.Nf4 Qf5 33.Qxf5 gxf5 34.c4 Bh6 35.Rh1 Kg7 36.Nd5 Kg6
+37.Ka3 Rf3 38.Bxf6 Rb7 39.Rb1 Rxg3 40.Bh4 Rg4 41.Ne7+ Kh7 42.Nxf5 Rxc4 43.Bf6 Bc1+
+44.Bb2 Bxb2+ 45.Rxb2 Rc6 46.Nd4 Rc1 47.Rd2 Ra1+ 48.Kb2 Rxa4 49.Nf5 Rab4 50.Rd3 R4b6
+51.Nxd6 Rd7 52.Rh3+ Kg6 53.Nc4 Rb5 54.Re3 Kf6 55.Kc3 Rdb7 56.Kb2 Re7 57.Rd3 Rc7
+58.Kc3 Ke6 59.Rd6+ Ke7 60.Ra6 Kd8 61.Ra4 Kc8 62.Kb2 Kb8 63.Nd6 Rb6 64.Nc4 Rh6
+65.Na5 Rh2+ 66.Ka3 Rc1 67.Rg4 Rh5 68.Kb4 Rh7 69.Nc4 Rb7+ 70.Ka3 Rd7 71.Kb4 Rb1
+72.Rg8+ Kc7 73.Rg5 Rd3 74.Rg7+ Rd7 75.Rg5 Kd8 76.Rg8+ Ke7 77.Rb8 Ke6 78.Rb5 Rd3
+79.Na5 Rd4+ 80.Nc4 Rd3 81.Na5 Rd5 82.Rb8 Rd6 83.Nc4 Rd3 84.Na5 Rf1 85.Rb7 Rd7
+86.Rb8 Rf3 87.Nc4 Re7 88.Na5 Rc7 89.Nc4 Rff7 90.Na5 Kd5 91.Rb5+ Kd4 92.Rh5 Rf3
+93.Rg5 Kd3 94.Rd5+ Kc2 95.Kb5 Rf6 96.b4 Rc3 97.Nc4 a6+ 98.Kc5 Kb3 99.Rd4 Rf5+  0-1

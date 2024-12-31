@@ -1,0 +1,18 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "9"]
+[White "Giri,A"]
+[Black "Nihal,Sarin"]
+[Result "1-0"]
+[WhiteElo "2760"]
+[BlackElo "2694"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6 4.d4 Nf6 5.Nf3 Bg4 6.h3 Bxf3 7.Qxf3 c6 8.Be3 e6
+9.O-O-O Nbd7 10.g4 Qc7 11.Kb1 Bb4 12.Bc1 Bxc3 13.Qxc3 Nd5 14.Qf3 b5 15.h4 a5
+16.g5 a4 17.h5 Rf8 18.c4 bxc4 19.Bxc4 N7b6 20.Be2 g6 21.Bd2 Rb8 22.Rc1 Qb7
+23.Rc2 Nc8 24.Qa3 Nce7 25.Rhc1 Kd7 26.Bd1 Qb6 27.Rc4 Rb7 28.Bxa4 Rfb8 29.R1c2 gxh5
+30.Qf3 Qa6 31.b3 Ke8 32.Qxh5 Nb6 33.Bxc6+ Nxc6 34.Rxc6 Qd3 35.Rxe6+ Kf8 36.Re3 Qf5
+37.Rf3 Qd5 38.Rh3 Nc4 39.Bc1 Nd6 40.Qxh7 Ke7 41.Re3+ Kd7 42.Qh3+ Kd8 43.g6 f6
+44.Qh8+ Kd7 45.Qg7+ Kd8 46.Qxf6+ Kd7 47.Qe7+  1-0

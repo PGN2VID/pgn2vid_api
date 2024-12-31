@@ -1,0 +1,21 @@
+[Event "Chess.com Rapid Wk2 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.19"]
+[Round "3"]
+[White "Kamsky,G"]
+[Black "Xiong,Jeffery"]
+[Result "1-0"]
+[WhiteElo "2657"]
+[BlackElo "2686"]
+[ECO "A48"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.c3 O-O 5.Nbd2 d6 6.e3 Nbd7 7.Be2 b6 8.a4 a6
+9.O-O c5 10.Qb3 Bb7 11.Rfd1 Qc7 12.Bh4 Bc6 13.c4 cxd4 14.Nxd4 Bb7 15.a5 bxa5
+16.Qa3 Rfb8 17.Qxa5 Qc8 18.b4 Ne5 19.Rac1 Qd7 20.c5 dxc5 21.bxc5 Rc8 22.Bg3 Nd5
+23.N2f3 Nc6 24.Nxc6 Qxc6 25.Bf1 Nc7 26.Be5 Nb5 27.Bxg7 Kxg7 28.Ne5 Qe6 29.Qa1 f6
+30.Nd7 Rd8 31.Nb6 Rab8 32.h3 Qc6 33.Rxd8 Rxd8 34.Qb2 Qe4 35.Nc4 Bd5 36.Nd2 Qe5
+37.Qxe5 fxe5 38.Nc4 Kf6 39.Ra1 Nc7 40.Nb6 Bb7 41.Nc4 Bc6 42.Na5 Bd5 43.Rb1 Kg7
+44.c6 Kf6 45.Rb7 Rc8 46.Ra7 Ke6 47.Bxa6 Nxa6 48.Rxa6 e4 49.h4 Kd6 50.Kh2 Kc5
+51.Ra7 e6 52.Rxh7 Kb6 53.Nb7 Rxc6 54.Nd8 Rc8 55.Nf7 Rf8 56.Kg3 Kc5 57.Ne5 Rg8
+58.Rh6 Kd6 59.Nxg6 Rg7 60.h5 Bc4 61.Kh4 Be2 62.Kg5 Rf7 63.Nf4 Rf5+ 64.Kh4 Bc4
+65.g4 Rf8 66.g5 Kd7 67.g6 e5 68.g7 Rf5 69.Ne6 Rxf2 70.g8=Q  1-0

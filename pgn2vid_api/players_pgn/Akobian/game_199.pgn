@@ -1,0 +1,25 @@
+[Event "Generation"]
+[Site "New York USA"]
+[Date "2003.05.02"]
+[Round "9"]
+[White "Bluvshtein,M"]
+[Black "Akobian,V"]
+[Result "0-1"]
+[WhiteElo "2451"]
+[BlackElo "2547"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7 6.Qf3 Be7 7.O-O-O h6 8.Nxf6+ Nxf6
+9.Bxf6 Bxf6 10.Qe4 Bd7 11.Bc4 O-O 12.Nf3 Bc6 13.d5 exd5 14.Bxd5 Bxd5 15.Rxd5 Qe8
+16.Qxe8 Rfxe8 17.Rhd1 Re2 18.R1d2 Rxd2 19.Kxd2 c6 20.Rd7 Rd8 21.Rxd8+ Bxd8
+22.Ne1 f5 23.Nd3 Kf7 24.f3 Be7 25.c4 Bd6 26.f4 Ke6 27.Ke3 Be7 28.b3 Kd6 29.Ke2 b5
+30.h3 h5 31.Ke3 Bf6 32.Kf3 h4 33.Ke3 Kc7 34.cxb5 cxb5 35.Ne1 Kd6 36.Nc2 Kc5
+37.Kd3 a5 38.Ne3 g6 39.Nc2 Bb2 40.Ne1 Bf6 41.Nc2 Bb2 42.b4+ axb4 43.Ne1 Bf6
+44.Nf3 Kd5 45.Ng1 Bd4 46.Nf3 Bf2 47.Ke2 Bg3 48.Kd3 Kc5 49.Nd4 Kb6 50.Nf3 Ka5
+51.Kc2 Ka4 52.Kb2 Bf2 53.Nd2 Bd4+ 54.Kb1 Ka3 55.Nf3 Bf6 56.Nd2 Bd8 57.Ka1 Bf6+
+58.Kb1 Ka4 59.Kc2 Be7 60.Kb2 Bd8 61.Kc2 Bf6 62.Kc1 g5 63.Kb1 gxf4 64.Nb3 Ka3
+65.Nd2 Bd4 66.Nf3 Bf2 67.Nd2 Bg3 68.Nb3 Ka4 69.Kb2 Bf2 70.Kb1 Bg1 71.Kb2 Be3
+72.Kb1 Ka3 73.Na5 b3 74.Nxb3 Kb4 75.Kc2 Kc4 76.Na5+ Kd4 77.Nc6+ Ke4 78.Ne7 Bb6
+79.Kd2 Bd8 80.Nc6 Bb6 81.Ne7 Bd8 82.Nc6 Bf6 83.Na7 f3 84.gxf3+ Kxf3 85.Nxb5 Kg2
+86.a4 f4 87.a5 Bd8 88.a6 Bb6 89.Nc7 f3 90.Nd5 f2 91.Nxb6 f1=Q 92.a7 Qf4+
+93.Kc3 Qc7+  0-1

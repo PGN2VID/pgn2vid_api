@@ -1,0 +1,23 @@
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A95"]
+
+1.d4 e6 2.Nf3 f5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.c4 d5 7.Nc3 c6 8.Rb1 Kh8
+9.cxd5 cxd5 10.Bf4 Nc6 11.Ne5 Bd7 12.Rc1 Rc8 13.Qd3 Nh5 14.Bd2 Bd6 15.Nxc6 Bxc6
+16.Qf3 Qe8 17.Qd3 Nf6 18.a3 Rc7 19.Bg5 Ng4 20.Qd2 Nf6 21.Bf4 Qd7 22.Bxd6 Qxd6
+23.Qf4 Qxf4 24.gxf4 Rfc8 25.e3 Bb5 26.Rfe1 Kg8 27.f3 Bc4 28.Bf1 Ne8 29.Bxc4 Rxc4
+30.Kf2 Nd6 31.Ke2 b5 32.Kd3 b4 33.Na2 bxa3 34.bxa3 Ra4 35.Rxc8+ Nxc8 36.Nc3 Rxa3
+37.Kc2 Nd6 38.Rb1 Kf7 39.Rb4 Ra1 40.Kd3 Ra3 41.Kc2 Ra1 42.Kd3 Re1 43.Ra4 Nc4
+44.Rxa7+ Kg6 45.e4 Re3+ 46.Kc2 Rxf3 47.exf5+ Kxf5 48.Rxg7 Rf2+ 49.Kb3 Rb2+
+50.Ka4 Rxh2 51.Rf7+ Kg6 52.Rf8 Nd6 53.Nb5 Nf5 54.Nc7 Re2 55.Ne8 Nxd4 56.Rf6+ Kh5
+57.Rf7 Nf5 58.Rxh7+ Kg4 59.Rd7 Kxf4 60.Nc7 Ke5 61.Kb4 Rc2 62.Kb3 Nd4+ 63.Kb4 Rc4+
+64.Ka5 Nf5 65.Kb6 d4 66.Na6 Nd6 67.Nc5 Kd5 68.Nd3 e5 69.Rh7 Rc6+ 70.Ka5 Nc4+
+71.Kb5 Rb6+ 72.Ka4 Nb2+ 73.Ka5 Nc4+ 74.Ka4 Rb8 75.Nb4+ Ke6 76.Nc6 Nb2+ 77.Ka3 Nc4+
+78.Ka4 Rb1 79.Rh6+ Kf5 80.Nb4  0-1

@@ -1,0 +1,22 @@
+[Event "AI Cup Div 3 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "2.1"]
+[White "Esipenko,Andrey"]
+[Black "Tomashevsky,E"]
+[Result "0-1"]
+[WhiteElo "2683"]
+[BlackElo "2694"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 a6 6.Nd5 h6 7.Be3 d6 8.Bxc5 dxc5
+9.a4 Be6 10.Ne3 Qe7 11.O-O Bxc4 12.Nxc4 b6 13.Ne3 g6 14.Nd2 O-O-O 15.f4 Rd7
+16.Qf3 Nd4 17.Qf2 exf4 18.Nd5 Nxd5 19.exd5 Nxc2 20.Rac1 Ne3 21.Rfe1 g5 22.Nc4 Rxd5
+23.a5 b5 24.Nxe3 fxe3 25.Rxe3 Qd6 26.Qxf7 Rf8 27.Qg7 Qf4 28.Ree1 Kb7 29.h3 Rxd3
+30.Qxh6 Qd4+ 31.Kh1 Rf5 32.Qh7 Rd5 33.Re7 Rd7 34.Rxd7 Qxd7 35.Qxd7 Rxd7 36.Rxc5 Rd2
+37.Rxg5 Rxb2 38.h4 Re2 39.h5 b4 40.h6 Re6 41.Rh5 b3 42.h7 b2 43.h8=Q b1=Q+
+44.Kh2 Re1 45.Rh3 Rh1+ 46.Kg3 Qe1+ 47.Kg4 Qe4+ 48.Kg3 Qe1+ 49.Kg4 Qe6+ 50.Kg5 Qd5+
+51.Kf4 Rb1 52.Rf3 Rb4+ 53.Kg3 Qg5+ 54.Kh3 Qxa5 55.Qe8 Qd5 56.Qe2 a5 57.Kh2 a4
+58.Rd3 Qc6 59.Qe7 Qh6+ 60.Rh3 Qf4+ 61.Rg3 Qh4+ 62.Qxh4 Rxh4+ 63.Kg1 Kb6 64.Kf2 c5
+65.Ke2 Rd4 66.Rg8 Kb5 67.g4 a3 68.Rb8+ Kc4 69.g5 a2 70.Ra8 Kb3 71.g6 Rg4
+72.Rb8+ Kc3 73.Ra8 Rxg6  0-1

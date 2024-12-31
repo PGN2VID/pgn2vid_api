@@ -1,0 +1,20 @@
+[Event "Monte Carlo+"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "9"]
+[White "Winawer, Szymon"]
+[Black "Alapin, Simon"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C13"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.Bd3 c5 7.Nf3 O-O 8.e5 Be7
+9.dxc5 f6 10.h4 Nc6 11.Bxh7+ Kxh7 12.Ng5+ Kg8 13.Qh5 fxg5 14.hxg5 Nxe5 15.g6 Nxg6
+16.Qxg6 Bf6 17.Qh7+ Kf7 18.Qh5+ g6 19.Qe2 Rh8 20.O-O-O Bd7 21.Qf3 Rxh1 22.Rxh1 Kg7
+23.Qe3 Bg5 24.f4 Bf6 25.Ne2 Qe7 26.g4 Rh8 27.Re1 Kf7 28.c3 Rc8 29.c6 bxc6
+30.g5 Bg7 31.Ng3 Qd6 32.Qxa7 Qxf4+ 33.Kb1 Ke8 34.Ne2 Qh4 35.Qg1 c5 36.Nc1 Rb8
+37.Re2 Bxc3 38.Qxc5 Qb4 39.Qf2 Bd4 40.Qh2 Qxb2+ 41.Rxb2 Rxb2+ 42.Qxb2 Bxb2
+43.Kxb2 Ke7 44.Nd3 Kd6 45.Kc3 e5 46.Ne1 d4+ 47.Kb4 Bf5 48.a4 Be4 49.a5 Kc6
+50.Kc4 Kb7 51.Kb3 Bd5+ 52.Kb4 Be4 53.Kc4 Kc6 54.Kb4 Kd5 55.Kb5 d3 56.a6 Kd4
+57.a7 Kc3  0-1

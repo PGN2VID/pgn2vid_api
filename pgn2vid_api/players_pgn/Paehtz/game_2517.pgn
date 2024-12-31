@@ -1,0 +1,16 @@
+[Event "Isolated Queens Swiss II"]
+[Site "chess.com INT"]
+[Date "2020.05.02"]
+[Round "2"]
+[White "Paehtz,E"]
+[Black "Belenkaya,D"]
+[Result "1-0"]
+[WhiteElo "2473"]
+[BlackElo "2297"]
+[ECO "D02"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.Nbd2 cxd4 6.exd4 Bg4 7.c3 e6 8.Qb3 Qc8
+9.h3 Bxf3 10.Nxf3 Be7 11.Bd3 O-O 12.O-O b6 13.Rae1 Rd8 14.Qc2 Qb7 15.Qe2 Bd6
+16.Ne5 Qc8 17.Bg5 Be7 18.Bxf6 Bxf6 19.Bxh7+ Kxh7 20.Qh5+ Kg8 21.Qxf7+ Kh7
+22.Nxc6 Qxc6 23.Rxe6 Rd6 24.Rfe1 Bg5 25.Qf5+ Kg8 26.Rxd6 Qxd6 27.Qxg5 Rf8
+28.Qe5 Qd8 29.Qe6+ Kh8 30.Re5 Qh4 31.g3 Qh6 32.Qxh6+ gxh6 33.Rxd5 Kg7 34.Rd7+  1-0

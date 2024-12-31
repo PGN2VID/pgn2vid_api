@@ -1,0 +1,20 @@
+[Event "chess.com SpeedChess Q2KO"]
+[Site "chess.com INT"]
+[Date "2022.11.13"]
+[Round "3.1"]
+[White "Artemiev,V"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteElo "2701"]
+[BlackElo "2745"]
+[ECO "D37"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7 5.Bg5 h6 6.Bh4 dxc4 7.e3 c5 8.Bxc4 cxd4
+9.Nxd4 Bd7 10.O-O Nc6 11.Nf3 Qb6 12.Qe2 O-O 13.Rfd1 Rfd8 14.h3 Be8 15.a3 Rxd1+
+16.Rxd1 Rd8 17.Rc1 Na5 18.Ba2 Nb3 19.Rc2 a5 20.Ne4 g5 21.Nxf6+ Bxf6 22.Bg3 Bb5
+23.Qe1 Bd3 24.Rc3 Nc5 25.Be5 Bxe5 26.Nxe5 Qd6 27.Nxd3 Nxd3 28.Qd2 b6 29.Bb1 Nc5
+30.Qxd6 Rxd6 31.Bc2 f5 32.Kf1 Kf7 33.Ke2 Kf6 34.Rc4 h5 35.h4 g4 36.g3 Nd7
+37.Rc7 Ne5 38.Rc8 Nf3 39.Bd3 Ng1+ 40.Kd2 Nh3 41.Ke2 Nxf2 42.Bxf5 Kxf5 43.Kxf2 Rd2+
+44.Ke1 Rxb2 45.Rh8 Ke4 46.Rxh5 Rg2 47.Rh6 e5 48.Rxb6 Rxg3 49.h5 Rxe3+ 50.Kf2 Rxa3
+51.Ra6 Kf4 52.Rf6+ Kg5 53.Re6 Kxh5 54.Rxe5+ Kh4 55.Kg2 Ra2+ 56.Kg1 Kh3 57.Rh5+ Kg3
+58.Kf1 Rf2+ 59.Kg1 Ra2 60.Kf1 a4 61.Rc5 Ra1+ 62.Ke2 a3 63.Rc3+ Kg2  0-1

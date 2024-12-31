@@ -1,0 +1,21 @@
+[Event "chess.com SpeedChess Q2KO"]
+[Site "chess.com INT"]
+[Date "2022.11.13"]
+[Round "1.7"]
+[White "Duda,J"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteElo "2731"]
+[BlackElo "2745"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6
+9.Qd2 Qxb2 10.Rb1 Qa3 11.Bb5 Nxd4 12.Bxd4 a6 13.Bxd7+ Bxd7 14.Rb3 Qe7 15.Rxb7 Qh4+
+16.Qf2 Qxf2+ 17.Kxf2 Be7 18.Rhb1 Bd8 19.Ke3 Bc6 20.R7b3 O-O 21.Bc5 Re8 22.Ne2 Ba4
+23.R3b2 Rc8 24.Bb6 Be7 25.c3 Bb5 26.Bd4 Rc4 27.Nc1 Rec8 28.Nd3 f6 29.Kd2 Kf7
+30.g3 Ra4 31.Nb4 Rc7 32.Nc2 Ba3 33.Nxa3 Rxa3 34.Rc2 h5 35.Rb3 Ra4 36.Rcb2 Kg6
+37.Rb4 Ra3 38.R4b3 Ra4 39.Rb4 Rxb4 40.Rxb4 Kf5 41.a4 Bd7 42.Rb8 Bxa4 43.Rf8 Ke4
+44.exf6 gxf6 45.Rxf6 Bd7 46.Rf7 Rb7 47.Re7 a5 48.Bc5 a4 49.Bb4 d4 50.Kc2 dxc3
+51.Kxc3 Kd5 52.Rh7 Rc7+ 53.Kb2 Kc4 54.Ka3 Rb7 55.Bd6 Rb3+ 56.Ka2 Bc6 57.Rc7 Kb5
+58.Ka1 Rd3 59.Be5 Rd1+ 60.Kb2 Rd2+ 61.Ka1 a3 62.Bc3 Rxh2 63.Rc8 Bd5 64.Rb8+ Kc4
+65.Be5 Kd3 66.Rb4 a2  0-1

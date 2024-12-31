@@ -1,0 +1,22 @@
+[Event "Titled Tue 2nd Jan Late"]
+[Site "chess.com INT"]
+[Date "2024.01.02"]
+[Round "4"]
+[White "Nepomniachtchi,I"]
+[Black "Livaic,Leon"]
+[Result "0-1"]
+[WhiteElo "2769"]
+[BlackElo "2557"]
+[ECO "C07"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.Nxd4 Nf6 6.exd5 Nxd5 7.Ne4 Be7 8.Qg4 O-O
+9.Bh6 Bf6 10.Nxf6+ Qxf6 11.Bg5 Qe5+ 12.Be2 f5 13.Qh4 f4 14.O-O-O h6 15.Nf3 Qxe2
+16.Bxh6 Qe4 17.Bxg7 Kxg7 18.Rxd5 Qxd5 19.Qg4+ Kh6 20.Qh4+ Qh5 21.Qe7 Rf7
+22.Qe8 Nc6 23.h4 Kg7 24.Ng5 Rb8 25.Rd1 Bd7 26.Qxf7+ Qxf7 27.Nxf7 Kxf7 28.Rxd7+ Kf6
+29.g3 fxg3 30.fxg3 Rg8 31.Rxb7 Rxg3 32.Rc7 Nd4 33.c3 Nf5 34.Rxa7 Ne3 35.Rc7 e5
+36.a4 Rg4 37.a5 Rxh4 38.b4 Rh2 39.Kb1 Nd5 40.Rc6+ Ke7 41.a6 Kd7 42.Rc5 Kd6
+43.a7 Rh8 44.Kb2 Ra8 45.Ra5 Nb6 46.Kb3 Nc8 47.Ra6+ Kd7 48.Ra5 Ke6 49.Rc5 Nd6
+50.Rc7 Nb5 51.Rc6+ Kf5 52.Rb6 Nxa7 53.Ra6 e4 54.b5 e3 55.b6 e2 56.Ra5+ Kf4
+57.Ra4+ Kf3 58.Rxa7 e1=Q 59.Rxa8 Qb1+ 60.Kc4 Qe4+ 61.Kc5 Qxa8 62.c4 Ke4 63.Kd6 Kd4
+64.c5 Qd8+ 65.Kc6 Qc8+ 66.Kb5 Qxc5+ 67.Ka6 Qa3+ 68.Kb5 Qb3+ 69.Kc6 Qc4+ 70.Kb7 Kc5
+71.Ka7 Qa4+ 72.Kb7 Qc6+ 73.Kb8 Qxb6+ 74.Ka8 Qb5 75.Ka7 Kc6  0-1

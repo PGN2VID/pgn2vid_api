@@ -1,0 +1,22 @@
+[Event "Chess.com Bullet Open 2"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "19"]
+[White "Abdrlauf,Elham"]
+[Black "Praggnanandhaa,R"]
+[Result "0-1"]
+[WhiteElo "2338"]
+[BlackElo "2608"]
+[ECO "A00"]
+
+1.g3 g6 2.Bg2 d6 3.e3 Nc6 4.d3 Bd7 5.e4 Bg7 6.Nc3 h5 7.Be3 h4 8.Qd2 h3 9.Bf3 Nf6
+10.O-O-O e5 11.Be2 Nd4 12.f4 c5 13.Kb1 Qa5 14.fxe5 dxe5 15.Nf3 Ng4 16.Rhe1 Rc8
+17.Bxd4 cxd4 18.Nd5 Qxd2 19.Rxd2 Be6 20.c4 dxc3 21.bxc3 Bh6 22.Rb2 b6 23.c4 Kd7
+24.a4 Rhd8 25.Ka2 Rc5 26.Reb1 Ra5 27.Ka3 Ke8 28.Rb5 Bf8+ 29.Kb3 Rb8 30.Rxa5 bxa5+
+31.Ka2 Rxb1 32.Kxb1 Bd7 33.Nc3 Bb4 34.Kb2 Bxc3+ 35.Kxc3 Bxa4 36.Ng5 Nxh2
+37.Nxh3 Bd7 38.Nf2 Ke7 39.Nd1 Ng4 40.Bxg4 Bxg4 41.Nb2 Bd7 42.c5 Bc6 43.Nc4 Ke6
+44.Nxa5 Bb5 45.Nb3 f5 46.exf5+ gxf5 47.d4 e4 48.Kd2 Kd5 49.Ke3 Bd7 50.Na5 Be8
+51.Nb3 Bb5 52.Na5 Ba4 53.Nb7 Bc6 54.Na5 Bd7 55.c6 Bxc6 56.Nb3 Bd7 57.Na5 Bc6
+58.Nb3 Bb5 59.Nc1 Bc4 60.Kd2 Kxd4 61.Kc2 Bd3+ 62.Kd2 Bc4 63.Kc2 e3 64.g4 fxg4
+65.Ne2+ Bxe2 66.Kb2 Bf3 67.Ka3 g3 68.Kb4 g2 69.Ka4 g1=Q 70.Ka5 e2 71.Ka6 e1=Q
+72.Kxa7 Qb4  0-1

@@ -1,0 +1,21 @@
+[Event "Chess.com Rapid Wk3 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.27"]
+[Round "9"]
+[White "Aronian,L"]
+[Black "Kovalev,Vl"]
+[Result "0-1"]
+[WhiteElo "2772"]
+[BlackElo "2623"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a6 7.a4 h6 8.Nbd2 O-O
+9.Re1 a5 10.Nf1 Be6 11.b3 Bb6 12.Ng3 Re8 13.Bb5 Bd7 14.h3 Ne7 15.d4 Bxb5
+16.axb5 exd4 17.Nxd4 Ng6 18.c4 d5 19.cxd5 Nxd5 20.Ndf5 Nde7 21.Qc2 Nxf5 22.Nxf5 Nh4
+23.Ng3 Qd6 24.Be3 Rad8 25.Qc4 Ng6 26.Nf5 Qe5 27.Ra4 Nf4 28.Qc2 Nd3 29.Rd1 Nb4
+30.Qb1 Qxe4 31.Bxb6 cxb6 32.Ne3 Qxb1 33.Rxb1 Re5 34.Rc1 Rd7 35.Raa1 Rxb5
+36.Rc8+ Kh7 37.g4 Nc6 38.Nf5 g6 39.Ng3 Re7 40.Ra3 Nd4 41.Ra4 Nf3+ 42.Kg2 Rxb3
+43.Ne4 Kg7 44.Nd6 Nh4+ 45.Kh2 Rf3 46.Ra2 Rd7 47.Nc4 Rc3 48.Nxb6 Rxc8 49.Nxc8 Rd5
+50.Rb2 b5 51.Nb6 Rc5 52.Nd7 Rc7 53.Ne5 b4 54.Kg3 Rc3+ 55.f3 f6 56.Nd7 Rxf3+
+57.Kh2 b3 58.Nc5 Rc3 59.Nxb3 a4 60.Nd4 Nf3+ 61.Nxf3 Rxf3 62.Rb7+ Kf8 63.Ra7 Ra3
+64.h4 Ra2+ 65.Kg3 Ra1 66.h5 gxh5 67.gxh5 a3  0-1

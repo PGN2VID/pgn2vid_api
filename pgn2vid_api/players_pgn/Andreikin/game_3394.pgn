@@ -1,0 +1,22 @@
+[Event "Chess.com RCC Wk20 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.07.09"]
+[Round "1"]
+[White "Bok,B"]
+[Black "Andreikin,D"]
+[Result "1-0"]
+[WhiteElo "2616"]
+[BlackElo "2729"]
+[ECO "D35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 c6 6.e3 h6 7.Bh4 Bf5 8.Qf3 Bh7
+9.Bxf6 Qxf6 10.Qxf6 gxf6 11.Kd2 Nd7 12.Bd3 Bxd3 13.Kxd3 Rg8 14.g3 f5 15.Nf3 Nf6
+16.Rhc1 Ne4 17.Ke2 Be7 18.Ne1 h5 19.h4 a5 20.Nd3 Bd6 21.Kf3 a4 22.Ne2 Kd7
+23.Nef4 Rh8 24.Rc2 Ra5 25.Rb1 Rb5 26.b3 Nf6 27.Rbb2 axb3 28.Rxb3 Rxb3 29.axb3 Ra8
+30.b4 b5 31.Ne5+ Bxe5 32.dxe5 Ng4 33.Nd3 f6 34.exf6 Kd6 35.Kf4 Nxf6 36.Kxf5 Ne4
+37.Kg6 Rg8+ 38.Kf7 Ra8 39.Nf4 Ra4 40.Nxh5 Rxb4 41.Nf6 Rb1 42.h5 b4 43.Nxe4+ dxe4
+44.h6 Rh1 45.Kg7 c5 46.h7 Kd5 47.g4 b3 48.Rb2 c4 49.h8=Q Rxh8 50.Kxh8 Kc5
+51.g5 Kb4 52.g6 c3 53.Rxb3+ Kxb3 54.g7 c2 55.g8=Q+ Kb2 56.Qb8+ Ka2 57.Qa7+ Kb2
+58.Qb6+ Ka2 59.Qa5+ Kb2 60.Qb4+ Ka2 61.Qc3 Kb1 62.Qb3+ Ka1 63.Qc4 Kb2 64.Qb4+ Ka2
+65.Qc3 Kb1 66.f4 exf3 67.Qb3+ Kc1 68.e4 f2 69.Qe3+ Kb1 70.Qd3 Kb2 71.Qb5+ Ka2
+72.Qf1 Kb3 73.e5  1-0

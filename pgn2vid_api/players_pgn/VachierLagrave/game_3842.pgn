@@ -1,0 +1,21 @@
+[Event "chess.com SpeedChess 2022"]
+[Site "chess.com INT"]
+[Date "2022.12.14"]
+[Round "2.18"]
+[White "Vachier Lagrave,M"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2760"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Bd7 10.h3 h6 11.b3 b6 12.Bb2 Kc8 13.Rad1 a5 14.a4 c5 15.Nd5 c4 16.Nf4 Bc6
+17.e6 cxb3 18.exf7 bxc2 19.Rd2 Bb4 20.Rxc2 Bxa4 21.Rcc1 Rf8 22.Ne5 Bb3 23.Nfg6 Rxf7
+24.Nxf7 Bxf7 25.Ne5 Bb3 26.Bc3 Ba3 27.Ra1 Bd6 28.Rfb1 Bd5 29.Rd1 Bb3 30.Rdb1 Bg8
+31.g4 Nh4 32.f4 g5 33.Rf1 Kb7 34.f5 Bd5 35.Rad1 c6 36.f6 Bxe5 37.Bxe5 Nf3+
+38.Rxf3 Bxf3 39.Rd7+ Ka6 40.f7 Bd5 41.Rxd5 cxd5 42.Bg7 b5 43.Bxh6 b4 44.f8=Q Rxf8
+45.Bxf8 Kb5 46.h4 a4 47.hxg5 a3 48.g6 Kc4 49.g7 a2 50.g8=Q a1=Q+ 51.Kg2 Qb2+
+52.Kg3 Qc3+ 53.Kh4 Qe1+ 54.Kh5 b3 55.Bg7 Qh1+ 56.Kg5 Qc1+ 57.Kg6 Qc2+ 58.Kf7 Qf2+
+59.Bf6 b2 60.Qc8+ Kb4 61.Qb7+ Ka3 62.g5 d4 63.g6 Ka2 64.Qa6+ Kb3 65.Qb5+ Ka2
+66.Qa4+ Kb1 67.g7 Kc1 68.g8=Q b1=Q 69.Qg5+ Kb2 70.Qb4+ Ka2 71.Qga5+  1-0

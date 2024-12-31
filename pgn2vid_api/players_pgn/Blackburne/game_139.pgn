@@ -1,0 +1,15 @@
+[Event "England sim"]
+[Site "England"]
+[Date "1876.??.??"]
+[Round "?"]
+[White "Blackburne, Joseph Henry"]
+[Black "Martin"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O dxc3 8.Qb3 Qf6
+9.e5 Qg6 10.Nxc3 Nge7 11.Ba3 b5 12.Nxb5 Rb8 13.Qa4 Bb7 14.Rad1 Bb6 15.Bd3 f5
+16.exf6 Qxf6 17.Rfe1 Kd8 18.Nxa7 Re8 19.Qg4 Nd4 20.Bb2 Nxf3+ 21.gxf3 Qxb2
+22.Qxd7+ Kxd7 23.Bb5+  1-0

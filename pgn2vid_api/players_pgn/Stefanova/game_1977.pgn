@@ -1,0 +1,28 @@
+[Event "Monte Carlo WGP 2015"]
+[Site "Monaco MNC"]
+[Date "2015.10.08"]
+[Round "5.3"]
+[White "Pogonina,N"]
+[Black "Stefanova,A"]
+[Result "0-1"]
+[WhiteElo "2445"]
+[BlackElo "2500"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O dxc4
+9.Bxc4 e5 10.Bb3 h6 11.h3 Re8 12.Nh4 Nf8 13.dxe5 Bxe5 14.Rd1 Qe7 15.Nf5 Qc5
+16.Nd4 Ne6 17.Nf3 Bc7 18.e4 Qh5 19.Nd5 cxd5 20.exd5 Bb6 21.dxe6 Bxe6 22.Bxe6 Rxe6
+23.Bf4 Rae8 24.Re1 Ne4 25.Be3 Bxe3 26.Rxe3 Ng5 27.Nxg5 Rxe3 28.fxe3 Qxg5
+29.Re1 Rxe3 30.Qc8+ Kh7 31.Qc2+ g6 32.Rf1 Qe7 33.Qd2 Kg8 34.Rc1 a6 35.Rc8+ Kg7
+36.Qd4+ Qe5 37.Qxe5+ Rxe5 38.Rc7 Rb5 39.b3 h5 40.h4 Kf6 41.Kf2 Rb4 42.g3 Ke6
+43.Kf3 a5 44.Ke3 b6 45.Rb7 f6 46.Kf3 Kf5 47.Rb8 Rb5 48.Rb7 Ke5 49.Ke3 Rb4
+50.Rb8 Kd5 51.Rf8 Re4+ 52.Kf3 Re6 53.Rg8 f5 54.Rc8 Re4 55.Rg8 Rg4 56.Rc8 a4
+57.bxa4 Rxa4 58.Rg8 Rg4 59.a4 Ke5 60.Re8+ Kf6 61.Ra8 Kg7 62.Ra6 Rb4 63.a5 bxa5
+64.Rxa5 Rg4 65.Ra7+ Kf6 66.Ra6+ Ke5 67.Ra5+ Kd6 68.Ra6+ Kc5 69.Rf6 Kd5 70.Ra6 Ke5
+71.Ra5+ Kf6 72.Ra6+ Kg7 73.Ra7+ Kh6 74.Ra6 Re4 75.Ra7 Re6 76.Kf4 Re1 77.Kf3 Rf1+
+78.Kg2 Rd1 79.Kf3 Rd8 80.Kf4 Re8 81.Rb7 Re4+ 82.Kf3 Ra4 83.Rc7 Rg4 84.Rf7 Ra4
+85.Rb7 Ra8 86.Kf4 Rg8 87.Ra7 Rg7 88.Ra4 Re7 89.Rb4 Re1 90.Rb7 Rf1+ 91.Ke3 f4+
+92.gxf4 Rh1 93.f5 Rh3+ 94.Kf4 Rxh4+ 95.Ke5 Ra4 96.f6 g5 97.f7 Rf4 98.Ke6 Kg7
+99.f8=Q+ Kxf8 100.Rh7 h4 101.Rh5 Rg4 102.Kf5 Rg3 103.Rh7 h3 104.Kf6 Ke8 105.Ke6 Kd8
+106.Kd6 Kc8 107.Kc6 Kb8 108.Kb6 Rb3+ 109.Kc6 g4 110.Rh4 Rb1 111.Rh7 Rb2 112.Rh4 h2
+113.Rh7 g3  0-1

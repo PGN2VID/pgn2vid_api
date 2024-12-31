@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Maroczy, Geza"]
+[Black "Chigorin, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d4 exd4 5.O-O Be7 6.Nxd4 O-O 7.Nc3 a6 8.Nxc6 dxc6
+9.Bd3 Ng4 10.h3 Ne5 11.Be2 Bc5 12.Qxd8 Rxd8 13.Bf4 Bd6 14.Rfd1 Be6 15.Be3 Nc4
+16.Bxc4 Bxc4 17.f4 f6 18.Kf2 Kf7 19.g4 Re8 20.b3 Be6 21.Na4 Rad8 22.Kf3 Bc8
+23.Rd3 Rd7 24.Bc5 Bxc5 25.Rxd7+ Bxd7 26.Nxc5 Bc8 27.Nd3 b6 28.e5 g5 29.Re1 h6
+30.Kg3 c5 31.h4 gxf4+ 32.Kxf4 Rg8 33.Rg1 fxe5+ 34.Nxe5+ Ke6 35.Nf3 Rf8+ 36.Ke3 Bb7
+37.Rg3 Rg8  1/2-1/2

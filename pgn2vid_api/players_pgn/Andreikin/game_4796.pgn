@@ -1,0 +1,24 @@
+[Event "chess.com Speed Q2KO Win"]
+[Site "chess.com INT"]
+[Date "2023.08.24"]
+[Round "2.5"]
+[White "Andreikin,D"]
+[Black "Shimanov,A"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2566"]
+[ECO "A10"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 e6 4.Nc3 Ne7 5.d4 d5 6.Nf3 Nbc6 7.cxd5 exd5 8.O-O O-O
+9.Bf4 Bg4 10.Ne5 Nxe5 11.Bxe5 c6 12.Bxg7 Kxg7 13.Re1 Qd7 14.Qb3 h5 15.h4 Be6
+16.Rad1 Nf5 17.Qa3 Rfd8 18.e4 dxe4 19.Nxe4 b6 20.d5 cxd5 21.Ng5 Rac8 22.Re5 d4
+23.Nxe6+ fxe6 24.Rde1 Re8 25.Be4 Rcd8 26.Bd3 Qf7 27.Bb5 Re7 28.Bc4 Rde8 29.Bb5 Rd8
+30.Bd3 Qf6 31.Bxf5 gxf5 32.Rxf5 exf5 33.Rxe7+ Kg6 34.Re2 d3 35.Rd2 Qd4 36.Qxa7 Re8
+37.Qa3 Re1+ 38.Kg2 Qd5+ 39.f3 Qd4 40.Qxd3 Qxd3 41.Rxd3 Re2+ 42.Kh3 Rxb2 43.a3 b5
+44.Rd5 b4 45.Rd6+ Kg7 46.a4 Ra2 47.Rb6 Rxa4 48.Kg2 Ra2+ 49.Kf1 Rb2 50.Ke1 b3
+51.Kd1 Rg2 52.Rxb3 Rxg3 53.Ke2 Rh3 54.Rb4 Kf6 55.Ke3 Ke5 56.Rb5+ Kf6 57.Rb6+ Ke5
+58.Rb4 Kf6 59.Ra4 Ke6 60.Kf2 Rh2+ 61.Kg3 Rh1 62.Ra6+ Ke5 63.Ra5+ Kf6 64.Rb5 Rg1+
+65.Kf4 Rh1 66.Rb6+ Kg7 67.Kg5 Rg1+ 68.Kxf5 Rg3 69.Rb7+ Kh6 70.Rb3 Kg7 71.Re3 Kh6
+72.Kf4 Rg2 73.Re6+ Kg7 74.Re5 Rh2 75.Rxh5 Kg6 76.Rg5+ Kh6 77.Rg4 Rh3 78.Ke4 Kh5
+79.Rg8 Rh1 80.f4 Kh6 81.Kf5 Kh7 82.Rg4 Ra1 83.Kg5 Ra5+ 84.f5 Kg7 85.Rc4 Ra1
+86.Rc7+ Kh8 87.Kg6 Rg1+ 88.Kf6 Rg4 89.h5 Rg2 90.Ke6 Re2+ 91.Kf7 Rc2 92.Rxc2  1-0

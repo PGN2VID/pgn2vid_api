@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "10"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Moreau, C."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B45"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Bb4 6.Nxc6 Bxc3+ 7.bxc3 dxc6
+8.Bd3 Nf6 9.e5 Nd5 10.Qg4 g6 11.O-O Qc7 12.Re1 Bd7 13.Qh4 c5 14.c4 Ne7 15.Bg5 Ng8
+16.Be4 Bc6 17.Bxc6+ bxc6 18.Rad1 h6 19.Rd6 Ne7 20.g4 Kf8 21.Red1 Ng8 22.Bf6 g5
+23.Bxg5 hxg5 24.Qxh8 Re8 25.Rd7 Qb8 26.Kg2 Qb6 27.R1d3 Qa5 28.Rxf7+ Kxf7
+29.Qh7+ Kf8 30.Rf3+ Nf6 31.Rxf6+  1-0

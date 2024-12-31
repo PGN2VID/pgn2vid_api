@@ -1,0 +1,18 @@
+[Event "AI Cup Play-In Match 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "1.1"]
+[White "Tomashevsky,E"]
+[Black "Kozak,Adam"]
+[Result "1-0"]
+[WhiteElo "2694"]
+[BlackElo "2566"]
+[ECO "A37"]
+
+1.c4 c5 2.Nf3 Nc6 3.Nc3 g6 4.g3 Bg7 5.Bg2 Rb8 6.O-O d6 7.b3 a6 8.Bb2 e5 9.e3 Nge7
+10.d3 O-O 11.Nd2 Be6 12.Rc1 d5 13.cxd5 Nxd5 14.Nxd5 Bxd5 15.Rxc5 Bxg2 16.Kxg2 Qxd3
+17.Nc4 Qf5 18.Qf3 Qe6 19.Qd5 Rfe8 20.Rd1 Bf8 21.Qxe6 fxe6 22.Rxc6 bxc6 23.Bxe5 Rbd8
+24.Rc1 Rd5 25.Rc2 c5 26.Kf3 Be7 27.Ke4 Rd1 28.f4 Red8 29.g4 Kf7 30.g5 Kf8
+31.Bc7 R8d7 32.Ba5 R7d5 33.Ne5 Ke8 34.Rc4 Bd6 35.Ng4 Be7 36.Ra4 Rc1 37.Ne5 Rc2
+38.h3 Bd6 39.Nc4 Be7 40.Bb6 Rh2 41.Rxa6 Rxh3 42.Ra8+ Bd8 43.Ne5 c4 44.bxc4 Rd1
+45.Nc6 Rh2 46.Bxd8 Kd7 47.Ne5+ Ke8 48.Bf6+ Rd8 49.Rxd8+  1-0

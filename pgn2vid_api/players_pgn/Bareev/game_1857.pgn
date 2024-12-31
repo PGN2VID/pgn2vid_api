@@ -1,0 +1,17 @@
+[Event "Chess Supersite Launch"]
+[Site "Chess Supersite INT"]
+[Date "2016.03.26"]
+[Round "1.1"]
+[White "So,W"]
+[Black "Bareev,E"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2675"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bd3 Nxe4 7.Bxe4 Nf6 8.Bg5 Be7
+9.Bxf6 Bxf6 10.Qd3 Qd6 11.O-O-O h6 12.Qe3 Qb6 13.Rhe1 c5 14.Qa3 cxd4 15.Nxd4 Bxd4
+16.Qa4+ Bd7 17.Qxd4 Qxd4 18.Rxd4 O-O-O 19.Rb4 b6 20.a4 Kc7 21.Re3 Rc8 22.a5 b5
+23.Rd4 Rhd8 24.Rc3+ Kb8 25.Rcd3 Kc7 26.Rc3+ Kb8 27.Rcd3 Kc7 28.Kd2 Be8 29.Rxd8 Rxd8
+30.Rxd8 Kxd8 31.Kc3 Kc7 32.Kb4 Bc6 33.Bd3 a6 34.c4 bxc4 35.Bxc4 Bxg2 36.Bxa6 Kd6
+37.Kb5  1-0

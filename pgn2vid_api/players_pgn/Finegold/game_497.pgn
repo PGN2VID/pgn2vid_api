@@ -1,0 +1,24 @@
+[Event "Spring Inv"]
+[Site "Chicago USA"]
+[Date "2005.04.17"]
+[Round "3"]
+[White "Van de Mortel,J"]
+[Black "Finegold,B"]
+[Result "0-1"]
+[WhiteElo "2410"]
+[BlackElo "2522"]
+[ECO "D00"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Be2 b6 7.Ne5 Bb7 8.h4 Nbd7
+9.f3 Nxe5 10.Bxe5 Ne8 11.Bxg7 Nxg7 12.f4 e5 13.fxe5 f6 14.Bf3 fxe5 15.dxe5 c6
+16.Qd2 Qe8 17.O-O-O Rd8 18.h5 gxh5 19.Qd4 c5 20.Qh4 Qxe5 21.Rde1 Rde8 22.Bxh5 Nxh5
+23.Qxh5 Qxh5 24.Rxh5 d4 25.Nd1 Rf7 26.Rg5+ Rg7 27.Rxg7+ Kxg7 28.Kd2 Re4 29.exd4 Rxd4+
+30.Kc1 Kf6 31.Rh1 Kg6 32.Rf1 h5 33.Ne3 h4 34.Rf2 Bc8 35.b3 Be6 36.Rf8 Kg5
+37.a3 Rf4 38.Re8 Bf7 39.Re7 a5 40.Kd2 Rf6 41.Re4 Rd6+ 42.Ke2 Rd4 43.Re5+ Kf6
+44.Rf5+ Kg6 45.a4 Re4 46.Rf1 Be6 47.Rf8 Kg5 48.Kf3 Rd4 49.Ke2 c4 50.bxc4 Bxc4+
+51.Kf3 Be6 52.Rb8 Rd6 53.Ke4 Bd7 54.c4 Bxa4 55.Nd5 Bb3 56.Ke5 Rg6 57.Ne7 Rg7
+58.Nf5 Rc7 59.Rg8+ Kh5 60.Ng7+ Kh6 61.Ne6 Bxc4 62.Rh8+ Rh7 63.Re8 Bxe6 64.Rxe6+ Kg5
+65.Rxb6 Re7+ 66.Kd4 Ra7 67.Rb3 a4 68.Ra3 Kg4 69.Ke4 Ra5 70.Kd4 Kf4 71.Rf3+ Kg4
+72.Ra3 Rf5 73.Ke3 Rf4 74.Ke2 Rb4 75.Kf2 Kf4 76.Rf3+ Ke5 77.Re3+ Kd4 78.Re8 Kc4
+79.Ke3 Kb3 80.Kd2 Kb2 81.Rc8 a3 82.Rc2+ Kb3 83.Rc3+ Ka4 84.Rc8 a2 85.Kc2 Rg4
+86.Kb2 Rxg2+ 87.Ka1 Rg1+ 88.Kxa2 Rg2+ 89.Kb1 h3 90.Rh8 h2 91.Kc1 Rg1+ 92.Kd2 h1=Q  0-1

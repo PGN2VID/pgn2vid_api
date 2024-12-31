@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "5"]
+[White "Taubenhaus, Jean"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.d4 Nxd4
+9.Nxd4 exd4 10.a4 Bb7 11.c3 dxc3 12.Nxc3 O-O 13.f3 b4 14.Ne2 Re8 15.Ng3 Bf8
+16.Bf4 Nd7 17.Rc1 Nc5 18.Ba2 a5 19.Be3 Ne6 20.Qc2 c5 21.Red1 Qf6 22.f4 Rac8
+23.Bb1 g6 24.f5 Nd8 25.fxg6 hxg6 26.Rf1 Qe6 27.Bg5 Bg7 28.b3 Nc6 29.Qd1 Nd4
+30.Bd3 d5 31.exd5 Qxd5 32.Qd2 Ne2+  0-1

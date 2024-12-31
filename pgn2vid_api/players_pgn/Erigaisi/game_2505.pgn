@@ -1,0 +1,21 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "5"]
+[White "Demchenko,A"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2608"]
+[BlackElo "2712"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.a4 g6 5.Nf3 Bg7 6.d3 e6 7.h4 h6 8.Bf4 a6 9.Bc4 Ne7
+10.Qd2 d5 11.Ba2 b5 12.Nxd4 cxd4 13.Ne2 e5 14.Bg3 Bb7 15.f3 bxa4 16.c3 O-O
+17.cxd4 exd4 18.O-O Rc8 19.Qb4 Bc6 20.Bd6 Re8 21.Rac1 Bf6 22.h5 Bb5 23.hxg6 Nxg6
+24.Rxc8 Qxc8 25.Rc1 Qd8 26.Bc7 Qd7 27.Bxd5 Bxd3 28.Nxd4 Rc8 29.Nf5 Rxc7 30.Qb8+ Bd8
+31.Rd1 Ne5 32.Qb6 Rc1 33.Qxh6 Rxd1+ 34.Kh2 Ng4+ 35.fxg4 Qc7+ 36.Nd6 Rf1 37.Qg6+ Kf8
+38.Qh6+ Ke7 39.e5 Qc1 40.Nf5+ Bxf5 41.Qd6+ Ke8 42.Bc6+ Qxc6 43.Qxc6+ Bd7
+44.Qh6 Be6 45.g5 Bc7 46.Qh8+ Kd7 47.g6 fxg6 48.Qg7+ Rf7 49.Qxg6 Bxe5+ 50.Kg1 Bxb2
+51.Qd3+ Ke7 52.Qd2 a3 53.Qb4+ Kd7 54.Qb7+ Kd6 55.Qxa6+ Kd5 56.Qb5+ Ke4 57.Qe2+ Kf5
+58.Qh5+ Kf6 59.Qh6+ Ke7 60.Qg5+ Rf6 61.Qc5+ Kf7 62.Qc7+ Kf8 63.Qb8+ Kg7 64.Qc7+ Bf7
+65.Qg3+ Rg6 66.Qf2 Bf6 67.g3 a2  0-1

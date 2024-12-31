@@ -1,0 +1,15 @@
+[Event "USA tour sim"]
+[Site "USA"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Chatard, Thillaye"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d4 Nxe4 5.O-O exd4 6.Re1 d5 7.Nxd4 Bc5 8.f3 O-O
+9.Bxc6 Qh4 10.fxe4 Bxd4+ 11.Be3 Be5 12.g3 Bxg3 13.Re2 Bxh2+ 14.Kf1 Bg4 15.Bxd5 Be5
+16.Nc3 Kh8 17.Qd3 f5 18.Kg1 Bxe2 19.Qxe2 f4 20.Bf2 Qg5+ 21.Kf1 f3 22.Qd1 Qg2+
+23.Ke1 Bg3 24.Bxg3 f2+  0-1

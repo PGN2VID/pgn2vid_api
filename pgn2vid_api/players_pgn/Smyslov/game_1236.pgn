@@ -1,0 +1,24 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1968.??.??"]
+[Round "11"]
+[White "Smyslov, Vassily"]
+[Black "Forintos, Gyozo V"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E09"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.d4 Nbd7 7.Qc2 c6 8.Nbd2 b6
+9.b3 Bb7 10.Bb2 Rc8 11.e4 dxe4 12.Nxe4 Nxe4 13.Qxe4 Rc7 14.Rad1 c5 15.Qe2 cxd4
+16.Nxd4 Bxg2 17.Kxg2 a6 18.Qf3 Qc8 19.Rfe1 Nc5 20.Ne2 Qa8 21.Be5 Rd7 22.Qxa8 Rxa8
+23.Rxd7 Nxd7 24.Bf4 Kf8 25.Nc3 Bb4 26.Rd1 Ke7 27.Na4 Ra7 28.Nb2 Ba3 29.Nd3 f6
+30.Ne1 g5 31.Nc2 Bc5 32.Bc1 Rc7 33.Bb2 Nb8 34.h4 gxh4 35.gxh4 Nc6 36.Kf3 h5
+37.Ne3 Kf7 38.Ng2 Ne7 39.Nf4 Nf5 40.Nxh5 e5 41.Kg4 Ke6 42.Rd2 Rh7 43.Re2 Nd4
+44.Bxd4 Bxd4 45.Nf4+ Kf7 46.Nd5 Ke6 47.Nf4+ Kf7 48.Rd2 Rg7+ 49.Kf5 Rh7 50.h5 exf4
+51.Rxd4 Rxh5+ 52.Kxf4 Ke6 53.Rd8 Rf5+ 54.Ke3 Re5+ 55.Kd3 Ra5 56.a4 Rf5 57.Ke3 Rc5
+58.Kd4 Ke7 59.Rb8 Rc6 60.Rb7+ Ke6 61.b4 Rd6+ 62.Kc3 Ke5 63.a5 bxa5 64.bxa5 Rd1
+65.Rb2 Ra1 66.Kb4 Kd6 67.Rd2+ Kc6 68.Rd3 Rb1+ 69.Rb3 Rh1 70.Rf3 Rh6 71.Rf5 Kd6
+72.Rd5+ Kc6 73.Rf5 Kd6 74.f3 Rg6 75.Kb3 Rh6 76.Kc3 Kc6 77.Kd4 Rg6 78.f4 Rh6
+79.Ke4 Rg6 80.Rh5 Rg1 81.Rh6 Re1+ 82.Kf5 Ra1 83.Rxf6+ Kb7 84.Rb6+ Ka7 85.Re6 Rxa5+
+86.Kg6 Rc5 87.f5 Rxc4 88.f6 Rg4+ 89.Kf5 Rg1 90.f7  1-0

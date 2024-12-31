@@ -1,0 +1,19 @@
+[Event "Chess.com SIG Bullet KO"]
+[Site "chess.com INT"]
+[Date "2021.04.06"]
+[Round "1.2"]
+[White "Erigaisi,Arjun"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2567"]
+[BlackElo "2736"]
+[ECO "A42"]
+
+1.d4 g6 2.c4 Bg7 3.e4 d6 4.Nc3 Nc6 5.d5 Nd4 6.Nge2 c5 7.Be3 Nxe2 8.Bxe2 Nf6
+9.Qd2 O-O 10.O-O a6 11.Rad1 e6 12.dxe6 Bxe6 13.Qxd6 Qxd6 14.Rxd6 Rac8 15.Rfd1 Rfe8
+16.f3 h5 17.Kf2 h4 18.Na4 Bf8 19.Rb6 Rc7 20.Bf4 Rd7 21.Rxd7 Bxd7 22.Nc3 Bc6
+23.Nd5 Nd7 24.Rb3 Bg7 25.Be3 f5 26.exf5 gxf5 27.Bd3 Ne5 28.Bxc5 Nxd3+ 29.Rxd3 Bxb2
+30.Ne7+ Kf7 31.Nxc6 bxc6 32.Rd7+ Ke6 33.Rd6+ Ke5 34.g3 hxg3+ 35.hxg3 f4 36.Rxc6 fxg3+
+37.Kxg3 Rg8+ 38.Kf2 Rd8 39.Rxa6 Rc8 40.Ra5 Ke6 41.Ke2 Rg8 42.Be3 Rc8 43.Kd3 Bf6
+44.Ra6+ Kf5 45.Ra5+ Ke6 46.Rd5 Ra8 47.Bd4 Be7 48.f4 Rxa2 49.f5+ Kf7 50.Rd7 Ke8
+51.Rb7 Ra6 52.Ke4 Bd8 53.c5 Rh6 54.Kd5 Rh1 55.Ke6 Re1+ 56.Be5 Kf8 57.Rh7  1-0

@@ -1,0 +1,21 @@
+[Event "chess.com SpeedChess 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.08"]
+[Round "1.20"]
+[White "Andreikin,D"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteElo "2729"]
+[BlackElo "2777"]
+[ECO "D43"]
+
+1.Nf3 Nf6 2.c4 c6 3.Nc3 d5 4.d4 e6 5.cxd5 exd5 6.Qc2 Bd6 7.Bg5 Be6 8.e3 Nbd7
+9.Bd3 Qc7 10.Bh4 h6 11.Bg3 O-O 12.O-O Rfe8 13.Nb5 cxb5 14.Qxc7 Bxc7 15.Bxc7 a6
+16.Rfc1 Rec8 17.h3 Ne8 18.Bh2 Nb6 19.b3 Nf6 20.Ne5 Ne4 21.Kf1 b4 22.Ke1 a5
+23.Nf3 a4 24.Nd2 Rxc1+ 25.Rxc1 axb3 26.axb3 Nc3 27.Bd6 Nc8 28.Bc7 Ne7 29.f3 Nc6
+30.Bd6 g6 31.Nb1 Ra1 32.Kd2 Na5 33.Rxc3 bxc3+ 34.Kxc3 Ra2 35.Nd2 Nc6 36.g4 Na7
+37.h4 Bd7 38.Bc5 Nb5+ 39.Bxb5 Bxb5 40.g5 h5 41.e4 Bc6 42.b4 Ra3+ 43.Nb3 Ba4
+44.exd5 Rxb3+ 45.Kd2 Rxf3 46.d6 f6 47.b5 Bxb5 48.d5 fxg5 49.hxg5 Rf5 50.Kc3 Rxd5
+51.Kb4 Bc6 52.Be3 Kf7 53.Kc4 Ke6 54.Bf4 Kd7 55.Be3 Rf5 56.Kd4 Rf7 57.Ke5 h4
+58.Bg1 b5 59.Bh2 b4 60.Kd4 b3 61.Kc3 Rf3+ 62.Kb2 Bd5 63.Be5 h3 64.Ka3 Re3
+65.Bf4 Re2 66.Kb4 b2 67.Kc5 b1=Q 68.Kxd5 Qe4+  0-1

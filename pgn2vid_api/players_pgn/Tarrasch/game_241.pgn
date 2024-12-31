@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "5"]
+[White "Mieses, Jacques"]
+[Black "Tarrasch, Siegbert"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Bc5 4.d3 d6 5.f4 Bg4 6.Nf3 Nc6 7.h3 Be6 8.Bxe6 fxe6
+9.Na4 Bb6 10.Nxb6 axb6 11.O-O exf4 12.Bxf4 O-O 13.Bg5 h6 14.Bxf6 Qxf6 15.c3 Kh7
+16.Qe2 e5 17.Rf2 Ne7 18.Raf1 Ng6 19.a3 Nf4 20.Qd2 Rf7 21.Kh2 Raf8 22.Ng1 Qg5
+23.Qd1 Rf6 24.Ne2 Nxg2 25.Rxf6 Rxf6 26.Rxf6 gxf6 27.Ng3 Nh4 28.Qf1 Kg6 29.Nf5 Nxf5
+30.exf5+ Qxf5 31.Qg2+ Qg5 32.Qxb7 Qd2+ 33.Qg2+ Qxg2+ 34.Kxg2 b5 35.b4 Kf7
+36.Kf3 f5  0-1

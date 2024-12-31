@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "16"]
+[White "Mason, James"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D45"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 d5 4.e3 c6 5.Nf3 Nbd7 6.Bd2 Bd6 7.Qc2 O-O 8.cxd5 exd5
+9.Bd3 Re8 10.h3 Nf8 11.g4 Qe7 12.O-O-O Bd7 13.Kb1 b5 14.Nh4 Ne4 15.Bxe4 Qxh4
+16.Bf5 Qxf2 17.Bxd7 Nxd7 18.Nxb5 cxb5 19.Qc6 Nb6 20.Qxd6 Nc4 21.Qh2 Nxd2+
+22.Rxd2 Qxe3 23.Rf1 Rac8 24.Qf2 f6 25.b3 b4 26.Qxe3 Rxe3 27.Rf5 Re1+ 28.Kb2 Rcc1
+29.a4 Rb1+ 30.Ka2 Ra1+ 31.Kb2 Ra3 32.Rxd5 Re3 33.Ra5 Rexb3+ 34.Kc2 Rxh3 35.Kb2 Rab3+  0-1

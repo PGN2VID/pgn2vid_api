@@ -1,0 +1,22 @@
+[Event "Chess.com Bullet Open 2"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "10"]
+[White "Nabaty,T"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteElo "2638"]
+[BlackElo "2749"]
+[ECO "B07"]
+
+1.d4 Nf6 2.Nc3 g6 3.e4 d6 4.Bd3 Bg7 5.Be3 Ng4 6.Qd2 Nxe3 7.Qxe3 Nc6 8.Nge2 O-O
+9.O-O-O e5 10.dxe5 Nxe5 11.h4 Ng4 12.Qg3 c6 13.h5 Qg5+ 14.f4 Qc5 15.hxg6 fxg6
+16.Kb1 Nf2 17.Qh4 Nxh1 18.Rxh1 h6 19.g4 g5 20.Qh2 Be6 21.e5 dxe5 22.fxg5 e4
+23.Nxe4 Qe5 24.Qxe5 Bxe5 25.gxh6 Bd5 26.Rh5 Rae8 27.Kc1 Bxe4 28.Bxe4 Bxb2+
+29.Kxb2 Rxe4 30.Rg5+ Kh7 31.Ng3 Re6 32.Rg7+ Kxh6 33.Rxb7 Kg5 34.Nf5 Kxg4
+35.Nd4 Ref6 36.Nb3 Kf4 37.Rxa7 Ke5 38.Ra4 Kd6 39.Rc4 Kc7 40.a4 Kb6 41.Nd4 c5
+42.Nb3 Rc6 43.a5+ Kb5 44.Re4 Rd8 45.Re5 Kb4 46.c3+ Kc4 47.Ka3 Kb5 48.Re4 Rd3
+49.c4+ Ka6 50.Ka4 Rd7 51.Re5 Rdc7 52.Rf5 Rc8 53.Re5 Ka7 54.Rf5 R6c7 55.Re5 Rb8
+56.Rd5 Rbc8 57.Nxc5 Rxc5 58.Kb4 Rxd5 59.cxd5 Ka6 60.d6 Rc6 61.d7 Rd6 62.Kc5 Rxd7
+63.Kc6 Rd1 64.Kc5 Ra1 65.Kc6 Rxa5 66.Kc7 Rb5 67.Kc8 Ka5 68.Kc7 Kb4 69.Kc8 Rc5+
+70.Kd7 Kc4 71.Ke7 Rd5 72.Kf7 Kd4 73.Kg7 Rc5  0-1

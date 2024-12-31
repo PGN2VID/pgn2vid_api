@@ -1,0 +1,25 @@
+[Event "chess.com SpeedChess Q1Sw"]
+[Site "chess.com INT"]
+[Date "2022.11.10"]
+[Round "2"]
+[White "Kamsky,G"]
+[Black "Tan Zhongyi"]
+[Result "1-0"]
+[WhiteElo "2666"]
+[BlackElo "2514"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e6 7.a5 Nc6 8.Nxc6 bxc6
+9.Bd3 d5 10.O-O Be7 11.Bf4 O-O 12.Qe2 c5 13.b3 Bb7 14.Rfd1 g6 15.exd5 exd5
+16.Na4 Nh5 17.Bh6 Re8 18.Qf3 Rb8 19.Nb6 d4 20.Qg4 Nf6 21.Qh3 Nd5 22.Nxd5 Qxd5
+23.Bf4 Bd6 24.Bxd6 Qxd6 25.Qg3 Qxg3 26.hxg3 h5 27.f3 Kf8 28.Kf2 Ke7 29.Bc4 Kf6
+30.c3 Rbd8 31.cxd4 Rxd4 32.Rxd4 cxd4 33.Ra4 Re5 34.Rb4 Bd5 35.Bxa6 Be6 36.Rxd4 Rxa5
+37.Bc4 Ra2+ 38.Kg1 Rb2 39.Bxe6 Kxe6 40.b4 g5 41.g4 h4 42.Kh2 f6 43.Kh3 Rb3
+44.Kh2 Rb2 45.f4 Rb3 46.Kg1 Rb1+ 47.Kf2 Rb2+ 48.Kf3 Rb3+ 49.Ke4 Rb2 50.f5+ Ke7
+51.Kf3 Rb3+ 52.Kf2 Rb2+ 53.Kg1 Rb1+ 54.Kh2 Rb3 55.Re4+ Kf7 56.Rc4 Ke7 57.Kg1 Rb2
+58.Rd4 Rb1+ 59.Kh2 Rb3 60.Rc4 Rb2 61.Re4+ Kf7 62.Kg1 Rb1+ 63.Kh2 Rb2 64.Rc4 Rb3
+65.Rc7+ Ke8 66.Rb7 Kf8 67.b5 Kg8 68.b6 Kf8 69.Kg1 Rb2 70.Kf1 Kg8 71.Ke1 Rxg2
+72.Rc7 Rb2 73.b7 h3 74.Rc8+ Kg7 75.b8=Q Rxb8 76.Rc7+ Kh6 77.Kf2 Rb1 78.Kg3 Rb3+
+79.Kh2 Rb2+ 80.Kxh3 Rb3+ 81.Kg2 Rb2+ 82.Kf3 Rb3+ 83.Ke4 Rg3 84.Kd5 Rxg4 85.Ke6 Rf4
+86.Kxf6 g4 87.Rc8 Kh7 88.Kg5 Ra4 89.Rc7+ Kg8 90.Kg6 Ra6+ 91.f6 Rxf6+ 92.Kxf6 g3
+93.Rg7+  1-0

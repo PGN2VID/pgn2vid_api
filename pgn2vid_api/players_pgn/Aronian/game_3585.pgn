@@ -1,0 +1,23 @@
+[Event "Chessable Masters KO"]
+[Site "chess24.com INT"]
+[Date "2021.08.05"]
+[Round "2.12"]
+[White "Le, Quang Liem"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2709"]
+[BlackElo "2782"]
+[ECO "D04"]
+
+1.d4 Nf6 2.Nf3 d5 3.e3 c5 4.dxc5 e6 5.b4 b6 6.cxb6 Bxb4+ 7.c3 Bc5 8.Bb5+ Nbd7
+9.bxa7 O-O 10.O-O Rxa7 11.Nbd2 Ba6 12.Bxa6 Rxa6 13.c4 Qa8 14.Qc2 Rc8 15.Bb2 Be7
+16.Rfc1 Ra4 17.Qd3 Qa6 18.Bxf6 Nxf6 19.Ne5 Rxa2 20.Qd4 h6 21.h3 Bc5 22.Qc3 Bd6
+23.Rxa2 Qxa2 24.Nd3 Qa7 25.c5 Be7 26.c6 Bd6 27.Nf3 Ne4 28.Qc2 Qa6 29.Nd4 g6
+30.Qb3 Kg7 31.Qb2 Kh7 32.Qb5 Qa2 33.Qb7 Rc7 34.Qb1 Qxb1 35.Rxb1 Kg7 36.Rb7 Kf8
+37.Rxc7 Bxc7 38.Nb5 Bb6 39.c7 Nd6 40.Nxd6 Bxc7 41.Nb5 Bd8 42.Kf1 h5 43.g3 Bf6
+44.Ke2 Ke7 45.f4 Ba1 46.Kf3 Kf6 47.Nd6 Ke7 48.Nb5 Kf6 49.Nd4 Ke7 50.g4 hxg4+
+51.hxg4 Bc3 52.Ne5 Bb2 53.Ke2 Ba3 54.Ndf3 Bd6 55.Ng5 f5 56.Ngf3 fxg4 57.Nxg4 Kf7
+58.Kf2 Bc7 59.Ng5+ Ke7 60.Kf3 Ba5 61.Ne5 Bc3 62.Kg4 Bd2 63.Kf3 Bc3 64.Ke2 Kf6
+65.Ng4+ Kf5 66.Nh6+ Kf6 67.Kd3 Ba1 68.Nf3 Bb2 69.Ng4+ Kf5 70.Nf2 Kf6 71.Nh4 Kg7
+72.Ng4 Ba1 73.Kc2 Kf7 74.Nf3 Kg7 75.Ng5 e5 76.fxe5 Kf8 77.Kd3 Ke7 78.Nh3 Ke6
+79.Nf4+ Kf5 80.e6 Bf6 81.Nxf6 Kxf6 82.Kd4 g5 83.Kxd5  1-0

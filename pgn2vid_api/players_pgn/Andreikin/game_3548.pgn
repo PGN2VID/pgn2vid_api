@@ -1,0 +1,23 @@
+[Event "Chess.com RCC Wk25 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.08.13"]
+[Round "3"]
+[White "Shimanov,A"]
+[Black "Andreikin,D"]
+[Result "1-0"]
+[WhiteElo "2581"]
+[BlackElo "2729"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 exd5 5.d4 Nc6 6.Bb5 Bd6 7.O-O Ne7 8.dxc5 Bxc5
+9.Nbd2 O-O 10.Nb3 Bb6 11.h3 Qd6 12.Nbd4 Nxd4 13.Nxd4 Bc7 14.Nf3 Ng6 15.Re1 a6
+16.Bd3 Bd7 17.Be3 Rae8 18.Qd2 Re6 19.g3 Rf6 20.Nd4 h6 21.Bf1 Re8 22.Rad1 Bb8
+23.f4 h5 24.h4 Bg4 25.Rc1 Kh7 26.Bg2 Qd7 27.Nb3 Bh3 28.Qxd5 Qg4 29.Qf3 Qc8
+30.Qxb7 Qg4 31.Qf3 Qc8 32.Bd4 Nxh4 33.Qxh5+ Rh6 34.Qxf7 Rxe1+ 35.Rxe1 Qg4
+36.Re8 Nf3+ 37.Kf2 Nxd4 38.Nxd4 Bxg2 39.Qg8+ Kg6 40.Re6+ Kh5 41.Rxh6+ Kxh6
+42.Qh8+ Kg6 43.Qe8+ Kh6 44.Kxg2 Bxf4 45.Qe6+ Qxe6 46.Nxe6 Bc1 47.b3 Kg6 48.Kf3 Kf6
+49.Nc5 a5 50.b4 axb4 51.cxb4 Ba3 52.Nd3 Ke6 53.Ke4 Kd6 54.g4 g6 55.Kd4 Ke6
+56.b5 Bd6 57.a4 Bc7 58.Kc5 Kd7 59.Kd5 Bh2 60.Ne5+ Kc7 61.Nc4 Bg1 62.a5 Kb7
+63.a6+ Kc7 64.Ke6 Bc5 65.Kf6 Kd7 66.b6 Kc6 67.a7 Kb7 68.Kxg6 Ka8 69.Kf7 Bd4
+70.Ke6 Kb7 71.Kd7 Bc5 72.g5 Bd4 73.g6 Bc3 74.Ke6 Bd4 75.Kf7 Bc3 76.Nd6+ Kxb6
+77.a8=Q  1-0

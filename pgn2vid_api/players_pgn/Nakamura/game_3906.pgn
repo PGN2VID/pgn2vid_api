@@ -1,0 +1,14 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "2"]
+[White "Mekhitarian,K"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2554"]
+[BlackElo "2736"]
+[ECO "A04"]
+
+1.Nf3 g6 2.g3 Bg7 3.Bg2 d6 4.O-O Nc6 5.d4 Bd7 6.d5 Ne5 7.Nxe5 Bxe5 8.Nd2 Qc8
+9.Nf3 Bh3 10.Nxe5 dxe5 11.e4 h5 12.f4 h4 13.f5 hxg3 14.hxg3 Nf6 15.Qf3 gxf5
+16.Bg5 fxe4 17.Qc3 Bxg2 18.Qxe5 Rh1+ 19.Kf2 Rxf1+ 20.Kxg2 Rf5  0-1

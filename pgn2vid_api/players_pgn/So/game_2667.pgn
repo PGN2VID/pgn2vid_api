@@ -1,0 +1,16 @@
+[Event "chess.com Speed 2021"]
+[Site "chess.com INT"]
+[Date "2021.11.15"]
+[Round "1.32"]
+[White "So,W"]
+[Black "Xiong,Jeffery"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2687"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Bd2 Bg4 6.f3 Bf5 7.Bc4 Qb6 8.g4 Bg6
+9.Qe2 Nc6 10.Bb5 O-O-O 11.Bxc6 Qxc6 12.O-O-O e6 13.Nh3 Rxd4 14.Nf4 Bd6 15.Nxg6 hxg6
+16.Nb5 Ra4 17.Kb1 Kb8 18.b3 Ra6 19.c4 e5 20.Bc3 Qe8 21.Nxd6 Rxd6 22.Qxe5 Rxd1+
+23.Rxd1 Qxe5 24.Bxe5 Kc8 25.Kc2 Re8 26.Bc3 Re2+ 27.Rd2 Rxd2+ 28.Kxd2 Kd7
+29.Bxf6 gxf6 30.h4 Ke6 31.h5 gxh5 32.gxh5 Kf5 33.f4  1-0

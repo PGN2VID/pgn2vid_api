@@ -1,0 +1,20 @@
+[Event "Simul"]
+[Site "Paris FRA"]
+[Date "2005.04.03"]
+[Round "5"]
+[White "Leko,P"]
+[Black "HEC"]
+[Result "1-0"]
+[WhiteElo "2749"]
+[BlackElo ""]
+[ECO "C14"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.f4 a6 8.Nf3 c5
+9.Qd2 Nc6 10.O-O-O b5 11.dxc5 Qxc5 12.Ne2 Nb6 13.Ned4 Bd7 14.h4 O-O-O 15.Nxc6 Bxc6
+16.Qd4 Na4 17.Rh3 Kb7 18.b3 Qxd4 19.Nxd4 Nb6 20.Be2 Rc8 21.f5 Bd7 22.Rg3 g6
+23.fxg6 hxg6 24.Rh1 Rcg8 25.Nf3 Be8 26.Ng5 Nd7 27.Re3 Nf8 28.c4 Nh7 29.Nf3 Bc6
+30.Nd4 Rc8 31.c5 Be8 32.b4 Ng5 33.Bd3 Bc6 34.g3 Ne4 35.Rf1 Rc7 36.Nxc6 Kxc6
+37.Bxe4 dxe4 38.Rd1 Rd7 39.Rxd7 Kxd7 40.Rxe4 a5 41.a3 axb4 42.axb4 Rh5 43.Kd2 Kc6
+44.Rf4 Rh7 45.Ke3 Kd5 46.Rd4+ Kxe5 47.Rd7 g5 48.hxg5 Rg7 49.c6 Rxg5 50.c7 Rxg3+
+51.Kd2 Rg2+ 52.Kc3 Rg3+ 53.Rd3 Rg8 54.Rd8 Rg3+ 55.Kd2 Rg2+ 56.Ke3 Rg3+ 57.Kf2 Rc3
+58.c8=Q  1-0

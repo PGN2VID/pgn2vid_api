@@ -1,0 +1,24 @@
+[Event "FIDE Candidates 2024"]
+[Site "Toronto CAN"]
+[Date "2024.04.09"]
+[Round "5.3"]
+[White "Gukesh,D"]
+[Black "Abasov,N"]
+[Result "1-0"]
+[WhiteElo "2743"]
+[BlackElo "2632"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.dxe5 Nc5 6.Be2 Be7 7.O-O O-O 8.Re1 c6
+9.Nbd2 Nbd7 10.h3 a5 11.Nb3 f6 12.exf6 Nxf6 13.Be3 Nce4 14.Nbd2 a4 15.Nxe4 Nxe4
+16.a3 Bc5 17.Bd3 Bxe3 18.Rxe3 Qf6 19.c3 Bf5 20.Qe2 Nd6 21.Bxf5 Nxf5 22.Re6 Qf7
+23.Re1 h6 24.Qc2 Qd7 25.c4 d4 26.c5 Qf7 27.R6e4 Qd5 28.Re5 Qf7 29.R5e4 Qd5
+30.Re5 Qf7 31.R1e4 Rad8 32.Rf4 d3 33.Qxa4 Qa2 34.Kh2 g6 35.Qb4 Qf7 36.Re1 Rfe8
+37.Rfe4 Rxe4 38.Rxe4 Rd5 39.Nd2 Ng7 40.Kg1 Ne6 41.Re3 Nxc5 42.Qc4 Ne6 43.Rxd3 b5
+44.Qc3 Nf4 45.Re3 Rg5 46.Ne4 Rxg2+ 47.Kh1 Nd5 48.Nf6+ Nxf6 49.Kxg2 Nd5 50.Qxc6 Nxe3+
+51.fxe3 Qf5 52.b3 h5 53.a4 bxa4 54.bxa4 Qg5+ 55.Kf2 Qf5+ 56.Kg2 Qg5+ 57.Kf2 Qf5+
+58.Ke2 g5 59.e4 Qxh3 60.Qg6+ Kh8 61.Qh6+ Kg8 62.Qxg5+ Kh8 63.Qh6+ Kg8 64.Qg5+ Kh8
+65.a5 h4 66.Qh6+ Kg8 67.Qg6+ Kh8 68.a6 Qh2+ 69.Ke3 Qh3+ 70.Ke2 Qh2+ 71.Kd3 Qh3+
+72.Kc4 Qc8+ 73.Kd5 Qd8+ 74.Qd6 Qa5+ 75.Ke6 h3 76.Kf7 Qa2+ 77.Qe6 Qxe6+ 78.Kxe6 h2
+79.a7 h1=Q 80.a8=Q+ Kg7 81.Qa7+ Kh6 82.Qe3+ Kh5 83.Kf5 Qf1+ 84.Qf4 Qb5+ 85.Qe5 Qd7+
+86.Kf6+ Kh4 87.Qg5+  1-0

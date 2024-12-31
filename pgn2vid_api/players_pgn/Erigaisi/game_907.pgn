@@ -1,0 +1,16 @@
+[Event "Chess.com Bullet Open KO"]
+[Site "chess.com INT"]
+[Date "2020.12.20"]
+[Round "2.3"]
+[White "Firouzja,Alireza"]
+[Black "Erigaisi,Arjun"]
+[Result "1-0"]
+[WhiteElo "2749"]
+[BlackElo "2559"]
+[ECO "B63"]
+
+1.d4 c5 2.Nf3 cxd4 3.Nxd4 Nc6 4.e4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Bd7 8.Ndb5 Qb6
+9.Be3 Qa5 10.O-O-O O-O-O 11.Nxd6+ Bxd6 12.Qxd6 e5 13.Qc5 Qxc5 14.Bxc5 Be6
+15.Rxd8+ Rxd8 16.f3 b6 17.Ba6+ Kb8 18.Be3 Bc8 19.Bb5 Nd4 20.Rd1 a6 21.Bc4 Be6
+22.Bxe6 Nxe6 23.Rxd8+ Nxd8 24.Bxb6 Ne6 25.Be3 Nd7 26.Nd5 Kb7 27.b4 f6 28.c4 Kc6
+29.Kc2 g6 30.a4 Kd6 31.Kc3 f5 32.c5+  1-0

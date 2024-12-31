@@ -1,0 +1,21 @@
+[Event "Harvard Cup"]
+[Site "Boston"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Comp Chess System R30"]
+[Black "Wolff, Patrick G"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo "2580"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.cxd4 d6 6.Nf3 Nc6 7.Nc3 dxe5 8.dxe5 Nxc3
+9.Qxd8+ Nxd8 10.bxc3 Bd7 11.Bd3 e6 12.O-O Rc8 13.Bd2 h6 14.Rfe1 Bc5 15.Nd4 O-O
+16.Nb3 Be7 17.Rad1 Nc6 18.f4 Rfd8 19.Be3 Be8 20.Bf2 Kf8 21.Re3 b6 22.Rh3 Nb8
+23.Bd4 Ba4 24.f5 exf5 25.Bxf5 Bd7 26.Rf3 Kg8 27.Bxd7 Rxd7 28.Re1 Nc6 29.Rxf7 Nxd4
+30.Nxd4 Kxf7 31.e6+ Ke8 32.exd7+ Kxd7 33.Rd1 Bf6 34.Nb5+ Ke6 35.Nxa7 Rxc3
+36.Nb5 Rc6 37.Re1+ Kd5 38.Rd1+ Kc4 39.Rc1+ Kd5 40.Rd1+ Ke4 41.a4 Ke3 42.Re1+ Kd3
+43.Kf2 Kc2 44.Kf3 Kb3 45.Re4 Rc4 46.Rxc4 Kxc4 47.Nc7 Kb4 48.Nd5+ Ka5 49.Ke4 Bd8
+50.Nc3 Kb4 51.Kd3 Kb3 52.g3 Be7 53.Nd5 Bc5 54.Nc3 Bb4 55.Nd5 Ba5 56.Ne7 h5
+57.Nd5 Kxa4 58.Nf4 b5 59.Nxh5 Ka3 60.Nxg7 b4 61.Nf5 b3 62.Ne3 Bc7 63.Nd5 b2
+64.Kc2 Ka2 65.Nc3+ Ka1  1/2-1/2

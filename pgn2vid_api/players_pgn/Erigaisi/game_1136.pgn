@@ -1,0 +1,23 @@
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2021.07.05"]
+[Round "1.36"]
+[White "Erigaisi,Arjun"]
+[Black "Shevchenko,Kirill"]
+[Result "0-1"]
+[WhiteElo "2567"]
+[BlackElo "2605"]
+[ECO "E40"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Ne4 5.Qc2 f5 6.Bd3 b6 7.Bxe4 fxe4 8.Qxe4 O-O
+9.Qxa8 Nc6 10.d5 Qf6 11.Ne2 Qxf2+ 12.Kd1 exd5 13.cxd5 Bxc3 14.dxc6 Ba6 15.Qxf8+ Kxf8
+16.Nxc3 Bf1 17.cxd7 Ke7 18.Bd2 Qxg2 19.Rxf1 Qxf1+ 20.Be1 Kxd7 21.Kc2 Qg2+
+22.Bd2 Qxh2 23.Rf1 Ke8 24.Rf4 h5 25.Nd5 h4 26.Nxc7+ Kd7 27.Nb5 h3 28.Rd4+ Ke6
+29.Re4+ Kf6 30.Nd4 Qg2 31.Rf4+ Kg6 32.Nf3 Kh7 33.Kd3 g5 34.Rf7+ Kh6 35.e4 h2
+36.Bxg5+ Kg6 37.Rf6+ Kg7 38.Nxh2 Qxg5 39.Rf3 Qg2 40.Re3 Qxh2 41.Kc3 Qe5+
+42.Kc2 Kf6 43.Rf3+ Ke6 44.Re3 Qh2+ 45.Kc3 Ke5 46.a3 b5 47.Kb3 a5 48.Rc3 Kxe4
+49.Rc5 Qe2 50.Rc8 Qd3+ 51.Ka2 Qd5+ 52.Kb1 Kd3 53.Rc1 Qb3 54.Rh1 Qc2+ 55.Ka1 Qg2
+56.Rd1+ Kc2 57.Re1 Qd2 58.Rh1 Qd3 59.Rg1 Kb3 60.Rc1 Qd2 61.Rc3+ Qxc3 62.bxc3 Kxc3
+63.Ka2 Kc2 64.a4 b4 65.Ka1 Kb3 66.Kb1 Kxa4 67.Kb2 b3 68.Kb1 Ka3 69.Ka1 b2+
+70.Kb1 a4 71.Kc2 Ka2 72.Kc3 b1=Q 73.Kc4 Qb3+ 74.Kc5 Kb2 75.Kd6 a3 76.Ke7 a2
+77.Kf6 a1=Q 78.Kg7 Qaa4 79.Kh8 Qbb5 80.Kg8 Qa7 81.Kf8 Qbb8+  0-1

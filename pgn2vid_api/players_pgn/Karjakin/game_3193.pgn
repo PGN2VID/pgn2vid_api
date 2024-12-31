@@ -1,0 +1,20 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "8"]
+[White "Ider,B"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2489"]
+[BlackElo "2752"]
+[ECO "A04"]
+
+1.Nf3 g6 2.g3 Bg7 3.Bg2 d6 4.O-O Nf6 5.d4 O-O 6.a4 Nbd7 7.a5 a6 8.Nc3 e5
+9.e4 Re8 10.Re1 c6 11.h3 Qc7 12.Bg5 exd4 13.Nxd4 Ne5 14.b3 c5 15.Nde2 Be6
+16.Nf4 Nc6 17.Bxf6 Bxf6 18.Ncd5 Bxd5 19.Nxd5 Qd8 20.c3 Bg7 21.Qd2 Nxa5 22.Rab1 Nc6
+23.Qc2 b5 24.Rbd1 b4 25.cxb4 Nxb4 26.Nxb4 cxb4 27.e5 Rc8 28.Qd3 Rxe5 29.Rxe5 Bxe5
+30.Qxa6 Rc2 31.Bd5 Qf6 32.Qa7 Kg7 33.Qe3 Rc3 34.Qe4 Bxg3 35.fxg3 Rxg3+ 36.Kh1 Rxh3+
+37.Kg2 Rh5 38.Qd4 Rg5+ 39.Kh2 Re5 40.Bg2 h5 41.Qxb4 Re2 42.Qd4 Re5 43.b4 h4
+44.Kh1 Qe6 45.b5 h3 46.Bd5 Qf5 47.b6 Kh7 48.b7 Re8 49.Qh4+ Kg7 50.Qd4+ f6
+51.Bc6 Qh5 52.Bxe8 Qe2 53.Qd2 Qe4+ 54.Kh2 Qxe8 55.Qf2 Qe5+ 56.Kg1 Qb5 57.Kh1 Qxb7+
+58.Kh2 Qb5 59.Rf1 Qg5 60.Qg3  1-0

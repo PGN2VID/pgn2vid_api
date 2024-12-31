@@ -1,0 +1,19 @@
+[Event "AI Cup Play-In Match 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "1.1"]
+[White "Andreikin,D"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2780"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Qxd2 O-O 8.Nc3 Ne4
+9.Qc2 Nxc3 10.Ng5 Ne4 11.Nxe4 Nc6 12.Qc3 Na5 13.O-O f5 14.Nd2 Bxg2 15.Kxg2 c5
+16.dxc5 bxc5 17.Rad1 Qc7 18.Nf3 Rad8 19.Rd3 d6 20.Rfd1 Nb7 21.Ng5 Rde8 22.Nh3 e5
+23.Rd5 Rf6 24.Ng5 h6 25.Nf3 Nd8 26.b4 cxb4 27.Qxb4 Nf7 28.c5 dxc5 29.Rxc5 Qe7
+30.Qc4 Qe6 31.Qxe6 Rfxe6 32.Rd7 a6 33.Rcc7 Rf6 34.h4 e4 35.Nd4 f4 36.g4 g6
+37.a4 f3+ 38.exf3 exf3+ 39.Nxf3 Rf4 40.Kg3 Ree4 41.Rc8+ Kg7 42.Ne5 Rf6 43.Rxf7+ Rxf7
+44.Nxf7 Kxf7 45.Rc7+ Kf8 46.Rc6 Rxa4 47.Rxg6 h5 48.f3 a5 49.Ra6 Kg7 50.g5 Ra3
+51.Kf4 a4 52.Ke4 Ra1 53.Kf5 a3 54.Ra7+ Kf8  1-0

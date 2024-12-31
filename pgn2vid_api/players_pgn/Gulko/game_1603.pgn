@@ -1,0 +1,17 @@
+[Event "COQ Open"]
+[Site "Quebec CAN"]
+[Date "2001.07.24"]
+[Round "5"]
+[White "Gulko,B"]
+[Black "Masse,Hugues"]
+[Result "0-1"]
+[WhiteElo "2602"]
+[BlackElo ""]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bg5 Ne4 3.h4 c5 4.dxc5 Qa5+ 5.Nd2 Nxg5 6.hxg5 g6 7.Rh4 Nc6 8.c3 Qxc5
+9.Ngf3 Bg7 10.e3 d6 11.Nb3 Qb6 12.Bd3 Bd7 13.Qd2 O-O-O 14.Ke2 h5 15.gxh6 Bxh6
+16.Rah1 Bg7 17.Nbd4 Ne5 18.Rxh8 Bxh8 19.b3 Nxd3 20.Qxd3 e5 21.Nc2 d5 22.Rxh8 Rxh8
+23.Nxe5 Bf5 24.Qd2 Qb5+ 25.c4 dxc4 26.Nxc4 Bxc2 27.Qxc2 Rd8 28.f3 Kb8 29.Kf2 Qd5
+30.Ke2 Qg5 31.Kf2 Qh4+ 32.Kf1 Qg3 33.Qf2 Rd1+ 34.Ke2 Qxf2+ 35.Kxf2 f6 36.e4 b5
+37.Ne3 Rd2+ 38.Kg3 Rxa2 39.Nd5 Rb2 40.b4 Kc8 41.f4 Kd8  0-1

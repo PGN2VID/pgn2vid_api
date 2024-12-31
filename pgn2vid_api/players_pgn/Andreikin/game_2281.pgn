@@ -1,0 +1,23 @@
+[Event "Titled Arena Apr 3rd 2021"]
+[Site "lichess.org INT"]
+[Date "2021.04.03"]
+[Round "?"]
+[White "Andreikin,D"]
+[Black "Petrosyan,M"]
+[Result "0-1"]
+[WhiteElo "2725"]
+[BlackElo "2625"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 d5 7.Nf3 dxc4 8.Qxc4 b6
+9.Bg5 Ba6 10.Qa4 h6 11.Bh4 Qd7 12.Qxd7 Nbxd7 13.Bxf6 gxf6 14.e3 Bxf1 15.Rxf1 c5
+16.Ke2 Rac8 17.Rad1 cxd4 18.Rxd4 Ne5 19.Rfd1 Rc2+ 20.R1d2 Rfc8 21.Ne1 Rxd2+
+22.Rxd2 Rc1 23.Rc2 Rxc2+ 24.Nxc2 Kf8 25.f4 Nc6 26.Kd3 f5 27.Kc4 Ke7 28.Kb5 Nb8
+29.Nb4 Kd6 30.h3 h5 31.g3 Kc7 32.Nc2 a6+ 33.Kc4 b5+ 34.Kc5 Nd7+ 35.Kd4 Kd6
+36.Nb4 a5 37.Nd3 f6 38.e4 fxe4 39.Kxe4 f5+ 40.Kd4 Nf6 41.Ne5 a4 42.Nf7+ Ke7
+43.Ng5 Kd6 44.Nf7+ Ke7 45.Ne5 Kd6 46.Nd3 Nd5 47.Nc5 h4 48.Nb7+ Kc6 49.gxh4 Kxb7
+50.Ke5 Kc6 51.Kxe6 Nxf4+ 52.Kxf5 Nd3 53.h5 b4 54.h6 Nxb2 55.h7 bxa3 56.h8=Q Kb5
+57.Qc3 Nc4 58.h4 a2 59.h5 a3 60.h6 Ne3+ 61.Kg6 Nc2 62.h7 a1=Q 63.Qxa1 Nxa1
+64.h8=Q Nb3 65.Qe5+ Kb4 66.Qe4+ Kc3 67.Qe3+ Kb2 68.Qe2+ Kb1 69.Qd1+ Nc1 70.Qe2 Nxe2
+71.Kf5 a2 72.Kf6 a1=Q+ 73.Ke7 Qb2 74.Kf8 Kc2 75.Kg8 Kc3 76.Kh8 Qb3 77.Kh7 Qb4
+78.Kh8 Qb5  0-1

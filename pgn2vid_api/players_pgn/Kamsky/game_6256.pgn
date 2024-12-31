@@ -1,0 +1,21 @@
+[Event "Chess.com Classic Div 3 L"]
+[Site "chess.com INT"]
+[Date "2024.05.10"]
+[Round "1.2"]
+[White "Kamsky,G"]
+[Black "Rasulov,Vu"]
+[Result "1-0"]
+[WhiteElo "2616"]
+[BlackElo "2560"]
+[ECO "D02"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 e6 4.e3 Bd6 5.Nbd2 Nc6 6.c3 Qe7 7.Bb5 Bd7 8.O-O O-O
+9.Bg5 h6 10.Bh4 e5 11.Bxc6 Bxc6 12.dxe5 Bxe5 13.Nxe5 Qxe5 14.Nf3 Qd6 15.Qd4 Ne4
+16.Rfd1 Rfe8 17.Rac1 a5 18.Bg3 Nxg3 19.hxg3 a4 20.c4 Red8 21.Qc3 Qc5 22.Qe5 Qa5
+23.Qh5 Rd6 24.c5 Rf6 25.Nd4 Qb4 26.Qe2 a3 27.b3 Bd7 28.Qd2 Qxd2 29.Rxd2 Rfa6
+30.Kf1 g5 31.Ke2 Kg7 32.Kd3 h5 33.Kc3 Rh8 34.b4 h4 35.gxh4 Rxh4 36.Kb3 Ba4+
+37.Kxa3 Bb5+ 38.Kb2 Bc4 39.Nf5+ Kf6 40.Nxh4 Rxa2+ 41.Kc3 Ra3+ 42.Kd4 gxh4
+43.e4 c6 44.Rc3 Ra4 45.Rb2 Ra1 46.Rf3+ Kg6 47.exd5 Bxd5 48.Rh3 Rd1+ 49.Kc3 Kg5
+50.g3 hxg3 51.Rxg3+ Kf4 52.Rd2 Rc1+ 53.Kb2 Rc4 54.Ka3 f5 55.Rg7 Rc3+ 56.Ka4 Rc1
+57.Ka5 Ra1+ 58.Kb6 Rb1 59.Rxd5 cxd5 60.b5 Rb2 61.Rxb7 Rxf2 62.Rd7 Ke5 63.c6 Rc2
+64.c7 f4 65.Kb7 f3 66.c8=Q Rxc8 67.Kxc8 d4 68.b6 f2 69.Rf7  1-0

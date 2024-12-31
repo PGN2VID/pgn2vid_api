@@ -1,0 +1,24 @@
+[Event "Amber Rapidplay"]
+[Site "Monte Carlo"]
+[Date "1999.03.16"]
+[Round "1"]
+[White "Van Wely, Loek"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteElo "2632"]
+[BlackElo "2726"]
+[ECO "D91"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 Ne4 6.Bf4 Nxc3 7.bxc3 c5 8.cxd5 Qxd5
+9.e3 cxd4 10.cxd4 Nc6 11.Be2 Qa5+ 12.Qd2 O-O 13.Qxa5 Nxa5 14.Bc7 b6 15.Kd2 Be6
+16.Rhc1 Rac8 17.Ba6 Bxa2 18.Bxc8 Nb3+ 19.Kd1 Rxc8 20.Rxa2 Nxc1 21.Rxa7 Nd3
+22.Ke2 Nc1+ 23.Kd2 Nb3+ 24.Kd3 b5 25.Rb7 Nc1+ 26.Kc2 Na2 27.Kb3 Nc1+ 28.Kc2 Na2
+29.Kd2 b4 30.Ba5 Ra8 31.Bxb4 Nxb4 32.Rxb4 Ra2+ 33.Ke1 Bf6 34.g4 e6 35.Rb7 h6
+36.h4 Ra5 37.Kf1 e5 38.dxe5 Bxe5 39.Kg2 Bf6 40.Rb4 Kg7 41.Kg3 Be5+ 42.Kh3 Bf6
+43.Re4 Rc5 44.Re8 Rd5 45.Kg3 Bd8 46.Kf4 Bc7+ 47.Ke4 Ra5 48.Re7 Ra4+ 49.Kd3 Bd8
+50.Rd7 Bf6 51.g5 hxg5 52.hxg5 Ba1 53.Nd2 Ra3+ 54.Ke2 Ra2 55.Kf3 Bc3 56.Ne4 Bb4
+57.Rb7 Ra4 58.Nf6 Bc3 59.Ne4 Bb4 60.Rd7 Ra5 61.Kg4 Re5 62.Rd4 Be7 63.f4 Re6
+64.Kf3 Kf8 65.Ra4 Rc6 66.Ra8+ Kg7 67.Ra7 Kf8 68.Nf2 Rc8 69.Ng4 Rb8 70.Ne5 Rc8
+71.Rb7 Re8 72.Nd7+ Kg7 73.e4 Ra8 74.e5 Ra6 75.Nf6 Bf8 76.Rb1 Ra3+ 77.Kg4 Be7
+78.Rh1 Bxf6 79.gxf6+ Kg8 80.Rb1 Ra8 81.Rb7 Re8 82.Kg5 Kf8 83.Kh6 Rc8 84.e6 fxe6
+85.Kxg6  1-0

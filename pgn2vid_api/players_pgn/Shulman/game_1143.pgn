@@ -1,0 +1,24 @@
+[Event "Chicago Open 2013"]
+[Site "Wheeling USA"]
+[Date "2013.05.23"]
+[Round "1.8"]
+[White "Shulman,Y"]
+[Black "Aaron,D"]
+[Result "0-1"]
+[WhiteElo "2570"]
+[BlackElo "2257"]
+[ECO "D46"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 Bd6 7.e4 dxe4 8.Nxe4 Be7
+9.O-O O-O 10.Qe2 b6 11.Bg5 Bb7 12.c5 Nxe4 13.Qxe4 g6 14.Bxe7 Qxe7 15.Rac1 Rfd8
+16.Qe3 bxc5 17.dxc5 Nxc5 18.Bxg6 hxg6 19.Rxc5 Rd5 20.Rfc1 Rxc5 21.Rxc5 Rd8
+22.g4 Rd1+ 23.Kg2 Ba6 24.b4 Bf1+ 25.Kg3 Qd6+ 26.Qe5 f6 27.Qxd6 Rxd6 28.Ne1 Bb5
+29.h4 Rd2 30.Rc2 Rd4 31.g5 Rxb4 32.Nf3 Kf7 33.Nh2 Rc4 34.Rd2 Rc3+ 35.f3 c5
+36.Ng4 fxg5 37.hxg5 Ke7 38.Ne5 Be8 39.Kf4 Ra3 40.Ke4 Ra4+ 41.Ke3 Ra3+ 42.Kf2 Rc3
+43.Kg3 Rc1 44.Nd3 Rg1+ 45.Kf4 c4 46.Ne5 Rc1 47.Rh2 c3 48.Ke3 Bb5 49.Nd3 Rd1
+50.Nc5 Rd5 51.Ne4 Rd3+ 52.Kf4 Ba4 53.Rh7+ Kd8 54.Nc5 Rd4+ 55.Ke3 c2 56.Nxe6+ Ke8
+57.Kxd4 c1=Q 58.Nc7+ Kf8 59.Ne6+ Kg8 60.Rg7+ Kh8 61.Rf7 Qb2+ 62.Kd5 Qxa2+
+63.Kd6 Qa3+ 64.Kc7 Qc3+ 65.Kd6 Qb4+ 66.Ke5 Bb3 67.Rf8+ Kh7 68.Rf7+ Kg8 69.Rg7+ Kh8
+70.Rxg6 Qc3+ 71.Kf4 Qd2+ 72.Kg4 Qg2+ 73.Kf4 Qd2+ 74.Kg4 Bxe6+ 75.Rxe6 Qd7
+76.Kf5 a5 77.Kf6 Qg7+ 78.Kf5 Qf7+ 79.Rf6 Qd7+ 80.Ke5 Kg7 81.f4 a4 82.f5 Qb5+
+83.Kd6 Qd3+ 84.Kc6 Qc3+ 85.Kb5 a3 86.Rd6 Qe5+ 87.Kc6 Qxf5  0-1

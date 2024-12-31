@@ -1,0 +1,22 @@
+[Event "Superbet Blitz 2022"]
+[Site "Warsaw POL"]
+[Date "2022.05.22"]
+[Round "3.5"]
+[White "Rapport,R"]
+[Black "Wojtaszek,R"]
+[Result "0-1"]
+[WhiteElo "2776"]
+[BlackElo "2696"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 d6 3.Bc4 e6 4.a3 Nf6 5.Ba2 Nc6 6.d3 Be7 7.f4 d5 8.e5 Nd7 9.Nf3 b6
+10.O-O Bb7 11.Ne2 O-O 12.c3 f5 13.d4 b5 14.Kh1 a5 15.Rg1 b4 16.g4 Nb6 17.Bb1 bxc3
+18.bxc3 Nc4 19.gxf5 exf5 20.Qf1 Bc8 21.Qh3 Kh8 22.Ng3 g6 23.Ra2 Rb8 24.Bd3 cxd4
+25.cxd4 Rb3 26.Qf1 Ba6 27.Qd1 Qb6 28.Be2 Rb1 29.Bd3 Rb3 30.Be2 Rb1 31.Bd3 Ne3
+32.Qe2 Bxd3 33.Qxd3 Nc4 34.Ne2 Rb3 35.Nc3 Nd8 36.Nd2 Nxd2 37.Bxd2 Ne6 38.Qh3 Rg8
+39.Nxd5 Rxh3 40.Nxb6 Nxd4 41.Nd5 Bc5 42.Rg3 Rxg3 43.hxg3 Rd8 44.Nf6 a4 45.Bb4 Bxb4
+46.axb4 Ra8 47.Kg2 a3 48.Kf2 Nb5 49.e6 Kg7 50.Nd5 Rd8 51.e7 Re8 52.Ke3 Kf7
+53.Kd3 Rc8 54.Re2 Ra8 55.Kc4 Nd6+ 56.Kc5 Ne4+ 57.Kc6 a2 58.Rxa2 Rxa2 59.b5 Rc2+
+60.Kd7 Nc5+ 61.Kd8 Ne6+ 62.Kd7 Ng7 63.b6 Rb2 64.Kc8 Ke6 65.Nc7+ Kxe7 66.b7 Ne6
+67.Nd5+ Kd6 68.Ne3 Nd4 69.Nc4+ Kc5 70.Nxb2 Nc6 71.Nd3+ Kb6 72.b8=Q+ Nxb8
+73.Kxb8 Kc6 74.Kc8  0-1

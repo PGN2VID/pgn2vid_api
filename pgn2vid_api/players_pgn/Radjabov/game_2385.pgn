@@ -1,0 +1,22 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "8"]
+[White "Radjabov,T"]
+[Black "Demchenko,A"]
+[Result "1-0"]
+[WhiteElo "2745"]
+[BlackElo "2608"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 d6 3.Nc3 Bf5 4.Bg5 Nbd7 5.e3 h6 6.Bh4 g5 7.Bg3 Bg7 8.Bd3 Bxd3
+9.Qxd3 Nh5 10.O-O-O c5 11.h4 g4 12.Nd2 Rc8 13.Bh2 cxd4 14.exd4 O-O 15.Rhe1 Ndf6
+16.Nde4 Qd7 17.Kb1 Rc6 18.Nxf6+ Nxf6 19.Ne4 Rfc8 20.Nxf6+ Bxf6 21.c3 Rb6
+22.Bf4 Qb5 23.Qxb5 Rxb5 24.Bxh6 Rh5 25.Bg5 Bxg5 26.hxg5 e6 27.g6 Rh2 28.gxf7+ Kxf7
+29.Rg1 Rf8 30.Kc2 Ke7 31.Rd2 Rh5 32.Kd1 b5 33.Re2 d5 34.Kd2 a5 35.f3 gxf3
+36.gxf3 Rxf3 37.Rg7+ Rf7 38.Rg8 b4 39.Ra8 bxc3+ 40.bxc3 Rf6 41.Ra7+ Kd6 42.Rxa5 Rh3
+43.Ra6+ Kd7 44.Rg2 Kc7 45.Rg7+ Kb8 46.Rb6+ Kc8 47.Kc2 Rf2+ 48.Kb3 Rhh2 49.Rc6+ Kb8
+50.Kb4 Rxa2 51.Kc5 Rhb2 52.Kd6 Rb7 53.Rg8+ Ka7 54.Kxe6 Ra5 55.Rcc8 Rb6+ 56.Ke5 Rab5
+57.Rgd8 Rh6 58.Ra8+ Kb6 59.Rab8+ Ka6 60.Rxb5 Kxb5 61.Rxd5+ Kb6 62.c4 Rh1
+63.Kd6 Rh6+ 64.Ke5 Rh5+ 65.Ke4 Rh3 66.Rb5+ Kc6 67.d5+ Kd6 68.Rb6+ Kd7 69.Kd4 Ra3
+70.Rb7+ Kd6 71.c5+  1-0

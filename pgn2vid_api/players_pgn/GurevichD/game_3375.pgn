@@ -1,0 +1,21 @@
+[Event "Titled Tue 12th Mar Early"]
+[Site "chess.com INT"]
+[Date "2024.03.12"]
+[Round "3"]
+[White "Gurevich,D"]
+[Black "George Samir,David"]
+[Result "1-0"]
+[WhiteElo "2357"]
+[BlackElo "2130"]
+[ECO "E04"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 c5 6.O-O Nc6 7.dxc5 Qxd1 8.Rxd1 Bxc5
+9.Nbd2 c3 10.bxc3 O-O 11.Ng5 Rd8 12.Bb2 Bd7 13.Nde4 Nxe4 14.Nxe4 Be7 15.Nd6 Rab8
+16.c4 Na5 17.Be5 f6 18.Bc3 Nc6 19.c5 b6 20.cxb6 Rxb6 21.Nc4 Ra6 22.Rd2 Kf7
+23.Nd6+ Bxd6 24.Rxd6 Be8 25.Rxd8 Nxd8 26.a3 Bc6 27.f3 Nb7 28.e4 Nc5 29.Bf1 Ra4
+30.Bb4 Nd7 31.Rc1 Ne5 32.f4 Nf3+ 33.Kf2 Bxe4 34.Bb5 Rxb4 35.axb4 Nd4 36.Rc7+ Kf8
+37.Ba4 a6 38.Ke3 Nf5+ 39.Kxe4 Nd6+ 40.Kd4 Nb5+ 41.Bxb5 axb5 42.Kc5 e5 43.fxe5 fxe5
+44.Kd5 e4 45.Kxe4 g5 46.g4 h6 47.Kf5 Ke8 48.Ra7 Kd8 49.Kg6 Kc8 50.Rh7 Kb8
+51.Kxh6 Kc8 52.Kxg5 Kd8 53.Kf5 Ke8 54.Ke5 Kf8 55.Kd5 Kg8 56.Ra7 Kh8 57.Kc5 Kg8
+58.Kxb5 Kf8 59.Kc5 Ke8 60.Kd5 Kd8 61.Ke5 Kc8 62.Kf5 Kb8 63.Rh7 Ka8 64.h4 Kb8
+65.h5 Kc8 66.h6 Kd8 67.Rg7 Ke8 68.g5 Kf8 69.b5 Ke8 70.b6 Kd8 71.b7 Ke8 72.b8=Q+  1-0

@@ -1,0 +1,15 @@
+[Event "Manhattan March Int"]
+[Site "New York"]
+[Date "1999.03.05"]
+[Round "1"]
+[White "Waitzkin, Joshua"]
+[Black "Ady, Jonathan James"]
+[Result "1-0"]
+[WhiteElo "2467"]
+[BlackElo "2412"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Rg1 g6 7.g4 Bg7 8.g5 Nh5
+9.Be3 O-O 10.Qd2 Nc6 11.O-O-O Nxd4 12.Bxd4 Be6 13.Nd5 Rc8 14.Kb1 b5 15.Bb6 Qd7
+16.Be2 Qb7 17.Be3 b4 18.Bxh5 gxh5 19.f4 Bg4 20.Rc1 Rc4 21.Qd3 Rfc8 22.Nb6 Be6
+23.f5 Rc3 24.bxc3 Bxa2+ 25.Kxa2 Rxc3 26.f6 b3+ 27.Kb2 Rxd3 28.cxd3  1-0

@@ -1,0 +1,19 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "5"]
+[White "Radjabov,T"]
+[Black "Kravtsiv,M"]
+[Result "1-0"]
+[WhiteElo "2745"]
+[BlackElo "2598"]
+[ECO "D35"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.cxd5 exd5 5.Bg5 c6 6.e3 Be7 7.Bd3 Nbd7 8.Qc2 Nh5
+9.Bxe7 Qxe7 10.Nf3 g6 11.O-O-O Nb6 12.h3 Be6 13.Kb1 Ng7 14.Ka1 O-O-O 15.Na4 Bf5
+16.Nxb6+ axb6 17.Qb3 Kc7 18.Rd2 Ra8 19.Rc1 Ra5 20.g4 Bxd3 21.Rxd3 Rha8 22.a3 f6
+23.Kb1 Ne8 24.Nd2 Nd6 25.f3 Kb8 26.Qc2 Ra4 27.e4 dxe4 28.fxe4 Nxe4 29.Nc4 Qd8
+30.Qh2+ Ka7 31.b3 Ra6 32.Qf4 Qd5 33.Ne3 Qe6 34.d5 cxd5 35.Nxd5 Nc5 36.Nc7 Qc6
+37.Rxc5 bxc5 38.Nxa8 Qh1+ 39.Qc1 Qxc1+ 40.Kxc1 Kxa8 41.Kb2 Re6 42.Rd5 Re2+
+43.Kc3 Re3+ 44.Kc4 Rxh3 45.Rd6 Rf3 46.Kxc5 Rxb3 47.a4 Rc3+ 48.Kb5 Rc6 49.Rd7 h6
+50.Rh7 f5 51.gxf5 gxf5 52.Rf7 h5 53.Rh7 Rh6 54.Rxh6  1-0

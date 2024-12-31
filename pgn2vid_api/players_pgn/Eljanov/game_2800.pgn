@@ -1,0 +1,22 @@
+[Event "AI Cup Div 2 L"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "1.2"]
+[White "Eljanov,P"]
+[Black "Gledura,B"]
+[Result "1-0"]
+[WhiteElo "2695"]
+[BlackElo "2633"]
+[ECO "A06"]
+
+1.Nf3 d5 2.e3 Nf6 3.b3 Bf5 4.Be2 h6 5.Ba3 Nbd7 6.c4 e6 7.Bxf8 Nxf8 8.Nc3 c6
+9.O-O N8d7 10.d4 O-O 11.Qc1 Qe7 12.Qb2 a5 13.a3 Bg4 14.h3 Bh5 15.Rac1 Ne4
+16.Rfe1 Nxc3 17.Rxc3 Nf6 18.Ne5 Bxe2 19.Rxe2 Nd7 20.Nd3 Rfd8 21.Rc1 Rac8
+22.c5 Re8 23.f4 Rb8 24.Qc3 b6 25.b4 axb4 26.axb4 bxc5 27.bxc5 Nf6 28.Ne5 Qc7
+29.Ra1 Ra8 30.Rea2 Qb7 31.Qc2 Rxa2 32.Qxa2 Qb4 33.Nxc6 Qc3 34.Qa3 Qd2 35.Qc1 Qd3
+36.Ne5 Qe2 37.Qe1 Qb2 38.Rb1 Qa2 39.c6 Rc8 40.Qc1 Ne4 41.Rb2 Qa3 42.Rc2 Qxc1+
+43.Rxc1 f6 44.Nd3 Kf7 45.Nb4 Nd6 46.Ra1 Rb8 47.Ra7+ Kg6 48.Rd7 Rxb4 49.Rxd6 Kf5
+50.Kf2 h5 51.Rd7 g5 52.fxg5 fxg5 53.c7 Rc4 54.Ke2 g4 55.h4 e5 56.Kd3 Ke6
+57.Rh7 e4+ 58.Ke2 Rc2+ 59.Kf1 g3 60.Rg7 Kf6 61.Rxg3 Rxc7 62.Rg5 Rc3 63.Kf2 Rc2+
+64.Kg3 Re2 65.Rxd5 Rxe3+ 66.Kf4 Re2 67.g3 Kg6 68.Rg5+ Kh6 69.Re5 Kg6 70.Rg5+ Kh6
+71.Re5 Kg6 72.Rxe4 Rf2+ 73.Ke3 Rf1 74.Re5 Rg1 75.Rg5+  1-0

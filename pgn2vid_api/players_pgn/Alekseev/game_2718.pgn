@@ -1,0 +1,15 @@
+[Event "AI Cup Div 3 W"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "5.2"]
+[White "Mamedov,Rau"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2640"]
+[BlackElo "2573"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Nbd2 O-O 7.O-O Bb6 8.Bb3 Ne7
+9.Re1 c6 10.Nf1 Ng6 11.Ng3 h6 12.h3 d5 13.exd5 Nxd5 14.d4 exd4 15.Nxd4 Bc7
+16.Qh5 Ndf4 17.Bxf4 Nxf4 18.Qf3 Qg5 19.Rad1 h5 20.Nde2 Nxe2+ 21.Rxe2 Bxg3
+22.Bxf7+ Rxf7 23.Re8+ Kh7 24.Qxf7 Bxh3 25.fxg3 Rxe8 26.Qxe8  1-0

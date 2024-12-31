@@ -1,0 +1,23 @@
+[Event "Titled Tue 8th Feb Early"]
+[Site "chess.com INT"]
+[Date "2022.02.08"]
+[Round "4"]
+[White "Kamsky,G"]
+[Black "Lopez Mulet,Inigo"]
+[Result "1-0"]
+[WhiteElo "2657"]
+[BlackElo "2387"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.c3 c5 4.d5 e5 5.Nf3 d6 6.a4 Ne7 7.h4 h6 8.h5 g5 9.Bd3 Nd7
+10.Nh2 Nf6 11.g4 O-O 12.Na3 a6 13.f3 Ne8 14.Nf1 Nc7 15.a5 Ne8 16.Nc4 Rb8
+17.Nb6 Nf6 18.Ne3 Nd7 19.Nxc8 Qxc8 20.Nc4 Qc7 21.O-O Rfc8 22.Kg2 Bf6 23.Be3 Kf8
+24.Qe2 Ng8 25.Rfb1 Be7 26.b4 cxb4 27.cxb4 Ngf6 28.Rc1 Qd8 29.Rc2 Rc7 30.Rac1 Rbc8
+31.Bf2 Ne8 32.Ne3 Rxc2 33.Rxc2 Ng7 34.Rxc8 Qxc8 35.Qc2 Qxc2 36.Bxc2 Bd8 37.Nc4 Bc7
+38.Ba4 Ke7 39.Kf1 Ne8 40.Ke2 Nef6 41.Ne3 Ng8 42.Nf5+ Kd8 43.Kd3 b5 44.axb6 Bxb6
+45.Be1 Kc7 46.Bb3 Ba7 47.Bc4 Nb8 48.Kc2 Bb6 49.Kb3 Ba7 50.Ka4 Bb6 51.Bd2 Ba7
+52.Nxh6 Nxh6 53.Bxg5 Ng8 54.h6 Nxh6 55.Bxh6 Bf2 56.Bg5 Bg3 57.Be3 Be1 58.g5 Kb7
+59.b5 axb5+ 60.Bxb5 Kc7 61.f4 Nd7 62.Bxd7 Kxd7 63.f5 Bh4 64.Kb5 Bg3 65.Kc4 Bh4
+66.Kd3 Ke7 67.Ke2 f6 68.g6 Kf8 69.Kd3 Be1 70.Kc4 Ba5 71.Kb5 Bd8 72.Kc6 Be7
+73.Kd7 Kg7 74.Kxe7 Kh8 75.Kxd6 Kg7 76.Ke6 Kh8 77.d6 Kg7 78.d7 Kh8 79.d8=Q+ Kg7
+80.Qxf6+ Kg8 81.Qf7+ Kh8 82.g7+ Kh7 83.g8=B+ Kh8 84.Qh7+  1-0

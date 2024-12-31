@@ -1,0 +1,14 @@
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.08.30"]
+[Round "1.21"]
+[White "Xiong,Jeffery"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteElo "2652"]
+[BlackElo "2795"]
+[ECO "A00"]
+
+1.b4 Nf6 2.Bb2 g6 3.Bxf6 exf6 4.a3 Bg7 5.d4 O-O 6.e3 d5 7.c4 a5 8.b5 c5 9.bxc6 bxc6
+10.cxd5 Qxd5 11.Nc3 Qd6 12.Nf3 f5 13.Be2 c5 14.Nb5 Qe7 15.O-O cxd4 16.Nfxd4 Bb7
+17.Bf3 Na6 18.Bxb7 Qxb7 19.Qf3 Qxf3 20.gxf3 Rfc8 21.Rac1 Bf8 22.Nc6 Nc5 23.Nbd4 Ra6  0-1

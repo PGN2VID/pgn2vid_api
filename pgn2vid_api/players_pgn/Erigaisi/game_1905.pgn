@@ -1,0 +1,20 @@
+[Event "chess.com SpeedChess 2022"]
+[Site "chess.com INT"]
+[Date "2022.11.23"]
+[Round "1.37"]
+[White "Caruana,F"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2766"]
+[BlackElo "2718"]
+[ECO "A73"]
+
+1.d4 e6 2.Nf3 Nf6 3.c4 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.e4 Bg7 8.Be2 O-O
+9.O-O Bg4 10.h3 Bxf3 11.Bxf3 Na6 12.Re1 Nc7 13.a4 Re8 14.Bf4 h6 15.Qd2 g5
+16.Bh2 Nh7 17.Bg4 Be5 18.Bxe5 Rxe5 19.Bf5 Nf8 20.Ne2 Nxd5 21.exd5 Rxf5 22.Ng3 Rf4
+23.Re3 Ng6 24.Rae1 Ne5 25.Qc2 Qf6 26.Ne4 Qg6 27.Qd1 g4 28.hxg4 Rxg4 29.Rg3 h5
+30.Rxg4 hxg4 31.Ng3 Kg7 32.Qd2 Rh8 33.Qf4 Kf8 34.Rd1 Qc2 35.Re1 Qh7 36.Qf6 Qh2+
+37.Kf1 Rh6 38.Qd8+ Kg7 39.Nf5+ Kh7 40.Nxh6 Qh1+ 41.Ke2 Qxg2 42.Qf6 Qe4+ 43.Kf1 Qd3+
+44.Kg1 Nf3+ 45.Kh1 Nxe1 46.Qxf7+ Kxh6 47.Qf8+ Kg5 48.Qg7+ Qg6 49.Qe7+ Qf6
+50.Qxe1 Qf3+ 51.Kg1 Qxd5 52.Qe7+ Kf5 53.Qd7+ Kf4 54.a5 a6 55.Kh2 Kf3 56.Kg1 Qd1+
+57.Kh2 Kxf2 58.Qxb7 g3+ 59.Kh3 Qh5+  0-1

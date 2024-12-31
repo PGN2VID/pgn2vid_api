@@ -1,0 +1,23 @@
+[Event "Chess.com Rapid Wk2 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.19"]
+[Round "2"]
+[White "Paravyan,D"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2617"]
+[BlackElo "2678"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h6 5.Bd3 Bxd3 6.Qxd3 e6 7.h5 c5 8.c3 Ne7 9.Ne2 Nec6
+10.Nd2 Qa5 11.O-O Qa6 12.Qxa6 Nxa6 13.Nf3 Be7 14.Be3 cxd4 15.cxd4 Kd7 16.Rfc1 Rhc8
+17.Ne1 Na5 18.Bf4 b6 19.Nd3 Nb4 20.Nxb4 Bxb4 21.g4 Nc4 22.Rc2 Rc6 23.Rcc1 Nxb2
+24.Rab1 Ba3 25.Rxc6 Kxc6 26.Bc1 Nc4 27.Bxa3 Nxa3 28.Rb3 Nc4 29.Rf3 Rf8 30.Nf4 Nd2
+31.Rd3 Ne4 32.Kg2 Kd7 33.Ra3 a5 34.Rb3 Rb8 35.a4 Kc6 36.Nd3 Nd2 37.Rc3+ Kd7
+38.Nb2 b5 39.axb5 Rxb5 40.Na4 Ne4 41.Ra3 Kc6 42.Ra2 Rb4 43.f3 Kb5 44.fxe4 Rxa4
+45.Rf2 Rxd4 46.Rxf7 a4 47.exd5 Rxd5 48.Rxg7 a3 49.g5 hxg5 50.h6 Rd4 51.h7 Rh4
+52.Ra7 Kb4 53.Kg3 Kb3 54.Rb7+ Kc2 55.Ra7 Kb2 56.Rb7+ Ka1 57.Kf3 a2 58.Kg3 Rh1
+59.Kg4 Rg1+ 60.Kf3 Rh1 61.Kg4 Rg1+ 62.Kh5 g4 63.Kg5 Rh1 64.Kxg4 Rh2 65.Kg5 Rh1
+66.Kg6 Rh2 67.Kf6 Rh1 68.Kxe6 Rh6+ 69.Kf5 Rh5+ 70.Kf6 Rh4 71.Ra7 Kb2 72.e6 a1=Q
+73.Rxa1 Kxa1 74.e7 Rxh7 75.e8=Q Rb7 76.Qe5+ Rb2 77.Qa5+ Kb1 78.Qe1+ Ka2 79.Qe6+ Kb1
+80.Ke5 Rc2 81.Kd6 Rd2+ 82.Qd5 Rxd5+ 83.Kxd5  1/2-1/2

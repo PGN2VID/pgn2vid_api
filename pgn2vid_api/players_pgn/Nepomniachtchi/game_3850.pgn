@@ -1,0 +1,21 @@
+[Event "FIDE Candidates 2024"]
+[Site "Toronto CAN"]
+[Date "2024.04.17"]
+[Round "11.2"]
+[White "Vidit,S"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteElo "2727"]
+[BlackElo "2758"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nc4 Nxe4 5.Qe2 Qe7 6.Nc3 Nxc3 7.bxc3 Bg4 8.Qxe7+ Bxe7
+9.Rb1 b6 10.d4 Be6 11.a4 O-O 12.Ne3 Bg5 13.c4 Re8 14.h4 Bf6 15.c3 c5 16.Bd3 Nc6
+17.d5 Ne5 18.Bxh7+ Kxh7 19.dxe6 fxe6 20.Ke2 Rad8 21.g4 g6 22.g5 Bg7 23.a5 bxa5
+24.Rb7 Rd7 25.Rxd7 Nxd7 26.Rd1 Bf8 27.Ng4 Rb8 28.Bf4 Rb2+ 29.Kf3 e5 30.Be3 Nb6
+31.Nf6+ Kh8 32.Ke4 a4 33.Ra1 Rb3 34.Kd3 a3 35.Bc1 a5 36.Bxa3 d5 37.Kc2 dxc4
+38.Ne4 Rb5 39.Rd1 Be7 40.Re1 Kg7 41.Nd2 Bd6 42.Ne4 Be7 43.Ng3 Rb3 44.Bc1 Nd5
+45.Ne4 Kf7 46.Bd2 a4 47.Ra1 Nb6 48.Be3 Rb5 49.Nd2 Ra5 50.Kb2 Ke6 51.Ka3 Rb5
+52.Rc1 Kf5 53.f3 Nd5 54.Kxa4 Rb8 55.Nxc4 e4 56.fxe4+ Kxe4 57.Bf2 Kd3 58.Bg3 Nxc3+
+59.Ka3 Rb4 60.Nb2+ Kd2 61.Rf1 c4 62.Rf2+ Ne2 63.Be5 c3 64.Rf7 Rb7+ 65.Ka4 c2
+66.Nc4+ Kd3 67.Nb2+ Ke4  0-1

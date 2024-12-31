@@ -1,0 +1,19 @@
+[Event "AI Cup Div 1 L"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "2.1"]
+[White "Mamedyarov,S"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteElo "2734"]
+[BlackElo "2760"]
+[ECO "A04"]
+
+1.Nf3 c5 2.e3 Nf6 3.b3 g6 4.Bb2 Bg7 5.c4 O-O 6.Be2 Nc6 7.O-O d5 8.cxd5 Qxd5
+9.Nc3 Qf5 10.d4 Rd8 11.Re1 cxd4 12.exd4 Qf4 13.g3 Qd6 14.Nb5 Qb8 15.Rc1 a6
+16.Na3 Bg4 17.Nc4 Nd5 18.Qd2 e6 19.Nfe5 Bxe2 20.Nxc6 bxc6 21.Qxe2 a5 22.Ne5 Bxe5
+23.dxe5 a4 24.Qf3 Nb4 25.Rcd1 Rxd1 26.Rxd1 Nxa2 27.Qf6 axb3 28.Rd7 Qe8 29.Re7 Qf8
+30.Rb7 Nb4 31.Qf3 Rb8 32.Rxb8 Qxb8 33.Qxb3 c5 34.Qc4 Qb6 35.Ba3 Qa5 36.Qc3 Qb5
+37.Bc1 Nd3 38.Bh6 Qb1+ 39.Kg2 Ne1+ 40.Kf1 Nf3+ 41.Kg2 Ne1+ 42.Kf1 Qd3+ 43.Qxd3 Nxd3
+44.f4 f6 45.Ke2 Nb4 46.exf6 Kf7 47.Bg5 Nd5 48.Kd3 Nxf6 49.Bxf6 Kxf6 50.Kc4 e5
+51.fxe5+ Kxe5 52.Kxc5 Ke4 53.Kd6 Kf3 54.Ke5 Kg2 55.Kf6 Kxh2 56.g4 Kh3 57.Kg5 Kg3  0-1

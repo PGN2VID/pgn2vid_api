@@ -1,0 +1,15 @@
+[Event "USA tour sim"]
+[Site "USA"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "NN"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bb4+ 5.Bd2 Qe7+ 6.Ne2 Bxd2+ 7.Nxd2 Nf6
+8.O-O Be6 9.c3 Nbd7 10.Nf3 O-O 11.Ne5 Rfe8 12.Qc2 Nf8 13.f4 Ng4 14.f5 Ne3
+15.fxe6 Nxc2 16.exf7+ Kh8 17.fxe8=Q Rxe8 18.Bxc2 c6 19.Rf7 Qg5 20.Raf1 Kg8
+21.Nf4 Qd8 22.Nh5 Ne6 23.Nf6+ Kh8 24.Rd7  1-0

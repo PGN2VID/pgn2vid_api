@@ -1,0 +1,17 @@
+[Event "The Hague AEGON sim2"]
+[Site "The Hague"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Timman, Jan H"]
+[Black "Comp Fritz"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo ""]
+[ECO "D03"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bg5 Ne4 4.Bh4 Qd6 5.c3 Qb6 6.Qc1 Bf5 7.e3 e6 8.Nbd2 Bd6
+9.Nxe4 Bxe4 10.Nd2 Bg6 11.Be2 O-O 12.O-O Nd7 13.b4 Rfe8 14.a3 a5 15.Nb3 axb4
+16.axb4 c6 17.Bg3 Bxg3 18.hxg3 Qc7 19.Qb2 b5 20.Rxa8 Rxa8 21.Ra1 Ra7 22.Ra5 Rxa5
+23.bxa5 Nb8 24.Qa3 Na6 25.Nc5 Qd6 26.Qa2 Nxc5 27.dxc5 Qxc5 28.a6 Qa7 29.Qa5 h6
+30.Qd8+ Kh7 31.Qc8 Qc5 32.Qb8 Qxc3 33.a7 Qe1+ 34.Bf1 Bd3 35.a8=Q Qxf1+ 36.Kh2 Be4
+37.f3 Bxf3 38.Qa2 Be4 39.Qf4 Qxf4 40.gxf4  1-0

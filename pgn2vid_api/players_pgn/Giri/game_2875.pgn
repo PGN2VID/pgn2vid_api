@@ -1,0 +1,14 @@
+[Event "Chess.com RCC Wk13 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.05.07"]
+[Round "3"]
+[White "Fedoseev,Vl3"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteElo "2701"]
+[BlackElo "2761"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.Nbd2 Be6 7.O-O Bd6 8.Ng5 Bg4
+9.f3 Bc8 10.f4 exf4 11.Nc4 Bc5+ 12.Kh1 h6 13.Nf3 g5 14.b3 Be6 15.Bb2 Qe7
+16.g3 O-O-O 17.gxf4 gxf4 18.Nfe5 Nxe4 19.Qe1 Ng5 20.h4 Bd5+ 21.Kh2 Qe6  0-1

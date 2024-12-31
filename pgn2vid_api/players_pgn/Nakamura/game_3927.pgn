@@ -1,0 +1,21 @@
+[Event "Chess.com Bullet Open KO"]
+[Site "chess.com INT"]
+[Date "2020.12.20"]
+[Round "2.3"]
+[White "Artemiev,V"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2711"]
+[BlackElo "2736"]
+[ECO "A01"]
+
+1.b3 Nf6 2.Bb2 d6 3.Nf3 e5 4.c4 Nbd7 5.Nc3 g6 6.g3 Bg7 7.Bg2 O-O 8.O-O Re8
+9.d3 c6 10.Nd2 Nf8 11.Nde4 Nxe4 12.dxe4 Ne6 13.Qd2 Qe7 14.Rad1 Rd8 15.e3 a5
+16.Na4 Qc7 17.f4 b5 18.cxb5 cxb5 19.Nc3 exf4 20.Nd5 Qa7 21.gxf4 Bb7 22.Bxg7 Nxg7
+23.Nf6+ Kh8 24.Qf2 Ne8 25.Ng4 Bc8 26.Qb2+ Ng7 27.Nf6 Be6 28.f5 Bc8 29.fxg6 fxg6
+30.e5 d5 31.Bxd5 Qxe3+ 32.Qf2 Qxf2+ 33.Rxf2 Ra7 34.Bf3 Rxd1+ 35.Bxd1 Nf5
+36.Rd2 Be6 37.Rd8+ Kg7 38.Be2 Kf7 39.Bxb5 Rc7 40.Be8+ Ke7 41.Ra8 Rc1+ 42.Kf2 Rc2+
+43.Ke1 Rxa2 44.Ra7+ Kd8 45.Bd7 Nd4 46.Bxe6 Nxe6 47.Rd7+ Kc8 48.Rxh7 Nf4 49.Ne4 Nd3+
+50.Kd1 Nxe5 51.Nd6+ Kd8 52.Rb7 Rxh2 53.Nf7+ Kc8 54.Nd6+ Kd8 55.Nf7+ Nxf7
+56.Rxf7 Rh3 57.Ra7 Rh5 58.Ra6 Rd5+ 59.Ke2 Rg5 60.Ke3 Re5+ 61.Kf4 Rb5 62.Rxg6 Rxb3
+63.Ke4 Rb4+ 64.Kd3 Rb7 65.Kc3 Rd7 66.Rd6 Rxd6  0-1

@@ -1,0 +1,17 @@
+[Event "Isolated Queens Swiss II"]
+[Site "chess.com INT"]
+[Date "2020.05.02"]
+[Round "5"]
+[White "Abrahamyan,T"]
+[Black "Kosteniuk,A"]
+[Result "1-0"]
+[WhiteElo "2358"]
+[BlackElo "2471"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+
+9.Ne2 h5 10.Be3 Nd7 11.O-O-O Nf8 12.c4 Be6 13.Nc3 Rc8 14.Kb1 Ng6 15.Rhe1 b5
+16.cxb5 cxb5 17.Bxb5 Re7 18.Qa4 Rec7 19.Ne4 f5 20.d5 fxe4 21.dxe6 Qe7 22.Bd7 Rb8
+23.Qxe4 Be5 24.Bd4 Bxd4 25.Rxd4 Kh7 26.Qf5 Rc5 27.Qxf7 Qg5 28.e7 Re5 29.Rxe5 Qxe5
+30.Qd5 Qe1+ 31.Rd1 Qe2 32.b3 Nxe7 33.Qd3+ Qxd3+ 34.Rxd3 Kh6 35.f3 Ng6 36.Rd6 Kg5
+37.Rd5+ Kh6 38.Bf5 Nf4 39.Rd6+ Kg5 40.Be4 Ne2 41.g3 h4 42.Rg6+ Kh5 43.g4+  1-0

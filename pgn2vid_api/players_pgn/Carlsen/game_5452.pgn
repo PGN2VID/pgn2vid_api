@@ -1,0 +1,18 @@
+[Event "AI Cup Div 1 W"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "2.3"]
+[White "Carlsen,M"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteElo "2839"]
+[BlackElo "2771"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 c6
+9.Re1 Bf5 10.Nc3 Nxc3 11.bxc3 Bxd3 12.Qxd3 dxc4 13.Qxc4 Nd7 14.Qb3 Qc7 15.c4 Rfe8
+16.g3 b6 17.Bb2 Bf8 18.a4 a6 19.Kg2 h6 20.Rxe8 Rxe8 21.Bc1 Rb8 22.Qc2 Re8
+23.a5 b5 24.cxb5 axb5 25.Bf4 Bd6 26.Bxd6 Qxd6 27.a6 Ra8 28.a7 Qc7 29.Ra6 Nf8
+30.Qc5 Ne6 31.Rxc6 Qb7 32.Qb6 Rxa7 33.d5 Nf8 34.Qc5 Nd7 35.Rc8+ Kh7 36.Qc2+ g6
+37.Qc3 Nf6 38.d6 b4 39.Qc7 g5 40.Qxb7 Rxb7 41.Rc7 Rb5 42.Rxf7+ Kg6 43.d7 Rd5
+44.Ne5+ Kf5 45.Ng4 Kxg4 46.Rxf6 Kh5 47.h3  1-0

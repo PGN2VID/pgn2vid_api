@@ -1,0 +1,15 @@
+[Event "Man-Machine Match"]
+[Site "Potomac USA"]
+[Date "2007.07.07"]
+[Round "4"]
+[White "Ehlvest,J"]
+[Black "RYBKA"]
+[Result "0-1"]
+[WhiteElo "2629"]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6 4.d4 Nf6 5.Bg5 h6 6.Bh4 Qb6 7.Rb1 Na6 8.Bc4 Bf5
+9.Nf3 Nb4 10.Bb3 O-O-O 11.O-O e6 12.Qe2 g5 13.Bg3 Nc6 14.Nb5 a6 15.Bxc7 Qxb5
+16.c4 Qb4 17.Bxd8 Nxd8 18.Rbc1 Bg7 19.Rfd1 Nd7 20.c5 Nc6 21.d5 exd5 22.Rxd5 Be6
+23.Rd6 Nxc5 24.Ne5 Bxe5 25.Rxc6+ bxc6 26.Qxe5 Re8 27.g3 Bd7  0-1

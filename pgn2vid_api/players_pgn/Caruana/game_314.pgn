@@ -1,0 +1,14 @@
+[Event "Open"]
+[Site "Winterthur SUI"]
+[Date "2007.10.12"]
+[Round "8"]
+[White "Kuhn,T"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2180"]
+[BlackElo "2594"]
+[ECO "D02"]
+
+1.d4 e6 2.Nf3 c5 3.c3 d5 4.Bg5 f6 5.Bf4 Nc6 6.e3 Nge7 7.Bd3 g5 8.Bxg5 fxg5
+9.Nxg5 Qb6 10.Qh5+ Kd7 11.b4 cxd4 12.exd4 Nxb4 13.cxb4 Qxd4 14.Bb5+ Kc7 15.O-O Qxa1
+16.Qe8 Nc6 17.Nf7 Rg8 18.Rc1 Qb2 19.Rf1 Qg7  0-1

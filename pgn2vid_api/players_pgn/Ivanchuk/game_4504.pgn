@@ -1,0 +1,24 @@
+[Event "Chess.com Rapid Wk2 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.02.19"]
+[Round "4"]
+[White "Matlakov,M"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2674"]
+[BlackElo "2678"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nc3 d6 7.a3 h6 8.h3 Re8
+9.Re1 Bf8 10.Be3 Be6 11.Bxe6 Rxe6 12.d4 Re8 13.Qd3 exd4 14.Nxd4 Ne5 15.Qb5 Qd7
+16.Qxd7 Nexd7 17.Ndb5 Rec8 18.Nxa7 Rcb8 19.Nab5 c6 20.Nd4 Nb6 21.Rad1 d5
+22.Nf5 Nc4 23.Bc1 dxe4 24.Nxe4 Nd5 25.Nd2 Ncb6 26.Nf3 h5 27.Ne5 Re8 28.Kf1 Re6
+29.Nd3 Rf6 30.Ne3 Nc7 31.g3 Rd6 32.Nf4 g6 33.h4 Rxd1 34.Rxd1 Bg7 35.Nd3 Na4
+36.Nc4 Nd5 37.Re1 Kf8 38.Nce5 Kg8 39.c4 Nc7 40.b3 Nb6 41.Nc5 Ra7 42.a4 Bf8
+43.Be3 Bxc5 44.Bxc5 Ra6 45.a5 Nc8 46.b4 Ne6 47.Nd7 Ra8 48.Rd1 Kg7 49.Nb6 Rb8
+50.Rd7 Kf6 51.Ke2 Nxc5 52.bxc5 Ne7 53.Kf3 Nf5 54.Kf4 Ng7 55.Ke3 Ne6 56.Rd6 Kg7
+57.a6 bxa6 58.Rxc6 Nxc5 59.Rxc5 Rxb6 60.Ra5 Rb3+ 61.Kd4 Rf3 62.Ra2 Kf8 63.Kd5 Ke7
+64.Kc6 a5 65.c5 a4 66.Kc7 a3 67.c6 Rc3 68.Re2+ Kf8 69.Kd6 Rd3+ 70.Kc5 Rc3+
+71.Kb5 Rc1 72.Ra2 Rc3 73.Kb6 Rb3+ 74.Kc7 Rc3 75.Re2 Rc1 76.Kd7 Rd1+ 77.Kc8 Rc1
+78.c7 Rc3 79.Kb7 Rb3+ 80.Kc6 Rc3+ 81.Kd6 Rd3+ 82.Kc5 Rc3+ 83.Kb6 Rb3+ 84.Ka7 Rc3
+85.Kb8 Rb3+ 86.Kc8 Rc3 87.Rd2 Ke7 88.Ra2 Ke8 89.Rd2 Ke7 90.Kb8  1-0

@@ -1,0 +1,23 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "13"]
+[White "Chigorin, Mikhail"]
+[Black "Mieses, Jacques"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B45"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Ndb5 Bb4 7.a3 Bxc3+ 8.Nxc3 d5
+9.exd5 exd5 10.Bd3 Bg4 11.f3 Bh5 12.O-O O-O 13.Bg5 Qb6+ 14.Kh1 Ne7 15.Re1 Qd6
+16.Qd2 Bg6 17.Nb5 Qd7 18.Nd4 Nc6 19.Bxf6 gxf6 20.Ne2 Ne5 21.Ng3 Nxd3 22.cxd3 Qb5
+23.Rad1 Rac8 24.Rf1 Rfe8 25.f4 f5 26.Rc1 Rc6 27.Ne2 Rec8 28.Nc3 Qb3 29.d4 b5
+30.Ne2 Rc2 31.Qb4 Qe3 32.Rxc2 Rxc2 33.Nc3 Qd2 34.Rg1 Rxb2 35.Qa5 Kg7 36.Qc7 Qxd4
+37.Nxd5 Rd2 38.Nc3 a6 39.h3 Rd3 40.Rc1 Bh5 41.Kh2 Re3 42.Nb1 Rf3 43.Qe5+ Qxe5
+44.fxe5 Rb3 45.Kg1 Be2 46.Kf2 Bd3 47.Nd2 Rxa3 48.Rc7 Kg6 49.Rc6+ Kg5 50.g3 Be4
+51.Rc8 b4 52.Rg8+ Kh6 53.Nc4 Rf3+ 54.Ke2 f4 55.gxf4 Rxf4 56.Nd6 Bg6 57.Ra8 b3
+58.Rb8 Bc2 59.Ke3 Rf1 60.Ke2 Ra1 61.Nxf7+ Kg7 62.Nd6 Ra2 63.Kd2 Bf5+ 64.Kc3 Be6
+65.Rb6 Rc2+ 66.Kd3 a5 67.Ne8+ Kf7 68.Nd6+ Kf8 69.Ne4 Bc4+ 70.Kd4 b2 71.Nc3 Bf7
+72.Rb8+ Ke7 73.Rb7+ Ke8 74.h4 h5 75.Rb6 Kd7 76.Kd3 Bg6+ 77.Kd4 Rxc3 78.Rxb2 Rh3
+79.Rb6 Rxh4+ 80.Kc5 Bf7 81.Ra6 Re4 82.Ra7+ Ke6 83.Ra6+ Kxe5 84.Rxa5 h4  0-1

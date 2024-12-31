@@ -1,0 +1,17 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "8"]
+[White "Kamsky,G"]
+[Black "Aditya,Mittal"]
+[Result "1-0"]
+[WhiteElo "2641"]
+[BlackElo "2572"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Rd1+ Ke8 10.Nc3 Be7 11.h3 Nh4 12.Nxh4 Bxh4 13.Bf4 Bf5 14.Rd2 Rd8 15.Rad1 Rxd2
+16.Rxd2 h5 17.Ne2 c5 18.c4 Be7 19.Nc3 c6 20.f3 f6 21.exf6 Bxf6 22.Be5 Bxe5
+23.Re2 Kf7 24.Rxe5 Kf6 25.Rxc5 Rd8 26.g4 hxg4 27.hxg4 Bg6 28.f4 Rd4 29.Ne2 Rd2
+30.Ng3 Rxb2 31.g5+ Ke7 32.Re5+ Kd6 33.c5+ Kd7 34.f5 Bf7 35.g6 Bxa2 36.Nh5 a5
+37.Nxg7 a4 38.f6 Rb1+ 39.Kg2 a3 40.f7 Bxf7 41.gxf7 a2 42.f8=Q Rh1  1-0

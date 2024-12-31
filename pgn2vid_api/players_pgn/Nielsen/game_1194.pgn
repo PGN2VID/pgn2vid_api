@@ -1,0 +1,16 @@
+[Event "ChessBrain Match"]
+[Site "chessbrain.net INT"]
+[Date "2004.01.30"]
+[Round "1"]
+[White "Nielsen,PH"]
+[Black "ChessBrain"]
+[Result "1/2-1/2"]
+[WhiteElo "2638"]
+[BlackElo ""]
+[ECO "E94"]
+
+1.d4 g6 2.c4 Bg7 3.e4 d6 4.Nc3 Nf6 5.Nf3 O-O 6.Be2 e5 7.O-O a5 8.Re1 exd4
+9.Nxd4 Bd7 10.Bg5 Nc6 11.Nxc6 Bxc6 12.f3 Qd7 13.Qd2 Rfe8 14.Rac1 h5 15.Kh1 Nh7
+16.Bh6 Bxh6 17.Qxh6 Re5 18.Nd5 Rae8 19.Qd2 b6 20.Bd3 Qd8 21.Rf1 Nf6 22.b3 Bb7
+23.Qc2 Nd7 24.f4 R5e6 25.e5 c6 26.f5 gxf5 27.Bxf5 cxd5 28.Bxe6 Rxe6 29.Rxf7 Kxf7
+30.Qh7+ Ke8 31.Qxh5+ Ke7 32.Qg5+ Ke8 33.Qh5+ Ke7 34.Qh7+  1/2-1/2

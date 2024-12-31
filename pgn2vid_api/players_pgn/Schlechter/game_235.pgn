@@ -1,0 +1,22 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "1"]
+[White "Teichmann, Richard"]
+[Black "Schlechter, Carl"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C73"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6+ bxc6 6.d4 f6 7.Nc3 g6 8.Be3 Nh6
+9.h3 Nf7 10.Qd2 Bg7 11.Rd1 Qe7 12.O-O O-O 13.Rfe1 h6 14.Ne2 Kh7 15.Ng3 a5
+16.a4 Nd8 17.Nh2 Ne6 18.c3 c5 19.Ne2 Bb7 20.d5 Ng5 21.f3 f5 22.Qc2 f4 23.Bc1 Bc8
+24.Ng4 Bd7 25.b3 h5 26.Nf2 Nf7 27.c4 g5 28.Kf1 Nh6 29.Nc3 g4 30.hxg4 hxg4
+31.Ke2 Bf6 32.Rh1 Bh4 33.Rdg1 Rg8 34.Kd1 Rg6 35.Qe2 Rag8 36.Rf1 gxf3 37.gxf3 Rg2
+38.Kc2 Qg5 39.Bd2 Qg3 40.Ncd1 Bh3 41.Kd3 Bg4 42.Nxg4 Rxe2 43.Kxe2 Qg2+ 44.Kd3 Nxg4
+45.Rxh4+ Nh6 46.Rf2 Qg1 47.Ke2 Rg3 48.Rfh2 Kg7 49.Be1 Ng4 50.Bxg3 Nxh2 51.Bxh2 Qd4
+52.Rg4+ Kf7 53.Rg2 Qa1 54.Ke1 Qb1 55.Rf2 Qxb3 56.Nb2 Ke8 57.Kf1 Kd7 58.Kg2 Kc8
+59.Re2 Kb7 60.Bg1 Ka6 61.Bf2 Ka7 62.Be1 Ka6 63.Bh4 Ka7 64.Bd8 Qb8 65.Bh4 Qb3
+66.Be1 Ka6 67.Kf2 Kb6 68.Bd2 Ka6 69.Be1 Kb6 70.Kg2 Ka6 71.Bh4 Ka7 72.Bf2 Ka6
+73.Be1 Kb6  1/2-1/2

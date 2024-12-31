@@ -1,0 +1,15 @@
+[Event "Kosice sim"]
+[Site "Kosice"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Breyer, Gyula"]
+[Black "Sipos"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 Qf6 5.O-O a6 6.Ba4 Nge7 7.d4 exd4 8.Bg5 Qe6
+9.cxd4 Nxd4 10.Nxd4 Qe5 11.Be3 Qxe4 12.Re1 O-O 13.Nc3 Qg6 14.Bc2 f5 15.Nxf5 Nxf5
+16.Bxc5 d6 17.Be3 Kh8 18.Nd5 Qf7 19.Nf4 Bd7 20.Qd3 Bc6 21.g4 g5 22.gxf5 gxf4
+23.Bd4+ Kg8 24.Bb3 d5 25.Kh1 Qh5 26.Rg1+ Kf7 27.Rg7+ Ke8  1-0

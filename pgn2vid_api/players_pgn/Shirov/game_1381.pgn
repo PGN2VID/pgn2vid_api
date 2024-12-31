@@ -1,0 +1,15 @@
+[Event "Simul"]
+[Site "Internet USCF"]
+[Date "2000.09.17"]
+[Round "1"]
+[White "Shirov,A"]
+[Black "RFrancisco"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo ""]
+[ECO "B92"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bc1 Nf6 8.Be2 e5
+9.Nb3 Be7 10.O-O O-O 11.Kh1 Be6 12.f4 Qc7 13.g4 exf4 14.Bxf4 Nc6 15.g5 Nd7
+16.Qe1 Nce5 17.Rd1 f6 18.Qg3 fxg5 19.Bxg5 Bxg5 20.Qxg5 Rxf1+ 21.Rxf1 Rf8
+22.Nd4 Rxf1+ 23.Bxf1 Nf8 24.Qf4  1/2-1/2

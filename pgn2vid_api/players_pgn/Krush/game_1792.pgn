@@ -1,0 +1,16 @@
+[Event "Isolated Queens Swiss II"]
+[Site "chess.com INT"]
+[Date "2020.05.02"]
+[Round "7"]
+[White "Sebag,M"]
+[Black "Krush,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2438"]
+[BlackElo "2429"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O Nf6 5.Bd3 a6 6.c3 e5 7.Bc2 Be7 8.d4 O-O
+9.dxe5 Nxe5 10.Nxe5 dxe5 11.c4 Be6 12.Qe2 b5 13.cxb5 axb5 14.Qxb5 Rxa2 15.Rxa2 Bxa2
+16.Nc3 Be6 17.Rd1 Qb8 18.Qxb8 Rxb8 19.f3 c4 20.Kf1 Bc5 21.Ke2 h6 22.Na4 Bd4
+23.Be3 Bxe3 24.Kxe3 Bd7 25.Rb1 Bc6 26.Nc3 Nd7 27.b4 cxb3 28.Bxb3 Kf8 29.Bc4 Rxb1
+30.Nxb1 Nc5 31.Nc3 Ke7 32.Bd5 Bxd5 33.Nxd5+ Ke6 34.Nc7+ Ke7  1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Valkeakoski sim"]
+[Site "Valkeakoski"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Polgar, Zsuzsa"]
+[Black "Tusa, Tuukka"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Ne4 7.Qf3 Ng5 8.Qg3 Be7
+9.Nc3 d5 10.exd6 cxd6 11.Bd3 O-O 12.O-O f5 13.Re1 Bf6 14.Bd2 d5 15.Bxg5 Bxg5
+16.Qf3 Bd7 17.Ne2 Rb8 18.b3 Qa5 19.c4 Bf6 20.Rad1 Rbe8 21.cxd5 cxd5 22.Kf1 Qxa2
+23.Bxf5 Bxf5 24.Qxf5 Kh8 25.Qxd5 Bc3 26.b4 Qxd5 27.Rxd5 Bxe1 28.Kxe1 Rf4
+29.b5 Rfe4 30.Rd2 Rb4  0-1

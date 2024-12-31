@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "13"]
+[White "Reggio, Arturo"]
+[Black "Schlechter, Carl"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D66"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Rc1 c6 8.Bd3 dxc4
+9.Bxc4 b5 10.Bd3 a6 11.Ne5 Nxe5 12.dxe5 Nd7 13.Bxe7 Qxe7 14.f4 f5 15.exf6 Nxf6
+16.O-O e5 17.f5 c5 18.e4 c4 19.Bc2 Bb7 20.Qf3 Rad8 21.Rcd1 Rd4 22.a3 Rfd8
+23.g4 Rd2 24.g5 Rxc2 25.gxf6 Qxf6 26.Rxd8+ Qxd8 27.Rd1 Rd2 28.Rxd2 Qxd2 29.Qf2 Qd4
+30.h4 Kf7 31.Kf1 Qxf2+ 32.Kxf2 g6 33.fxg6+ hxg6 34.Ke3 Ke7 35.Kf3 Kd6 36.Ke3 Bc8
+37.Kf3 Be6 38.Ke3 Kc5 39.Nb1 a5 40.Nd2 Bg4 41.Nb1 b4 42.Nd2 Bd1 43.axb4+ axb4
+44.Nf1 Bc2 45.Ng3 Bd1 46.Kd2 Bg4 47.Ke3 c3 48.bxc3 bxc3 49.Kd3 Kb4 50.Kc2 Kc4
+51.Nh1 Bf3 52.Nf2 Kd4 53.Kc1 Bxe4 54.Nh3 Bf5 55.Ng5 e4  0-1

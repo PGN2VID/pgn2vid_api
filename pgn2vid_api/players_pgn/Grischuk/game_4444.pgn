@@ -1,0 +1,23 @@
+[Event "chess.com SpeedChess Q2KO"]
+[Site "chess.com INT"]
+[Date "2022.11.13"]
+[Round "1.2"]
+[White "Grischuk,A"]
+[Black "Duda,J"]
+[Result "0-1"]
+[WhiteElo "2745"]
+[BlackElo "2731"]
+[ECO "A14"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.d4 dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bg5 Nbd7 11.Nc3 h6 12.Bxf6 Nxf6 13.Rfd1 Qd6 14.e3 Rfd8 15.Qe2 Qb4
+16.a5 Rac8 17.Ne5 Bxg2 18.Kxg2 Bf8 19.Nd3 Qe7 20.Qf3 Nd5 21.Ne4 Qe8 22.Rdc1 Qb5
+23.Ne5 Qe8 24.h4 c6 25.Nd3 Rc7 26.Rc4 Be7 27.Rac1 Nf6 28.Nec5 Bxc5 29.Nxc5 Nd5
+30.e4 Nf6 31.Qf4 Qe7 32.R1c3 Rxd4 33.Rxd4 e5 34.Qd2 exd4 35.Qxd4 Nd7 36.Nd3 c5
+37.Qc4 b5 38.axb6 Nxb6 39.Qxa6 Qxe4+ 40.Kg1 Nd5 41.Rc1 Qd4 42.Re1 c4 43.Ne5 Kh7
+44.Qa1 Qd2 45.Nf3 Qd3 46.Ne5 Qf5 47.Qb1 Qxb1 48.Rxb1 f6 49.Nf3 Rb7 50.Rc1 Rb4
+51.Nd2 Nb6 52.Rc2 Kg6 53.Kf1 Kf5 54.Ke2 Ke5 55.Ke3 Nd5+ 56.Ke2 Kd4 57.Nf3+ Kc5
+58.Nd2 g5 59.hxg5 hxg5 60.Ne4+ Kd4 61.Nc3 Nb6 62.Rd2+ Ke5 63.Ke3 f5 64.f4+ gxf4+
+65.gxf4+ Ke6 66.Kd4 Nd7 67.Re2+ Kd6 68.Rh2 Nc5 69.Ke3 Nd3 70.Kd4 Nxf4 71.Rf2 Ne6+
+72.Ke3 Ke5 73.Re2 Rb3 74.Kd2+ Kd6 75.Kc1 Nc5 76.Kc2 Nd3 77.Nd1 f4 78.Re8 Nb4+
+79.Kc1 Rh3 80.Rf8 Rh2 81.Nc3 Nd3+ 82.Kd1 Nxb2+ 83.Ke1 Nd3+ 84.Kf1 Kc5 85.Ne2 Rf2+  0-1

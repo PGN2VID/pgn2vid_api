@@ -1,0 +1,15 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "24"]
+[White "Tarrasch, Siegbert"]
+[Black "Reggio, Arturo"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A23"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.Bg2 d5 5.cxd5 cxd5 6.Qb3 e4 7.f3 d4 8.Nxe4 Be7
+9.Nh3 O-O 10.Nf4 Nc6 11.d3 Na5 12.Qa4 a6 13.Bd2 Nc6 14.Rc1 Nd7 15.Nd5 f5
+16.Rxc6 bxc6 17.Ba5 Nc5 18.Nxe7+ Qxe7 19.Qc4+ Ne6 20.Bb4 Qc7 21.Bxf8 fxe4
+22.Ba3 exd3 23.Qxd3 Bd7 24.O-O a5 25.f4 c5 26.Bxa8  1-0

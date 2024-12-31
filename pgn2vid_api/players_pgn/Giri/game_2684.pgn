@@ -1,0 +1,20 @@
+[Event "chess.com Speed 2021"]
+[Site "chess.com INT"]
+[Date "2021.11.08"]
+[Round "1.32"]
+[White "Giri,A"]
+[Black "Duda,J"]
+[Result "1-0"]
+[WhiteElo "2774"]
+[BlackElo "2756"]
+[ECO "C07"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.Nxd4 Nc6 6.Bb5 Bd7 7.Nxc6 bxc6 8.Bd3 Qc7
+9.Qe2 Ne7 10.O-O Ng6 11.Nf3 Bd6 12.c4 dxc4 13.Bxc4 O-O 14.Rd1 Rfd8 15.Bg5 Be7
+16.Be3 c5 17.Bb5 Bxb5 18.Qxb5 Rab8 19.Rxd8+ Qxd8 20.Qe2 Bf6 21.Rd1 Qa5 22.b3 h6
+23.g3 Ne5 24.Nxe5 Bxe5 25.Qc2 Rc8 26.Rc1 Bf6 27.Bxc5 Bg5 28.b4 Qb5 29.Rb1 Rd8
+30.a4 Qc6 31.h4 Be7 32.Rc1 Bxc5 33.bxc5 a5 34.Qc4 Rb8 35.Qd3 Rb4 36.Qd8+ Kh7
+37.Qxa5 Rxa4 38.Qd2 Rxe4 39.Qd3 f5 40.Qc2 Re5 41.Qc3 Rd5 42.Qc2 Kg6 43.Qc3 Kh7
+44.Qf3 Qc7 45.c6 Kg6 46.h5+ Kf7 47.Kg2 Rd8 48.Rb1 Rb8 49.Rb7 Rxb7 50.cxb7 Ke7
+51.Qb3 Qb8 52.Qb2 e5 53.Qb6 Kd7 54.Kh2 f4 55.gxf4 exf4 56.f3 Ke7 57.Kh3 Kf7
+58.Qc6 Qd8 59.Qc8 Qg5 60.Qd7+  1-0

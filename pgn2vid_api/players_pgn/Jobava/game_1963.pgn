@@ -1,0 +1,21 @@
+[Event "PNWCC Online Blitz JP 14"]
+[Site "lichess.org INT"]
+[Date "2020.06.20"]
+[Round "2"]
+[White "Khanin,S"]
+[Black "Jobava,Ba"]
+[Result "1-0"]
+[WhiteElo "2482"]
+[BlackElo "2603"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+
+9.Ne2 g6 10.h4 Nd7 11.h5 Nf8 12.Bh6 f5 13.Kf1 Ne6 14.hxg6 fxg6 15.g4 Ng7
+16.Bxg7 Kxg7 17.gxf5 Qf6 18.fxg6 hxg6 19.Qd2 Bg4 20.Qh6+ Kf7 21.Qh7+ Kf8
+22.Re1 Bh5 23.Bc4 Qg7 24.Rxh5 gxh5 25.Qf5+ Ke7 26.Qe6+ Kd8 27.Qxd6+ Qd7 28.Qf6+ Kc7
+29.Qf4+ Kb6 30.Ng1 Rxe1+ 31.Kxe1 Re8+ 32.Ne2 Qh3 33.Qg5 h4 34.Kd2 Qh2 35.b4 a6
+36.Qf5 h3 37.a4 Qg2 38.a5+ Ka7 39.Qc5+ Ka8 40.Qh5 Rf8 41.Qc5 Qxf2 42.Bxa6 Qf6
+43.Bxb7+ Kxb7 44.Qb6+ Kc8 45.a6 Qg5+ 46.Kc2 Qb5 47.Qa7 Qxe2+ 48.Kb3 Qe6+
+49.Ka3 Rf2 50.Qb7+ Kd8 51.Qb8+ Ke7 52.Qc7+ Kf6 53.Qd8+ Kg6 54.d5 cxd5 55.b5 h2
+56.a7 h1=Q 57.a8=Q Qa1+ 58.Kb4 Rf4+ 59.Kb3 d4+ 60.Qdd5 Qxc3+ 61.Ka4 Rf2 62.Qxe6+ Kg5
+63.Qad5+ Kf4 64.Qdf5+ Kg3 65.Qeg6+ Kh2 66.Qxf2+  1-0

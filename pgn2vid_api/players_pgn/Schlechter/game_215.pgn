@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "8"]
+[White "Mieses, Jacques"]
+[Black "Schlechter, Carl"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B00"]
+
+1.e4 e5 2.d4 Nc6 3.dxe5 Nxe5 4.Nc3 Bc5 5.f4 Ng6 6.Nf3 d6 7.Na4 Bb6 8.Nxb6 axb6
+9.Bc4 Qe7 10.O-O Nf6 11.e5 dxe5 12.fxe5 Nxe5 13.Nxe5 Qxe5 14.Re1 Ne4 15.Bd5 f5
+16.Qd3 Be6 17.Bxe4 O-O 18.Bf4 fxe4 19.Bxe5 exd3 20.Bxg7 Kxg7 21.Rxe6 dxc2
+22.Re2 Rxa2 23.Rc1 Rxb2 24.Rexc2 Rxc2 25.Rxc2 c6 26.g4 b5 27.Kg2 b4 28.Rc4 Rb8
+29.Rxb4 b5 30.Kf3 c5 31.Rb1 Kf6 32.Ke4 c4 33.Kd4 Kg5 34.Rg1 Rd8+ 35.Kc5 c3
+36.Kxb5 c2 37.Rc1 Rc8 38.Kb4 Kxg4 39.h4 Kxh4 40.Kb3 Kg3 41.Kb2 Kg2  0-1

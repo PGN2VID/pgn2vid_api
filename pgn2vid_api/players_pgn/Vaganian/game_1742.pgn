@@ -1,0 +1,22 @@
+[Event "WCCC Man-Machine exh"]
+[Site "Paderborn"]
+[Date "1999.06.19"]
+[Round "1"]
+[White "Comp Ferret"]
+[Black "Vaganian, Rafael A"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo "2605"]
+[ECO "C08"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Bd7 6.Bxd7+ Nxd7 7.Ne2 Ngf6 8.dxc5 Bxc5
+9.O-O O-O 10.Nb3 Bb6 11.Nbd4 Re8 12.c3 Ne5 13.Bg5 h6 14.Bf4 Ng6 15.Be3 Ng4
+16.Bd2 N4e5 17.b3 Qf6 18.Qc2 Nh4 19.Rae1 Rac8 20.Qb1 Re7 21.h3 Rce8 22.Be3 Nc6
+23.Kh1 Re4 24.Rg1 Nxd4 25.Nxd4 Qg6 26.Rd1 Bc7 27.Nb5 Bb8 28.Rxd5 f5 29.Bd2 Re2
+30.Qf1 a6 31.Na3 f4 32.Rd4 Nf5 33.Rd8 Rxd8 34.Qxe2 f3 35.gxf3 Qd6 36.f4 Qd5+
+37.f3 Qxd2 38.Qe6+ Kh8 39.Qxf5 Bxf4 40.Qc2 Qe3 41.Qg2 Qxc3 42.Nb1 Qe5 43.Qg6 Rd6
+44.Qg4 Rc6 45.Qd7 Bg5 46.Qxb7 Qf5 47.Qb8+ Kh7 48.Qg3 Qf6 49.Qg4 Bf4 50.Na3 Re6
+51.Qg2 g6 52.Rf1 Re5 53.Rd1 h5 54.Nc4 Rg5 55.Rd7+ Kh6 56.Qb2 Qxb2 57.Nxb2 Rg3
+58.h4 Rxf3 59.Kg2 Rg3+ 60.Kf2 Rg4 61.Nc4 Rxh4 62.Ra7 Rh3 63.Rxa6 h4 64.Rf6 Kg5
+65.Ra6 Rc3 66.Ra5+ Kf6 67.Ra6+ Kf5 68.Rc6 Bg3+ 69.Ke2 Rc2+ 70.Kd3 Rxa2 71.Ne3+ Kg5
+72.Rc5+ Kf4 73.Nd5+ Kf3 74.Rc8 Bf4 75.Rf8 Rd2+ 76.Kc4 Rxd5 77.Kxd5 h3  0-1

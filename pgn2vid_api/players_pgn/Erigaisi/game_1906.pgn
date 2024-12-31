@@ -1,0 +1,13 @@
+[Event "chess.com SpeedChess 2022"]
+[Site "chess.com INT"]
+[Date "2022.11.23"]
+[Round "1.12"]
+[White "Erigaisi,Arjun"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2718"]
+[BlackElo "2766"]
+[ECO "C58"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Qf3 cxb5
+9.Qxa8 Qc7 10.Qf3 Nc6 11.c3 Bg4 12.Qg3 Nd4 13.Na3 Bxa3 14.cxd4 Bd6 15.Ne4  1-0

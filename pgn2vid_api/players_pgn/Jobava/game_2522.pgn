@@ -1,0 +1,21 @@
+[Event "Bogdanovich Mem Final"]
+[Site "lichess.org INT"]
+[Date "2021.02.13"]
+[Round "3"]
+[White "Jobava,Ba"]
+[Black "Postny,E"]
+[Result "1-0"]
+[WhiteElo "2603"]
+[BlackElo "2605"]
+[ECO "D00"]
+
+1.d4 d5 2.Nc3 Nf6 3.Bf4 a6 4.e3 e6 5.a3 c5 6.Nf3 Nc6 7.h3 Bd6 8.dxc5 Bxc5
+9.Bd3 Bd6 10.O-O Bxf4 11.exf4 O-O 12.Re1 g6 13.Qd2 Nd7 14.Ne5 Qf6 15.Qe3 d4
+16.Nxd7 Bxd7 17.Ne4 Qe7 18.Qg3 Kh8 19.Rad1 Rad8 20.Qg5 f6 21.Qc5 Qg7 22.Nd6 b5
+23.Be4 Qe7 24.Nb7 Rde8 25.Bxc6 Qxc5 26.Nxc5 Bxc6 27.Nxe6 Rf7 28.Nxd4 Rxe1+
+29.Rxe1 Bd5 30.f3 Rd7 31.c3 Kg7 32.Kf2 Kf7 33.g4 Bc4 34.Kg3 a5 35.f5 b4 36.axb4 axb4
+37.fxg6+ hxg6 38.Re3 bxc3 39.bxc3 Ra7 40.Nc6 Rc7 41.Nd4 Ra7 42.h4 Ra5 43.Re7+ Kg8
+44.Rc7 Bf7 45.f4 Ra1 46.f5 Rg1+ 47.Kf4 Rf1+ 48.Ke3 Rg1 49.fxg6 Bxg6 50.h5 Bf7
+51.Nf5 Be6 52.c4 Re1+ 53.Kd4 Rg1 54.Kc5 Kf8 55.Kd6 Bf7 56.Rc8+ Be8 57.h6 Kf7
+58.Rc7+ Kg8 59.Rg7+ Kh8 60.Ke6 Ba4 61.Kxf6 Bb3 62.g5 Bxc4 63.Rc7 Bg8 64.g6 Rf1
+65.h7 Rxf5+ 66.Kxf5 Be6+ 67.Kg5 Bd7 68.Kh6  1-0

@@ -1,0 +1,21 @@
+[Event "Leipzig sim"]
+[Site "Leipzig"]
+[Date "1871.??.??"]
+[Round "?"]
+[White "Cordel, Oskar"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.Nxe5 Nxe5
+9.dxe5 c6 10.Be3 Bc5 11.Nd2 Nxd2 12.Qxd2 Bxe3 13.Qxe3 O-O 14.f4 Bf5 15.a4 Qd7
+16.Qc5 Rfb8 17.Rf3 b4 18.Rf2 a5 19.h3 h5 20.Raf1 Re8 21.c3 bxc3 22.bxc3 Re6
+23.c4 d4 24.Rd2 d3 25.Bc2 Rg6 26.Qe3 Rd8 27.Bxd3 Bxd3 28.Rfd1 Qd4 29.Qxd4 Rxd4
+30.Rxd3 Rxf4 31.Rd4 Rf5 32.Re4 Re6 33.Rd8+ Kh7 34.Rd6 Kg6 35.c5 h4 36.Rxh4 Rxe5
+37.Rc4 Kf6 38.Rd8 Re1+ 39.Kh2 R1e4 40.Rxe4 Rxe4 41.Rd6+ Re6 42.Rd8 Ke5 43.Ra8 Kd4
+44.Rxa5 Kc4 45.Ra7 Rf6 46.Rb7 Kxc5 47.a5 Kd4 48.Rb4+ Kc5 49.a6 Kxb4 50.a7 c5
+51.a8=Q c4 52.Qf8+ Kb3 53.Qxg7 Rf1 54.Qe5 Rc1 55.Qd5 Kb2 56.Qb7+ Ka3 57.Qxf7 c3
+58.Qc4 c2 59.Qc3+ Ka2 60.Kg3 Kb1 61.Qb3+ Ka1 62.h4 Rh1 63.Qxc2 Rh3+ 64.Kf2 Rf3+
+65.Ke2 Rf2+ 66.Kd3 Rf3+ 67.Kd4  0-1

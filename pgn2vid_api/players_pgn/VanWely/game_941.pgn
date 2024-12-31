@@ -1,0 +1,14 @@
+[Event "Monte Carlo m"]
+[Site "Monte Carlo"]
+[Date "1997.09.10"]
+[Round "1"]
+[White "Piket, Jeroen"]
+[Black "Van Wely, Loek"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2655"]
+[ECO "A58"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 g6 6.Nc3 Bxa6 7.Nf3 Bg7 8.g3 d6
+9.Bg2 Nbd7 10.O-O Nb6 11.Re1 O-O 12.h3 Nfd7 13.Qc2 Nc4 14.Nd2 Qa5 15.Ndb1 Ncb6
+16.Rd1 Rfb8 17.Kh2 Ra7 18.Bd2 Nc4 19.Bc1 Ncb6 20.Bd2 Nc4 21.Bc1  1/2-1/2

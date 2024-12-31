@@ -1,0 +1,18 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "12"]
+[White "Schlechter, Carl"]
+[Black "Mason, James"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Bd7 6.Be2 Nc6 7.O-O Be7 8.f4 Nxd4
+9.Qxd4 Bc6 10.b4 O-O 11.Bb2 Ne8 12.b5 Bd7 13.Nd5 f5 14.Bd3 c6 15.bxc6 bxc6
+16.Nxe7+ Qxe7 17.Rae1 fxe4 18.Rxe4 Qf6 19.Qc4+ Qf7 20.Re7 Qxc4 21.Bxc4+ d5
+22.Bxd5+ cxd5 23.Rxd7 Rc8 24.Rf2 Rc4 25.Rxd5 Rcxf4 26.Rxf4 Rxf4 27.Rd3 Kf8
+28.Ba3+ Kf7 29.Rd7+ Kg6 30.Rxa7 Rc4 31.Re7 Nf6 32.Re2 Ra4 33.Bb2 Rxa2 34.Bxf6 Kxf6
+35.Kf2 h5 36.Ke1 g5 37.Kd2 Kf5 38.Kd3 Ra8 39.c4 Rd8+ 40.Kc3 Rc8 41.Kb4 Rb8+
+42.Ka5 Rc8 43.Kb5 Rb8+ 44.Ka6 Rc8 45.Rc2 Ke5 46.Kb7 Rc5 47.Kb6  1-0

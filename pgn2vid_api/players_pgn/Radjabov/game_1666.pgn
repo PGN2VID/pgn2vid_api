@@ -1,0 +1,39 @@
+[Event "Corsican Circuit Final"]
+[Site "Bastia FRA"]
+[Date "2016.10.28"]
+[Round "2.2"]
+[White "Moiseenko,A1"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2648"]
+[BlackElo "2710"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.c5 Nh5 8.Bd3 Nxf4
+9.exf4 c6 10.O-O b6 11.b4 a5 12.a3 Qc7 13.g3 Ba6 14.Re1 Bxd3 15.Qxd3 Bf6
+16.Nd2 Rfb8 17.Reb1 g6 18.Kg2 Ra7 19.h4 Rba8 20.Nb3 axb4 21.axb4 Rxa1 22.Nxa1 bxc5
+23.bxc5 Nxc5 24.dxc5 Qa5 25.Nxd5 exd5 26.Nb3 Qb4 27.h5 Kg7 28.Qe3 gxh5 29.Nd2 Qc3
+30.Qe2 Qc2 31.Rb7 Rf8 32.Qe3 d4 33.Qe1 Qxc5 34.Qe6 Qd5+ 35.Qxd5 cxd5 36.Rb5 Rd8
+37.Nb3 d3 38.Kf3 h4 39.gxh4 Bxh4 40.Ke3 Re8+ 41.Kxd3 Bxf2 42.Rxd5 Re3+ 43.Kc2 Rf3
+44.Rg5+ Kf6 45.Rh5 Kg6 46.Rg5+ Kh6 47.Rf5 Kg7 48.Rg5+ Kf6 49.Rh5 Rxf4 50.Rxh7 Kg6
+51.Rh8 Be3 52.Kd3 Bb6 53.Nd2 Rd4+ 54.Ke2 Ra4 55.Rc8 f6 56.Rc6 Ba7 57.Rc2 Kf5
+58.Nf3 Kf4 59.Ne1 Re4+ 60.Kf1 f5 61.Nd3+ Ke3 62.Ne1 Kf4 63.Rc7 Bb6 64.Ng2+ Kf3
+65.Rc3+ Kg4 66.Rb3 Bc5 67.Rc3 Bd4 68.Rd3 Bc5 69.Rc3 Bd4 70.Rd3 f4 71.Ne1 Bc5
+72.Rd8 f3 73.Rg8+ Kf4 74.Nd3+ Ke3 75.Nxc5 Rc4 76.Re8+ Kf4 77.Nd3+ Kg3 78.Rg8+ Rg4
+79.Rf8 Ra4 80.Ne1 Ra3 81.Rf7 Rc3 82.Rf6 Ra3 83.Rg6+ Kf4 84.Rg8 Rc3 85.Kf2 Ra3
+86.Rf8+ Ke5 87.Nxf3+ Ke6 88.Kg3 Kd5 89.Rf5+ Ke6 90.Re5+ Kd6 91.Rh5 Ke6 92.Kf4 Ra4+
+93.Ke3 Kf6 94.Nd4 Kg6 95.Re5 Ra1 96.Kf4 Rf1+ 97.Nf3 Kf6 98.Re2 Ra1 99.Re4 Rf1
+100.Ra4 Ke6 101.Ke4 Kd6 102.Ra6+ Kc5 103.Ra8 Kd6 104.Rd8+ Ke7 105.Rd5 Ra1
+106.Kf5 Rf1 107.Rd3 Rf2 108.Ke4 Re2+ 109.Kf4 Rf2 110.Ra3 Kf6 111.Ra6+ Ke7
+112.Ke4 Re2+ 113.Kd5 Rf2 114.Nd4 Rd2 115.Ke5 Kf7 116.Rf6+ Ke7 117.Rd6 Rf2
+118.Rd5 Kf7 119.Rd6 Ke7 120.Ra6 Kf7 121.Ne6 Re2+ 122.Kf5 Rf2+ 123.Nf4 Rf1
+124.Ra7+ Ke8 125.Ke6 Re1+ 126.Kd6 Rd1+ 127.Nd5 Kf8 128.Rb7 Kg8 129.Ke6 Re1+
+130.Kf5 Rf1+ 131.Nf4 Kf8 132.Ke5 Ke8 133.Ke6 Re1+ 134.Kd6 Rd1+ 135.Nd5 Kf8
+136.Rd7 Re1 137.Rb7 Rd1 138.Ra7 Kg8 139.Rb7 Kf8 140.Rc7 Kg8 141.Ke5 Re1+
+142.Kf5 Rf1+ 143.Kg5 Rg1+ 144.Kf5 Rf1+ 145.Ke6 Re1+ 146.Kd6 Rd1 147.Rd7 Kf8
+148.Kc7 Rc1+ 149.Kd8 Rd1 150.Rd6 Kf7 151.Kd7 Rd2 152.Kc6 Rc2+ 153.Kd7 Rd2
+154.Rf6+ Kg7 155.Rf5 Rd1 156.Re5 Kf7 157.Kd6 Rd2 158.Rf5+ Kg6 159.Rf1 Kg7
+160.Ke6 Re2+ 161.Kf5 Ra2 162.Rc1 Rf2+ 163.Nf4 Kf7 164.Rc7+ Kf8 165.Ke5 Ke8
+166.Ke6 Kd8 167.Rd7+ Kc8 168.Nd5 Kb8 169.Kd6 Rd2 170.Rh7 Rd1 171.Rg7 Rd2
+172.Rg1 Kb7 173.Rb1+ Kc8 174.Rb5 Rd1 175.Rb2 Rd4 176.Kc6 Rc4+ 177.Kd6 Rd4
+178.Rc2+ Kb7 179.Rc7+ Kb8 180.Rd7 Rd1 181.Kc5 Rc1+ 182.Kb5 Rb1+  1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Chess.com Bullet Open 2"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "17"]
+[White "Pichot,A"]
+[Black "Praggnanandhaa,R"]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2608"]
+[ECO "B43"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 b5 6.Bd3 Bb7 7.O-O Nc6 8.Nxc6 Bxc6
+9.Qe2 Bc5 10.Be3 Bxe3 11.Qxe3 Ne7 12.a4 b4 13.Ne2 O-O 14.Nd4 a5 15.b3 Qc7
+16.Rae1 e5 17.Nf3 f6 18.Nd2 d5 19.exd5 Nxd5 20.Bc4 Kh8 21.Qg3 Nf4 22.f3 Rad8
+23.Qf2 Rd4 24.Kh1 Rfd8 25.Ne4 Bxe4 26.fxe4 Rd2 27.Qf3 Rxg2 28.Rg1 Rdd2 29.Rxg2 Rxg2
+30.Rd1 g6 31.Qe3 Kg7 32.Qf3 Qa7 33.h3 Rf2 34.Qg3 Rg2 35.Qf3 Rxc2 36.h4 Rc3
+37.Qg4 Qf2 38.Be6 Rh3+ 39.Qxh3 Nxh3 40.Rd7+ Kh6 41.Bxh3 Qxh4 42.Kg2 Qxe4+
+43.Kh2 Qf4+ 44.Kh1 e4 45.Bg2 Qh4+ 46.Kg1 e3 47.Re7 Qf2+ 48.Kh2 e2 49.Re3 Qh4+
+50.Kg1 e1=Q+ 51.Rxe1 Qxe1+ 52.Kh2 Qe3 53.Bf3 f5 54.Kg2 f4 55.Bg4 Kg5 56.Bf3 Kh4
+57.Kh2 Qxf3 58.Kg1 Qe2 59.Kh1 Kg3  0-1

@@ -1,0 +1,22 @@
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.09"]
+[Round "2.24"]
+[White "Sevian,Samuel"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteElo "2666"]
+[BlackElo "2682"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Rg1 g6 7.g4 Bg7 8.g5 Nfd7
+9.Be3 Nc6 10.Qd2 Nde5 11.Be2 b5 12.a3 Bb7 13.h4 Na5 14.b3 Rc8 15.Nd5 O-O
+16.f4 Nec6 17.Nxc6 Rxc6 18.Rd1 e6 19.Nf6+ Bxf6 20.gxf6 Rc8 21.h5 Bxe4 22.hxg6 Bxg6
+23.f5 exf5 24.Bd4 Kh8 25.Rxg6 Rg8 26.Rg7 Rxg7 27.fxg7+ Kg8 28.Qf4 Rxc2 29.Rc1 Rxc1+
+30.Qxc1 Qh4+ 31.Bf2 Qh1+ 32.Bf1 Qe4+ 33.Qe3 Qb1+ 34.Ke2 Nxb3 35.Bh3 Qc2+
+36.Kf3 Nd2+ 37.Kg2 Qc6+ 38.Kh2 Qd5 39.Bg2 Ne4 40.Kg1 Kxg7 41.Be1 f6 42.Bf3 Qe5
+43.Qe2 Ng5 44.Kf1 Kf7 45.Qa2+ Kg7 46.Be2 Qf4+ 47.Bf2 Ne4 48.Bd3 Qf3 49.Bxe4 fxe4
+50.Qd5 Qh1+ 51.Ke2 Qf3+ 52.Ke1 h5 53.Qxd6 Qh1+ 54.Ke2 Qf3+ 55.Ke1 Kg6 56.Bd4 e3
+57.Qh2 Qe4 58.Qg1+ Kf7 59.Qxe3 Qxe3+ 60.Bxe3 Ke6 61.Kd2 Kd5 62.Kc3 Ke4 63.Bg1 h4
+64.Kb4 f5 65.Ka5 f4 66.Kxa6 h3 67.Kxb5 f3 68.a4 f2 69.Bxf2 h2 70.a5 h1=Q
+71.a6 Qf1+ 72.Kc6 Qxf2 73.Kb7 Qb2+ 74.Ka8 Qc3 75.a7 Qc8+  0-1

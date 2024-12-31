@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "10"]
+[White "Tarrasch, Siegbert"]
+[Black "Schlechter, Carl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C96"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Nc6 12.Nbd2 Re8 13.Nf1 h6 14.Be3 Bf8 15.Ng3 Qc7
+16.a4 Bd7 17.d5 Ne7 18.Nh4 g5 19.Nf3 Ng6 20.Nh2 Qb7 21.axb5 axb5 22.Rxa8 Rxa8
+23.Ng4 Nxg4 24.hxg4 Ra2 25.Bc1 Nf4 26.Nf5 c4 27.g3 Ng6 28.Kg2 f6 29.Rh1 Bc8
+30.Nxh6+ Bxh6 31.Rxh6 Qg7 32.Rh1 Nf8 33.Bb1 Ra1 34.Be3 Qd7 35.f3 Qb7 36.Qc1 Qe7
+37.b3 Qc7 38.Qb2 Qa5 39.bxc4 bxc4 40.Rc1 Nd7 41.Qb4 Qa3 42.Qxa3 Rxa3 43.Kf2 Rb3
+44.Ke1 Rb2 45.Bc2 Kf7 46.Kd1 Ra2 47.Rb1 Ra3 48.Kd2 Ba6 49.Rb4 Ke7 50.Ra4 Rxa4
+51.Bxa4 Kd8 52.Kc2 Kc7 53.Kb2 Nc5 54.Bxc5 dxc5 55.Ka3 Bc8 56.Be8 Kd8 57.Bb5 Kc7
+58.Ka4 Kb6 59.d6 Be6 60.Be8 Bg8 61.d7 Kc7 62.Kb5 Be6 63.Kxc5 Bg8 64.d8=Q+ Kxd8
+65.Bb5  1-0

@@ -1,0 +1,19 @@
+[Event "Chess.com Speed KO Lose"]
+[Site "chess.com INT"]
+[Date "2024.06.28"]
+[Round "1.2"]
+[White "Hong,Andrew"]
+[Black "Andreikin,D"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo "2729"]
+[ECO "B32"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be6 8.Nc4 b5
+9.Ne3 Nf6 10.Bd3 Be7 11.O-O O-O 12.Ncd5 Nd7 13.c3 Bg5 14.a4 bxa4 15.Rxa4 Nc5
+16.Ra3 a5 17.Bc2 Rb8 18.Nc4 Bxc1 19.Qxc1 f5 20.Rd1 Nxe4 21.Bxe4 fxe4 22.Qe3 Nd4
+23.cxd4 Bxd5 24.Nxa5 Rxb2 25.dxe5 Rfxf2 26.Qxf2 Rxf2 27.Kxf2 Qb6+ 28.Kg3 dxe5
+29.Rxd5 Qg6+ 30.Kh4 Qf6+ 31.Kg3 Qg6+ 32.Kh4 h5 33.Rg3 Qf6+ 34.Rg5 Qf4+ 35.Kxh5 Kh7
+36.Rd6 Qxh2+ 37.Kg4 Qxg2+ 38.Kf5 Qf3+ 39.Kxe5 e3 40.Rd7 Qf6+ 41.Ke4 Qxg5
+42.Nc4 e2 43.Ne3 e1=Q 44.Rd3 Qg6+ 45.Kd4 Qxd3+ 46.Kxd3 g5 47.Nc2 Qd1+ 48.Kc3 Kg6
+49.Ne3 Qe2 50.Nc4 g4 51.Kd4 Qxc4+ 52.Kxc4 g3 53.Kd3 g2 54.Ke2 g1=Q 55.Kf3 Qg5  0-1

@@ -1,0 +1,14 @@
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2021.07.04"]
+[Round "1.22"]
+[White "Shevchenko,Kirill"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2605"]
+[BlackElo "2567"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 d5 3.exd5 Nf6 4.Bb5+ Nbd7 5.d4 a6 6.Be2 Nxd5 7.Nf3 e6 8.c4 N5f6
+9.Nc3 cxd4 10.Qxd4 Bc5 11.Qh4 Qe7 12.O-O Nf8 13.Ne5 N6d7 14.Bg5 f6 15.Bh5+ g6
+16.Nxg6 hxg6  0-1

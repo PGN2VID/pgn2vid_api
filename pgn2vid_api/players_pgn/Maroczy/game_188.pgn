@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "10"]
+[White "Tarrasch, Siegbert"]
+[Black "Maroczy, Geza"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bg4
+9.c3 f5 10.c4 Bh4 11.Bxe4 dxe4 12.d5 O-O 13.dxc6 exf3 14.Qxd8 Raxd8 15.cxb7 Rfe8
+16.Rxe8+ Rxe8 17.h3 Bh5 18.Be3 Rb8 19.Bxa7 Rxb7 20.Bd4 fxg2 21.Kxg2 Bf7 22.Nd2 c5
+23.Bc3 Be8 24.Kf1 Bg5 25.Nf3 Bf4 26.Re1 Bf7 27.b3 Ra7 28.Ne5 Rxa2 29.Nxf7 Kxf7
+30.Ra1 Rxa1+ 31.Bxa1 g5 32.Bc3 Bd6  1/2-1/2

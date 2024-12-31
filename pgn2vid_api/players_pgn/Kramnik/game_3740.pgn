@@ -1,0 +1,16 @@
+[Event "chess.com SpeedChess Q1Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.21"]
+[Round "1"]
+[White "Kramnik,V"]
+[Black "Golubev,M"]
+[Result "1-0"]
+[WhiteElo "2753"]
+[BlackElo "2461"]
+[ECO "B73"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.Be3 Nc6 8.O-O O-O
+9.Qd2 d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Rfd1 Be6 13.Bd4 Bxd4 14.Qxd4 Nxc3 15.Qxc3 Qb6
+16.Bf3 Rab8 17.b3 c5 18.Bd5 Bxd5 19.Rxd5 Rfc8 20.Rad1 Qb4 21.Qe3 c4 22.c3 Qa3
+23.b4 Qxa2 24.Qxe7 Re8 25.Qf6 Qe2 26.h4 Rb6 27.Qf4 Rbe6 28.h5 Re4 29.Qf6 R4e6
+30.Qd4 Re4 31.Qxa7  1-0

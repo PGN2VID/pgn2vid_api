@@ -1,0 +1,20 @@
+[Event "Chess.com Rapid W10 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.04.16"]
+[Round "2"]
+[White "Grischuk,A"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2742"]
+[BlackElo "2785"]
+[ECO "D27"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Bb3 Nbd7 8.e4 Nxe4
+9.Re1 Nd6 10.d5 e5 11.Nxe5 Be7 12.Bf4 O-O 13.Nc3 Nxe5 14.Bxe5 Bf5 15.Qf3 Bg6
+16.a4 c4 17.Bd1 Re8 18.Be2 Bf8 19.Qf4 Rc8 20.a5 Rc5 21.h4 h5 22.g3 f6 23.Bd4 Rxa5
+24.Rad1 Nb5 25.Bxc4 Bd6 26.Rxe8+ Bxe8 27.Qe4 Nxd4 28.Qxd4 f5 29.Ne2 Ra4 30.Qd3 Qf6
+31.Nd4 Bd7 32.Ne6 b5 33.Bb3 Rg4 34.Kf1 f4 35.gxf4 Qxh4 36.Qf3 Rg6 37.f5 Qg4
+38.Rd3 Rf6 39.Qxg4 hxg4 40.Rd4 Rxf5 41.Rxg4 g5 42.Rxg5+ Rxg5 43.Nxg5 Kf8
+44.Ne4 Be5 45.d6 Bc6 46.Nc5 Bxd6 47.Ne6+ Ke7 48.Nd4 Bd7 49.Bc2 Be5 50.Nf5+ Kf6
+51.Ne3 Bxb2 52.Ke2 a5 53.Kd3 a4 54.Nd5+ Ke5 55.Ne3 Be6 56.Bb1 a3 57.Kc2 Bd4
+58.Kd3 Bxe3 59.Kxe3 a2 60.f4+ Kd6 61.Bxa2 Bxa2 62.Kd4 Be6  0-1

@@ -1,0 +1,21 @@
+[Event "Aimchess US Rapid KO 2021"]
+[Site "chess24.com INT"]
+[Date "2021.08.31"]
+[Round "1.13"]
+[White "Aronian,L"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2782"]
+[BlackElo "2782"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 Bc5 7.c3 O-O 8.O-O d5
+9.exd5 Nxd5 10.Re1 Bg4 11.h3 Bh5 12.Nbd2 Ba7 13.Ne4 f6 14.Be3 Bxe3 15.fxe3 Kh8
+16.Ng3 Bf7 17.d4 Qd7 18.dxe5 Nxe5 19.Nxe5 fxe5 20.c4 Nb6 21.Qxd7 Nxd7 22.cxb5 Bxb3
+23.axb3 axb5 24.Rxa8 Rxa8 25.Rc1 Ra7 26.Rd1 c5 27.Ne4 h6 28.Kf2 c4 29.b4 Nb6
+30.Nc3 Na4 31.Rd2 Nxc3 32.bxc3 Ra3 33.Rd8+ Kh7 34.Re8 Rxc3 35.Rxe5 Rb3 36.Rxb5 Kg6
+37.Kf3 Kf6 38.h4 c3 39.h5 Ke6 40.g4 Kd6 41.Rc5 Ke6 42.b5 Kd6 43.Rc8 Ke5 44.Rc7 Kf6
+45.Kf4 Rxb5 46.Rc6+ Kf7 47.Rxc3 Rb1 48.Rc7+ Kf6 49.Rc6+ Kf7 50.e4 Rf1+ 51.Ke5 Rg1
+52.Rc7+ Kg8 53.Kf5 Rf1+ 54.Ke6 Rf4 55.e5 Rxg4 56.Rc8+ Kh7 57.Kd5 Rg1 58.e6 Rd1+
+59.Kc6 Rc1+ 60.Kd7 Rd1+ 61.Ke8 g6 62.Rc7+ Kg8 63.hxg6 h5 64.e7 Kg7 65.Rd7 Ra1
+66.Rd6 h4 67.Kd7 Ra7+ 68.Ke6 Ra8 69.Rd8  1-0

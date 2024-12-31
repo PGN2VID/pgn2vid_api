@@ -1,0 +1,15 @@
+[Event "Tetraktys Concept Mgmt Bl"]
+[Site "Europe-Echecs INT"]
+[Date "2021.06.06"]
+[Round "2"]
+[White "Shirov,A"]
+[Black "Berkovich,M"]
+[Result "0-1"]
+[WhiteElo "2662"]
+[BlackElo "2324"]
+[ECO "C60"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.Nc3 Ng6 5.d4 exd4 6.Nxd4 Nxd4 7.Qxd4 c6 8.Be2 Qb6
+9.Be3 Qxd4 10.Bxd4 f6 11.O-O-O d6 12.g3 Be6 13.f4 Bf7 14.h4 h5 15.b4 Be7
+16.b5 a6 17.bxc6 bxc6 18.Bb6 Kd7 19.Na4 Rhb8 20.Ba5 Bd8 21.Bxd8 Kxd8 22.Rxd6+ Kc7
+23.Re1 Kxd6 24.Rd1+  0-1

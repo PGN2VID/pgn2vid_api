@@ -1,0 +1,22 @@
+[Event "AI Cup Div 1 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.4"]
+[White "Vachier Lagrave,M"]
+[Black "Firouzja,Alireza"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2777"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Qf3 Bg6 6.c3 Nd7 7.Bc4 e5 8.Ne2 exd4
+9.cxd4 Bb4+ 10.N4c3 Ngf6 11.O-O O-O 12.Bb3 Qa5 13.Nf4 Bf5 14.h3 Rfe8 15.g4 Be4
+16.Nxe4 Rxe4 17.Rd1 Rae8 18.Be3 Bd6 19.Rac1 Nb6 20.Bc2 R4e7 21.Bb3 Ne4 22.h4 Bxf4
+23.Bxf4 Nd5 24.Rc2 Nb4 25.Re2 Nd5 26.Rde1 Nef6 27.Rxe7 Nxe7 28.Re5 Qd8 29.Bg5 Qxd4
+30.Bxf6 gxf6 31.Qxf6 Qxg4+ 32.Kf1 Qg7 33.Qd6 Qf8 34.h5 Kh8 35.Qf6+ Qg7 36.Qxf7 Qxe5
+37.Qxe8+ Kg7 38.Qf7+ Kh6 39.Bc2 Qb5+ 40.Kg1 Qg5+ 41.Kf1 Qc1+ 42.Kg2 Qxc2
+43.Qf8+ Kxh5 44.Qxe7 Qxb2 45.Qxh7+ Kg5 46.Qe7+ Kf5 47.Qc5+ Ke4 48.Qxa7 Kd5
+49.Kg3 c5 50.f4 c4 51.Qa5+ b5 52.Qd8+ Ke4 53.Qe7+ Kd3 54.Qh7+ Ke3 55.Qe7+ Kd2
+56.f5 c3 57.Qd6+ Kc1 58.f6 c2 59.Qf4+ Kb1 60.f7 Qg7+ 61.Kf2 c1=Q 62.f8=Q Qgg1+
+63.Kf3 Qcd1+ 64.Ke4 Qg2+ 65.Ke5 Qdd5+ 66.Kf6 Kb2 67.Q8b4+ Kxa2 68.Qa5+ Kb1
+69.Qe1+ Ka2 70.Qa5+ Kb3 71.Qe3+ Kc4 72.Qac3+  1-0

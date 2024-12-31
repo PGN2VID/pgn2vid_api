@@ -1,0 +1,14 @@
+[Event "Kosice sim"]
+[Site "Kosice"]
+[Date "1921.??.??"]
+[Round "?"]
+[White "Breyer, Gyula"]
+[Black "Votruba, Pavel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C32"]
+
+1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.Nc3 Bb4 6.dxe4 Nxe4 7.Qe2 O-O 8.Qc4 Re8
+9.Qxb4 Nxc3+ 10.Be2 Nxd5 11.Qd4 Nc6 12.Qf2 Ndb4 13.Kf1 Nxc2 14.Rb1 N6d4 15.g3 Nxe2
+16.Nxe2 Bh3+  0-1

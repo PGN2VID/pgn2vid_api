@@ -1,0 +1,14 @@
+[Event "chess.com SpeedChess 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.05"]
+[Round "1.11"]
+[White "So,W"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2753"]
+[BlackElo "2742"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qd2 Nf6 8.O-O-O Bb4
+9.f3 Na5 10.Nb3 Nc4 11.Bxc4 Qxc4 12.Bd4 Be7 13.e5 Nd5 14.Nxd5 Qxd5 15.Qe3 b5
+16.Kb1 Qb7 17.Nc5 Qc7 18.Ne4 Bb7 19.Nd6+ Bxd6 20.exd6 Qc6 21.Qg5 f6 22.Bxf6  1-0

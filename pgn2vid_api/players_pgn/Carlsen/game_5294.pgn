@@ -1,0 +1,19 @@
+[Event "chess.com SpeedChess Q2Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.23"]
+[Round "5"]
+[White "Shimanov,A"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2566"]
+[BlackElo "2835"]
+[ECO "B21"]
+
+1.d4 c5 2.e4 cxd4 3.Qxd4 Nf6 4.Nc3 d6 5.Nf3 a6 6.Bg5 Nbd7 7.e5 dxe5 8.Nxe5 e6
+9.O-O-O Qc7 10.Nxd7 Bxd7 11.Bxf6 gxf6 12.Qxf6 Rg8 13.Ne4 Be7 14.Qd4 O-O-O
+15.Nd6+ Kb8 16.Nxf7 Rc8 17.Qe5 Bf6 18.Qxc7+ Rxc7 19.Nd6 Bc6 20.f3 Rd7 21.Bc4 Bg5+
+22.Kb1 Rgd8 23.Bxe6 Rxd6 24.Rxd6 Rxd6 25.Bf5 h6 26.Bd3 Re6 27.a3 Re3 28.Rf1 Bf6
+29.Kc1 Kc7 30.Kd2 Re7 31.Kc1 h5 32.g3 h4 33.gxh4 Bxh4 34.f4 Re3 35.f5 Bf6
+36.Rf2 Re1+ 37.Kd2 Rh1 38.b3 Bd4 39.Re2 Bf3 40.Re1 Bc3+ 41.Kxc3 Rxe1 42.Kd4 Kd6
+43.c4 Ke7 44.Kc5 Re3 45.Kd4 Re1 46.b4 Kf6 47.a4 Rh1 48.a5 Rxh2 49.b5 Ra2
+50.Kc5 Rxa5 51.Kb6 Ra3 52.Bc2 axb5  0-1

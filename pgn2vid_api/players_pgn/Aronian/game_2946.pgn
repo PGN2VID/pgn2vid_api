@@ -1,0 +1,15 @@
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.10.03"]
+[Round "1.23"]
+[White "Aronian,L"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteElo "2758"]
+[BlackElo "2702"]
+[ECO "A28"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 d6 6.Be2 O-O 7.O-O Bxc3 8.Qxc3 Ne4
+9.Qc2 f5 10.d4 Qe7 11.b3 g5 12.dxe5 dxe5 13.Nd2 Nb4 14.Qb2 Nf6 15.Qc3 c5
+16.Bb2 Nc6 17.Rae1 g4 18.f3 h5 19.f4 e4 20.h4 g3 21.Nf3 exf3 22.Rxf3 Kh7
+23.Rxg3 Ng4 24.e4 Nd4 25.exf5 Qxe2 26.Kh1 Qf2 27.Re7+ Kh6  0-1

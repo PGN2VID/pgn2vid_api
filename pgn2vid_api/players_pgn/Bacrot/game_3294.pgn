@@ -1,0 +1,23 @@
+[Event "Chess.com Rapid Wk5 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.03.12"]
+[Round "4"]
+[White "Bacrot,E"]
+[Black "Sadhwani,Raunak"]
+[Result "0-1"]
+[WhiteElo "2635"]
+[BlackElo "2616"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.d4 exd4 5.Nxd4 Nf6 6.Nc3 Be7 7.O-O O-O 8.Re1 Re8
+9.h3 Nxd4 10.Qxd4 Nd7 11.Bf4 Bf6 12.Qd5 Re7 13.Qd2 Nb6 14.Bb3 Be6 15.Rad1 Qe8
+16.Bg5 Bxc3 17.Qxc3 f6 18.Be3 Qf7 19.f3 Rae8 20.Qa5 Bxb3 21.axb3 Nc8 22.Bf4 a6
+23.Bg3 Na7 24.Kh2 Nc6 25.Qc3 Ne5 26.Rd5 f5 27.Bxe5 fxe4 28.Bxd6 cxd6 29.fxe4 Rxe4
+30.Rxe4 Rxe4 31.Rxd6 h6 32.Qd2 Kh7 33.c4 Qf5 34.Rd5 Qf7 35.Rd4 Qc7+ 36.Kh1 Re7
+37.Rd6 g6 38.Qd4 Rf7 39.Qd3 Rg7 40.b4 Qe7 41.Qg3 Qe4 42.b3 h5 43.Rd8 Rf7
+44.Qb8 Qe1+ 45.Kh2 Qa1 46.Qg3 Qf6 47.Rd6 Qf5 48.Rd3 Rg7 49.h4 Qe4 50.Re3 Qf5
+51.Re5 Qf6 52.Qg5 Qd6 53.c5 Qd3 54.Qg3 Qd4 55.Qg5 Qxb4 56.Re7 Qxb3 57.Rxg7+ Kxg7
+58.Qe5+ Kf7 59.Qc7+ Kf6 60.Qf4+ Ke6 61.Qd6+ Kf5 62.Qd7+ Ke4 63.Qe8+ Kd4 64.Qxg6 Qd5
+65.c6 bxc6 66.g3 a5 67.Qc2 Qc4 68.Qd2+ Kc5 69.Qf2+ Kb5 70.Qf5+ c5 71.Qb1+ Qb4
+72.Qd3+ Qc4 73.Qd7+ Kb4 74.Qb7+ Qb5 75.Qe4+ c4 76.g4 hxg4 77.Qb1+ Kc5 78.Qxb5+ Kxb5
+79.h5 c3 80.h6 c2 81.h7 c1=Q 82.h8=Q Qc2+ 83.Kg3 Qc5 84.Kxg4 Qc4+ 85.Kg5 Qc5+  0-1

@@ -1,0 +1,26 @@
+[Event "FIDE Steinitz Mem Open"]
+[Site "chess24.com INT"]
+[Date "2020.05.17"]
+[Round "14.4"]
+[White "Korobov,A"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2688"]
+[BlackElo "2723"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 Nc6 6.h3 e5 7.d5 Nd4 8.e3 Nf5 9.Nge2 d6
+10.e4 Nd4 11.Be3 Nxe2 12.Qxe2 Nd7 13.O-O f5 14.exf5 gxf5 15.f4 a6 16.Rad1 Qe7
+17.Qd2 Kh8 18.b3 exf4 19.Bxf4 Ne5 20.Rfe1 Bd7 21.c5 Qf7 22.c6 bxc6 23.dxc6 Nxc6
+24.Nd5 Rac8 25.Rc1 Ne5 26.Nxc7 Bc6 27.Bxc6 Qxc7 28.Bg2 Qb6+ 29.Kh2 a5 30.Red1 Rxc1
+31.Rxc1 Ng6 32.Bxd6 Rd8 33.Rc6 Qb5 34.Qc2 Be5 35.Rc8 Rxc8 36.Qxc8+ Kg7 37.Qc7+ Kf6
+38.Bxe5+ Nxe5 39.Qd6+ Kg7 40.a4 Qe2 41.Qe7+ Kg6 42.Qe6+ Kg7 43.Qxf5 Qe3 44.h4 Qe2
+45.Qg5+ Kf7 46.Qf5+ Ke7 47.Kh3 h5 48.Qe4 Qb2 49.Bf3 Kf6 50.Qf4+ Ke6 51.Bxh5 Qxb3
+52.Bg4+ Kd5 53.Bf5 Qd1 54.Qe4+ Kd6 55.Qg2 Nf3 56.Be4 Ng5+ 57.Kh2 Ne6 58.Bf5 Qxa4
+59.Bxe6 Kxe6 60.Qe2+ Kf6 61.Qa6+ Kg7 62.Qb7+ Kg6 63.Qb6+ Kg7 64.Qc7+ Kg6
+65.Qd6+ Kg7 66.Qe5+ Kg6 67.h5+ Kh6 68.Kh3 Qd1 69.Qh8+ Kg5 70.Qg7+ Kf5 71.g4+ Ke4
+72.Qe7+ Kf3 73.Qf6+ Ke3 74.Qe5+ Kf2 75.Qf4+ Ke1 76.Qe3+ Kf1 77.h6 Qd7 78.Qf4+ Ke2
+79.Qe4+ Kf2 80.h7 Qg7 81.Qf5+ Kg1 82.Qc5+ Kf1 83.Qf5+ Kg1 84.g5 Qc3+ 85.Kg4 Qd4+
+86.Kh5 Qd1+ 87.Kh6 Qd6+ 88.Qf6 Qh2+ 89.Kg7 Qc7+ 90.Kg6 Qc2+ 91.Qf5 Qc6+ 92.Kh5 Qh1+
+93.Kg6 Qc6+ 94.Qf6 Qc2+ 95.Kg7 Qc7+ 96.Qf7 Qc3+ 97.Kg8 Qc8+ 98.Kg7 Qc3+ 99.Kh6 Qh3+
+100.Qh5 Qe6+ 101.g6  1-0

@@ -4,3 +4,4 @@ __pycache__/
 db.sqlite3
 .env
 pgn2vid_api/media/*
+pgn2vid_api/db.sqlite3-journal

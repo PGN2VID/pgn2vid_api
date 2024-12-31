@@ -1,0 +1,22 @@
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2020.09.12"]
+[Round "1.7"]
+[White "Erigaisi,Arjun"]
+[Black "Gukesh,D"]
+[Result "1-0"]
+[WhiteElo "2559"]
+[BlackElo "2563"]
+[ECO "B10"]
+
+1.e4 c6 2.Nf3 d5 3.d3 Nf6 4.e5 Nfd7 5.d4 c5 6.c4 cxd4 7.cxd5 Qa5+ 8.Nbd2 Nb6
+9.a4 Nxd5 10.Bb5+ Bd7 11.Bxd7+ Nxd7 12.e6 fxe6 13.O-O e5 14.Re1 g6 15.Nc4 Qc5
+16.Ncxe5 Nxe5 17.Nxe5 Bg7 18.Bd2 Qd6 19.Nc4 Qf6 20.Qb3 O-O 21.f3 Kh8 22.Qxb7 Rad8
+23.Qb3 d3 24.Re4 Nb6 25.Nxb6 axb6 26.Bc3 Qd6 27.Bxg7+ Kxg7 28.Rd1 Qc5+ 29.Kf1 d2
+30.Qc3+ Qxc3 31.bxc3 Rd3 32.Rxe7+ Rf7 33.Rxf7+ Kxf7 34.Ke2 Rxc3 35.Rxd2 Rc4
+36.Rd7+ Kg8 37.Ra7 Rc2+ 38.Kf1 Ra2 39.h4 b5 40.a5 b4 41.Kg1 b3 42.Rb7 Rxa5
+43.Rxb3 Ra4 44.Rb8+ Kg7 45.Rb7+ Kg8 46.g3 Ra3 47.Kg2 Ra2+ 48.Kf1 Rc2 49.Re7 Ra2
+50.Re2 Ra3 51.Kf2 Kf7 52.Rb2 Rc3 53.Rb7+ Kg8 54.g4 Rc4 55.Ke3 Ra4 56.Rd7 Rb4
+57.Rd4 Rb5 58.Kf4 Ra5 59.Rd8+ Kg7 60.Rd7+ Kg8 61.Ke4 Rb5 62.Rd5 Rb3 63.f4 Rh3
+64.h5 gxh5 65.gxh5 Ra3 66.Kf5 Ra4 67.Kg5 Kg7 68.Rd7+ Kg8 69.h6 Ra5+ 70.f5 Ra6
+71.Rd8+ Kf7 72.Rh8 Ra1 73.Rxh7+ Kg8 74.Rg7+ Kh8 75.Rb7 Rc1 76.Kg6 Rc2 77.Rb8+  1-0

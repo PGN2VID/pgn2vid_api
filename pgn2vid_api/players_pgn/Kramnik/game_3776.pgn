@@ -1,0 +1,18 @@
+[Event "chess.com SpeedChess Q2Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.23"]
+[Round "3"]
+[White "Kramnik,V"]
+[Black "Skliarov,V"]
+[Result "1-0"]
+[WhiteElo "2753"]
+[BlackElo "2383"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 Nd4 6.Nxd4 cxd4 7.c3 a6 8.Bf1 Nc6
+9.b4 Be7 10.a4 O-O 11.Na3 dxc3 12.dxc3 d5 13.b5 axb5 14.axb5 Na5 15.exd5 exd5
+16.Nc2 Bf6 17.Nd4 b6 18.Bf4 Bd7 19.Qf3 Bxd4 20.cxd4 Bf5 21.Qg3 Rc8 22.Bd6 Re8
+23.Bc7 Qf6 24.Rxe8+ Rxe8 25.Be5 Qg6 26.f3 Rc8 27.Qxg6 hxg6 28.g4 Bd7 29.g5 Nc4
+30.Ra7 Nxe5 31.dxe5 Be6 32.Rb7 d4 33.Rxb6 Rc1 34.Kf2 Bc4 35.Bxc4 Rxc4 36.Rb8+ Kh7
+37.b6 Rc2+ 38.Ke1 Rxh2 39.b7 Rb2 40.Kd1 d3 41.f4 d2 42.Ke2 f6 43.exf6 gxf6
+44.gxf6 Rb6 45.f7 Rf6 46.f8=Q Rxf8 47.Rxf8  1-0

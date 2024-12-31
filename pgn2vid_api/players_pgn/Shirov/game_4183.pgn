@@ -1,0 +1,20 @@
+[Event "Mikhail Tal Blitz 2020"]
+[Site "lichess.org INT"]
+[Date "2020.11.09"]
+[Round "6"]
+[White "Shirov,A"]
+[Black "Aleksandrov,A"]
+[Result "1-0"]
+[WhiteElo "2662"]
+[BlackElo "2574"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.Nc3 Bd7 6.O-O Be7 7.Nd5 Nxd5 8.exd5 Nb8
+9.Bc4 O-O 10.Re1 Bg4 11.h3 Bh5 12.d4 exd4 13.g4 Bg6 14.Nxd4 Bf6 15.f4 Bxd4+
+16.Qxd4 Qh4 17.Re3 Nd7 18.Bd2 h6 19.Bc3 Qf6 20.Qxf6 Nxf6 21.Bxf6 gxf6 22.f5 Bh7
+23.Rae1 Rfd8 24.Kf2 Kf8 25.Bb5 a6 26.Ba4 b5 27.Bb3 Re8 28.a4 Re5 29.Rc3 Ra7
+30.Rc6 bxa4 31.Rxe5 fxe5 32.Bxa4 f6 33.Rc4 Bg8 34.Bc6 Bf7 35.Rb4 a5 36.Rb8+ Kg7
+37.b3 Bg8 38.Ke3 Bf7 39.c4 h5 40.Kf3 hxg4+ 41.hxg4 Kh7 42.Kg3 Kg7 43.Kh4 Kh6
+44.Rh8+ Kg7 45.Rd8 Kh6 46.Rd7 Be8 47.Re7 Bxc6 48.dxc6 a4 49.bxa4 Rxa4 50.Rxc7 Rxc4
+51.Rf7 Rxc6 52.Rxf6+ Kg7 53.Re6 Kf7 54.g5 Rc4+ 55.Kh5 Rd4 56.g6+ Kf8 57.f6 Rd1
+58.Re7 Rh1+ 59.Kg5 Rg1+ 60.Kf5 e4 61.g7+  1-0

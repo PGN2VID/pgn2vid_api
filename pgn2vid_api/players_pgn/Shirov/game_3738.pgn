@@ -1,0 +1,34 @@
+[Event "St.Petersburg Rapid 2018"]
+[Site "St Petersburg RUS"]
+[Date "2018.08.26"]
+[Round "10.6"]
+[White "Fedorov,Alex"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2561"]
+[BlackElo "2631"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 O-O 6.Nbd2 Kh8 7.c3 d6 8.Bb3 Ng8
+9.Nc4 f5 10.exf5 Bxf5 11.d4 exd4 12.cxd4 Bb6 13.d5 Na5 14.Nxa5 Bxa5 15.Nd4 Qf6
+16.Be3 Rae8 17.Ne6 Bxe6 18.dxe6 Bb6 19.Bxb6 axb6 20.Rc1 Qd8 21.f4 Nf6 22.f5 d5
+23.g4 c5 24.Rc3 d4 25.Rh3 b5 26.g5 c4 27.gxf6 Qxf6 28.Bc2 d3 29.Bxd3 Qd4+
+30.Rf2 Rxf5 31.Rf3 Qg4+ 32.Kh1 Rxf3 33.Rxf3 Qxe6 34.Bf1 Qe5 35.Qe2 Qxe2 36.Bxe2 g6
+37.Rf2 Ra8 38.a3 c3 39.bxc3 Rxa3 40.Rf7 Rxc3 41.Rxb7 b4 42.Rxb4 Kg7 43.Rb7+ Kh6
+44.Kg2 Re3 45.Bf3 Rd3 46.Be4 Rd4 47.Kf3 Rd2 48.Kg3 Rd4 49.Re7 Kg5 50.Kf3 Kh6
+51.Ke3 Rd1 52.Ra7 Re1+ 53.Kf3 Rf1+ 54.Kg2 Rd1 55.Kg3 Rg1+ 56.Kf2 Rd1 57.Ra5 Rd2+
+58.Kg3 Rd4 59.Bf3 Rd3 60.Ra7 Rd4 61.Kf2 Rd2+ 62.Be2 Rd4 63.h3 Kg5 64.Kg3 Kh6
+65.Bg4 Re4 66.Kf3 Re1 67.Kf4 Re8 68.Bf3 Rf8+ 69.Ke3 Re8+ 70.Be4 Re5 71.Kf4 Rh5
+72.Bg2 Rf5+ 73.Ke3 Re5+ 74.Kd4 Rh5 75.Ke3 Re5+ 76.Kf2 Rh5 77.Kg3 Rg5+ 78.Kh2 Re5
+79.Bf3 Rf5 80.Bg4 Re5 81.Kg2 Re3 82.Kf2 Re8 83.Be2 Rg8 84.Bc4 Rg7 85.Ra3 Rc7
+86.Bd5 Rd7 87.Be4 Re7 88.Bf3 Kg5 89.Kg3 Rc7 90.Ra5+ Kh6 91.Kf4 Rf7+ 92.Ke3 Rc7
+93.Be4 Rc3+ 94.Bd3 Rc7 95.Re5 Kg7 96.Re6 Kh6 97.Re5 Kg7 98.Rd5 Re7+ 99.Kf4 Rf7+
+100.Kg4 Kh6 101.h4 Ra7 102.Be4 Re7 103.Kf4 Rf7+ 104.Ke3 Re7 105.Kf3 Rf7+
+106.Kg3 Re7 107.Bf3 Ra7 108.h5 Ra6 109.hxg6 hxg6 110.Be4 Rf6 111.Kg4 Rb6
+112.Kf4 Re6 113.Rd1 Kg7 114.Rg1 Kh6 115.Bd5 Re7 116.Rh1+ Kg7 117.Ra1 Kh6
+118.Ra6 Re1 119.Be4 Rg1 120.Ke5 Kh5 121.Ra8 Re1 122.Rh8+ Kg4 123.Rg8 g5 124.Kd4 Kf4
+125.Rf8+ Kg3 126.Rf3+ Kh4 127.Bf5 g4 128.Rf2 g3 129.Ra2 Rf1 130.Ke5 Rf2 131.Ra4+ Kh5
+132.Rg4 g2 133.Kf6 g1=Q 134.Rxg1 Kh4 135.Ke5 Re2+ 136.Kf4 Rf2+ 137.Ke4 Re2+
+138.Kf3 Ra2 139.Rg8 Kh5 140.Be4 Ra1 141.Kf4 Rf1+ 142.Ke5 Re1 143.Kf4 Rf1+
+144.Bf3+ Kh6 145.Ra8 Rf2 146.Rg8 Rf1 147.Rg3 Ra1 148.Be4 Rf1+ 149.Ke5 Kh5
+150.Bf5 Kh4 151.Rg4+ Kh5 152.Kf6 Rf3 153.Ra4 Rc3 154.Bg6+  1-0

@@ -1,0 +1,14 @@
+[Event "Chess.com RCC Wk14 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.05.14"]
+[Round "7"]
+[White "Giri,A"]
+[Black "Xiong,Jeffery"]
+[Result "0-1"]
+[WhiteElo "2761"]
+[BlackElo "2688"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bf1 Bg4 8.d4 Bxf3
+9.gxf3 cxd4 10.cxd4 e6 11.Nc3 d5 12.Bg5 Be7 13.Bxf6 Bxf6 14.exd5 Nxd4 15.Re4 Nf5
+16.dxe6 O-O 17.exf7+ Kh8 18.Qd5 Nd6 19.Re6 Nxf7 20.f4 Bxc3 21.Qxd8 Nxd8  0-1

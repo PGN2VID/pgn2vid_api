@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "5"]
+[White "Von Scheve, Theodor"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 Bg4 3.Bf4 e6 4.e3 Nf6 5.c3 Bd6 6.Bg3 Nbd7 7.Nbd2 O-O 8.Qc2 Qe7
+9.Ne5 Bf5 10.Bd3 Bxd3 11.Qxd3 Bxe5 12.dxe5 Nc5 13.Qc2 Nfe4 14.f3 Nxg3 15.hxg3 h6
+16.f4 f5 17.b4 Nd7 18.g4 c5 19.gxf5 exf5 20.Qb3 Nb6 21.a4 cxb4 22.Qxb4 Qxb4
+23.cxb4 Rac8 24.Ke2 Rc2 25.Rhc1 Rxc1 26.Rxc1 Nxa4 27.Rc7 Rf7 28.Rc8+ Kh7
+29.Kd3 Nb6 30.Rd8 Rc7 31.Nf3 g6 32.Nd4 Rc8 33.Ne6 Rxd8 34.Nxd8 Kg8 35.Kd4 Kf8
+36.Nxb7 Ke7 37.Na5 Ke6 38.Nc6 Nc8 39.Kc5 Nb6 40.Nxa7 Nc4 41.b5 g5 42.b6 gxf4
+43.exf4 Na5 44.Nc6 Nb7+ 45.Kb5 Kd7 46.Nd4 Nd8 47.Ka6 Kc8 48.Ka7 Nb7 49.Nxf5 Na5
+50.Ne7+ Kd7 51.Nxd5  1-0

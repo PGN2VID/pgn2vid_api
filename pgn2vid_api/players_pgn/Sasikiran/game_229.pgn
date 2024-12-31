@@ -1,0 +1,24 @@
+[Event "FIDE GP"]
+[Site "Moscow RUS"]
+[Date "2002.06.01"]
+[Round "1.2"]
+[White "Bareev,E"]
+[Black "Sasikiran,K"]
+[Result "0-1"]
+[WhiteElo "2724"]
+[BlackElo "2633"]
+[ECO "A30"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 c5 5.O-O g6 6.b3 Bg7 7.Bb2 O-O 8.Nc3 d6
+9.e3 Nbd7 10.d4 a6 11.a4 e6 12.Qd2 Qc7 13.Rac1 Rad8 14.d5 exd5 15.cxd5 b5
+16.axb5 axb5 17.Nxb5 Qb6 18.Nc3 Qxb3 19.Rfd1 Nb6 20.Rb1 Nc4 21.Qc1 Bc8 22.Nd2 Nxd2
+23.Qxd2 Qc4 24.Ba1 Qg4 25.h3 Qh5 26.Ne2 Qh6 27.h4 Bf5 28.Rb6 Ne4 29.Bxg7 Qxg7
+30.Qb2 Qxb2 31.Rxb2 Rb8 32.Rdb1 Nxg3 33.Rxb8 Nxe2+ 34.Kf1 Bxb1 35.Rxb1 Nc3
+36.Rb6 Rd8 37.Ke1 Na2 38.Kd2 Nb4 39.Kc3 Kf8 40.e4 Ke7 41.f4 Ra8 42.Rb7+ Kf6
+43.Rb6 Ra2 44.Bf1 Rf2 45.e5+ Kg7 46.Bc4 Rf3+ 47.Kd2 Rxf4 48.Kc3 dxe5 49.Rb5 Nxd5+
+50.Bxd5 Rxh4 51.Rxc5 h5 52.Kd3 Rf4 53.Ke3 f6 54.Rc8 Rd4 55.Rg8+ Kh7 56.Bf7 Rd7
+57.Be6 Re7 58.Bd5 f5 59.Rd8 Kh6 60.Rd6 Kg5 61.Bc6 e4 62.Rd1 h4 63.Rg1+ Kf6
+64.Kf4 Rg7 65.Rd1 g5+ 66.Ke3 Re7 67.Rd8 Ke5 68.Rd5+ Kf6 69.Rd8 f4+ 70.Ke2 Kf5
+71.Bd7+ Ke5 72.Bg4 Ra7 73.Re8+ Kd4 74.Rd8+ Kc5 75.Be6 Ra3 76.Rd5+ Kb6 77.Rxg5 h3
+78.Rh5 h2 79.Rxh2 Kc5 80.Rh5+ Kd6 81.Bc4 Rc3 82.Rd5+ Kc6 83.Ba2 Rc2+ 84.Ke1 Rxa2
+85.Rd4 Ra1+ 86.Kf2 e3+ 87.Ke2 Ra2+ 88.Ke1 f3  0-1

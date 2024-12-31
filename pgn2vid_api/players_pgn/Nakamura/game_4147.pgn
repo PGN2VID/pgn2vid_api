@@ -1,0 +1,17 @@
+[Event "Chess.com SIG Bullet KO"]
+[Site "chess.com INT"]
+[Date "2021.04.07"]
+[Round "2.1"]
+[White "Nakamura,Hi"]
+[Black "Firouzja,Alireza"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2759"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 d6 7.Bd3 Nc6 8.O-O Be7
+9.Qe2 O-O 10.Rd1 Bd7 11.Nc3 Nxc3 12.bxc3 d5 13.g3 Rc8 14.h4 h6 15.Bc2 f5
+16.exf6 Rxf6 17.Qd3 Rf5 18.g4 Rxf3 19.Qxf3 Bxh4 20.Qd3 Bf6 21.f4 Qb6 22.Be3 Ne7
+23.g5 Bb5 24.Qh7+ Kf7 25.gxf6 Kxf6 26.Bf2 Kf7 27.Rab1 Rxc3 28.a4 Qc7 29.Rxb5 Qxf4
+30.Rb3 Qg4+ 31.Kf1 Qh3+ 32.Ke1 Rxb3 33.Bxb3 Qc3+ 34.Ke2 Qxb3 35.Qd3 Qxa4
+36.Qf3+ Nf5 37.Qd3 Qc6 38.Rb1 Qd7 39.Qb5  1-0

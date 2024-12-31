@@ -1,0 +1,15 @@
+[Event "New York sim"]
+[Site "New York"]
+[Date "1892.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Richards"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 d6 5.d4 exd4 6.cxd4 Bb4+ 7.Kf1 Bd7 8.Qa4 Qe7
+9.d5 Qxe4 10.Nc3 Qe7 11.Bg5 Nf6 12.Re1 Ne5 13.Qxb4 O-O-O 14.Rxe5 Bxb5+ 15.Nxb5 Qd7
+16.Nxa7+ Kb8 17.Re7 Qf5 18.Nc6+ Kc8 19.Qa5 Qd3+ 20.Kg1 Qd1+ 21.Ne1 Qxe1+
+22.Rxe1 Rde8 23.Rxe8+ Rxe8 24.g3  1-0

@@ -1,0 +1,13 @@
+[Event "New York sim"]
+[Site "New York"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Hartlaub, K."]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Bc4 Nf6 3.Nf3 Nxe4 4.Nc3 Nxc3 5.dxc3 f6 6.O-O c6 7.Nxe5 d5 8.Qh5+ Ke7
+9.Nf7 Qe8  0-1

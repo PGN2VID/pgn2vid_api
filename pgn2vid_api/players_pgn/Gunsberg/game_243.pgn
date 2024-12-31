@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Gunsberg, Isidor"]
+[Black "Reggio, Arturo"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 exd4 6.e5 Ne4 7.O-O Be7 8.Nxd4 Nxd4
+9.Qxd4 Nc5 10.Nc3 Nxa4 11.Qxa4 O-O 12.Bf4 b5 13.Nxb5 Bb7 14.Nd4 Bg5 15.Bg3 Kh8
+16.Rad1 f5 17.f4 Bh4 18.Ne6 Qe7 19.Nxf8 Bxg3 20.Nxd7 Bxh2+ 21.Kxh2 Qh4+ 22.Kg1 Bxg2
+23.Kxg2 Qg4+ 24.Kf2 Qh4+ 25.Ke3 g5 26.Qc6 gxf4+ 27.Rxf4 Qg3+ 28.Rf3 Qg5+
+29.Rf4 Qg3+ 30.Qf3  1-0

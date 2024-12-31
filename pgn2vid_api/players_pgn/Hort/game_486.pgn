@@ -1,0 +1,22 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1968.??.??"]
+[Round "4"]
+[White "Padevsky, Nikola"]
+[Black "Hort, Vlastimil"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qb3 Nb6 6.Nf3 Bg7 7.Bf4 Be6 8.Qc2 Nc6
+9.e3 Nb4 10.Qd1 O-O 11.Be2 c5 12.O-O Rc8 13.Be5 Bxe5 14.Nxe5 cxd4 15.exd4 Nc6
+16.Nxc6 Rxc6 17.Bf3 Nd5 18.Bxd5 Bxd5 19.Re1 e6 20.Qd2 Rd6 21.Qf4 Re8 22.Rad1 Re7
+23.Re3 Red7 24.Red3 a6 25.h4 h5 26.Rg3 b5 27.b3 Bb7 28.Rgd3 Qe7 29.Re3 Kg7
+30.Ne2 Qf6 31.Qg3 b4 32.Rc1 Rc6 33.Rxc6 Bxc6 34.Re5 Kh7 35.Qe3 Qxh4 36.Nf4 Qg4
+37.f3 Qh4 38.Rc5 Bb7 39.Rc4 Qe7 40.Nd3 a5 41.Ne5 Bd5 42.Nxd7 Bxc4 43.Nc5 Bd5
+44.Qe5 f6 45.Qe2 Qd6 46.Qe3 Kg7 47.Nd3 Qc7 48.Nf4 Qc6 49.Nxd5 Qxd5 50.Qf4 g5
+51.Qc7+ Kg6 52.Qc2+ f5 53.Qd3 h4 54.Qe3 Kf6 55.Kf2 Qd6 56.Ke2 Qg3 57.Kf1 Qc7
+58.Kg1 Qg3 59.Kf1 h3 60.gxh3 Qxh3+ 61.Kg1 Qg3+ 62.Kf1 Qh2 63.Ke1 Qg3+ 64.Kf1 Kf7
+65.d5 exd5 66.Qd3 Qe5 67.Qb5 Kg6 68.Qxa5 Qd4 69.Qa8 g4 70.Kg2 Qb2+ 71.Kg3 Qe5+
+72.f4 Qe3+ 73.Kg2 Qf3+  0-1

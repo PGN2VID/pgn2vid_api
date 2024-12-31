@@ -1,0 +1,15 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "22"]
+[White "Moreau, C."]
+[Black "Tarrasch, Siegbert"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B34"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Bd3 O-O 8.O-O d5
+9.Nxc6 bxc6 10.exd5 cxd5 11.Bd4 Qd6 12.Bxf6 Bxf6 13.Qf3 Bb7 14.Rad1 Rab8
+15.Qg3 Qxg3 16.hxg3 Bc6 17.Rb1 e5 18.f3 Bg7 19.Rfe1 f5 20.Nd1 e4 21.fxe4 fxe4
+22.Bf1 Be5 23.Kh2 h5 24.c3 h4 25.Ne3 Bxg3+ 26.Kh1 Bxe1 27.Rxe1 Rxb2  0-1

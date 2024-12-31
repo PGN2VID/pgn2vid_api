@@ -1,0 +1,18 @@
+[Event "Clock Simul"]
+[Site "Sao Paulo BRA"]
+[Date "2001.09.03"]
+[Round "?"]
+[White "Short,N"]
+[Black "Zylberman,J"]
+[Result "1-0"]
+[WhiteElo "2664"]
+[BlackElo ""]
+[ECO "B60"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Nxd4 7.Qxd4 Qb6 8.Qxb6 axb6
+9.Be3 Bd7 10.Bxb6 Bc6 11.f3 g6 12.Bc4 Rc8 13.Bb3 Bg7 14.Bd4 O-O 15.O-O-O Rfd8
+16.Rhe1 Kf8 17.Kb1 e6 18.a3 h5 19.h4 Rd7 20.Na2 e5 21.Bc3 Bh6 22.Bd2 Bxd2
+23.Rxd2 b6 24.Nb4 Bb7 25.Red1 Ke7 26.Bd5 Bxd5 27.Nxd5+ Nxd5 28.Rxd5 f5 29.exf5 gxf5
+30.f4 exf4 31.Rxf5 Rg8 32.Rd2 Rg4 33.Rxh5 Kd8 34.Rhd5 Rxh4 35.Rxd6 Rxd6 36.Rxd6+ Kc7
+37.Rd4 Rg4 38.g3 Rxg3 39.Rxf4 Kc6 40.b3 Rg1+ 41.Kb2 Rg2 42.a4 Rg5 43.Ka3 Rh5
+44.Kb4 Rh2 45.Rc4+ Kb7 46.a5  1-0

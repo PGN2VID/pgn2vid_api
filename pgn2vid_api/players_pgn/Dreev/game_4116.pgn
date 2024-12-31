@@ -1,0 +1,22 @@
+[Event "chess.com SpeedChess Q2Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.23"]
+[Round "13"]
+[White "Harsh,Suresh"]
+[Black "Dreev,A"]
+[Result "0-1"]
+[WhiteElo "2324"]
+[BlackElo "2606"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Bc4 e6 5.Nf3 Nf6 6.O-O a6 7.Bd3 Nc6 8.e5 Ng4
+9.Re1 Qc7 10.Qe2 d6 11.Nd5 Qd8 12.exd6 Bxd6 13.Ne3 Nge5 14.Be4 O-O 15.Nxe5 Nxe5
+16.Nc4 Nxc4 17.Qxc4 Qc7 18.g3 Bd7 19.Qe2 Bc6 20.d3 Rae8 21.Bd2 f5 22.Bxc6 Qxc6
+23.Bc3 e5 24.Qd2 Re6 25.Re2 Rfe8 26.Rae1 Qd5 27.Qg5 g6 28.b3 Be7 29.Qc1 Bf6
+30.Qb2 Kf7 31.a4 h5 32.b4 h4 33.bxc5 h3 34.f3 Qxc5+ 35.Kf1 Qc6 36.Kf2 R8e7
+37.Bxe5 Rxe5 38.Rxe5 Rxe5 39.Rxe5 Bxe5 40.Qxe5 Qxc2+ 41.Kf1 Qd1+ 42.Kf2 Qd2+
+43.Kf1 Qxd3+ 44.Ke1 Qxf3 45.Qc7+ Ke6 46.Qc8+ Ke5 47.Qc7+ Kd4 48.Qb6+ Kc4
+49.Qe6+ Kb4 50.Qe7+ Kxa4 51.Qd7+ Qc6 52.Qd4+ Kb5 53.Qb2+ Kc5 54.Qe5+ Kb6
+55.Qd4+ Qc5 56.Qd8+ Qc7 57.Qd4+ Qc5 58.Qd8+ Ka7 59.Qd3 Qb6 60.Kf1 Qb5 61.Qxb5 axb5
+62.g4 Kb6 63.gxf5 gxf5 64.Kf2 Kc5 65.Kg3 b4 66.Kxh3 b3 67.Kg3 b2 68.Kf4 b1=Q
+69.h4 Qe4+ 70.Kg5 Qg4+ 71.Kf6 Qxh4+ 72.Kxf5 Kd5 73.Kg6 Qf4 74.Kh5 Qg3 75.Kh6 Ke6  0-1

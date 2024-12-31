@@ -1,0 +1,18 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "2"]
+[White "Moreau, C."]
+[Black "Maroczy, Geza"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.e5 Nc6 5.Bb5 Qb6 6.Bxc6+ bxc6 7.O-O Ba6 8.Re1 Bd3
+9.Na3 Nh6 10.Nc2 a5 11.Re3 c4 12.Ncd4 a4 13.a3 Bc5 14.Ne1 Bxd4 15.cxd4 Nf5
+16.Nxd3 Nxe3 17.dxe3 cxd3 18.Qxd3 O-O 19.Rb1 f6 20.exf6 Rxf6 21.Bd2 c5 22.dxc5 Qxc5
+23.Bc3 Rf7 24.Qd1 Qc4 25.Be5 Rc8 26.Bc3 Qe4 27.Rc1 e5 28.Qe1 Rc4 29.Qf1 Rfc7
+30.Re1 Qf5 31.Qe2 d4 32.exd4 exd4 33.Bb4 h6 34.Qd2 Kh7 35.h3 Rf7 36.f3 Qg6
+37.Qf2 Rc2 38.Qf1 Rxb2 39.Rd1 d3 40.Rxd3 Rxg2+ 41.Qxg2 Qxd3 42.Kf2 h5 43.h4 Rf4
+44.Be7 Qc2+ 45.Kg1 Qd1+ 46.Kf2 Rc4 47.Qg5 Rc2+ 48.Kg3 Qe1+ 49.Kf4 g6 50.Qd5 Qxe7  0-1

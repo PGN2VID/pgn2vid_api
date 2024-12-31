@@ -1,0 +1,22 @@
+[Event "FIDE GP"]
+[Site "Moscow RUS"]
+[Date "2002.06.03"]
+[Round "3.1"]
+[White "Lautier,J"]
+[Black "Polgar,Ju"]
+[Result "0-1"]
+[WhiteElo "2675"]
+[BlackElo "2677"]
+[ECO "E54"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 dxc4 7.Bxc4 c5 8.O-O cxd4
+9.exd4 b6 10.Bg5 Bb7 11.Re1 Nbd7 12.Rc1 Rc8 13.Bd3 Re8 14.Qe2 Nf8 15.a3 Bxc3
+16.bxc3 Qd6 17.a4 Ng6 18.Bxf6 gxf6 19.Qe3 Nf4 20.Bf1 Nd5 21.Qd2 Qf4 22.c4 Qxd2
+23.Nxd2 Nb4 24.a5 bxa5 25.c5 Red8 26.Nc4 Rxd4 27.Nxa5 Bd5 28.c6 Kf8 29.Rc5 Ke7
+30.Rec1 Kd6 31.Rb5 Nxc6 32.Rbc5 Rb4 33.R5c3 Kd7 34.Ba6 Rc7 35.Be2 Rb6 36.Rc5 Kd6
+37.Kf1 Rc8 38.Bf3 Bxf3 39.gxf3 Ra6 40.Nb7+ Kd7 41.Rh5 Rb6 42.Nc5+ Ke7 43.Ne4 f5
+44.Ng5 Rg8 45.f4 Rg7 46.Rh3 f6 47.Nf3 a5 48.Nd2 a4 49.Ra3 Ra6 50.Rc4 Kd6
+51.Rcxa4 Rxa4 52.Rxa4 Kd5 53.Ra8 e5 54.Rf8 Ke6 55.fxe5 fxe5 56.Nc4 Ra7 57.Rc8 Ra6
+58.Kg2 f4 59.Nd2 Nd4 60.Rh8 Ra7 61.Re8+ Kd5 62.Rd8+ Kc5 63.Re8 Rg7+ 64.Kf1 Kd5
+65.Rd8+ Ke6 66.Re8+ Kf5 67.Rf8+ Kg4 68.Re8 Ra7 69.Kg2 Ra2 70.h3+ Kf5 71.Nc4 Re2
+72.Nd6+ Kf6 73.Kf1 f3 74.Nc4 Rc2  0-1

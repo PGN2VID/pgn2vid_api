@@ -1,0 +1,20 @@
+[Event "Chigorin mem"]
+[Site "St Petersburg"]
+[Date "1999.11.05"]
+[Round "4"]
+[White "Zaitsev, Igor A"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[WhiteElo "2420"]
+[BlackElo "2549"]
+[ECO "B89"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.Be3 Be7 8.Qe2 O-O
+9.O-O-O a6 10.Rhg1 Nxd4 11.Bxd4 b5 12.e5 dxe5 13.Bxe5 Qa5 14.Bb3 Bb7 15.a3 Rac8
+16.Kb1 Rfd8 17.f4 Nd7 18.Bd6 Bxd6 19.Rxd6 Nc5 20.Rxd8+ Rxd8 21.Rd1 Nxb3 22.cxb3 h6
+23.b4 Qc7 24.g3 Rxd1+ 25.Qxd1 Qc6 26.Qd8+ Kh7 27.Qd3+ Kg8 28.Qd8+ Kh7 29.Qd3+ f5
+30.Qe2 Qh1+ 31.Kc2 Bd5 32.b3 Bf3 33.Qf2 Bg2 34.Kd3 Qxh2 35.Kd4 Qh1 36.Qe3 Bd5
+37.Kc5 Bxb3 38.Kb6 Bc4 39.Qd4 Qa8 40.a4 Bf1 41.a5 Bg2 42.Qd7 Qf3 43.Qxe6 Qxc3
+44.Qxf5+ Kg8 45.Qe6+ Kh8 46.f5 Qxg3 47.Kxa6 Qb8 48.Qd7 Qe5 49.Qe6 Qxe6+ 50.fxe6 Kg8
+51.Kxb5 h5 52.Kc5 h4 53.Kd6 h3 54.b5 Bf1 55.b6 Ba6 56.e7 Kf7 57.Kd7 Bb5+
+58.Kd8 h2  0-1

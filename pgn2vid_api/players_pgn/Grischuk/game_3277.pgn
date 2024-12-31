@@ -1,0 +1,22 @@
+[Event "Play for Russia Prelim"]
+[Site "lichess.org INT"]
+[Date "2020.05.12"]
+[Round "7.4"]
+[White "Karjakin,Sergey"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteElo "2752"]
+[BlackElo "2777"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.a4 b6 8.Be2 Bb7
+9.f3 Nbd7 10.O-O Be7 11.Qe1 Qc7 12.Qg3 O-O 13.Rad1 Rae8 14.Kh1 Rc8 15.Bg5 Rfe8
+16.f4 Nc5 17.Bd3 Nfxe4 18.Bxe4 Nxe4 19.Nxe4 Bxe4 20.Bxe7 Qxe7 21.c3 f5 22.Nf3 h6
+23.Qf2 b5 24.axb5 axb5 25.Nd2 d5 26.Qd4 b4 27.cxb4 Rb8 28.b3 Rxb4 29.Qf2 Qf6
+30.Rc1 Qd4 31.Rc7 Qxf2 32.Rxf2 Kf8 33.Rf1 Re7 34.Rc8+ Kf7 35.Ra1 Rbb7 36.Rac1 Ra7
+37.Kg1 Ra2 38.Rd1 Rea7 39.Kf2 Bc2 40.Rc1 Bxb3 41.R1c7+ Rxc7 42.Rxc7+ Kf6
+43.Ke3 d4+ 44.Kd3 Bd5 45.g3 g5 46.Rh7 Kg6 47.Rh8 g4 48.Rg8+ Kf7 49.Rh8 Kg7
+50.Rb8 h5 51.Rb1 h4 52.gxh4 Kf6 53.h5 Ra3+ 54.Kxd4 Rh3 55.Nf1 Rf3 56.Ne3 Rxf4+
+57.Kc5 Rf2 58.Rb6 Be4 59.h6 Rxh2 60.Kd4 Rd2+ 61.Kc4 Rh2 62.Kd4 Bf3 63.Rb8 Rxh6
+64.Rf8+ Ke7 65.Rc8 Kf6 66.Rf8+ Kg5 67.Ke5 g3 68.Rg8+ Rg6 69.Rc8 g2 70.Rc1 f4
+71.Nc2 Kg4 72.Nd4 Bd5 73.Nc2 Kg3 74.Nd4 f3  0-1

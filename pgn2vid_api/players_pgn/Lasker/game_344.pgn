@@ -1,0 +1,15 @@
+[Event "GER tour sim"]
+[Site "Germany"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Stiassny, E."]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C40"]
+
+1.e4 e5 2.Nf3 d5 3.exd5 e4 4.Ng1 Nf6 5.d3 Qxd5 6.Nc3 Bb4 7.Bd2 Qe6 8.Qe2 Nc6
+9.Nxe4 O-O 10.c3 Nd5 11.O-O-O Re8 12.Ng5 Qd7 13.Qh5 h6 14.cxb4 hxg5 15.Qxg5 Nd4
+16.Bc3 Qc6 17.Kb1 Nxc3+ 18.bxc3 Nb5 19.c4 Nc3+ 20.Kc1 Qa4 21.Qd2 Nxd1 22.Qxd1 Qa3+
+23.Kc2 Bd7 24.b5 a6 25.Qb1 axb5 26.Nf3 bxc4 27.Nd4 Ba4+ 28.Kd2 c3+  0-1

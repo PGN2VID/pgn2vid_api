@@ -1,0 +1,20 @@
+[Event "Chess.com RCC Wk19 Swiss"]
+[Site "chess.com INT"]
+[Date "2022.07.02"]
+[Round "4"]
+[White "Grischuk,A"]
+[Black "Bartel,Mat"]
+[Result "1-0"]
+[WhiteElo "2745"]
+[BlackElo "2597"]
+[ECO "A40"]
+
+1.d4 e6 2.c4 b6 3.e4 Bb7 4.Bd3 Bb4+ 5.Kf1 Nc6 6.Nf3 Be7 7.Nc3 d6 8.g3 Nf6
+9.Kg2 O-O 10.Re1 e5 11.d5 Nb4 12.Bf1 a5 13.a3 Na6 14.Rb1 Nc5 15.b4 axb4 16.axb4 Ncd7
+17.Kg1 c5 18.dxc6 Bxc6 19.Nh4 g6 20.Ng2 Qb8 21.Bd3 Rc8 22.Ne3 b5 23.cxb5 Bb7
+24.Qb3 Nb6 25.Nc4 Nxc4 26.Bxc4 Kg7 27.Bd2 Bd8 28.Bxf7 Bb6 29.Nd5 Bxd5 30.Bxd5 Ra7
+31.Be3 Bxe3 32.Qxe3 Nxd5 33.exd5 Rb7 34.f4 Rxb5 35.fxe5 Rxd5 36.exd6 Qxd6
+37.b5 Rc7 38.b6 Rb7 39.Rb2 Qc5 40.Qxc5 Rxc5 41.Ra1 Kf6 42.Ra7 Rxa7 43.bxa7 Ra5
+44.Rb6+ Kg7 45.Rb7+ Kh6 46.Kf2 Ra3 47.Ke2 g5 48.Kd2 Kg6 49.Kc2 h5 50.Kb2 Ra4
+51.Kb3 Ra1 52.Kb4 h4 53.gxh4 gxh4 54.Rc7 h3 55.Kb5 Kg5 56.Rc5+ Kg4 57.Rc4+ Kf3
+58.Ra4 Rxa4 59.Kxa4 Kg2 60.a8=Q+ Kxh2 61.Qf3 Kg1 62.Qg3+  1-0

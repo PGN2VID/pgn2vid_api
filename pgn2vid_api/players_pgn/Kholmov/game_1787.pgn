@@ -1,0 +1,20 @@
+[Event "Chigorin mem"]
+[Site "St Petersburg"]
+[Date "1999.11.08"]
+[Round "7"]
+[White "Malakhatko, Vadim"]
+[Black "Kholmov, Ratmir D"]
+[Result "1-0"]
+[WhiteElo "2537"]
+[BlackElo "2464"]
+[ECO "C09"]
+
+1.d4 e6 2.e4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nc6 6.Bb5 Bd6 7.O-O Ne7 8.dxc5 Bxc5
+9.Nb3 Bb6 10.Be3 Bxe3 11.Bxc6+ bxc6 12.fxe3 O-O 13.Qd4 Nf5 14.Qc3 Qb6 15.Nfd4 Nxd4
+16.exd4 a5 17.a4 f6 18.Nc5 Rb8 19.b3 Ra8 20.Rae1 Ra7 21.h3 g6 22.Rf3 h5 23.Qd3 Rg7
+24.Rfe3 Bf5 25.Qd2 Rgf7 26.Kh1 Qc7 27.Ne6 Bxe6 28.Rxe6 c5 29.dxc5 Qxc5 30.Ra6 Ra7
+31.Rxa7 Qxa7 32.Qxd5+ Kg7 33.c4 Rc8 34.Qd6 Qf2 35.Rd1 Re8 36.Qc7+ Kh6 37.Qxa5 Re2
+38.Qd5 h4 39.Qf3 Re1+ 40.Rxe1 Qxe1+ 41.Kh2 Qe5+ 42.Kg1 Qd4+ 43.Kf1 Kg7 44.Qb7+ Kh6
+45.Qd5 Qa1+ 46.Ke2 g5 47.c5 f5 48.Qxf5 Qb2+ 49.Kf1 Qxb3 50.Qf6+ Kh7 51.Qxg5 Qxa4
+52.Qe7+ Kg6 53.Qd6+ Kf5 54.Kg1 Qb4 55.Kh2 Qa3 56.Qd5+ Kg6 57.Qe6+ Kg7 58.Qe5+ Kf7
+59.c6  1-0

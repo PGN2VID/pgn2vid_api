@@ -1,0 +1,23 @@
+[Event "Speed Chess GP4 2021"]
+[Site "chess.com INT"]
+[Date "2021.10.09"]
+[Round "3"]
+[White "Popilski,G"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2464"]
+[BlackElo "2634"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Ne4 5.Bd3 Nxc3 6.bxc3 c5 7.Nf3 Qa5 8.Bd2 c4
+9.Be2 Ba3 10.Rb1 Nc6 11.h4 b6 12.h5 h6 13.O-O Bd7 14.Nh2 O-O-O 15.Ng4 Rdg8
+16.f4 Be7 17.Ne3 g6 18.hxg6 fxg6 19.Bg4 h5 20.Bh3 Rf8 21.Qe1 Rhg8 22.Qg3 Bd8
+23.a4 Ne7 24.Ra1 Nf5 25.Qf3 Nxd4 26.Qf2 Nf5 27.Nxf5 gxf5 28.Rfb1 Be7 29.Be3 Qxc3
+30.Bxb6 Qxh3 31.Bxa7 Bc6 32.Rb8+ Kd7 33.Rxf8 Bxf8 34.Rb1 d4 35.Qxd4+ Bd5
+36.Rb7+ Ke8 37.Rb8+ Kf7 38.Rxf8+ Kxf8 39.Qc5+ Ke8 40.Qc8+ Kf7 41.Qd7+ Kg6
+42.gxh3 Rg7 43.Qe8+ Kh6+ 44.Kf2 Rxa7 45.Qf8+ Kg6 46.Qe8+ Kh6 47.Ke3 Rg7 48.Kd4 Rg2
+49.Qh8+ Kg6 50.Qf6+ Kh7 51.Kc3 Rg3+ 52.Kb4 Rg2 53.c3 Rb2+ 54.Kc5 Rb3 55.h4 Rxc3
+56.a5 Ra3 57.Qf7+ Kh6 58.Qf8+ Kh7 59.Qe8 Rxa5+ 60.Kd6 Ra6+ 61.Ke7 Ra7+ 62.Kf6 c3
+63.Qxh5+ Kg8 64.Qe8+ Kh7 65.Qb8 Rg7 66.h5 c2 67.Qc8 Bb3 68.h6 Ra7 69.Qb8 Rd7
+70.Qb5 Rc7 71.Qb6 c1=Q 72.Qxb3 Qxf4 73.Qxe6 Qxh6+ 74.Kxf5 Qxe6+ 75.Kxe6 Kg8
+76.Kd6 Rc1 77.e6 Kf8 78.Kd7 Rd1+ 79.Kc8 Ke7  0-1

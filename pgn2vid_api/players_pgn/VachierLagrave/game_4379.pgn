@@ -1,0 +1,21 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "4"]
+[White "Vachier Lagrave,M"]
+[Black "Safarli,E"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2612"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bb4 5.Nd5 Be7 6.Bg2 d6 7.O-O O-O 8.Nxe7+ Qxe7
+9.d3 Bg4 10.Bd2 Rfe8 11.h3 Bh5 12.g4 Bg6 13.Nh4 e4 14.Nxg6 hxg6 15.Bc3 Rad8
+16.Bxf6 Qxf6 17.Bxe4 Qxb2 18.Rb1 Qxa2 19.Rxb7 Nd4 20.e3 Ne2+ 21.Kg2 Nc3 22.Qa1 Qxa1
+23.Rxa1 Nxe4 24.dxe4 Rxe4 25.Rxc7 Ra8 26.Ra6 Ree8 27.Kf3 Kf8 28.Raxa7 Rxa7
+29.Rxa7 Rc8 30.Ra4 g5 31.Ke4 Ke7 32.Kd5 Rc5+ 33.Kd4 Ke6 34.Ra8 Ke7 35.Rb8 Ra5
+36.Rb5 Ra2 37.Rxg5 g6 38.f4 Rd2+ 39.Ke4 Rh2 40.Ra5 Rxh3 41.Ra7+ Kf6 42.Kd5 Rxe3
+43.g5+ Kg7 44.Kxd6 Rd3+ 45.Ke5 Rc3 46.Ra4 Rc1 47.Kd4 Rd1+ 48.Kc3 Rc1+ 49.Kd2 Rb1
+50.c5 Rb5 51.Rc4 Kf8 52.c6 Rb8 53.c7 Rc8 54.Ke3 Ke7 55.f5 Kd7 56.fxg6 fxg6
+57.Kd4 Ke6 58.Ke4 Kd6 59.Rc1 Re8+ 60.Kd4 Rc8 61.Rc5 Ke6 62.Kc4 Kd6 63.Kb5 Rxc7
+64.Rxc7 Kxc7 65.Kc5  1-0

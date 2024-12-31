@@ -1,0 +1,20 @@
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.10.03"]
+[Round "1.2"]
+[White "Firouzja,Alireza"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2702"]
+[BlackElo "2758"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bd6 5.Nbd2 a6 6.Bxc6 dxc6 7.Nc4 Nd7 8.h4 b5
+9.Ne3 Nc5 10.h5 Be6 11.Bd2 a5 12.Nh4 g6 13.Nf3 g5 14.h6 Rg8 15.Ng1 Na4 16.Qc1 Bb4
+17.Ne2 Rg6 18.Ng3 Bxd2+ 19.Qxd2 Qd4 20.c3 Qd7 21.d4 O-O-O 22.Ngf5 exd4 23.cxd4 Bxf5
+24.Nxf5 Re8 25.O-O Rxe4 26.Ng3 Rxd4 27.Qxa5 Kb7 28.b3 Nb6 29.a4 b4 30.Qc5 Qd5
+31.Qf8 Nd7 32.Qh8 Nc5 33.Rae1 Re6 34.Rxe6 fxe6 35.Qxh7 Rh4 36.a5 Qxb3 37.Qe7 Qd5
+38.h7 b3 39.Qg7 Qd8 40.Qc3 Qf8 41.Rc1 Rxh7 42.Qb4+ Ka7 43.Rxc5 b2 44.Rb5 cxb5
+45.Qxb2 Qc5 46.Qe2 Rd7 47.Qxe6 Qc1+ 48.Nf1 Rd1 49.Qe2 Rxf1+ 50.Qxf1 Qxf1+
+51.Kxf1 b4 52.Ke2 Ka6 53.g4 Kxa5 54.f4 b3 55.Kd2 b2 56.Kc2 gxf4 57.g5 b1=Q+
+58.Kxb1 f3  0-1

@@ -1,0 +1,16 @@
+[Event "chess.com SpeedChess Q1Sw"]
+[Site "chess.com INT"]
+[Date "2022.11.10"]
+[Round "1"]
+[White "Firat,B"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2460"]
+[BlackElo "2666"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 Bd7 7.O-O g6 8.Re1 Bg7
+9.h3 O-O 10.Nbd2 Qe8 11.Bc2 Nh5 12.d4 exd4 13.cxd4 Nxd4 14.Nxd4 Bxd4 15.Nf3 Bg7
+16.Be3 Qd8 17.Qd2 Re8 18.Bb3 Be6 19.Ba4 b5 20.Bb3 Bxb3 21.axb3 Rxe4 22.Bg5 Rxe1+
+23.Rxe1 Qf8 24.Be7 Qc8 25.g4 Nf6 26.Qg5 Nd7 27.Qh4 h6 28.Qg3 Qb7 29.g5 h5
+30.Bf6 Nxf6 31.gxf6 Bxf6 32.Qf4 Kg7  0-1

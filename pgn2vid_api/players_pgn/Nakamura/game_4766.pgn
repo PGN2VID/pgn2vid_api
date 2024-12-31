@@ -1,0 +1,21 @@
+[Event "chess.com Speed 2021"]
+[Site "chess.com INT"]
+[Date "2021.12.19"]
+[Round "4.27"]
+[White "So,W"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2772"]
+[BlackElo "2736"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.O-O Bd6 7.Bg5 h6 8.Bh4 Be6
+9.d4 Bg4 10.Nbd2 Qe7 11.dxe5 Bxe5 12.h3 Bxf3 13.Nxf3 O-O 14.c3 Rfe8 15.Nxe5 Qxe5
+16.f3 Nh5 17.Qd4 Qf4 18.Bf2 Red8 19.Qe3 Qe5 20.Rfd1 b6 21.h4 Nf4 22.Rd2 Rd6
+23.Rad1 Rad8 24.Rxd6 Rxd6 25.Rxd6 cxd6 26.Qd2 d5 27.Bd4 Qc7 28.Be3 Ng6 29.exd5 cxd5
+30.h5 Ne7 31.Bf4 Qc5+ 32.Qe3 Qxe3+ 33.Bxe3 Nf5 34.Kf2 f6 35.g4 Ne7 36.a4 Kf7
+37.b3 Ke6 38.a5 Nc8 39.axb6 axb6 40.Ke2 Kd6 41.Kd3 Kc6 42.Bc1 Nd6 43.Ba3 Kd7
+44.f4 Ke6 45.Bb4 Kd7 46.f5 Kc6 47.Ba3 Kd7 48.Bb4 Kc6 49.c4 dxc4+ 50.bxc4 Kd7
+51.Ba3 Nf7 52.Bf8 Ne5+ 53.Kd4 Nxg4 54.Bxg7 Ke7 55.Kd5 Kf7 56.Bh8 Ne3+ 57.Kd4 Nxf5+
+58.Kd5 Ne3+ 59.Kd4 Nc2+ 60.Kc3 Ne1 61.Kb4 Ng2 62.Kb5 Ne3 63.Kb4 Ng4 64.Kb5 Kg8
+65.Bxf6 Nxf6 66.Kxb6 Nxh5 67.c5 Nf4  0-1

@@ -1,0 +1,15 @@
+[Event "Washington sim"]
+[Site "Washington"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Seward, CO."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Nf3 Ne7 6.Bd3 Nbc6 7.O-O Bg4 8.Ne2 Bxf3
+9.gxf3 Bd6 10.c3 Qd7 11.Ng3 O-O-O 12.b4 h5 13.b5 Nb8 14.Qc2 g6 15.Re1 h4
+16.Nf1 Qh3 17.c4 Nf5 18.Bb2 Qxf3 19.Be2 Qf4 20.c5 Qg5+ 21.Kh1 h3 22.Bf3 Qf4
+23.Bxd5 Be5 24.dxe5 Rxd5 25.Qb3 Rxc5 26.e6 Qxf2  0-1

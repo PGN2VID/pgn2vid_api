@@ -1,0 +1,21 @@
+[Event "zt 1.5"]
+[Site "Yerevan ARM"]
+[Date "2000.06.11"]
+[Round "5"]
+[White "Kacheishvili,G"]
+[Black "Vaganian,R"]
+[Result "0-1"]
+[WhiteElo "2564"]
+[BlackElo "2618"]
+[ECO "C08"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Bd7 6.Qe2+ Be7 7.dxc5 Nf6 8.Nb3 O-O
+9.Be3 a6 10.Bd3 Ba4 11.Nf3 Nbd7 12.Nfd4 Re8 13.O-O-O Bxb3 14.Nxb3 Nxc5 15.Qf3 Nxb3+
+16.cxb3 Qa5 17.Kb1 Bc5 18.Bd2 Qb6 19.Be1 Bb4 20.Bc2 Bxe1 21.Rhxe1 g6 22.a3 a5
+23.Qf4 Rac8 24.h4 h5 25.Qd2 Ng4 26.Rxe8+ Rxe8 27.Qxd5 Nxf2 28.Rf1 Re6 29.Qc4 Rc6
+30.Qf4 Rf6 31.Qb8+ Kh7 32.Re1 Ng4 33.Qf8 Rf2 34.Re8 Qf6 35.Qc5 Kh6 36.Qc8 Qxh4
+37.Rh8+ Kg5 38.Qc5+ f5 39.Qe7+ Nf6 40.Rf8 Qd4 41.Rd8 Rf1+ 42.Ka2 Qg1 43.b4 Re1
+44.Qxb7 a4 45.Bxa4 Ra1+ 46.Kb3 Qe3+ 47.Kc4 Qe2+ 48.Kc5 Qxb2 49.Rd3 Rxa3 50.Rxa3 Ne4+
+51.Kd5 Qxa3 52.Qe7+ Nf6+ 53.Kc4 Qxa4 54.Qe3+ f4 55.Qe5+ Kg4 56.Qxf6 Qc2+
+57.Kb5 Qf5+ 58.Qxf5+ Kxf5 59.Kc6 f3 60.gxf3 h4 61.b5 h3 62.b6 h2 63.b7 h1=Q
+64.b8=Q Qxf3+ 65.Kc5 Qe3+  0-1

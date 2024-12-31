@@ -1,0 +1,23 @@
+[Event "Chess.com Bullet Open KO"]
+[Site "chess.com INT"]
+[Date "2020.12.20"]
+[Round "1.8"]
+[White "Jacobson,Brandon"]
+[Black "Erigaisi,Arjun"]
+[Result "1-0"]
+[WhiteElo "2487"]
+[BlackElo "2559"]
+[ECO "B06"]
+
+1.e4 c6 2.Nc3 d6 3.Nf3 g6 4.d4 Bg7 5.Be2 Nf6 6.O-O O-O 7.Be3 Bg4 8.h3 Bxf3
+9.Bxf3 e5 10.d5 Qc7 11.Be2 Nbd7 12.Qd2 Rad8 13.Rad1 Nc5 14.dxc6 Ncxe4 15.Nxe4 Nxe4
+16.Qd5 Qxc6 17.Bf3 Qxd5 18.Rxd5 Nf6 19.Rd2 e4 20.Be2 a6 21.Rfd1 d5 22.c4 d4
+23.Bxd4 Nh5 24.Bb6 Rxd2 25.Rxd2 Nf4 26.Bf1 Rc8 27.g3 Nd3 28.Bxd3 exd3 29.b3 Rc6
+30.Be3 Rd6 31.f4 Bc3 32.Rd1 f5 33.Kf2 Kf7 34.Bc5 Rd7 35.Ke3 d2 36.Ke2 Rd8
+37.Be3 Re8 38.Kf3 Rd8 39.c5 Ke6 40.Ke2 Rd5 41.Bxd2 Bxd2 42.Rxd2 Rxc5 43.Kf3 Rc3+
+44.Kf2 h6 45.b4 Rc4 46.Rb2 Rc3 47.a4 Kd5 48.Re2 Kc4 49.Re6 Rc2+ 50.Kf3 Kxb4
+51.Rxg6 Rc3+ 52.Kf2 Kxa4 53.Rb6 Rb3 54.Rxh6 a5 55.Rf6 Rb2+ 56.Kf3 b5 57.Rxf5 b4
+58.h4 b3 59.h5 Rh2 60.Rf8 b2 61.Rb8 Ka3 62.g4 a4 63.f5 Ka2 64.f6 Rh1 65.Kf2 b1=Q
+66.Rxb1 Rxb1 67.f7 Rb8 68.g5 a3 69.g6 Rf8 70.Kg3 Kb1 71.g7 Rxf7 72.g8=Q Rf1
+73.Qg6+ Kb2 74.Qg7+ Kb1 75.h6 Rg1+ 76.Kf4 Rxg7 77.hxg7 a2 78.g8=Q a1=Q 79.Qg6+ Ka2
+80.Qe6+ Kb1 81.Qe4+ Ka2 82.Qc4+ Kb1 83.Qb3+  1-0

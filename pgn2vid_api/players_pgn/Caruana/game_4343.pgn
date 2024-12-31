@@ -1,0 +1,20 @@
+[Event "chess.com SpeedChess 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.14"]
+[Round "2.9"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2780"]
+[BlackElo "2786"]
+[ECO "A00"]
+
+1.Nh3 e5 2.g3 d5 3.Bg2 Nc6 4.d3 h5 5.f3 h4 6.g4 Bc5 7.e3 d4 8.e4 Nge7 9.f4 exf4
+10.Nxf4 h3 11.Nxh3 Ng6 12.Nf2 Nh4 13.O-O Nxg2 14.Kxg2 Bd6 15.Rh1 Ne5 16.Nd2 Qf6
+17.h3 Bd7 18.Nf3 Ng6 19.Bg5 Nf4+ 20.Kf1 Qg6 21.e5 Bxe5 22.Qe1 O-O 23.Nxe5 Qxg5
+24.Nxd7 Rfe8 25.Ne4 Qg6 26.Qg3 Nd5 27.Ne5 Qb6 28.Nc4 Qc6 29.Kg1 b5 30.Ncd2 Qxc2
+31.Rh2 Qxb2 32.Re1 Qxa2 33.g5 Re6 34.Nf3 Qa5 35.Nxd4 Qb6 36.Qf2 Re5 37.Nf3 Rf5
+38.Qxb6 cxb6 39.Nd4 Re5 40.Nxb5 Nf4 41.Nbd6 Nxd3 42.Rf1 Rf8 43.Rc2 Nc5 44.Nxc5 Rxg5+
+45.Kh2 Rxc5 46.Rcf2 Rc7 47.h4 Rd7 48.Nf5 g6 49.Rg2 Kh7 50.Ne3 Rd4 51.Ng4 Kg7
+52.h5 Rh8 53.h6+ Kf8 54.Kg3 f5 55.Ne5 Rxh6 56.Rc2 Kg7 57.Rc7+ Kf6 58.Re1 Re4
+59.Rxe4  1-0

@@ -1,0 +1,17 @@
+[Event "AI Cup Div 2 L"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "2.2"]
+[White "Kuzubov,Y"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2726"]
+[ECO "A48"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nbd2 Bg7 4.e4 O-O 5.c3 d5 6.e5 Nh5 7.Nb3 f6 8.Be2 Nc6
+9.exf6 Rxf6 10.O-O Nf4 11.Bxf4 Rxf4 12.Nc5 Qd6 13.Nd3 Rf8 14.Re1 Bf5 15.Nde5 Nxe5
+16.Nxe5 Be4 17.f3 Bf5 18.Bd3 c5 19.dxc5 Qxc5+ 20.Kh1 Rad8 21.Bxf5 Rxf5 22.Nd3 Qc7
+23.Re6 b5 24.Qe2 Rd7 25.Re1 d4 26.cxd4 Bxd4 27.Rxe7 Rxe7 28.Qxe7 Qxe7 29.Rxe7 Rd5
+30.Re1 Rd6 31.g3 Ra6 32.a3 Rd6 33.Kg2 Bxb2 34.Nxb2 Rd2+ 35.Kh3 Rxb2 36.Re8+ Kf7
+37.Ra8 h5 38.Rxa7+ Kf6 39.g4  1/2-1/2

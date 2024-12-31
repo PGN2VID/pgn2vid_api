@@ -1,0 +1,20 @@
+[Event "World Blitz 2023"]
+[Site "Samarkand UZB"]
+[Date "2023.12.30"]
+[Round "16.5"]
+[White "Nesterov,Arseniy"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2584"]
+[BlackElo "2794"]
+[ECO "D45"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 a6 6.Qc2 c5 7.cxd5 exd5 8.Be2 Nc6
+9.O-O cxd4 10.Nxd4 Nxd4 11.exd4 Be7 12.Bf3 O-O 13.Bg5 Be6 14.Qb3 h6 15.Bxf6 Bxf6
+16.Rad1 Rc8 17.Nxd5 Bg5 18.Qxb7 Rb8 19.Qc6 Rxb2 20.Nc3 Qa5 21.Ne4 Rc8 22.Qd6 Rd8
+23.Qc5 Rb5 24.Qc3 Be7 25.Qxa5 Rxa5 26.Nc5 Bxc5 27.dxc5 Rxd1 28.Rxd1 Rxc5
+29.a3 Rc3 30.Rd8+ Kh7 31.Rd3 Rc5 32.h4 g5 33.hxg5 hxg5 34.Be4+ Kg7 35.Re3 a5
+36.f3 f5 37.Bd3 Kf6 38.Bf1 f4 39.Rd3 Rc1 40.Rd4 Ra1 41.Ra4 Bb3 42.Rd4 Rxa3
+43.g3 fxg3 44.Kg2 Ra1 45.Bb5 a4 46.Rb4 Bc2 47.Rc4 Bd1 48.Rc6+ Ke5 49.Kxg3 a3
+50.Rc5+ Kd4 51.Rxg5 a2 52.Rg4+ Kc3 53.Rc4+ Kb3 54.Rc8 Be2 55.Bxe2 Rg1+ 56.Kf2 a1=Q
+57.Rb8+ Kc3  0-1

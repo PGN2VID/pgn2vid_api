@@ -1,0 +1,29 @@
+[EventDate "1932.02.01"]
+[Round "8"]
+[Result "0-1"]
+[White "Victor Berger"]
+[Black "Mir Sultan Khan"]
+[ECO "E16"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "200"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Nbd2 O-O 7.O-O
+a5 8.Qc2 c5 9.dxc5 Bxc5 10.b3 d5 11.cxd5 exd5 12.Ne5 Qc7
+13.Qb2 Nc6 14.Nxc6 Qxc6 15.Nf3 Rfe8 16.Bf4 Ba6 17.Rfe1 Ne4
+18.e3 f6 19.h4 Rad8 20.a3 Bd6 21.Rec1 Qd7 22.Bxd6 Qxd6 23.b4
+Rc8 24.b5 Bb7 25.Nd4 Rc5 26.a4 Qe5 27.Qa3 Rec8 28.Nf3 Qe7
+29.Rxc5 Rxc5 30.Rc1 Rxc1+ 31.Qxc1 Qc5 32.Qa1 Qc2 33.Qf1 Qxa4
+34.Nd4 Nc3 35.Qd3 Qd1+ 36.Qxd1 Nxd1 37.Kf1 Kf8 38.Bh3 g6
+39.Ke1 Nc3 40.f3 Ke7 41.Kd2 Na4 42.h5 Kd6 43.hxg6 hxg6 44.Kc2
+Nc5 45.Kc3 Ke5 46.Kd2 f5 47.Bf1 Bc8 48.Kc3 Bd7 49.Be2 g5
+50.f4+ gxf4 51.gxf4+ Kd6 52.Kb2 Ne4 53.Ka3 Nd2 54.Kb2 Kc5
+55.Kc3 Ne4+ 56.Kb3 Nf2 57.Kc3 a4 58.Kb2 Ne4 59.Ka3 Nc3 60.Bd3
+Nd1 61.Bxf5 Nxe3 62.Bxd7 Kxd4 63.Kxa4 Ke4 64.Kb3 Kxf4 65.Kc3
+Ke5 66.Kd3 Ng2 67.Bc6 Nf4+ 68.Ke3 Ne6 69.Be8 Kd6 70.Kd3 Kc5
+71.Kd2 Nc7 72.Bg6 Nxb5 73.Kd3 Nd6 74.Kc2 b5 75.Bh7 Nc4 76.Bg6
+Ne5 77.Bh7 Kc4 78.Bg8 b4 79.Be6 Nf3 80.Bf7 Nd4+ 81.Kd2 Nb3+
+82.Kc2 Nc5 83.Kd2 Kd4 84.Kc2 Ke4 85.Kd2 Nb7 86.Kc2 Na5 87.Kd2
+Kd4 88.Kc2 Kc4 89.Kb2 Nc6 90.Bg8 Ne5 91.Kc2 b3 92.Kb2 Nd3+
+93.Kb1 Nf4 94.Kb2 Nd3+ 95.Kb1 Nc5 96.Bf7 Na4 97.Be8 Nb6 98.Kb2
+Kb4 99.Bg6 Nc4+ 100.Kc1 Kc3 0-1

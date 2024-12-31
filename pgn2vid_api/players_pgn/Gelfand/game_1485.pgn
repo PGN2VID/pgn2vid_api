@@ -1,0 +1,23 @@
+[Event "Amber Blindfold"]
+[Site "Monte Carlo MNC"]
+[Date "2005.03.19"]
+[Round "1"]
+[White "Bareev,E"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2696"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Nd4 5.Bg2 Nxf3+ 6.Bxf3 Bb4 7.Qc2 O-O 8.d3 c6
+9.a3 Be7 10.O-O d5 11.cxd5 cxd5 12.Bg5 Be6 13.Rfc1 Qd7 14.Qa4 Qxa4 15.Nxa4 Rac8
+16.Bxf6 gxf6 17.e3 f5 18.Bg2 Rfd8 19.Rxc8 Rxc8 20.Nc3 e4 21.d4 Kf8 22.Bf1 Bd8
+23.Rc1 Ba5 24.Be2 Bxc3 25.Rxc3 Ke7 26.Kg2 Kd6 27.Rxc8 Bxc8 28.Kh3 Ke7 29.Kh4 Kf6
+30.Kh5 Kg7 31.Kg5 Bd7 32.Bf1 h6+ 33.Kf4 Kf6 34.f3 exf3 35.Kxf3 Kg5 36.h4+ Kf6
+37.Kf4 b6 38.Ba6 Ke6 39.Bd3 Kf6 40.b4 Bc8 41.Bb5 Ke6 42.Ba4 Kf6 43.Bd1 a5
+44.bxa5 bxa5 45.Bf3 Bb7 46.Bg2 Bc6 47.Bf1 Ba4 48.Bd3 Bd7 49.Bc2 Bc8 50.Ba4 Ba6
+51.Bc6 Ke6 52.Be8 Bd3 53.Bc6 Be2 54.Bb7 Bd3 55.Bc8+ Kf6 56.Bd7 Bc2 57.Bb5 Ke6
+58.Be2 Kf6 59.Bf3 Ke6 60.g4 fxg4 61.Kxg4 Bg6 62.Bg2 Kd6 63.Kf4 Bc2 64.Bh3 Bd3
+65.Bf5 Be2 66.Bc8 Bd3 67.Kg4 Be2+ 68.Kf4 Bd3 69.Bb7 Bc2 70.Kg4 Bg6 71.Ba6 Ke6
+72.Bb7 Kd6 73.Ba6 Ke6 74.Bf1 Kf6 75.Bg2 Ke6 76.Bf3 Kd6 77.Kf4 Bd3 78.Bh5 Ke6
+79.Bf3 Bc2 80.Bg4+ Kf6  1/2-1/2

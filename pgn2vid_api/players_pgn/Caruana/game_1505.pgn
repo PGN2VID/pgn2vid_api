@@ -1,0 +1,24 @@
+[Event "chess.com QF Blitz 5m+2spm 2016"]
+[Site "chess.com INT"]
+[Date "2016.05.10"]
+[Round "9"]
+[White "Caruana,F"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteElo "2795"]
+[BlackElo "2788"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be7 8.Be3 Be6
+9.Qd2 O-O 10.O-O-O Nbd7 11.g4 b5 12.a3 Nb6 13.Na5 Rc8 14.g5 Nh5 15.h4 Ng3
+16.Rh2 Nxf1 17.Rxf1 b4 18.axb4 d5 19.exd5 Nxd5 20.Nxd5 Bxd5 21.b3 Qd7 22.Kb2 Qe6
+23.c4 Ba8 24.c5 Rfd8 25.Qc3 e4 26.fxe4 Bxe4 27.Bd4 Bf8 28.Rhf2 Bg6 29.Nc4 Qg4
+30.Rf4 Qe2+ 31.Qd2 Qxd2+ 32.Nxd2 a5 33.Nc4 axb4 34.Ne5 Bxc5 35.Bxc5 Rxc5
+36.Nxg6 Rd2+ 37.Kb1 hxg6 38.Rxb4 Rf5 39.Rxf5 gxf5 40.Rf4 g6 41.b4 f6 42.b5 Kf7
+43.b6 Rd7 44.Rb4 Rb7 45.Kc2 fxg5 46.hxg5 Ke6 47.Kd3 Kd5 48.Rb1 Kc5 49.Rc1+ Kd5
+50.Rb1 Rd7 51.Ke3 Kc6 52.Kf4 Re7 53.Rb4 Rb7 54.Rc4+ Kd5 55.Rb4 Kc5 56.Rb1 Rxb6
+57.Rd1 Rd6 58.Rc1+ Kd5 59.Re1 Re6 60.Rd1+ Kc5 61.Kf3 Re4 62.Rc1+ Kd5 63.Rd1+ Ke5
+64.Ra1 Rg4 65.Ra5+ Ke6 66.Ra6+ Kf7 67.Ra7+ Ke8 68.Rb7 Kd8 69.Rg7 Rxg5 70.Kf4 Rg4+
+71.Ke5 f4 72.Kd6 Ke8 73.Ke6 Kf8 74.Kf6 g5 75.Ra7 Ke8 76.Ke6 Kd8 77.Kd6 Kc8
+78.Kc6 Kb8 79.Rb7+ Ka8 80.Rg7 Rg1 81.Kb6 Rb1+ 82.Ka6 Kb8 83.Rxg5 Kc7 84.Rf5 Rb4
+85.Ka5 Rd4 86.Rf6 Kd7 87.Kb5 Ke7 88.Rh6 f3 89.Kc5 Rf4 90.Rh1 f2 91.Rf1 Ke6  0-1

@@ -1,0 +1,15 @@
+[Event "AI Cup Div 2 L"]
+[Site "chess.com INT"]
+[Date "2023.09.27"]
+[Round "3.1"]
+[White "Keymer,Vincent"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2717"]
+[BlackElo "2786"]
+[ECO "E06"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.d4 Be7 5.c4 O-O 6.Nc3 dxc4 7.Ne5 Nc6 8.Bxc6 bxc6
+9.Nxc6 Qe8 10.Nxe7+ Qxe7 11.Qa4 Nd5 12.O-O a5 13.Bd2 Rd8 14.Rfe1 Nb4 15.a3 Rxd4
+16.Bg5 f6 17.Bxf6 gxf6 18.axb4 Bd7 19.Qa3 a4 20.Rad1 e5 21.Nd5 Qd6 22.Qf3 Rf8
+23.e3 Bg4 24.Nxf6+ Rxf6 25.Qa8+ Rf8 26.Rxd4 exd4 27.Qe4 Bf3  0-1

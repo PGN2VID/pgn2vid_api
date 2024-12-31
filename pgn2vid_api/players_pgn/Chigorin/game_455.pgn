@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "3"]
+[White "Marco, Georg"]
+[Black "Chigorin, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Nc3 b5 7.Bb3 d6 8.d3 Na5
+9.Ne2 c5 10.c3 O-O 11.Bc2 Qc7 12.d4 Bg4 13.h3 Bh5 14.dxe5 dxe5 15.Ng3 Bg6
+16.Qe2 Rfe8 17.Nh4 Nb7 18.Nxg6 hxg6 19.Be3 c4 20.Rfd1 Nd8 21.Rd2 Ne6 22.Rad1 Rec8
+23.a3 a5 24.Kh2 b4 25.Ba4 Nf4 26.Qf3 Nd3 27.axb4 axb4 28.Bb5 bxc3 29.bxc3 Rd8
+30.Qe2 Ra3 31.Bxc4 Qxc4 32.Rxd3 Rxd3 33.Qxd3 Rxc3 34.Qxc4 Rxc4  1/2-1/2

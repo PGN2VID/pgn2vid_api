@@ -1,0 +1,23 @@
+[Event "Chess.com Bullet Open 1"]
+[Site "chess.com INT"]
+[Date "2020.12.19"]
+[Round "7"]
+[White "Firouzja,Alireza"]
+[Black "Bortnyk,Mykola"]
+[Result "0-1"]
+[WhiteElo "2749"]
+[BlackElo "2473"]
+[ECO "D04"]
+
+1.d4 Nf6 2.Nf3 d5 3.e3 c5 4.b3 Nc6 5.Bb2 cxd4 6.exd4 Bg4 7.h3 Bh5 8.Bb5 e6
+9.O-O Bd6 10.c4 dxc4 11.bxc4 O-O 12.Nbd2 a6 13.Bxc6 bxc6 14.Bc3 a5 15.Rb1 c5
+16.d5 exd5 17.Bxf6 Qxf6 18.cxd5 Rfd8 19.Ne4 Qf4 20.Nxd6 Rxd6 21.Rb3 Rad8
+22.Qe1 a4 23.Re3 f6 24.g3 Qb4 25.g4 Bf7 26.Nh4 Rxd5 27.Nf5 Qxe1 28.Rfxe1 Rd1
+29.a3 Rxe1+ 30.Rxe1 g6 31.Ne3 Bb3 32.Rc1 Rc8 33.Rc3 c4 34.Kg2 Kf7 35.Kf3 Ke6
+36.Ke4 Ba2 37.f4 f5+ 38.gxf5+ gxf5+ 39.Kd4 Rd8+ 40.Kc5 Rd3 41.Kb4 Bb3 42.Rxd3 cxd3
+43.Kc3 Bc2 44.Kd2 Kd6 45.Nxf5+ Kd5 46.Ng3 Bb1 47.f5 Ke5 48.Ke3 Bc2 49.h4 Bb1
+50.Kd2 h6 51.Ke3 Bc2 52.Kd2 Bb1 53.Ke3 Bc2 54.Ne4 Bb3 55.Kxd3 Kxf5 56.Nf2 Kf4
+57.Kd4 Kg3 58.Nd3 Kxh4 59.Ke3 Kg5 60.Nf2 Kf5 61.Kf3 Ke5 62.Ke3 Kd5 63.Kd3 h5
+64.Kc3 Ke5 65.Nh3 Kf5 66.Nf2 Kf4 67.Nh3+ Kg3 68.Ng5 Kg4 69.Ne4 h4 70.Nf2+ Kf3
+71.Nd3 Kg2 72.Ne5 h3 73.Ng4 Kg3 74.Ne3 Kf3 75.Nf1 Kg2 76.Nh2 Kf2 77.Ng4+ Kg3
+78.Ne3 h2 79.Nf1+ Kg2  0-1

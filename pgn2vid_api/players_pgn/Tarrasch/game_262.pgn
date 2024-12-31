@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "6"]
+[White "Marco, Georg"]
+[Black "Tarrasch, Siegbert"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C72"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.Nc3 Nf6 7.d4 b5 8.dxe5 dxe5
+9.Bb3 Bd6 10.Bg5 h6 11.Bxf6 Qxf6 12.Kh1 Ne7 13.a4 O-O 14.axb5 axb5 15.Qd3 Rab8
+16.Ra7 Rfd8 17.Rd1 b4 18.Nd5 Nxd5 19.Bxd5 Bb5 20.Qd2 Qe7 21.Qe1 Bc5 22.Raa1 Rd6
+23.Bb3 Rbd8 24.Rd5 Rxd5 25.Bxd5 Kh7 26.Ra5 c6 27.Bb3 f6 28.Ra1 Qc7 29.Kg1 Qb6
+30.h3 g6 31.g3 Ba6 32.Kg2 Kg7 33.Ra2 Bc8 34.Qe2 Bxf2 35.Qc4 Rf8 36.Ra8 Qb7
+37.Rxc8 Rxc8 38.Kxf2 c5 39.Qe6 Qc7 40.Nd2 Rd8 41.Bd5 Qd7 42.Qxd7+ Rxd7 43.Nb3 Rc7
+44.Ke3 Kf8 45.Kd3 Ke7 46.Kc4 f5 47.Kb5 Kd6 48.Nd2 fxe4 49.Bxe4 Ke6 50.Nb3 c4
+51.Na5 c3 52.b3 Rd7 53.Nc6 g5 54.Kxb4 Rd2 55.Kc5 Re2 56.Bd3 Re3 57.Bc4+ Kd7
+58.b4 Rxg3 59.b5 Rg2 60.Bd3 Kc7 61.b6+ Kb7 62.Nxe5 Rd2 63.Be4+ Ka6 64.Nd3 Rxd3
+65.Bxd3+  1-0

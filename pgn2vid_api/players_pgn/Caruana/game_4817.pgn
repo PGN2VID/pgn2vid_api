@@ -1,0 +1,22 @@
+[Event "Chess.com Classic Div 2 L"]
+[Site "chess.com INT"]
+[Date "2024.05.11"]
+[Round "1.2"]
+[White "Bluebaum,M"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2647"]
+[BlackElo "2805"]
+[ECO "A13"]
+
+1.Nf3 d5 2.c4 e6 3.e3 Nf6 4.Nc3 Be7 5.b3 O-O 6.Bb2 c5 7.cxd5 exd5 8.d4 cxd4
+9.Nxd4 Nc6 10.Be2 Be6 11.O-O Rc8 12.Rc1 Qd7 13.Na4 Ne4 14.Bf3 Nxd4 15.Bxd4 b6
+16.Qe2 Ng5 17.h3 h6 18.Rfd1 Rxc1 19.Rxc1 Rc8 20.Rxc8+ Qxc8 21.Nc3 Nxf3+ 22.Qxf3 Bd6
+23.Qd1 f6 24.Ne2 Bf7 25.Bb2 Be5 26.Bxe5 fxe5 27.f4 exf4 28.Nxf4 Qc3 29.Qd4 Qc1+
+30.Kh2 Qc7 31.Kg1 Qc1+ 32.Kf2 Qc2+ 33.Kg3 Qxa2 34.Nxd5 Qxb3 35.Ne7+ Kf8 36.Nf5 Qe6
+37.Qxg7+ Ke8 38.Kf4 h5 39.g4 hxg4 40.hxg4 a5 41.Qd4 Kf8 42.Qh8+ Bg8 43.Qg7+ Ke8
+44.Qd4 Kf7 45.e4 b5 46.Qa7+ Kf8 47.Qc5+ Kf7 48.Qc7+ Kf8 49.Qxa5 Qd7 50.Qb4+ Ke8
+51.Qxb5 Qxb5 52.Nd6+ Kd7 53.Nxb5 Ke6 54.Nd4+ Kd6 55.Nf5+ Ke6 56.e5 Bh7 57.Ng3 Bb1
+58.Ne4 Bc2 59.Nf6 Bg6 60.Nh5 Bb1 61.Ng3 Bc2 62.Ne2 Bb1 63.Nd4+ Kd5 64.Nf3 Ke6
+65.g5 Bd3 66.Nd4+ Kd5 67.Nf5 Ke6 68.Nh4 Bb1 69.g6 Bc2 70.g7 Kf7 71.Nf5 Bb3
+72.Kg5 Be6 73.Nd4 Bd5 74.Kh6 Be4 75.e6+ Kg8 76.e7  1-0

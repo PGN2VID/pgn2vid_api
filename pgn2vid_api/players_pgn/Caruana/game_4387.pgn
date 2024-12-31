@@ -1,0 +1,17 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.26"]
+[Round "2.3"]
+[White "Caruana,F"]
+[Black "Sarana,A"]
+[Result "0-1"]
+[WhiteElo "2786"]
+[BlackElo "2693"]
+[ECO "A09"]
+
+1.Nf3 d5 2.c4 d4 3.b4 f6 4.d3 e5 5.b5 c5 6.g3 Bd6 7.Bg2 f5 8.O-O Nf6 9.e3 O-O
+10.exd4 exd4 11.Re1 a5 12.Na3 Nbd7 13.b6 Ra6 14.Nb5 Bb8 15.Ng5 Rxb6 16.Bd2 Ra6
+17.f4 Re8 18.Qb3 a4 19.Qc2 Nf8 20.Rxe8 Qxe8 21.Re1 Qd8 22.Nf3 Bd7 23.Ne5 Bc6
+24.Nxc6 bxc6 25.Na3 Bc7 26.Bf3 Ba5 27.Nb1 Qb6 28.Bxa5 Qxa5 29.Nd2 Rb6 30.Rc1 Ne6
+31.Bd1 Qc3 32.Qxc3 dxc3 33.Nb1 c2 34.Bxc2 Nd4 35.Nc3 Rb2 36.Bxa4 Nf3+ 37.Kf1 Nxh2+
+38.Kg1 Nf3+ 39.Kf1 Ng4 40.Ne2 Ne3+ 41.Kf2 Nd4 42.Re1 Ng4+ 43.Kf1 Nh2+ 44.Kf2 Nhf3  0-1

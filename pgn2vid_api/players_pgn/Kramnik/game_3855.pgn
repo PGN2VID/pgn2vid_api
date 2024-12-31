@@ -1,0 +1,17 @@
+[Event "AI Cup Div 3 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "2.2"]
+[White "Martinez Alcantara,Jose Eduardo"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2611"]
+[BlackElo "2753"]
+[ECO "B50"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.h3 Nc6 5.Bd3 g6 6.Bc2 Bg7 7.O-O O-O 8.d4 e5 9.dxe5 dxe5
+10.Qxd8 Rxd8 11.Bg5 Be6 12.Nbd2 c4 13.Be3 h6 14.b3 cxb3 15.axb3 a5 16.Nc4 b5
+17.Ncxe5 Nxe5 18.Nxe5 Rdc8 19.Bd4 b4 20.c4 Nh5 21.Nf3 Nf4 22.Rfe1 a4 23.Bxg7 Kxg7
+24.bxa4 Rxc4 25.Bb3 Rc3 26.Bxe6 Nxe6 27.Reb1 Ra3 28.Rc1 Nf4 29.Kh2 R8xa4
+30.Rab1 Ra2 31.Rc7 Ne6 32.Rb7 Rxf2 33.Ne1 Re2 34.Nd3 Raa2 35.Rg1 Rad2 36.Ne5 Rxe4
+37.Nxf7 Nc5 38.Rc7 Rd7 39.Rxc5 Rxf7 40.Rb5  1-0

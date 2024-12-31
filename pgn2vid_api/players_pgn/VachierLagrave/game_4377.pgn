@@ -1,0 +1,18 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "2"]
+[White "Vachier Lagrave,M"]
+[Black "Kuzubov,Y"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2625"]
+[ECO "C46"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.a4 Bb4 5.Nd5 Nxd5 6.exd5 e4 7.dxc6 exf3 8.Qxf3 dxc6
+9.c3 Qe7+ 10.Be2 Bd6 11.d4 Be6 12.O-O Bd5 13.Qe3 Qxe3 14.fxe3 O-O 15.c4 Be4
+16.c5 Be7 17.a5 f5 18.Bd2 Rae8 19.Ra3 a6 20.Rb3 Rb8 21.Bc4+ Kh8 22.Be1 Bc2
+23.Rc3 Ba4 24.Bg3 Rbe8 25.Bxc7 Bg5 26.Bd6 Rf6 27.Be5 Rff8 28.Rf3 Bb5 29.Ba2 Bf6
+30.Bd6 Be7 31.Bxe7 Rxe7 32.g4 f4 33.g5 h6 34.g6 Rf6 35.Rxf4 Rxg6+ 36.Kf2 Rf6
+37.Rxf6 gxf6 38.Bb1 Kg7 39.Bf5 Kf8 40.e4 Rg7 41.Rh3 Ke7 42.Rxh6 Bd3 43.Rh7 Rxh7
+44.Bxh7  1-0

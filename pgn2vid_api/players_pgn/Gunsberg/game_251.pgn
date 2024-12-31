@@ -1,0 +1,17 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Napier, William Ewart"]
+[Black "Gunsberg, Isidor"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nc6 5.Nf3 Be7 6.Bd3 Nf6 7.O-O Nb4 8.Ng3 Nxd3
+9.Qxd3 b6 10.Ne5 Bb7 11.b3 h5 12.f3 h4 13.Ne4 Nd7 14.Bf4 g5 15.Nxd7 gxf4
+16.Ne5 Rg8 17.h3 f6 18.Nc4 Qd5 19.Rad1 O-O-O 20.Kh2 Qh5 21.Qe2 Kb8 22.Nf2 Rg7
+23.Ng4 Rdg8 24.Rg1 f5 25.Nge5 Rg3 26.Nb2 Ka8 27.Nbd3 Qg5 28.c4 Bf6 29.c5 Bd5
+30.c6 Be7 31.Rb1 Bd6 32.Qf1 Qd8 33.Rc1 Qc8 34.Nxf4 Bxf3 35.Qc4 Be4 36.a4 a5
+37.Rcd1 Ka7 38.Rd2 Qd8 39.Rb2 Qg5 40.Qf1 Bxe5 41.dxe5 Rf3  0-1

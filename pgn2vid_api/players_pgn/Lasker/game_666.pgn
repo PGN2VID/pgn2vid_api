@@ -1,0 +1,20 @@
+[Event "Washington sim"]
+[Site "Washington"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Mlotkowski, Stasch"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 h6 10.g3 g6 11.g4 Ng7 12.h3 Ne6 13.Rd1+ Bd7 14.Be3 Kc8 15.Kg2 Bg7 16.Ne2 Re8
+17.Nc1 Bf8 18.Nd3 b6 19.Kg3 c5 20.c4 Bc6 21.Bf4 Kb7 22.Nde1 Nxf4 23.Kxf4 g5+
+24.Kf5 Bg7 25.h4 gxh4 26.Rd3 h3 27.Re3 Rad8 28.Kf4 h2 29.Nd3 f6 30.exf6 Rxe3
+31.Kxe3 Bxf3 32.Kxf3 Bxf6 33.Ke2 b5 34.Nxc5+ Kc6 35.Ne4 Bxb2 36.Rh1 bxc4
+37.Rxh2 c3 38.Rxh6+ Kd5 39.Nxc3+ Bxc3 40.f4 Ke4 41.f5 Rh8 42.Re6+ Kf4 43.Rc6 Be5
+44.Rc4+ Kg5 45.Ra4 Rf8 46.Kf3 Rd8 47.Ra6 Rd6 48.Rxa7 Rd4 49.Ra8 Rf4+ 50.Ke3 Rxg4
+51.Rg8+ Kxf5 52.Rxg4 Kxg4 53.Ke4 Bc3 54.a4 Ba5 55.Kd5 Kf4 56.Kc5 Ke4 57.Kb5 Bb6
+58.a5 Bxa5  0-1

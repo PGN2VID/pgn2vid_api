@@ -1,0 +1,21 @@
+[Event "chess.com SpeedChess Q1Sw"]
+[Site "chess.com INT"]
+[Date "2023.08.21"]
+[Round "3"]
+[White "Kamsky,G"]
+[Black "Indjic,A"]
+[Result "1-0"]
+[WhiteElo "2641"]
+[BlackElo "2601"]
+[ECO "D00"]
+
+1.d4 d5 2.Bf4 Bf5 3.e3 e6 4.c4 Bb4+ 5.Nd2 Nf6 6.Nf3 Nc6 7.a3 Bd6 8.Bg5 Be7
+9.cxd5 exd5 10.Bb5 O-O 11.O-O Nb8 12.Qb3 c6 13.Be2 Qb6 14.Rfc1 Re8 15.Bxf6 Bxf6
+16.Qc3 Nd7 17.b4 Rac8 18.Nb3 Qd8 19.Nc5 Nxc5 20.bxc5 Rc7 21.Bd3 Bc8 22.a4 Rce7
+23.a5 a6 24.Rab1 g5 25.Rb6 h5 26.Qc2 g4 27.Nd2 Qd7 28.Nf1 h4 29.Rcb1 Bg5
+30.Qd1 f5 31.Bc2 Qe6 32.R6b3 Qh6 33.f4 gxf3 34.Qxf3 Bxe3+ 35.Nxe3 Rxe3 36.Rxe3 Qxe3+
+37.Qxe3 Rxe3 38.Rb3 Re2 39.Bb1 Rd2 40.Bd3 f4 41.Kf1 f3 42.gxf3 Rxh2 43.Be2 Bh3+
+44.Ke1 Kf7 45.Rxb7+ Kf6 46.Rb6 Be6 47.Rxa6 h3 48.Ra8 Rg2 49.Rh8 Rg1+ 50.Kf2 Ra1
+51.a6 Ra2 52.Rh6+ Ke7 53.Ke3 Bf5 54.Rxc6 Be6 55.Rc7+ Kf6 56.Rh7 Bf5 57.Rh6+ Kg5
+58.Rh8 Kf6 59.Rh6+ Kg5 60.Rh8 Kf6 61.c6 Kg7 62.Rh4 Be6 63.c7 Bf5 64.Kf4 Be6
+65.Bd3 Ra4 66.Ke5 Bc8 67.Bf5 Bxa6 68.c8=Q Bxc8 69.Bxc8 Ra8 70.Bxh3 Re8+ 71.Be6  1-0

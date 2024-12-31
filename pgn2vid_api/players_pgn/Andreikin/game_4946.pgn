@@ -1,0 +1,24 @@
+[Event "AI Cup Div 2 W"]
+[Site "chess.com INT"]
+[Date "2023.09.25"]
+[Round "1.4"]
+[White "Antipov,M2"]
+[Black "Andreikin,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2729"]
+[ECO "C09"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nc6 5.exd5 exd5 6.Bb5 Bd6 7.O-O Ne7 8.dxc5 Bxc5
+9.Nb3 Bb6 10.Nfd4 O-O 11.Be3 Qd6 12.Bd3 Nxd4 13.Nxd4 Qf6 14.c3 Nc6 15.Re1 Nxd4
+16.Bxd4 Bxd4 17.cxd4 Bf5 18.Bxf5 Qxf5 19.Re5 Qd7 20.Qb3 Rad8 21.Rae1 Rfe8
+22.Qxd5 Rxe5 23.Qxe5 h6 24.Re4 f5 25.Re2 Qxd4 26.Qe6+ Kh8 27.h3 Qf4 28.Qb3 Qc1+
+29.Kh2 Qc7+ 30.Qg3 Rd7 31.Re5 Rf7 32.h4 Kh7 33.h5 Rf6 34.f4 Qf7 35.Qf3 Qxa2
+36.Qxb7 Qf7 37.Qf3 Rb6 38.b3 Rxb3 39.Qe2 Qf6 40.g3 Qb6 41.Kh3 Qg1 42.Qg2 Qxg2+
+43.Kxg2 Rb2+ 44.Kh3 g5 45.fxg5 hxg5 46.Rxf5 Kh6 47.g4 Rb3+ 48.Kg2 Rb2+ 49.Kf3 Rb3+
+50.Kf2 Rb2+ 51.Ke3 Rb3+ 52.Kf2 Rb2+ 53.Kg3 a5 54.Rf6+ Kh7 55.Ra6 Rb3+ 56.Kf2 Rb4
+57.Kf3 a4 58.Ra5 Kh6 59.Ra7 Rf4+ 60.Kg3 Rb4 61.Ra6+ Kh7 62.Rg6 Rb5 63.Ra6 Rb3+
+64.Kf2 Rb4 65.Kf3 Rf4+ 66.Kg3 Rb4 67.Ra8 Rb3+ 68.Kf2 a3 69.Ra4 Rb2+ 70.Kf3 a2
+71.Ra6 Rc2 72.Ra7+ Kh6 73.Ra6+ Kh7 74.Ra8 Rb2 75.Ra5 Kh6 76.Ra7 Rc2 77.Ke4 Rc4+
+78.Kf3 Rc3+ 79.Kf2 Rc4 80.Kf3 Rc3+ 81.Kg2 Rc2+ 82.Kg3 Rc3+ 83.Kf2 Rc4 84.Ra6+ Kh7
+85.Kf3 Rc2  1/2-1/2

@@ -1,0 +1,21 @@
+[Event "chess.com SpeedChess 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.04"]
+[Round "1.26"]
+[White "Yu Yangyi"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2720"]
+[BlackElo "2780"]
+[ECO "B00"]
+
+1.e4 a5 2.d4 c6 3.c4 g6 4.Nc3 d6 5.Nf3 Bg7 6.Be2 Bg4 7.O-O Bxf3 8.Bxf3 Nd7
+9.Be3 e5 10.d5 c5 11.Nb5 Ra6 12.a3 Bh6 13.Bxh6 Nxh6 14.Qd2 Ng8 15.b4 Ngf6
+16.bxa5 Ke7 17.Rfb1 Qxa5 18.Qe3 h5 19.h3 Qd8 20.Be2 Kf8 21.Nc3 b6 22.Nb5 Qe7
+23.Rf1 Kg7 24.Rae1 Raa8 25.Bd3 h4 26.Be2 Rae8 27.Bd1 Nh7 28.Be2 Rhf8 29.Qd2 Qf6
+30.Rb1 Ng5 31.Bd3 Nh7 32.Rb3 Qe7 33.Bc2 f5 34.exf5 gxf5 35.f4 e4 36.Re3 Ndf6
+37.Qe1 Ng8 38.Kh1 Kh8 39.Qf2 Rf7 40.Rg1 Rg7 41.g4 hxg3 42.Rgxg3 Rxg3 43.Qxg3 Qf6
+44.Re2 Nh6 45.Rg2 Rg8 46.Qc3 Rxg2 47.Kxg2 Qxc3 48.Nxc3 Kg7 49.Na4 Nf6 50.Bd1 Nd7
+51.Kg3 Ng8 52.Kf2 Ne7 53.Bh5 Kf8 54.Ke3 b5 55.Nc3 bxc4 56.a4 Nb6 57.a5 Nexd5+
+58.Nxd5 Nxd5+ 59.Kd2 Nb4 60.Bg6 d5 61.Bxf5 Kf7 62.h4 Kf6 63.Bh7 Kg7 64.Bf5 Kh6
+65.Bc8 d4 66.a6 c3+ 67.Kc1 e3 68.Kd1 d3  0-1

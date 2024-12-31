@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.??.??"]
+[Round "23"]
+[White "Albin, Adolf"]
+[Black "Maroczy, Geza"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4+ 5.Kf1 g5 6.Nf3 Qh5 7.Nc3 Bg7 8.h4 h6
+9.d4 Ne7 10.Kg1 Qg6 11.h5 Qb6 12.Ne2 Bg4 13.Bb3 Nd7 14.c3 Rf8 15.Kf1 O-O-O
+16.Bd2 Nf6 17.Ne5 Bxh5 18.Nc4 Qa6 19.e5 Nf5 20.exf6 Ng3+ 21.Kf2 Bxe2 22.Qc2 Bxf6
+23.Rxh6 Rfe8 24.Re1 Rxd4 25.cxd4 Bxd4+ 26.Be3 Rxe3 27.Rxe2 Rxe2+ 28.Kf3 Qxh6
+29.Qxe2 Qh5+  0-1

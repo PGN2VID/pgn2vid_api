@@ -1,0 +1,17 @@
+[Event "AI Cup Play-In 2023"]
+[Site "chess.com INT"]
+[Date "2023.09.18"]
+[Round "8"]
+[White "Kramnik,V"]
+[Black "Artemiev,V"]
+[Result "1-0"]
+[WhiteElo "2753"]
+[BlackElo "2697"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a3 Kh8 8.Nc3 Nd7
+9.Ba2 Nb6 10.b4 Bg4 11.h3 Bxf3 12.Qxf3 f5 13.exf5 Nd4 14.Qd1 Nxf5 15.Ne4 a5
+16.Bd2 axb4 17.axb4 c6 18.c4 Nd4 19.Bc3 d5 20.Ng3 Na4 21.Bd2 Bh4 22.cxd5 cxd5
+23.Qg4 Bxg3 24.Qxg3 Nc2 25.Bb3 Nxa1 26.Rxa1 Nb6 27.Rxa8 Nxa8 28.Qxe5 Nc7
+29.Bf4 Na6 30.Bd2 Qb6 31.Be3 Qxb4 32.Bd4 Rg8 33.Bxd5 Qb5 34.Qe6 Rd8 35.Qe7 Rg8
+36.Bxg8  1-0

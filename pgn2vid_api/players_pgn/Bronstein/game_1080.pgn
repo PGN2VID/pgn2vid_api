@@ -1,0 +1,16 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Bronstein, David I"]
+[Black "Teschner, Rudolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.a4 Nc6 5.O-O Nf6 6.Re1 e6 7.c3 a6 8.Bf1 Be7
+9.d4 cxd4 10.cxd4 d5 11.exd5 Nxd5 12.Nc3 O-O 13.Bd3 Bf6 14.Be4 Nxc3 15.bxc3 Rc8
+16.Qd3 g6 17.Bh6 Re8 18.c4 e5 19.d5 Nb4 20.Qb3 a5 21.Rac1 Na6 22.Be3 Nc5
+23.Bxc5 Rxc5 24.Qxb7 Bxa4 25.Qa6 Bg7 26.Bc2 Bd7 27.Nd2 f5 28.Nb3 Bc8 29.Qa8 Rxc4
+30.Nxa5 Rc5 31.Nc6 Qd6 32.Bb3 Rxc1 33.Rxc1 Bd7  1/2-1/2

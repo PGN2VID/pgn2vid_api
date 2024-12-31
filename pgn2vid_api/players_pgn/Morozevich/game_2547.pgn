@@ -1,0 +1,23 @@
+[Event "Levitov Christmas Final"]
+[Site "lichess.org INT"]
+[Date "2020.12.24"]
+[Round "1.1"]
+[White "Bortnyk,Olexandr"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2598"]
+[BlackElo "2659"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 a6 8.Qd3 b5
+9.O-O-O Bb7 10.Kb1 Nd7 11.Qe3 Bd5 12.Bd3 c6 13.Rhe1 Qa5 14.Nc3 h5 15.Qf4 b4
+16.Nxd5 cxd5 17.g4 hxg4 18.Qxg4 O-O-O 19.Rc1 Kb8 20.c4 dxc4 21.Bxc4 Nb6 22.Qf4+ Bd6
+23.Qxf6 Nxc4 24.Rxc4 Qd5 25.Rec1 Rc8 26.Nd2 Rhd8 27.Rxc8+ Rxc8 28.Rxc8+ Kxc8
+29.h4 e5 30.Qf5+ Kc7 31.Qc2+ Kd8 32.Qe4 Qb5 33.dxe5 Bxe5 34.h5 Bg7 35.Qh4+ Ke8
+36.Qe4+ Kf8 37.Qa8+ Ke7 38.Qa7+ Kf8 39.Qa8+ Ke7 40.Qf3 Kf8 41.Kc2 a5 42.b3 Qc5+
+43.Nc4 Qd4 44.Qa8+ Ke7 45.Qb7+ Kf8 46.Qc8+ Ke7 47.Qc7+ Ke6 48.Qc6+ Kf5 49.Qf3+ Kg5
+50.Qe3+ Kxh5 51.Qxd4 Bxd4 52.f3 Kg5 53.Kd3 Bc5 54.Nxa5 Kf4 55.Ke2 Ke5 56.Nc4+ Kd4
+57.Nb2 Bd6 58.Na4 f5 59.Kd2 Bf4+ 60.Ke2 Bc7 61.Kd2 Bf4+ 62.Ke2 Bc7 63.Nb2 Kc3
+64.Nd1+ Kc2 65.Ne3+ Kb2 66.Kd3 Kxa2 67.Kc4 f4 68.Nd5 Bd6 69.Nxb4+ Kb2 70.Nd5 Kc2
+71.b4 Kd2 72.Kd4 Ke2 73.Ke4 Kf2 74.b5 Kg3 75.b6 Bb8 76.b7 Bd6 77.Nf6 Bb8
+78.Nd7 Bc7 79.b8=Q Bxb8 80.Nxb8  1-0
