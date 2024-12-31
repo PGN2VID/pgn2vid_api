@@ -1,7 +1,6 @@
 from rest_framework import serializers
 from .models import PGN
-import chess.pgn
-import io
+from utils.helpers import is_pgn_valid
 
 class PGNSerializer(serializers.ModelSerializer):
     class Meta:
@@ -13,9 +12,7 @@ class PGNSerializer(serializers.ModelSerializer):
         Valide que le texte respecte un format PGN valide avec python-chess.
         """
         try:
-            pgn = io.StringIO(value)
-            game = chess.pgn.read_game(pgn)
-            if game is None:
+            if not is_pgn_valid(value):
                 raise serializers.ValidationError("Le PGN n'est pas valide.")
         except Exception as e:
             raise serializers.ValidationError(f"Erreur de validation PGN : {str(e)}")
