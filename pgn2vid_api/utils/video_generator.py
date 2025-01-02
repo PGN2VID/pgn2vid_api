@@ -62,7 +62,7 @@ def add_player_names_to_frame(frame, white_player, black_player, image_size=600,
     original_image = Image.fromarray(frame)
     
     # Coller l'échiquier au centre vertical
-    new_image.paste(original_image, (0, padding))
+    new_image.paste(original_image, (padding, padding))
     
     draw = ImageDraw.Draw(new_image)
     
@@ -75,13 +75,13 @@ def add_player_names_to_frame(frame, white_player, black_player, image_size=600,
     # Ajouter le nom du joueur Noir (en haut)
     black_text = f"{black_player}"
     black_text_width = font.getbbox(black_text)[2] - font.getbbox(black_text)[0]
-    black_x_position = 0
+    black_x_position = padding
     draw.text((black_x_position, 10), black_text, fill="white", font=font)
 
     # Ajouter le nom du joueur Blanc (en bas)
     white_text = f"{white_player}"
     white_text_width = font.getbbox(white_text)[2] - font.getbbox(white_text)[0]
-    white_x_position = 0
+    white_x_position = padding
     draw.text((white_x_position, height - padding + 10), white_text, fill="white", font=font)
     new_image = resize_image(new_image, image_size + 2* padding)
     return np.array(new_image)
