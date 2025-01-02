@@ -7,6 +7,7 @@ from .serializers import PGNSerializer
 import os
 import random
 from datetime import datetime
+import time
 from django.conf import settings
 import chess.pgn
 from utils.video_generator import generate_chess_video_from_pgn
@@ -20,7 +21,7 @@ class PGNVideoView(APIView):
             content = serializer.validated_data['content']
             
             try:
-                video_file_name = f"chess_game_{int(os.path.getmtime(__file__))}.mp4"
+                video_file_name = f"chess_game_{str(int(time.time()))}.mp4"
                 video_path = os.path.join(settings.MEDIA_ROOT, video_file_name)
 
                 if generate_chess_video_from_pgn(content, video_path):
@@ -81,9 +82,9 @@ class RandomPGNVideoView(APIView):
 
         pgn_file = os.path.join("players_pgn", f'{today_pgn.player}/{today_pgn.pgn_file}')
         with open(pgn_file) as content:
+            
             game = chess.pgn.read_game(content)
-
-        
+            content.seek(0)
             return Response({
                 "video_url": video_url,
                 "event": game.headers.get("Event", ""),
@@ -92,6 +93,7 @@ class RandomPGNVideoView(APIView):
                 "white": game.headers.get("White", ""),
                 "black": game.headers.get("Black", ""),
                 "result": game.headers.get("Result", ""),
+                "pgn": content.read()
             }, status=status.HTTP_200_OK)
 
 
