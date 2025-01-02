@@ -2,13 +2,16 @@ import chess
 import chess.pgn
 import chess.svg
 from moviepy.video.io.ImageSequenceClip import ImageSequenceClip
-from PIL import Image, ImageFilter
+from moviepy.audio.io.AudioFileClip import AudioFileClip
+from moviepy.editor import concatenate_audioclips, concatenate_videoclips
+from PIL import Image, ImageFilter, ImageDraw, ImageFont
 import io
 from io import BytesIO
 import cairosvg
 import numpy as np
 import os
 
+MOVE_SOUND = os.path.join('sounds', 'Move.mp3')
 
 def generate_chess_video_from_pgn(content, output_path, image_size=600, video_fps=1, bitrate="5000k"):
     """Génère une vidéo d'une partie d'échecs depuis un PGN."""
@@ -22,6 +25,7 @@ def generate_chess_video_from_pgn(content, output_path, image_size=600, video_fp
         board = game.board()
         moves = list(game.mainline_moves())
         frames = []
+        audio_clips = []
 
         for i, move in enumerate(moves):
             board.push(move)
@@ -34,6 +38,9 @@ def generate_chess_video_from_pgn(content, output_path, image_size=600, video_fp
                 image = Image.open(BytesIO(png_image))
                 image = image.filter(ImageFilter.SMOOTH_MORE)
                 frames.append(np.array(image))
+
+                audio_clip = AudioFileClip(MOVE_SOUND).subclip(0, 1)
+                audio_clips.append(audio_clip)
             except Exception as e:
                 raise Exception(f"Erreur lors du traitement de la frame {i+1}: {e}")
 
@@ -41,6 +48,8 @@ def generate_chess_video_from_pgn(content, output_path, image_size=600, video_fp
             raise ValueError("No frames generated from the PGN.")
 
         clip = ImageSequenceClip(frames, fps=video_fps)
+        audio = concatenate_audioclips(audio_clips)  # Concaténer les clips audio pour chaque coup
+        clip = clip.set_audio(audio)
         clip.write_videofile(output_path, codec="libx264", bitrate=bitrate)
 
         return True
