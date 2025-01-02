@@ -58,7 +58,14 @@ Créez un compte administrateur pour accéder à l'interface d'administration :
 ```bash
 python manage.py createsuperuser
 ```
-### 4. **Lancer le serveur**
+
+### 4. **Remplir la base de données**
+Créez un compte administrateur pour accéder à l'interface d'administration :
+```bash
+python populate_db.py
+```
+
+### 5. **Lancer le serveur**
 Démarrez le serveur Django avec la commande suivante :
 ```bash
 python manage.py runserver
