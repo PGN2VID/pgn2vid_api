@@ -13,6 +13,7 @@ class PlayersPGN(models.Model):
     generated = models.BooleanField(default=False)
     video_generation_date = models.DateTimeField(null=True, blank=True, help_text="Date de génération de la vidéo")
     video_file_name = models.CharField(max_length=255, null=True, blank=True, help_text="Nom du fichier vidéo généré")
+    music = models.TextField("musique en fond", null=True)
 
     def __str__(self):
         return f"{self.player} - {self.pgn_file}"

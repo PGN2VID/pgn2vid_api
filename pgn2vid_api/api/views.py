@@ -58,7 +58,8 @@ class RandomPGNVideoView(APIView):
                     video_file_name = f"{today_pgn.player.lower().replace(' ','')}_{today_pgn.pgn_file.split('.')[0]}.mp4"
                     video_path = os.path.join(settings.MEDIA_ROOT, video_file_name)
 
-                    if generate_chess_video_from_pgn(content.read(), video_path):
+                    path, music = generate_chess_video_from_pgn(content.read(), video_path, random_music=True)
+                    if path:
 
 
                         video_url = f"{request.scheme}://{request.get_host()}{settings.MEDIA_URL}{video_file_name}"
@@ -66,7 +67,7 @@ class RandomPGNVideoView(APIView):
                         today_pgn.generated = True
                         today_pgn.video_file_name = video_file_name
                         today_pgn.video_generation_date = datetime.today()
-
+                        today_pgn.music = music
                         today_pgn.save()
 
                         
@@ -87,6 +88,7 @@ class RandomPGNVideoView(APIView):
             content.seek(0)
             return Response({
                 "video_url": video_url,
+                "music": today_pgn.music,
                 "event": game.headers.get("Event", ""),
                 "site": game.headers.get("Site", ""),
                 "date": game.headers.get("Date", ""),

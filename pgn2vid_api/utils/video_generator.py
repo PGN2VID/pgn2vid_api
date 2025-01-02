@@ -6,11 +6,14 @@ import cairosvg
 from moviepy.video.VideoClip import ImageClip
 from moviepy.video.io.ImageSequenceClip import ImageSequenceClip
 from moviepy.audio.io.AudioFileClip import AudioFileClip
+from moviepy.audio.AudioClip import CompositeAudioClip
 from moviepy.editor import concatenate_audioclips, concatenate_videoclips
 import io
 import os
+import random
 
 MOVE_SOUND = os.path.join('sounds', 'Move.mp3')
+MUSICS_PATH = os.path.join('musics')
 
 
 def resize_image(image, target_size):
@@ -18,7 +21,7 @@ def resize_image(image, target_size):
     return image.resize((target_size, target_size), Image.Resampling.LANCZOS)
 
 
-def generate_intro_frame(headers, image_size=600):
+def generate_frame(headers, image_size=600):
     """Crée une image d'introduction avec les headers du PGN, avec un texte centré horizontalement et verticalement."""
     # Créer une image noire
     width, height = image_size, image_size
@@ -88,8 +91,10 @@ def add_player_names_to_frame(frame, white_player, black_player, image_size=600,
 
 
 
-def generate_chess_video_from_pgn(content, output_path, image_size=1024, video_fps=1, bitrate="5000k"):
+def generate_chess_video_from_pgn(content, output_path, image_size=1024, video_fps=1, bitrate="5000k", random_music=False):
     """Génère une vidéo complète d'une partie d'échecs avec une introduction depuis un PGN."""
+
+    selected_music_name = ""
     try:
         image_size -= 100
         # Charger le PGN
@@ -103,18 +108,18 @@ def generate_chess_video_from_pgn(content, output_path, image_size=1024, video_f
         black_player = game.headers.get("Black", "Black")
 
         # Extraire les headers pour l'introduction
-        headers = {key: game.headers.get(key, "") for key in ["Event", "Site", "Date", "White", "Black", "Result"]}
+        headers = {key: game.headers.get(key, "") for key in ["Event", "Site", "Date", "White", "Black"]}
 
         # Générer la vidéo d'introduction
-        intro_frame = generate_intro_frame(headers, image_size=image_size+100)
-        intro_clip = ImageClip(intro_frame, duration=3)
+        intro_frame = generate_frame(headers, image_size=image_size+100)
+        intro_clip = ImageClip(intro_frame, duration=5)
 
         # Générer la vidéo principale
         board = game.board()
         moves = list(game.mainline_moves())
         frames = []
         audio_clips = []
-        last_move = {}
+
         for i, move in enumerate(moves):
             board.push(move)
             svg_board = chess.svg.board(board, size=image_size, lastmove=move)
@@ -123,31 +128,64 @@ def generate_chess_video_from_pgn(content, output_path, image_size=1024, video_f
                 # Convertir SVG en PNG
                 png_image = cairosvg.svg2png(bytestring=svg_board, output_width=image_size, output_height=image_size)
                 image = Image.open(io.BytesIO(png_image))
-                # image = resize_image(image, image_size)
-
                 frame_with_names = add_player_names_to_frame(np.array(image), white_player, black_player, image_size)
                 frames.append(frame_with_names)
 
                 # Ajouter le son du coup
-                audio_clip = AudioFileClip(MOVE_SOUND).subclip(0, 1)
+                audio_clip = AudioFileClip(MOVE_SOUND).subclip(0, 1/video_fps)
                 audio_clips.append(audio_clip)
-                last_move = move
             except Exception as e:
                 raise Exception(f"Erreur lors du traitement de la frame {i+1}: {e}")
+        
+        result = {key: game.headers.get(key, "") for key in ["Result"]}
+        result_frame = generate_frame(result, image_size=image_size+100)
+        result_clip = ImageClip(result_frame, duration=10)
 
         if not frames:
             raise ValueError("No frames generated from the PGN.")
+            
 
-        # Créer la vidéo principale
-        main_clip = ImageSequenceClip(frames, fps=video_fps)
-        audio = concatenate_audioclips(audio_clips)
-        main_clip = main_clip.set_audio(audio)
+        # Durée supplémentaire pour le dernier frame (en secondes)
+        last_frame_duration = 10
+
+        # Prolonger le dernier frame
+        last_frame = frames[-1]  # Dernier frame
+        last_frame_clip = ImageClip(last_frame, duration=last_frame_duration)
+
+        # Créer le clip principal
+        main_clip = ImageSequenceClip(frames[:-1], fps=video_fps)  # Séquence des frames normaux
+        main_clip = concatenate_videoclips([main_clip, last_frame_clip])
+        move_sounds = concatenate_audioclips(audio_clips)
+
+        # Ajouter une musique de fond aléatoire si random_music est activé
+        if random_music:
+            music_files = [os.path.join(MUSICS_PATH, file) for file in os.listdir(MUSICS_PATH) if file.endswith(".mp3")]
+            if not music_files:
+                raise ValueError("No music files found in the specified folder.")
+            
+            selected_music = random.choice(music_files)
+            selected_music_name = os.path.splitext(os.path.basename(selected_music))[0]
+            selected_music_name = ' '.join(selected_music_name.split('-')[:-1])
+
+            selected_audio = AudioFileClip(selected_music)
+            audio = selected_audio
+            while selected_audio.duration < main_clip.duration+ + result_clip.duration:
+                selected_audio = concatenate_audioclips([selected_audio, audio])
+
+            background_music = selected_audio.subclip(0, min(selected_audio.duration, main_clip.duration+ + result_clip.duration))
+            # background_music = background_music.volumex(0.3)  # Ajuster le volume de la musique
+            
+            # Superposer les deux pistes audio
+            combined_audio = CompositeAudioClip([background_music, move_sounds])
+            main_clip = main_clip.set_audio(combined_audio)
+        else:
+            main_clip = main_clip.set_audio(move_sounds)
 
         # Concaténer l'intro et la vidéo principale
-        final_clip = concatenate_videoclips([intro_clip, main_clip])
+        final_clip = concatenate_videoclips([intro_clip, main_clip, result_clip])
         final_clip.write_videofile(output_path, codec="libx264", bitrate=bitrate)
 
-        return output_path
+        return output_path, selected_music_name
 
     except Exception as e:
         raise Exception(f"Failed to generate video: {str(e)}")
