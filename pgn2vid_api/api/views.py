@@ -58,7 +58,7 @@ class RandomPGNVideoView(APIView):
                     video_file_name = f"{today_pgn.player.lower().replace(' ','')}_{today_pgn.pgn_file.split('.')[0]}.mp4"
                     video_path = os.path.join(settings.MEDIA_ROOT, video_file_name)
 
-                    path, music = generate_chess_video_from_pgn(content.read(), video_path, random_music=True)
+                    path, music = generate_chess_video_from_pgn(content.read(), video_path, random_music=False)
                     if path:
 
 
