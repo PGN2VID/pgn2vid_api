@@ -32,7 +32,7 @@ def generate_frame(headers, image_size=600):
     try:
         font = ImageFont.truetype("arial.ttf", 40)
     except IOError:
-        font = ImageFont.load_default()
+        font = ImageFont.load_default(size=40)
 
     # Construire les lignes à afficher
     lines = [f"{key}: {value}" for key, value in headers.items()]
@@ -73,7 +73,7 @@ def add_player_names_to_frame(frame, white_player, black_player, image_size=600,
     try:
         font = ImageFont.truetype("arial.ttf", 30)
     except IOError:
-        font = ImageFont.load_default()
+        font = ImageFont.load_default(size=30)
 
     # Ajouter le nom du joueur Noir (en haut)
     black_text = f"{black_player}"
