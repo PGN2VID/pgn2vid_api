@@ -91,7 +91,7 @@ def add_player_names_to_frame(frame, white_player, black_player, image_size=600,
 
 
 
-def generate_chess_video_from_pgn(content, output_path, image_size=1024, video_fps=1, bitrate="12000k", random_music=False):
+def generate_chess_video_from_pgn(content, output_path, image_size=1024, video_fps=1, bitrate="150000k", random_music=False):
     """Génère une vidéo complète d'une partie d'échecs avec une introduction depuis un PGN."""
 
     selected_music_name = ""
