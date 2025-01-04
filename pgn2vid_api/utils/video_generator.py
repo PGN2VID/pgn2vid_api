@@ -165,7 +165,6 @@ def generate_chess_video_from_pgn(content, output_path, image_size=1024, video_f
             
             selected_music = random.choice(music_files)
             selected_music_name = os.path.splitext(os.path.basename(selected_music))[0]
-            selected_music_name = ' '.join(selected_music_name.split('-')[:-1])
 
             selected_audio = AudioFileClip(selected_music)
             audio = selected_audio
